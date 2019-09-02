@@ -1,0 +1,33 @@
+
+
+
+Your name: Michael
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 13              37
+
+
+Bid history:
+Richard bid mellow.
+Doris bid 1.
+Michael bid 3.
+Phil bid 6.
+
+
+Play history:
+--new round--
+Richard played the 2C.
+Doris played the AC.
+Michael played the 5C.
+Phil played the TC.
+--new round--
+Doris played the KC.
+
+Cards in hand:
+AS JS 9S 7S 5S 4S QC JC 7C 6C TD 5D 
+
+Expert response:
+6C
+Expert alternative response:
+7c jc qc
