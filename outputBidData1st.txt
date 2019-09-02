@@ -26,20 +26,6 @@ Date and time: 09/03/17 13:42:28
 
 
 Manual bid data collection started
-Date(MM/DD/YY) and time: 09/06/17 21:40:37
-Manual bid data collection started
-Date(MM/DD/YY) and time: 09/06/17 21:47:00
-Manual bid data collection started
-Date(MM/DD/YY) and time: 09/06/17 21:47:48
-Manual bid data collection started
-Date(MM/DD/YY) and time: 09/06/17 21:48:22
-Manual bid data collection started
-Date(MM/DD/YY) and time: 09/06/17 21:51:51
-Manual bid data collection started
-Date(MM/DD/YY) and time: 09/06/17 21:52:41
-Manual bid data collection started
-Date(MM/DD/YY) and time: 09/06/17 21:53:40
-Manual bid data collection started
 Date(MM/DD/YY) and time: 09/06/17 21:55:33
 6C 9C TC QC KC 7S 8S AS 5H 6H 7H 9H KH 
 3
@@ -70,8 +56,8 @@ Date(MM/DD/YY) and time: 09/06/17 22:18:07
 Manual bid data collection started
 Date(MM/DD/YY) and time: 09/06/17 22:21:49
 5C 9C TC 2D 4D 6D 9D JD KD 8S TS 2H 8H 
-3
-[]
+1
+[0]
 
 2C 3C 8C TC 3D 5D JD TS 4H 7H 8H QH KH 
 0
@@ -880,4 +866,38 @@ JC 3D 4D 5D JD QD KD AD 5S 6S TS KS 3H
 4C 5C 7C KC 3D 6D 7D KD 6S 8S JS 8H QH 
 1
 []
+
+Manual bid data collection started
+Date(MM/DD/YY) and time: 09/01/19 22:46:18
+7C 8C JC 2D 5D 2S 4S 8S TS QS KS AS AH 
+7
+[]
+
+5C TC JC 3D 9D TD KD TS KS 3H 4H 5H 8H 
+1
+[]
+
+2C 5C KC AC JD QD 5S QS KS AS 4H JH AH 
+6
+[5]
+
+9C JC 8D JD QD 5S 9S JS 4H 5H 7H TH AH 
+1
+[2]
+
+3C 9C 6D TD JD JS 2H 4H 5H 6H 7H 9H QH 
+0
+[]
+
+Manual bid data collection started
+Date(MM/DD/YY) and time: 09/01/19 22:52:43
+Manual bid data collection started
+Date(MM/DD/YY) and time: 09/01/19 22:53:01
+2C 7C TC QC QS AS 2H 3H 7H 9H JH KH AH 
+2
+[]
+
+5C TC AC 2D 8D TD 2S 4S 8S JS KS 9H JH 
+4
+[3]
 
