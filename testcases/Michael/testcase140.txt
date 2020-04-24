@@ -55,6 +55,6 @@ Cards in hand:
 9S 6H 4H 9C 7C 6C 4C 
 
 Expert response:
-9C
+6H
 Expert alternative response:
 
