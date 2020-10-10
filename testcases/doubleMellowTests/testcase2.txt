@@ -1,0 +1,22 @@
+Your name: doubleMellowTests
+Dealer is on your right
+Score at start:
+
+Cards dealt:
+JS 4S QH TH 6H 5H JC TC 7C 3C 2C 7D 3D 
+
+
+Bid history:
+doubleMellowTests bid mellow.
+Phil bid 2.
+Richard bid 6.
+Doris bid 2.
+
+
+Cards in hand:
+JS 4S QH TH 6H 5H JC TC 7C 3C 2C 7D 3D 
+
+Expert response:
+3C
+Expert alternative response:
+2C

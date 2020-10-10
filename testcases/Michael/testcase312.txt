@@ -1,0 +1,28 @@
+Your name: Michael
+You are the dealer
+Score at start:
+
+Cards dealt:
+TS TH 9H 4H AC QC TC 7C 6C 5C JD 5D 3D 
+
+
+Bid history:
+Phil bid 2.
+Richard bid 2.
+Doris bid 5.
+Michael bid mellow.
+
+
+Play history:
+--new round--
+Phil played the 2D.
+Richard played the AD.
+Doris played the TD.
+
+Cards in hand:
+TS TH 9H 4H AC QC TC 7C 6C 5C JD 5D 3D 
+
+Expert response:
+JD
+Expert alternative response:
+

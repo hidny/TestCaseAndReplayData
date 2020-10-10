@@ -56,6 +56,6 @@ Cards in hand:
 QS TS QH TH 7H 4C 
 
 Expert response:
-4C
+QS QH TH 7H
 Expert alternative response:
 

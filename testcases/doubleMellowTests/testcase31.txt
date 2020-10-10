@@ -1,0 +1,32 @@
+Your name: doubleMellowTests
+Dealer is on your right
+Score at start:
+
+Cards dealt:
+JS 4S TH 5H 4H 3H QC TC 3C KD 8D 5D 2D 
+
+
+Bid history:
+doubleMellowTests bid mellow.
+Phil bid 1.
+Richard bid 5.
+Doris bid 3.
+
+
+Play history:
+--new round--
+doubleMellowTests played the 5H.
+Phil played the 2H.
+Richard played the AH.
+Doris played the JH.
+--new round--
+Richard played the AD.
+Doris played the 4D.
+
+Cards in hand:
+JS 4S TH 4H 3H QC TC 3C KD 8D 5D 2D 
+
+Expert response:
+KD
+Expert alternative response:
+
