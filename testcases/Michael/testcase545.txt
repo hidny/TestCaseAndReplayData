@@ -1,0 +1,21 @@
+Your name: Michael
+You are the dealer
+Score at start:
+
+Cards dealt:
+9S 6S AH KH 2H AC QC 8C QD JD TD 6D 5D 
+
+
+Bid history:
+Phil bid 3.
+Richard bid 2.
+Doris bid 2.
+
+
+Cards in hand:
+9S 6S AH KH 2H AC QC 8C QD JD TD 6D 5D 
+
+Expert response:
+3
+Expert alternative response:
+
