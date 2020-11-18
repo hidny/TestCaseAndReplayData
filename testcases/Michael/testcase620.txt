@@ -69,4 +69,4 @@ QS JS 9S 7S
 Expert response:
 QS
 Expert alternative response:
-JS
+JS 9S 7S
