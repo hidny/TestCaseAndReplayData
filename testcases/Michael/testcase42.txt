@@ -30,4 +30,5 @@ QS TS 5S 2S QH TH 7H AC 4C 2C 7D 2D
 Expert response:
 7D
 Expert alternative response:
-2D
+
+

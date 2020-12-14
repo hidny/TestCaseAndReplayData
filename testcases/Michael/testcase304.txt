@@ -46,6 +46,6 @@ Cards in hand:
 TS 5S 4S 2S AC KC TC 8C 
 
 Expert response:
-4S
+2S
 Expert alternative response:
-TS 5S
+TS 5S 4S

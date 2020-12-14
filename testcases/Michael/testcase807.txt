@@ -1,0 +1,31 @@
+Your name: Michael
+Dealer is your partner opposite you.
+Score at start:
+
+Cards dealt:
+KS QS JS 7S 2S TH 8H 6H JC 7C KD QD 5D 
+
+
+Bid history:
+Doris bid 1.
+Michael bid 5.
+Phil bid 2.
+Richard bid 3.
+
+
+Play history:
+--new round--
+Doris played the AC.
+Michael played the 7C.
+Phil played the 2C.
+Richard played the 3C.
+--new round--
+Doris played the 2D.
+
+Cards in hand:
+KS QS JS 7S 2S TH 8H 6H JC KD QD 5D 
+
+Expert response:
+5D
+Expert alternative response:
+KD QD
