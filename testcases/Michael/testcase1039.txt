@@ -3,19 +3,19 @@ You are the dealer
 Score at start:
 
 Cards dealt:
-4S AH KH JH JC 9C 8C 7C 3C 2C AD 5D 2D 
+TS 9S JH 9H 7H 6H 4H KC JC 8C 4C KD 5D 
 
 
 Bid history:
-Phil bid 1.
-Richard bid 5.
+Phil bid 2.
+Richard bid 4.
 Doris bid 1.
 
 
 Cards in hand:
-4S AH KH JH JC 9C 8C 7C 3C 2C AD 5D 2D 
+TS 9S JH 9H 7H 6H 4H KC JC 8C 4C KD 5D 
 
 Expert response:
 2
 Expert alternative response:
-3
+1

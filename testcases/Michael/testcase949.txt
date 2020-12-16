@@ -1,0 +1,29 @@
+Your name: Michael
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 201             214
+
+Cards dealt:
+JS 7S 4S JH 2H 7C 5C 3C KD JD 8D 6D 3D 
+
+
+Bid history:
+Richard bid 4.
+Doris bid 1.
+Michael bid mellow.
+Phil bid 2.
+
+
+Play history:
+--new round--
+Richard played the AH.
+Doris played the QH.
+
+Cards in hand:
+JS 7S 4S JH 2H 7C 5C 3C KD JD 8D 6D 3D 
+
+Expert response:
+JH
+Expert alternative response:
+

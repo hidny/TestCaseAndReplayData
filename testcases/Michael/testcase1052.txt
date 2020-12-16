@@ -1,21 +1,20 @@
 Your name: Michael
-You are the dealer
+Dealer is on your left
 Score at start:
 
 Cards dealt:
-4S AH KH JH JC 9C 8C 7C 3C 2C AD 5D 2D 
+6S 5S JH 8H 7H 3H QC 8C 5C JD TD 3D 2D 
 
 
 Bid history:
-Phil bid 1.
-Richard bid 5.
+Richard bid 4.
 Doris bid 1.
 
 
 Cards in hand:
-4S AH KH JH JC 9C 8C 7C 3C 2C AD 5D 2D 
+6S 5S JH 8H 7H 3H QC 8C 5C JD TD 3D 2D 
 
 Expert response:
-2
+1
 Expert alternative response:
-3
+0
