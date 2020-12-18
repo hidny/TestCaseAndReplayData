@@ -1,0 +1,20 @@
+Your name: Michael
+Dealer is on your left
+Score at start:
+
+Cards dealt:
+JS 9S 3S KH 7H 5H 4H 2H 6C 3C 2C 8D 7D 
+
+
+Bid history:
+Richard bid 6.
+Doris bid 1.
+
+
+Cards in hand:
+JS 9S 3S KH 7H 5H 4H 2H 6C 3C 2C 8D 7D 
+
+Expert response:
+0
+Expert alternative response:
+1

@@ -1,0 +1,66 @@
+Your name: doubleMellowTests
+Dealer is on your right
+Score at start:
+
+Cards dealt:
+JS 4S QH JH 9H 6H 2H 9C 8C 4C 2C 8D 3D 
+
+
+Bid history:
+doubleMellowTests bid mellow.
+Phil bid 1.
+Richard bid 5.
+Doris bid 3.
+
+
+Play history:
+--new round--
+doubleMellowTests played the 4C.
+Phil played the 5C.
+Richard played the KC.
+Doris played the AC.
+--new round--
+Doris played the 6S.
+doubleMellowTests played the 4S.
+Phil played the TS.
+Richard played the QS.
+--new round--
+Richard played the AD.
+Doris played the 2D.
+doubleMellowTests played the 8D.
+Phil played the 6D.
+--new round--
+Richard played the AH.
+Doris played the 3H.
+doubleMellowTests played the QH.
+Phil played the TH.
+--new round--
+Richard played the AS.
+Doris played the 8S.
+doubleMellowTests played the JS.
+Phil played the 5S.
+--new round--
+Richard played the 9S.
+Doris played the KS.
+doubleMellowTests played the 9C.
+Phil played the 2S.
+--new round--
+Doris played the 5H.
+doubleMellowTests played the 2H.
+Phil played the KH.
+Richard played the 4H.
+--new round--
+Phil played the 9D.
+Richard played the 4D.
+Doris played the KD.
+doubleMellowTests played the 3D.
+--new round--
+Doris played the 3C.
+
+Cards in hand:
+JH 9H 6H 8C 2C 
+
+Expert response:
+2C
+Expert alternative response:
+

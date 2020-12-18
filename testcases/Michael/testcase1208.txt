@@ -1,0 +1,21 @@
+Your name: Michael
+You are the dealer
+Score at start:
+
+Cards dealt:
+KS JS 9S 9H 5H KC 6C 5C AD KD 9D 4D 3D 
+
+
+Bid history:
+Phil bid 2.
+Richard bid 1.
+Doris bid 3.
+
+
+Cards in hand:
+KS JS 9S 9H 5H KC 6C 5C AD KD 9D 4D 3D 
+
+Expert response:
+3
+Expert alternative response:
+4

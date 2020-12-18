@@ -1,0 +1,20 @@
+Your name: doubleMellowTests
+Dealer is on your left
+Score at start:
+
+Cards dealt:
+AS QS 9S 7S 3S AH TH 9H 3H 4C AD 8D 4D 
+
+
+Bid history:
+Richard bid 1.
+Doris bid mellow.
+
+
+Cards in hand:
+AS QS 9S 7S 3S AH TH 9H 3H 4C AD 8D 4D 
+
+Expert response:
+5
+Expert alternative response:
+4
