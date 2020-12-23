@@ -73,6 +73,6 @@ Cards in hand:
 KS 9S JC 
 
 Expert response:
-KS
+JC
 Expert alternative response:
-9S
+

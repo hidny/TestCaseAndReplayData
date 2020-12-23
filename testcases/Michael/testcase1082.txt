@@ -34,6 +34,6 @@ Cards in hand:
 JS TS 6S 5H 4H 3H 7C 5C 7D 4D 
 
 Expert response:
-7D
+4D
 Expert alternative response:
-JS TS
+7D JS TS

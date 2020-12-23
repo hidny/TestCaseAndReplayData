@@ -1,0 +1,28 @@
+Your name: Michael
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 17              -127
+
+Cards dealt:
+KS 3S 9H 7H 4H 3H 2H AC 7C 5C 9D 8D 6D 
+
+
+Bid history:
+Doris bid 3.
+Michael bid 1.
+Phil bid 3.
+Richard bid 3.
+
+
+Play history:
+--new round--
+Doris played the 2D.
+
+Cards in hand:
+KS 3S 9H 7H 4H 3H 2H AC 7C 5C 9D 8D 6D 
+
+Expert response:
+9D
+Expert alternative response:
+8D 6D

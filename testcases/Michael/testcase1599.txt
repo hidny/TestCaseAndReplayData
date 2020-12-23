@@ -1,0 +1,23 @@
+Your name: Michael
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 51              43
+
+Cards dealt:
+AS 9S KH QH JH 7H 6H JC 8C 7C 6C 9D 5D 
+
+
+Bid history:
+Phil bid 4.
+Richard bid 1.
+Doris bid 5.
+
+
+Cards in hand:
+AS 9S KH QH JH 7H 6H JC 8C 7C 6C 9D 5D 
+
+Expert response:
+2
+Expert alternative response:
+1

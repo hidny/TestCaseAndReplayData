@@ -1,0 +1,41 @@
+Your name: Michael
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 449             736
+
+Cards dealt:
+4S 8H 2H AC KC JC 9C 8C 5C 2C KD QD 6D 
+
+
+Bid history:
+Richard bid 2.
+Doris bid 3.
+Michael bid 2.
+Phil bid 2.
+
+
+Play history:
+--new round--
+Richard played the 3D.
+Doris played the AD.
+Michael played the 6D.
+Phil played the 2D.
+--new round--
+Doris played the AH.
+Michael played the 2H.
+Phil played the 4H.
+Richard played the 3H.
+--new round--
+Doris played the 3C.
+Michael played the AC.
+Phil played the 6C.
+Richard played the 5D.
+
+Cards in hand:
+4S 8H KC JC 9C 8C 5C 2C KD QD 
+
+Expert response:
+KC
+Expert alternative response:
+

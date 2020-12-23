@@ -1,0 +1,20 @@
+Your name: Michael
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 484             613
+
+Cards dealt:
+TS 7S 3S JH TH 5H 4H 2H AC 9C 2C KD TD 
+
+
+Bid history:
+
+
+Cards in hand:
+TS 7S 3S JH TH 5H 4H 2H AC 9C 2C KD TD 
+
+Expert response:
+2
+Expert alternative response:
+

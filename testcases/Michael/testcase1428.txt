@@ -1,0 +1,80 @@
+Your name: Michael
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 0               0
+
+Cards dealt:
+QS 8S 2S AH KH QH 3H AC 8C 7C 3C AD 9D 
+
+
+Bid history:
+Michael bid 5.
+Phil bid 3.
+Richard bid 2.
+Doris bid mellow.
+
+
+Play history:
+--new round--
+Michael played the 8C.
+Phil played the KC.
+Richard played the KS.
+Doris played the QC.
+--new round--
+Richard played the 4D.
+Doris played the 5D.
+Michael played the AD.
+Phil played the 7D.
+--new round--
+Michael played the 3C.
+Phil played the 6C.
+Richard played the JS.
+Doris played the JC.
+--new round--
+Richard played the 2D.
+Doris played the 6D.
+Michael played the 9D.
+Phil played the KD.
+--new round--
+Phil played the AS.
+Richard played the 9S.
+Doris played the 4S.
+Michael played the QS.
+--new round--
+Phil played the TS.
+Richard played the 7S.
+Doris played the 3S.
+Michael played the 2S.
+--new round--
+Phil played the 5S.
+Richard played the TD.
+Doris played the QD.
+Michael played the 8S.
+--new round--
+Michael played the 7C.
+Phil played the 2C.
+Richard played the TH.
+Doris played the 5C.
+--new round--
+Michael played the 3H.
+Phil played the JH.
+Richard played the 9H.
+Doris played the 4H.
+--new round--
+Phil played the 6S.
+Richard played the 8D.
+Doris played the JD.
+Michael played the QH.
+--new round--
+Phil played the 8H.
+Richard played the 7H.
+Doris played the 2H.
+
+Cards in hand:
+AH KH AC 
+
+Expert response:
+AH
+Expert alternative response:
+KH AC

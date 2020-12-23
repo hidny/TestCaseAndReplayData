@@ -1,0 +1,33 @@
+Your name: garbageTestData
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 13              37
+
+Cards dealt:
+QS TS 9S 6S 4S AH KH JH TH 6H 6C JD 8D 
+
+
+Bid history:
+Richard bid 2.
+Doris bid 2.
+garbageTestData bid 2.
+Phil bid 2.
+
+
+Play history:
+Richard played the AC.
+Doris played the 2C.
+garbageTestData played the 6C.
+--new round--
+Phil played the 3C.
+Richard played the 3H.
+Doris played the 9H.
+
+Cards in hand:
+QS TS 9S 6S 4S AH KH JH TH 6H JD 8D 
+
+Expert response:
+TH
+Expert alternative response:
+JH

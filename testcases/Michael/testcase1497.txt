@@ -1,0 +1,34 @@
+Your name: Michael
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 200             370
+
+Cards dealt:
+TS 9S 7S 6S 2S AH KH 6H 2H 6C 5C JD 7D 
+
+
+Bid history:
+Phil bid mellow.
+Richard bid 5.
+Doris bid 1.
+Michael bid 4.
+
+
+Play history:
+--new round--
+Phil played the 2C.
+Richard played the AC.
+Doris played the 4C.
+Michael played the 6C.
+--new round--
+Richard played the 5D.
+Doris played the 8D.
+
+Cards in hand:
+TS 9S 7S 6S 2S AH KH 6H 2H 5C JD 7D 
+
+Expert response:
+7D
+Expert alternative response:
+

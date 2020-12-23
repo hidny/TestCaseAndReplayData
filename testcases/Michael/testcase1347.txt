@@ -61,6 +61,6 @@ Cards in hand:
 5S 4S AD QD TD 
 
 Expert response:
-TD
+5S
 Expert alternative response:
-
+4S
