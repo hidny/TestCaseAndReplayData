@@ -54,6 +54,6 @@ Cards in hand:
 KS QS 7S JH QC 4C 
 
 Expert response:
-KS
+QC
 Expert alternative response:
-QS
+QS KS

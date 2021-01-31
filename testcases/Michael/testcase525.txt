@@ -46,4 +46,4 @@ KS 8S 9H 7H AD KD 5D 2D
 Expert response:
 AD
 Expert alternative response:
-9H
+9H 7H

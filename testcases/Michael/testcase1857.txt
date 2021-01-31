@@ -71,6 +71,6 @@ JS 9S QH 8H
 # Doris: 2/1
 
 Expert response:
-JS
+QH
 Expert alternative response:
-
+JS

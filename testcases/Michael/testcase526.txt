@@ -49,6 +49,6 @@ Cards in hand:
 KS 8S 9H 7H KD 5D 2D 
 
 Expert response:
-KD
+7H
 Expert alternative response:
-9H 8S
+9H KD

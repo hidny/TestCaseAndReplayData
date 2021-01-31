@@ -46,6 +46,6 @@ Cards in hand:
 QS 9H 6H 5H 4H TC 6C 4C 
 
 Expert response:
-6C
+TC
 Expert alternative response:
-4C
+

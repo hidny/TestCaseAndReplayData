@@ -49,6 +49,6 @@ Cards in hand:
 KC QC 6C 5C QD 9D 8D 
 
 Expert response:
-KC
+9D
 Expert alternative response:
-
+8D
