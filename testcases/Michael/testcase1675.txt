@@ -66,6 +66,6 @@ Cards in hand:
 JC 6C KD TD 
 
 Expert response:
-6C
+KD
 Expert alternative response:
-TD
+

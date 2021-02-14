@@ -71,6 +71,6 @@ Cards in hand:
 QS JD 9D 
 
 Expert response:
-JD
+QS
 Expert alternative response:
-
+JD 9D

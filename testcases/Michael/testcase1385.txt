@@ -56,6 +56,6 @@ Cards in hand:
 8H 4H QD 9D 6D 4D 
 
 Expert response:
-6D
+QD
 Expert alternative response:
-9D 4D
+9D 6D 4D

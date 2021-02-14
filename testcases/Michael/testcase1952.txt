@@ -1,0 +1,35 @@
+Your name: Michael
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 288             184
+
+Cards dealt:
+KS 6S 5S 4S TH 3H JC 7C 6C 3C AD JD 5D 
+
+
+Bid history:
+Phil bid 3.
+Richard bid 1.
+Doris bid mellow.
+Michael bid 3.
+
+
+Play history:
+--new round--
+Phil played the AS.
+Richard played the QS.
+Doris played the TS.
+
+Cards in hand:
+KS 6S 5S 4S TH 3H JC 7C 6C 3C AD JD 5D 
+
+# Michael: 0/3
+# Phil: 0/3
+# Richard: 0/1
+# Doris: 0/0
+
+Expert response:
+4S
+Expert alternative response:
+5S 6S

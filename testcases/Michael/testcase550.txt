@@ -41,4 +41,4 @@ Cards in hand:
 Expert response:
 9S
 Expert alternative response:
-JD TD
+QD JD TD

@@ -74,6 +74,6 @@ Cards in hand:
 JS KH 6H 
 
 Expert response:
-6H
+JS
 Expert alternative response:
 

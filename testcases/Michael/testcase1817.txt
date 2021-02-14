@@ -61,6 +61,6 @@ Cards in hand:
 KS TS 8D 7D 4D 
 
 Expert response:
-8D
+KS
 Expert alternative response:
-7D 4D
+8D 7D 4D
