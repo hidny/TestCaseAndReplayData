@@ -63,6 +63,6 @@ Cards in hand:
 JH TH KC JC 9C 
 
 Expert response:
-TH
+JH
 Expert alternative response:
-
+TH
