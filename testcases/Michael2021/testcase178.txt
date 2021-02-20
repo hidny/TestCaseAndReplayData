@@ -67,4 +67,4 @@ Cards in hand:
 Expert response:
 7C
 Expert alternative response:
-
+8D

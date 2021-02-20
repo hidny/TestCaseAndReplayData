@@ -62,4 +62,4 @@ Cards in hand:
 Expert response:
 7H
 Expert alternative response:
-7C
+7C 8D

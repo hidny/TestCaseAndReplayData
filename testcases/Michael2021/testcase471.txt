@@ -37,4 +37,4 @@ TS 5S 4S KH 3H 2H AC 8C 6C JD TD 3D
 Expert response:
 5S
 Expert alternative response:
-4S
+4S TS

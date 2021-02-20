@@ -72,4 +72,4 @@ JH TC 4C 9D 7D
 Expert response:
 4C
 Expert alternative response:
-7D
+7D JH
