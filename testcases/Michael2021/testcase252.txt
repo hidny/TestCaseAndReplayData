@@ -1,0 +1,50 @@
+Your name: Michael2021
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 0               0
+
+Cards dealt:
+AS KS TS 8S 9H 4H JC 8C 3C KD 6D 5D 3D 
+
+
+Bid history:
+Michael2021 bid 3.
+Phil bid 2.
+Richard bid 1.
+Doris bid 4.
+
+
+Play history:
+--new round--
+Michael2021 played the AS.
+Phil played the 3S.
+Richard played the 5S.
+Doris played the 2S.
+--new round--
+Michael2021 played the KS.
+Phil played the 7S.
+Richard played the 2D.
+Doris played the 4S.
+--new round--
+Michael2021 played the 8S.
+Phil played the JS.
+Richard played the 4D.
+Doris played the 6S.
+--new round--
+Phil played the AC.
+Richard played the 4C.
+Doris played the 8D.
+
+Cards in hand:
+TS 9H 4H JC 8C 3C KD 6D 5D 3D 
+
+# Michael2021: 2/3
+# Phil: 1/2
+# Richard: 0/1
+# Doris: 0/4
+
+Expert response:
+3C
+Expert alternative response:
+
