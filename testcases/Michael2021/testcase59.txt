@@ -51,6 +51,6 @@ Cards in hand:
 # Doris: 0/0
 
 Expert response:
-6S
+TD
 Expert alternative response:
-3S
+6S 3S JD KD

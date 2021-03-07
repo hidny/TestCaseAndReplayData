@@ -26,4 +26,4 @@ QS 4S 3H AC KC JC TC 6C AD 9D 7D 6D 4D
 Expert response:
 AD
 Expert alternative response:
-
+AC

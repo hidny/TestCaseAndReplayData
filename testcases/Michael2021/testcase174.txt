@@ -41,6 +41,6 @@ Cards in hand:
 # Doris: 0/1
 
 Expert response:
-JH
+KC
 Expert alternative response:
 

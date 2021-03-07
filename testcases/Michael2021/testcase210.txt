@@ -24,6 +24,6 @@ JS 9S 6S 3S QH 6H 3H AC JC TC 6C AD 3D
 # Doris: 0/3
 
 Expert response:
-AC
+AD
 Expert alternative response:
-
+AC

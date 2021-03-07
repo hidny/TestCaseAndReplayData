@@ -58,4 +58,4 @@ Cards in hand:
 Expert response:
 5H
 Expert alternative response:
-TC
+TC 5S

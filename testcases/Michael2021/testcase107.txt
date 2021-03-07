@@ -31,7 +31,7 @@ QS 4S 3H AC KC JC TC 6C 9D 7D 6D 4D
 # Doris: 0/1
 
 Expert response:
-KC
+AC
 Expert alternative response:
 
 #Oops! I placed KD at first!
