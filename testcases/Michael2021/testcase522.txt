@@ -1,0 +1,29 @@
+Your name: Michael2021
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 0               0
+
+Cards dealt:
+AS 7S 3S TH 5H 4H 3H AC 8C AD QD 8D 7D 
+
+
+Bid history:
+Michael2021 bid 3.
+Phil bid 2.
+Richard bid 3.
+Doris bid 2.
+
+
+Cards in hand:
+AS 7S 3S TH 5H 4H 3H AC 8C AD QD 8D 7D 
+
+# Michael2021: 0/3
+# Phil: 0/2
+# Richard: 0/3
+# Doris: 0/2
+
+Expert response:
+AC
+Expert alternative response:
+

@@ -1,0 +1,35 @@
+Your name: Michael2021
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 752             797
+
+Cards dealt:
+TS 9S 7S 5S KH 9H 7H 2H KC 8C 6C AD 8D 
+
+
+Bid history:
+Phil bid 2.
+Richard bid mellow.
+Doris bid 3.
+Michael2021 bid 2.
+
+
+Play history:
+--new round--
+Phil played the 3C.
+Richard played the TC.
+Doris played the 5C.
+
+Cards in hand:
+TS 9S 7S 5S KH 9H 7H 2H KC 8C 6C AD 8D 
+
+# Michael2021: 0/2
+# Phil: 0/2
+# Richard: 0/0
+# Doris: 0/3
+
+Expert response:
+KC
+Expert alternative response:
+
