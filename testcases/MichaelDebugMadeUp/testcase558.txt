@@ -1,0 +1,52 @@
+Your name: Richard
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 104             202
+
+Cards dealt:
+KS 5S 2S QH JH 6H 5H 6C 9C 5C 4C AD 5D
+
+
+Bid history:
+Richard bid 2.
+Doris bid 1.
+Michael2021 bid 2.
+Phil bid 3.
+
+
+Play history:
+--new round--
+Richard played the AD.
+Doris played the TD.
+Michael2021 played the 3D.
+Phil played the 2D.
+--new round--
+Richard played the 5D.
+Doris played the 8S.
+Michael2021 played the 7D.
+Phil played the 4D.
+--new round--
+Doris played the TS.
+Michael2021 played the QS.
+Phil played the AS.
+Richard played the 2S.
+--new round--
+Phil played the 6D.
+
+
+Cards in hand:
+KS 5S QH JH 6H 5H 9C 6C 5C 4C
+
+# Michael2021: 4/2
+# Phil: 2/3
+# Richard: 3/2
+# Doris: 2/1
+
+Expert response:
+4C
+Expert alternative response:
+6C 5C KS
+
+#Don't trump when you're just going to get trumped over...
+#Or go big

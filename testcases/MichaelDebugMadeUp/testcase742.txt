@@ -1,0 +1,24 @@
+Your name: Richard
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 752             797
+
+Cards dealt:
+KS TC 2S JH 3D TD 7D 8H 5H 3H 4H 2C 3C
+
+
+Bid history:
+Phil bid 2.
+
+
+Cards in hand:
+TC 2S JH 3D TD 7D 8H KS 5H 3H 4H 2C 3C
+
+
+Expert response:
+1
+Expert alternative response:
+2
+
+#Don't say mellow while holding the KS.

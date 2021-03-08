@@ -1,0 +1,58 @@
+Your name: Doris
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 378             552
+
+Cards dealt:
+5D 7C 6C 4C JS TS QD KD 7S TH 3D 7H TC
+
+
+Bid history:
+Richard bid 2.
+Doris bid 1.
+Michael2021 bid 1.
+Phil bid 9.
+
+
+Play history:
+--new round--
+Richard played the AH.
+Doris played the 7H.
+Michael2021 played the 5H.
+Phil played the 2H.
+--new round--
+Richard played the AD.
+Doris played the 3D.
+Michael2021 played the 2D.
+Phil played the 6D.
+--new round--
+Richard played the QH.
+Doris played the TH.
+Michael2021 played the 9H.
+Phil played the 3H.
+--new round--
+Richard played the 3S.
+Doris played the 7S.
+Michael2021 played the 4S.
+Phil played the 2S.
+--new round--
+Doris played the KD.
+Michael2021 played the JD.
+Phil played the 8D.
+Richard played the 4D.
+
+Cards in hand:
+5D 7C 6C 4C JS TS QD TC
+
+# Michael2021: 0/1
+# Phil: 6/9
+# Richard: 3/2
+# Doris: 2/1
+
+Expert response:
+JS
+Expert alternative response:
+TS
+
+#Just play spade when partner bid 9 

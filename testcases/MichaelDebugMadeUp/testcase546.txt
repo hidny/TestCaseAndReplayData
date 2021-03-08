@@ -1,0 +1,35 @@
+Your name: Richard
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 63              40
+
+Cards dealt:
+AS 8S 7S 2S 2C QH JH 9H KD QD 8D 5D
+
+
+Bid history:
+Phil bid mellow.
+Richard bid 2.
+Doris bid 6.
+Michael2021 bid 2.
+
+
+Play history:
+--new round--
+Phil played the 4S.
+
+Cards in hand:
+AS 8S 7S 2S 2C QH JH 9H KD QD 8D 5D
+
+# Michael2021: 2/2
+# Phil: 0/0
+# Richard: 3/2
+# Doris: 6/6
+
+Expert response:
+AS
+Expert alternative response:
+
+
+#Just play AS... don't hope 4S will burn...
