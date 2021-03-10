@@ -46,7 +46,8 @@ KS 5S QH JH 6H 5H 9C 6C 5C 4C
 Expert response:
 4C
 Expert alternative response:
-6C 5C KS
+6C 5C KS 5S
 
 #Don't trump when you're just going to get trumped over...
 #Or go big
+#On second thought, it's not a big deal...

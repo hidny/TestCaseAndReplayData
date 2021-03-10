@@ -45,4 +45,5 @@ QC
 Expert alternative response:
 9C 3C 7D 4D
 
-#Don't lead spade when opponent bid high and it's your only spade.
+#OLD: Don't lead spade when opponent bid high and it's your only spade.
+# NEW: Don't lead JH. It's the master of the suit, Doris is trumping and Michael prob has K. 

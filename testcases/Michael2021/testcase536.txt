@@ -31,6 +31,6 @@ KS 3S 7H 6H KC JC 4C 3C QD 9D 8D 3D
 # Doris: 0/6
 
 Expert response:
-
+3C
 Expert alternative response:
-
+3D 4C 8D 9D 7H 6H

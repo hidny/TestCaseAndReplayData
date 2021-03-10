@@ -63,4 +63,4 @@ Cards in hand:
 Expert response:
 9S
 Expert alternative response:
-9H 7S
+7H 7S

@@ -44,7 +44,7 @@ Doris played the 2S.
 --new round--
 
 Cards in hand:
-4S JH 2H QC 9C 7C 6C
+8S 4S JH 2H QC 9C 7C 6C
 
 # Michael2021: 4/2
 # Phil: 2/3
@@ -54,6 +54,11 @@ Cards in hand:
 Expert response:
 QC
 Expert alternative response:
-JH
+JH 4S
 
 #Don't throw away your only S for no reason
+#AAAH!
+# Actually, this is a messed up testcase.
+# All options seem bad because Richard signalled void in clubs and hearts.
+# The right move might be to hope Richard's not actually void in hearts and gets a free trick with the QH instead??
+# I don't want to think about this test case.
