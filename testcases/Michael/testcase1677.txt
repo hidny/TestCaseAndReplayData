@@ -80,4 +80,7 @@ JC KD
 Expert response:
 KD
 Expert alternative response:
+JC
 
+#After looking at this a second time, I though "why believe Doris has the TC over instead of the QD?",
+#and couldn't find an answer.

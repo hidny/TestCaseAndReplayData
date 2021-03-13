@@ -1,0 +1,44 @@
+Your name: Doris
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 308             144
+
+Cards dealt:
+KS QS JS TS 2S JH 6H AC KC TC QD JD 8D 
+
+
+Bid history:
+Phil bid mellow.
+Richard bid 3.
+Doris bid 6.
+Michael2021 bid mellow.
+
+
+Play history:
+--new round--
+Phil played the 5S.
+Richard played the AS.
+Doris played the 2S.
+Michael2021 played the 9S.
+--new round--
+Richard played the 8S.
+Doris played the TS.
+Michael2021 played the 6S.
+Phil played the JC.
+--new round--
+Doris played the KS.
+Michael2021 played the 4S.
+Phil played the 9C.
+Richard played the 3S.
+
+Cards in hand:
+QS JS JH 6H AC KC TC QD JD 8D 
+
+Expert response:
+QD
+Expert alternative response:
+JD AC KC TC
+
+#Double mellow test case!
+#Doris should play 8C or 10C or something else instead of 1 more spade.

@@ -1,0 +1,24 @@
+Your name: Richard
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 542             311
+
+Cards dealt:
+7S QH JH TH KC TC 7C 5C QD JD 5D 3D 2D
+
+
+Bid history:
+Michael2021 bid 3.
+Phil bid 3.
+
+
+Cards in hand:
+7S QH JH TH KC TC 7C 5C QD JD 5D 3D 2D
+
+Expert response:
+1
+Expert alternative response:
+
+#Nice "mellow" Rich. I can't believe you made it!
+#TBH, it's a close call. It's just the (QJT)H... 

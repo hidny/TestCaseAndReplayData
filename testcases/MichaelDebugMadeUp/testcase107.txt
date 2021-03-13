@@ -1,0 +1,31 @@
+Your name: Michael2021
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 673             383
+
+Cards dealt:
+AS QS TS JH TH 5H QC 5C 4C JD 6D 4D 2D 
+
+
+Bid history:
+Phil bid 2.
+Richard bid 3.
+Doris bid 2.
+Michael2021 bid 3.
+
+
+Play history:
+--new round--
+
+Cards in hand:
+AS QS TS JH TH 5H QC 5C 4C JD 6D 4D 2D 
+
+Expert response:
+JH
+Expert alternative response:
+TH JD QC
+#Phil started with the AS, and it really didn't work out.
+#I think starting with AS when opponents are stronger than you is ill advised.
+#His partner Doris lost the ability to trump:
+#Doris' hand: JS 6S 5S 7H AC TC 8C 7C 6C TD 9D 8D 5D 

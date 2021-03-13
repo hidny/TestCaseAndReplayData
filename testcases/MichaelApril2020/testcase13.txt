@@ -1,6 +1,8 @@
 Your name: MichaelApril2020
 Dealer is on your right
 Score at start:
+Your Score      Their Score
+ 308             144
 
 Cards dealt:
 KS 8S 6S AH KH 4H JC 7C 6C 5C 3C 6D 2D 
