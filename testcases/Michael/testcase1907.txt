@@ -61,6 +61,6 @@ QH JH 4H TC KD 2D
 # Doris: 4/5
 
 Expert response:
-4H
+QH
 Expert alternative response:
-2D
+2D 4H JH

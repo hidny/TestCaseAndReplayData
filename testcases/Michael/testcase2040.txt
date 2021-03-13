@@ -78,4 +78,4 @@ QS 3H 2H
 Expert response:
 QS
 Expert alternative response:
-
+3H 2H

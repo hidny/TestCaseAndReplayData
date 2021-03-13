@@ -61,4 +61,6 @@ TS 8S 7S JD 9D
 Expert response:
 7S
 Expert alternative response:
-8S
+8S TS
+
+#9S was already played, so the spades are pretty much the same...
