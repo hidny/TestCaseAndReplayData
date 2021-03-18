@@ -78,3 +78,6 @@ Expert alternative response:
 
 #Richard should lead the high diamond to show attacking partner that there's 0 chance of burning Phil in Diamond
 #Weird test case: Normally richard should lead the low diamond to convince Doris to Trump, but DORIS HAD NO TRUMP!
+#On second thought, Richard's move was good, but understanding what to do when protector is void in suit is....
+# complicated...
+#TODO

@@ -71,4 +71,6 @@ Cards in hand:
 Expert response:
 6C
 Expert alternative response:
-7C
+7C 8H
+
+#8H is a trash card because Phil has TH, and Phil knows you have 8H

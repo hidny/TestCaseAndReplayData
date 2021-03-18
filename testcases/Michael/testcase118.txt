@@ -79,6 +79,9 @@ Cards in hand:
 9H KD 
 
 Expert response:
-9H
+KD
 Expert alternative response:
 
+#Throw away the KD because:
+#There's only 1 other diamond left, and if Richard has it: he wins the trick
+#If Richard has a heart, Michael wins the trick

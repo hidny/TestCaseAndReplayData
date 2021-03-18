@@ -51,6 +51,9 @@ Cards in hand:
 8S 4S JH 9H 7H 9D 4D 
 
 Expert response:
-JH
+9D
 Expert alternative response:
-9H 7H 9D 4D 4S 8S
+4D 4S 8S
+
+# Don't play Heart because Rich signalled he had the master
+# and there only 2 other hearts hidden in other people's hands 

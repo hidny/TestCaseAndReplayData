@@ -59,4 +59,6 @@ JS 9S 7S QH AC QC
 Expert response:
 QH
 Expert alternative response:
-QC
+QC AC
+
+#In retrospect, AC is fine here because KC was played...

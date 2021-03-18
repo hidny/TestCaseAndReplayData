@@ -29,3 +29,4 @@ TH JD QC
 #I think starting with AS when opponents are stronger than you is ill advised.
 #His partner Doris lost the ability to trump:
 #Doris' hand: JS 6S 5S 7H AC TC 8C 7C 6C TD 9D 8D 5D 
+#March 16th update: it now makes a different mistake

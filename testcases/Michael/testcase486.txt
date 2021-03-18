@@ -49,4 +49,4 @@ QH TH 6H TC 8C 8D 5D 4D
 Expert response:
 6H
 Expert alternative response:
-4D 5D
+4D 5D 8C

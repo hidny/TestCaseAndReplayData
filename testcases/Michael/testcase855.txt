@@ -71,6 +71,6 @@ Cards in hand:
 QC 6C 7D 
 
 Expert response:
-6C
-Expert alternative response:
 7D
+Expert alternative response:
+6C
