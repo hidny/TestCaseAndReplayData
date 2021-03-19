@@ -64,3 +64,5 @@ Expert response:
 3D
 Expert alternative response:
 
+#Mellow is more vulnerable in Diamonds compared to hearts,
+#But AI doesn't see it that way 

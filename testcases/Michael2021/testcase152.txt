@@ -64,3 +64,6 @@ Expert response:
 JH
 Expert alternative response:
 TH
+
+# Playing Master spade just removes ability to trump
+# It's not a huge diff though...

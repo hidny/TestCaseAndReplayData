@@ -19,4 +19,4 @@ Cards in hand:
 Expert response:
 1
 Expert alternative response:
-2
+2 0
