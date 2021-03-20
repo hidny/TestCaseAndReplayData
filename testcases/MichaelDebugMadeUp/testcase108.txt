@@ -1,0 +1,86 @@
+Your name: Phil
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 420             401
+
+Cards dealt:
+JS TS 2S TH 9H 3H AC JC 3C AD 8D 6D 3D
+
+
+Bid history:
+Richard bid 2.
+Doris bid 2.
+Michael2021 bid 2.
+Phil bid 2.
+
+
+Play history:
+--new round--
+Richard played the 4D.
+Doris played the KD.
+Michael2021 played the 5D.
+Phil played the 3D.
+--new round--
+Doris played the 7D.
+Michael2021 played the JD.
+Phil played the AD.
+Richard played the 2D.
+--new round--
+Phil played the AC.
+Richard played the 2C.
+Doris played the 9C.
+Michael2021 played the 4C.
+--new round--
+Phil played the TH.
+Richard played the QH.
+Doris played the KH.
+Michael2021 played the AH.
+--new round--
+Michael2021 played the 5C.
+Phil played the JC.
+Richard played the 7C.
+Doris played the KC.
+--new round--
+Doris played the QD.
+Michael2021 played the 3S.
+Phil played the 6D.
+Richard played the TC.
+--new round--
+Michael2021 played the 5S.
+Phil played the TS.
+Richard played the AS.
+Doris played the 4S.
+--new round--
+Richard played the 8H.
+Doris played the JH.
+Michael2021 played the 6S.
+Phil played the 3H.
+--new round--
+Michael2021 played the KS.
+Phil played the 2S.
+Richard played the 8S.
+Doris played the 9S.
+--new round--
+Michael2021 played the 7S.
+Phil played the JS.
+Richard played the QS.
+Doris played the 2H.
+--new round--
+Richard played the 7H.
+Doris played the 4H.
+Michael2021 played the 6C.
+Phil played the 9H.
+
+
+Cards in hand:
+3C 8D 
+
+Expert response:
+8D
+Expert alternative response:
+
+
+#Why did Phil lead 3C?
+#Only Doris had diamond at this point, so 8D was safe
+#There's also a round where it was shown that only Dories had diamond 
