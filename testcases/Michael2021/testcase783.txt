@@ -36,3 +36,8 @@ Expert response:
 2H
 Expert alternative response:
 8H
+
+# This is a failed testcase,
+# but to explain to the AI
+# why I'd have to explain why 
+# it's unlikely that we'll burn mellow in H
