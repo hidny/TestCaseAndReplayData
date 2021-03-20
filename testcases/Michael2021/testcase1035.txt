@@ -60,4 +60,6 @@ Cards in hand:
 Expert response:
 KD
 Expert alternative response:
+QD
 
+#AI played QD, and it's arguably a better move

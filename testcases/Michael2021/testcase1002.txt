@@ -19,3 +19,5 @@ Expert response:
 5
 Expert alternative response:
 6
+
+#AI bid 7... that's bold and probably wouldn't work.

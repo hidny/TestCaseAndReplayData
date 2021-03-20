@@ -58,4 +58,6 @@ TS 9S 8S 7S 6S 8H JD
 Expert response:
 TS
 Expert alternative response:
-9S 8S 7S 6S
+9S 8S 7S 6S JD 8H
+
+#I honestly don't know what to play...

@@ -43,4 +43,8 @@ Cards in hand:
 Expert response:
 8D
 Expert alternative response:
-6D QD
+6D
+
+#Basically hoping to fish the AD out...
+#There's only 1 other spade, so there's a low chance of getting trumped on.
+#I don't know if it's a good idea, but it feels right

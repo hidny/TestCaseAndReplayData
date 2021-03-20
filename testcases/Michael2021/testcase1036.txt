@@ -61,6 +61,8 @@ Cards in hand:
 # Doris: 3/2
 
 Expert response:
-QD
+KH
 Expert alternative response:
+9S
 
+#QD was the original, but that just gets trumped on...
