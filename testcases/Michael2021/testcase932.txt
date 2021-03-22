@@ -61,8 +61,7 @@ Cards in hand:
 # Doris: 0/0
 
 Expert response:
-3D
+5H
 Expert alternative response:
+4H 2H
 
-#Mellow is more vulnerable in Diamonds compared to hearts,
-#But AI doesn't see it that way 

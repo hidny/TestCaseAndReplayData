@@ -59,3 +59,8 @@ Expert response:
 5C
 Expert alternative response:
 6C TC QC
+
+#Only the KC is left, so there's no hope of clubs making a trick
+#Realistically, there's no hope of making a trick at all, so this test case
+#isn't that important to me.
+#If you really want to fix it, I wrote notes about how to fix in notebook.

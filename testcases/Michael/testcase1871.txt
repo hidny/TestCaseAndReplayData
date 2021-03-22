@@ -80,4 +80,4 @@ Cards in hand:
 Expert response:
 8C
 Expert alternative response:
-
+4C 5C
