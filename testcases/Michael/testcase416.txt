@@ -23,4 +23,4 @@ JS 9S 4S 6H 4H 2H KC QC TC 7C 4C QD 9D
 Expert response:
 6H
 Expert alternative response:
-4H
+4H 2H
