@@ -36,6 +36,6 @@ Cards in hand:
 KS 8S 7S 7C 3C AD QD JD 5D 3D 
 
 Expert response:
-KS
+JD
 Expert alternative response:
-
+QD 7C

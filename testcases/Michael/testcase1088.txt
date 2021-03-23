@@ -68,4 +68,4 @@ TS 6S 3H 7D
 Expert response:
 6S
 Expert alternative response:
-
+TS

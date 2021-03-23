@@ -66,6 +66,7 @@ Cards in hand:
 KH 9H 6H 3H 
 
 Expert response:
-KH
+9H
 Expert alternative response:
+KH
 

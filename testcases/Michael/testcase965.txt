@@ -38,4 +38,4 @@ Cards in hand:
 Expert response:
 4H
 Expert alternative response:
-
+6H 3H
