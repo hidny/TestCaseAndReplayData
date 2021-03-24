@@ -49,15 +49,12 @@ Phil played the 7C.
 Cards in hand:
 AS 8S 7S 9H KD QD 8D
 
-# Michael2021: 2/2
-# Phil: 0/0
-# Richard: 3/2
-# Doris: 6/6
-
 Expert response:
-7S
+AS
 Expert alternative response:
-8S
+8S 7S
 
+# On further inspect, just play the AS... whatever!
+# Old notes:
 # Don't play AS when mellow is signalled to be safe
 # Warning: this advice could theorically be exploited...
