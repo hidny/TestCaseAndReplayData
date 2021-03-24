@@ -54,3 +54,6 @@ Expert response:
 2S
 Expert alternative response:
 
+#AI plays 9S to force Phil to trump over...
+#AI logic makes some sense because Phil led heart, so he might be void in Hearts
+#but I'm not sure

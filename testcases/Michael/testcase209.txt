@@ -66,3 +66,4 @@ Expert response:
 5S
 Expert alternative response:
 
+#Just gopher it! At this point, losing the 5S doesn't matter

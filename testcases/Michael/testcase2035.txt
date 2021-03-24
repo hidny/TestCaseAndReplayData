@@ -53,6 +53,8 @@ KS QS QH 5H 3H 2H 9C 5C
 # Doris: 2/2
 
 Expert response:
-5H
+QH
 Expert alternative response:
-3H 2H
+3H 2H 5H
+
+#Just play the QH. It might help your partner out.

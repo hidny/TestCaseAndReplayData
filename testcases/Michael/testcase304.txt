@@ -46,6 +46,10 @@ Cards in hand:
 TS 5S 4S 2S AC KC TC 8C 
 
 Expert response:
-2S
+4S
 Expert alternative response:
-TS 5S 4S
+TS 5S
+
+#Don't trump with 2S just in case 3S is out.
+#Also, just trump because you've got enough S to cover mellow...
+#The math on this is hard to explain though.

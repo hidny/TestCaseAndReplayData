@@ -38,6 +38,8 @@ KS QS 7S 4S 2S KH TH 9H 7H 6H 2H
 # Doris: 1/2
 
 Expert response:
-2H
+KH
 Expert alternative response:
-6H 7H
+6H 7H 2H
+
+#On second thought, the KH seems like the move to make here

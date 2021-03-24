@@ -73,6 +73,8 @@ Cards in hand:
 KS TD 6D 
 
 Expert response:
-KS
+6D
 Expert alternative response:
-TD
+
+
+#Give partner a chance to make a trick

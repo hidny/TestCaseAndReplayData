@@ -66,6 +66,9 @@ Cards in hand:
 QS TS 4S 7D 
 
 Expert response:
-4S
+7D
 Expert alternative response:
+4S
 
+#Don't waste a spade when partner might win
+#And Phil might be able to trump over

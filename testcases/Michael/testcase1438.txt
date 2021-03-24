@@ -61,3 +61,7 @@ Expert response:
 QH
 Expert alternative response:
 JH TH
+
+# The idea is to try to save the tricks by not throwing away clubs
+# AI just tries to burn the mellow with no regard to how 
+# desperate the situation is. (Michael and Richard only have 2/4 tricks)

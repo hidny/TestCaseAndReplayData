@@ -53,6 +53,10 @@ Cards in hand:
 QS JS 6S KH 7H 6H 5H 
 
 Expert response:
-6S
+5H
 Expert alternative response:
-JS QS
+JS QS 7H 6H 5H 6S
+
+
+#I agree with AI. Don't trump.
+#This is a weird test and other ais don't know how to play

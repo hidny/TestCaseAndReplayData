@@ -21,6 +21,9 @@ Cards in hand:
 8S 7S 4S 2S QH JH 9H 3H KC QC TC 6C AD 
 
 Expert response:
-QH
+3H
 Expert alternative response:
-JH 9H
+JH 9H QH
+
+#AI says play low 2nd throw, and I agree.
+#even if Phil has AH, KH, TH, he'll probably play A or K anyways
