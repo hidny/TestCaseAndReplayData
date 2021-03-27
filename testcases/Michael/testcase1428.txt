@@ -77,4 +77,4 @@ AH KH AC
 Expert response:
 AH
 Expert alternative response:
-KH AC
+KH

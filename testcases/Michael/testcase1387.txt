@@ -70,6 +70,8 @@ Cards in hand:
 8H QD 9D 4D 
 
 Expert response:
-8H
+4D
 Expert alternative response:
 
+#Don't throw away a master card (8H) when there's almost no spade out,
+# and there's hope that you can make a trick

@@ -70,6 +70,8 @@ KH JH JC TC 8C
 # Doris: 2/1
 
 Expert response:
-8C
+JH
 Expert alternative response:
+8C
 
+#All hearts were played, so JH is pretty useless.

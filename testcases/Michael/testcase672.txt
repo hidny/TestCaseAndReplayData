@@ -68,6 +68,8 @@ Cards in hand:
 JS 9S 3S QD 
 
 Expert response:
-QD
+3S
 Expert alternative response:
+JS 9S
 
+#Changed test case to make the trick because why not?

@@ -70,6 +70,6 @@ Cards in hand:
 # Doris: 3/2
 
 Expert response:
-2D
+9C
 Expert alternative response:
-
+2D 3D

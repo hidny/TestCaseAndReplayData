@@ -68,6 +68,8 @@ Cards in hand:
 6S QC TC 2C 
 
 Expert response:
-2C
+6S
 Expert alternative response:
-TC
+
+
+#So-called expert didn't even follow suit here

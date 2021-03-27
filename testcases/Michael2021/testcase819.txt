@@ -85,6 +85,6 @@ Cards in hand:
 # Doris: 3/2
 
 Expert response:
-9C
+9H
 Expert alternative response:
 

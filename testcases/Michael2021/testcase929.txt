@@ -53,3 +53,7 @@ Expert response:
 JD
 Expert alternative response:
 TD
+
+# Hold onto the 8H just in case you could make a trick with it if everyone else played low
+# and mellow is safe
+# This is only true because you play after the mellow.

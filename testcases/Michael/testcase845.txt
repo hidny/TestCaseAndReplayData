@@ -25,3 +25,6 @@ Expert response:
 AC
 Expert alternative response:
 KC QC
+
+#Just take the trick. Your partner's mellow is probably not burning in C
+#HARD ONE

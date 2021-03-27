@@ -52,6 +52,9 @@ Cards in hand:
 KS TS 3S 2S JH 6H QC 
 
 Expert response:
-2S
+KS
 Expert alternative response:
-3S
+3S 2S
+
+# Just challenge the QS. There's a chance you make the trick and 
+# even if you lose it, you'll propably still make the TS
