@@ -1,0 +1,22 @@
+Your name: Doris
+Dealer is your partner
+Score at start:
+Your Score      Their Score
+ 193             193
+
+Cards dealt:
+JS TS 7H 2H KC 9C 8C 4C JD TD 5D 4D 2D 
+
+
+Bid history:
+Richard bid 4.
+
+Cards in hand:
+JS TS 7H 2H KC 9C 8C 4C JD TD 5D 4D 2D 
+
+Expert response:
+1
+Expert alternative response:
+
+#J-TS is not a mellow!
+#Unless you're desperate...

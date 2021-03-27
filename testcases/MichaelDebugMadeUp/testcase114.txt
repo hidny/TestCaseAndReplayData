@@ -1,0 +1,37 @@
+Your name: Phil
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 334             198
+
+Cards dealt:
+QH JH 8H KC QC JC 6C 5C 3C 2C JD TD 9D 
+
+
+Bid history:
+Richard bid 4.
+Doris bid 4.
+Michael2021-2 bid 2.
+Phil bid mellow.
+
+
+Play history:
+--new round--
+Richard played the 5H.
+Doris played the AH.
+Michael2021-2 played the TH.
+Phil played the QH.
+--new round--
+Doris played the KS.
+Michael2021-2 played the 7S.
+
+Cards in hand:
+JH 8H KC QC JC 6C 5C 3C 2C JD TD 9D 
+
+Expert response:
+JH
+Expert alternative response:
+
+
+#Mellow/Phil should throw the JH instead of JD... but
+#Mellow/Phil still probably lost though.

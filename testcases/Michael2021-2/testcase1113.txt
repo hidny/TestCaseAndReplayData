@@ -1,0 +1,64 @@
+Your name: Michael2021-2
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 421             231
+
+Cards dealt:
+AS 7S TH 8H 2H KC 6C 4C AD 9D 8D 3D 2D 
+
+
+Bid history:
+Michael2021-2 bid 2.
+Phil bid mellow.
+Richard bid 4.
+Doris bid 1.
+
+
+Play history:
+--new round--
+Michael2021-2 played the 2H.
+Phil played the 3H.
+Richard played the KH.
+Doris played the 4H.
+--new round--
+Richard played the 5D.
+Doris played the JD.
+Michael2021-2 played the 9D.
+Phil played the TD.
+--new round--
+Doris played the QH.
+Michael2021-2 played the TH.
+Phil played the JH.
+Richard played the 6H.
+--new round--
+Doris played the 9H.
+Michael2021-2 played the 8H.
+Phil played the 7H.
+Richard played the 5H.
+--new round--
+Doris played the AH.
+Michael2021-2 played the 7S.
+Phil played the 4S.
+Richard played the KS.
+--new round--
+Richard played the 2C.
+Doris played the QC.
+Michael2021-2 played the KC.
+Phil played the JC.
+
+Cards in hand:
+AS 6C 4C AD 8D 3D 2D 
+
+# Michael2021-2: 1/2
+# Phil: 0/0
+# Richard: 2/4
+# Doris: 3/1
+
+Expert response:
+6C
+Expert alternative response:
+2D 3D
+
+#The only way the 4C is better is if protector is void and mellow/Phil plays the 5C...
+#Not likely

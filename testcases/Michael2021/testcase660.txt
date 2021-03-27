@@ -75,3 +75,5 @@ Expert alternative response:
 8C
 
 #All hearts were played, so JH is pretty useless.
+#Also, the A,K,QC are all still out... 
+# so the only real hope of making a trick is to somehow make a JC??

@@ -1,0 +1,27 @@
+Your name: Michael2021-2
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 523             208
+
+Cards dealt:
+JS 9S 7S 6S 2S TH 4H 2H 7D 6D 5D 4D 3D 
+
+
+Bid history:
+Richard bid 4.
+Doris bid 4.
+
+
+Cards in hand:
+JS 9S 7S 6S 2S TH 4H 2H 7D 6D 5D 4D 3D 
+
+
+Expert response:
+2
+Expert alternative response:
+1
+
+#If ever I were to say mellow with 5 spades,
+# it would be in this type of situation were 4th bid will most likely also say mellow...
+# But mellow with 5 spades is still a little out there...
