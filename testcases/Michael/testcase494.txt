@@ -26,3 +26,6 @@ Expert response:
 4S
 Expert alternative response:
 3S
+
+# I though about not wasting high S when mellow is probably safe
+# But I'm not even sure this is right.

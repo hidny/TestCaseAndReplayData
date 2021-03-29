@@ -58,3 +58,7 @@ Expert response:
 9H
 Expert alternative response:
 
+#Don't waste a KD when there's 3 other diamonds
+#Also, waste 9H because mellow signalled only hearts lower than 9H
+#AH and 9H have the same value, but AH signals that you're sacrificing a trick
+#but you're not doing that, so it confuses your partner.

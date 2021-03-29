@@ -68,3 +68,7 @@ Expert response:
 4H
 Expert alternative response:
 8H
+
+#There's no hope of making a follow-trick with H,
+#but there is a little hope in D, so throw away H.
+#This failure doesn't make a huge diff, but I feel this simple concept is important.

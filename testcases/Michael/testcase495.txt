@@ -31,3 +31,7 @@ Expert response:
 JH
 Expert alternative response:
 QH KH
+
+#Even though mellow is safe in hearts,
+# it might be a good idea to save the lowest heart so 
+# we could decide for someone else to take the trick (like partner or protector)

@@ -53,3 +53,7 @@ Expert response:
 TD
 Expert alternative response:
 9D 8D
+
+#Don't waste a KD when there's 4 other diamonds
+#Also, Don't waste 9H because that won't help burn mellow at all and
+#it might remove the option of leading low diamond... 

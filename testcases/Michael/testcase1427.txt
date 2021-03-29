@@ -73,3 +73,10 @@ Expert response:
 QH
 Expert alternative response:
 AH KH
+
+#Don't throw AC because we need it to make our tricks
+#(Forget the mellow)
+#The logic here is hard... what if it's impossible to make the tricks?
+#Then AC is good.
+#It could be that the computer is right to get rid of the AC...
+#But I doubt it.
