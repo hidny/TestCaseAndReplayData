@@ -66,6 +66,10 @@ Cards in hand:
 5S QC JC 9D 
 
 Expert response:
-JC
+5S
 Expert alternative response:
-QC 9D
+
+
+#Feeding D is not an option if not leading S,
+#so lead S
+#Also, monte carlo simulator says to lead S.

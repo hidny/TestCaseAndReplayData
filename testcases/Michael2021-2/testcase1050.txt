@@ -68,4 +68,7 @@ Cards in hand:
 Expert response:
 JC
 Expert alternative response:
-8C
+8C QH JH
+
+#At first, I put in Clubs, but looking at it again, the computer was right.
+#Leading hearts is much much stronger because Doris has no spade and Clubs is master.

@@ -81,6 +81,7 @@ JS TC
 # Doris: 2/2
 
 Expert response:
-JS
+TC
 Expert alternative response:
 
+#Expect partner to trump

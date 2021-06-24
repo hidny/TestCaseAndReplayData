@@ -79,7 +79,6 @@ Cards in hand:
 # Doris: 3/2
 
 Expert response:
-3D
+9H
 Expert alternative response:
 
-#Correct later. Was 9H, but 9H > 3D...

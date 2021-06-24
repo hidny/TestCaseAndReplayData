@@ -44,3 +44,8 @@ Expert response:
 9C
 Expert alternative response:
 AH QD JD TD
+
+#Similar to 1034 and 1036:
+#When you have 2 master spades, and the play suggests your partner has the last spade,
+# don't lead spade...
+# This could be gamed, but whatever. Implement it, and see if it's "gamable"...

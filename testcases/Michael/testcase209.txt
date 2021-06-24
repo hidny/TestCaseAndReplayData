@@ -67,3 +67,6 @@ Expert response:
 Expert alternative response:
 
 #Just gopher it! At this point, losing the 5S doesn't matter
+#I think that once I explain the concept of estimated lead tricks,
+#I'll be able to let the computer make the right call.
+#Alternatively, just add a condition for trumping when you have master spade and weak others...

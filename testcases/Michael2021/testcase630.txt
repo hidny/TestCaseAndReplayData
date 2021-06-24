@@ -49,3 +49,6 @@ Expert response:
 6S
 Expert alternative response:
 5S JC
+
+#June 22nd Fixed: made it so that lead is discouraged from feeding LHS a trump trick
+#(Under very strict circumstances)

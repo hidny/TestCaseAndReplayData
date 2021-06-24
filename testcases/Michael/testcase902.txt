@@ -48,4 +48,6 @@ TS 7S 4S 5H TC 4C 6D 2D
 Expert response:
 6D
 Expert alternative response:
-2D TS 7S 4S
+2D TS 7S 4S 4C
+
+#June 22nd, 2021: added 4C because computer played it, and I like it.

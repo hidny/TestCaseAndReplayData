@@ -1,0 +1,30 @@
+Your name: Doris
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 788             577
+
+Cards dealt:
+JS 5S TD 8D 6D 4D 2D JC 8C 6C TH 4H 3H
+
+
+Bid history:
+Doris bid mellow.
+Michael2021-2 bid 4.
+Phil bid 2.
+Richard bid 5.
+
+
+Play history:
+--new round--
+
+Cards in hand:
+JS 5S TD 8D 6D 4D 2D JC 8C 6C TH 4H 3H
+
+Expert response:
+6D
+Expert alternative response:
+ 
+
+# Leading the round with JS got Doris' mellow burned.
+# Is that bad luck? Maybe not!

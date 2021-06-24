@@ -48,4 +48,7 @@ Cards in hand:
 Expert response:
 QC
 Expert alternative response:
+QD
 
+#June 22nd, 2021: I can't decide which Q is better to play, so I added playing QD as an option. 
+#Revisit

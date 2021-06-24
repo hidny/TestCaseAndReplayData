@@ -74,3 +74,7 @@ Expert response:
 6D
 Expert alternative response:
 5D 4D
+
+#June 22nd, 2021: monte carlo says play D,
+# so I guess there's a difference.
+#Aha: Doris might think richard has 6S and might trump with QS

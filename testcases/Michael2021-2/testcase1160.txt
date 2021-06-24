@@ -33,4 +33,4 @@ Cards in hand:
 Expert response:
 KC
 Expert alternative response:
-
+AD

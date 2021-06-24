@@ -74,3 +74,5 @@ Expert response:
 KD
 Expert alternative response:
 
+#Play D because it's master and there's more D in other people's hands.
+#I'm not sure why computer wants to play Club here... Is it because partner is void?

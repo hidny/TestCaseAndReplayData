@@ -64,3 +64,10 @@ Expert response:
 JD
 Expert alternative response:
 JH
+
+#Similar to 1032 and 1034:
+#When you have 1 master spade, and the play suggests your partner has the last spade,
+# don't lead spade...
+# This could be gamed, but whatever. Implement it, and see if it's "gamable"...
+#June 22nd,
+#This got fixed by accident, but the other related ones didn't yet get fixed.

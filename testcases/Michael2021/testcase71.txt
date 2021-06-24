@@ -49,3 +49,9 @@ Expert response:
 7D
 Expert alternative response:
 6D TH 4H
+
+#June 22nd, 2021:
+#This test case confuses me!
+#I'll leave as failed, and think about it more later.
+#Note that monte carlo won't help much because it doesn't care about the fact that D played KC
+# or R played under lead.

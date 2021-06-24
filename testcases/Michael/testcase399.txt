@@ -67,3 +67,5 @@ Expert response:
 6S
 Expert alternative response:
 5S
+
+#Monte carlo also says to play 6S

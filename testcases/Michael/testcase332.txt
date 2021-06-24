@@ -56,4 +56,4 @@ Cards in hand:
 Expert response:
 6S
 Expert alternative response:
-JD
+JD 3D

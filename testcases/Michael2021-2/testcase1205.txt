@@ -64,3 +64,7 @@ Expert response:
 9D
 Expert alternative response:
 
+#Computer plays spade here, and I don't get it.
+#I recommend playing the 9D because it's the suit where opponent to the right played A,
+#So she probably isn't void in it. Also play middlish just to be agro...
+#June 22nd, 2021: FIXED!

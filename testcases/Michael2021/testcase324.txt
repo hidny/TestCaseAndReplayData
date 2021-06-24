@@ -79,6 +79,6 @@ TC JD TD
 # Doris: 3/2
 
 Expert response:
-TD
+TC
 Expert alternative response:
 

@@ -73,4 +73,7 @@ Cards in hand:
 Expert response:
 8C
 Expert alternative response:
+6D 3D
 
+#June 22nd: playing clubs means LHS could trump low because partner has no spade,
+#so all plays are not good... 

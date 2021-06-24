@@ -60,9 +60,11 @@ Cards in hand:
 Expert response:
 9S
 Expert alternative response:
-6S
+6S 4D
 
 Just trump because you only have 4 low spades and aren't likely to make it in S??
 #This is dubious.
 # Playing 4D might be fine here.
 #Maybe the fact that there's still 4 H in other people's hand gives confort???
+#June 23rd, 2021:
+#I think the compute is right and we should trust our partner who led the QC

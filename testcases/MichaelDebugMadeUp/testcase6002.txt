@@ -1,0 +1,39 @@
+Your name: Phil
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 492             647
+
+Cards dealt:
+AS 8S 5S JD 5D AC TC 6C 4C KH TH 4H 3H 
+
+
+Bid history:
+Richard bid 3.
+Doris bid mellow.
+Michael2021-2 bid 4.
+Phil bid 3.
+
+
+Play history:
+--new round--
+Richard played the 3C.
+Doris played the 7C.
+Michael2021-2 played the 5C.
+Phil played the TC.
+--new round--
+Phil played the AS.
+Richard played the QS.
+Doris played the JS.
+Michael2021-2 played the TS.
+
+Cards in hand:
+8S 5S JD 5D AC 6C 4C KH TH 4H 3H 
+
+Expert response:
+8S
+Expert alternative response:
+KH
+#leading AC has a small danger...
+#Waiting for Clubs to be led, is probably better.
+#Maybe I'm biased by what happened though.

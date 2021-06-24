@@ -64,6 +64,9 @@ Cards in hand:
 9S TC 9C KD 
 
 Expert response:
-TC
+9S
 Expert alternative response:
-9C
+
+
+#June 22nd, 2021:computer played 9S, and I liked it.
+#Anything else just feeds the opponent on RHS (Doris)

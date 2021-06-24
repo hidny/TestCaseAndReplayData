@@ -33,4 +33,7 @@ Cards in hand:
 Expert response:
 8C
 Expert alternative response:
+7S 6S
 
+#Computer leads S because partner said 5...
+#I feel like it's not a terrible decision, so I'll it pass.

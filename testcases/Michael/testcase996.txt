@@ -61,6 +61,8 @@ Cards in hand:
 9S 5S 4S QD TD 
 
 Expert response:
-9S
+TD
 Expert alternative response:
-5S 4S
+ 
+
+#Play TD to let partner trump

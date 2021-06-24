@@ -34,3 +34,6 @@ Expert response:
 7D
 Expert alternative response:
 
+#When seated left of mellow, we should prioritize attacking mellow in suits partner lead into
+#and is likely to scare protector into playing high
+#And prioritize getting protector to think about trumping if protect bid <4 or it's early in the game.
