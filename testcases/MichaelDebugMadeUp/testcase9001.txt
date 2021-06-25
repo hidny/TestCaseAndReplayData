@@ -53,7 +53,7 @@ Cards in hand:
 Expert response:
 9D
 Expert alternative response:
-7D 8D
+7D 8D 3D
 
 # Phil shouldn't lead the C when Michael strong signal only having AC.
 # Even if it means risking the loss of the KD.
