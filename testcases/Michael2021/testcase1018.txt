@@ -38,4 +38,4 @@ JS TS 5S 4S 8H 7H 3H JC TC TD 2D
 Expert response:
 TC
 Expert alternative response:
-TS
+TS JS

@@ -43,9 +43,9 @@ Cards in hand:
 KS 6S 4S QH 8H 2C 4C 8C 9C    
 
 Expert response:
-4C
+2C
 Expert alternative response:
-KS
+KS 4C
 
 #Go big or go home!
 #LHS (Michael) is also trumping. 

@@ -53,4 +53,4 @@ JS 8S 5H 4H 2H AC 6D 2D
 Expert response:
 AC
 Expert alternative response:
-JS
+JS 8S

@@ -33,4 +33,4 @@ QS JS JH 6H 3H QC JC 6C AD KD TD 7D
 Expert response:
 AD
 Expert alternative response:
-QS KD
+QS KD JS

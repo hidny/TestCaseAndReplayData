@@ -41,6 +41,7 @@ Cards in hand:
 QS TS 2S QH TH 7H AC 4C 2C 
 
 Expert response:
-AC
+QS
 Expert alternative response:
 
+#I used to recommend playing the AC here, but that's so weird! What if clubs gets lead again?
