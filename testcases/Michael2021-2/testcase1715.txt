@@ -76,6 +76,6 @@ KS 7S QD
 # Only option
 
 Expert response:
-7S
+QD
 Expert alternative response:
 

@@ -43,4 +43,6 @@ Cards in hand:
 Expert response:
 8C
 Expert alternative response:
-JH JC
+JH JC 8C 5C 3C
+
+#Phil/LHS signalled to C or KC, so just play low if you want.

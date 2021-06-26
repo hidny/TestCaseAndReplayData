@@ -69,3 +69,5 @@ Expert response:
 8S
 Expert alternative response:
 JS
+
+#Probably have to drain spade before playing master cards
