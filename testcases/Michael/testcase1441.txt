@@ -75,4 +75,4 @@ KC JC 9C
 Expert response:
 KC
 Expert alternative response:
-JC
+JC 9C

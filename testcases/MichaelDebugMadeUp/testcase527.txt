@@ -52,9 +52,9 @@ Cards in hand:
 # Doris: 2/1
 
 Expert response:
-JH
+2H
 Expert alternative response:
-4S
+4S 
 
 #Don't throw away your only S for no reason
 #AAAH!

@@ -79,4 +79,4 @@ Cards in hand:
 Expert response:
 9H
 Expert alternative response:
-
+6H

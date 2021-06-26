@@ -1,0 +1,22 @@
+Your name: Richard
+Dealer is your partner opposite you
+Score at start:
+Your Score      Their Score
+ 946             282
+
+Cards dealt:
+AS JS TS 6S 4S 3S JH 9H AC QC 8C 5D 3D 
+
+Bid history:
+Phil bid 4.
+
+Cards in hand:
+AS JS TS 6S 4S 3S JH 9H AC QC 8C 5D 3D 
+
+Expert response:
+4
+Expert alternative response:
+
+
+# Richard should not bid so high...
+# What if Michael can't make 1.

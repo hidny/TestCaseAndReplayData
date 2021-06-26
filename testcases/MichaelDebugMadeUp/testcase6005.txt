@@ -1,0 +1,22 @@
+Your name: Doris
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 142             73
+
+Cards dealt:
+3S KH JH TH 9H 6H TC 8C 3C JD TD 8D 3D 
+
+Bid history:
+Richard bid 6.
+
+
+Cards in hand:
+3S KH JH TH 9H 6H TC 8C 3C JD TD 8D 3D
+
+Expert response:
+1
+Expert alternative response:
+
+
+#This mellow is way too dangerous.

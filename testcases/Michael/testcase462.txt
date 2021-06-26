@@ -58,4 +58,4 @@ Cards in hand:
 Expert response:
 8S
 Expert alternative response:
-7S AD
+7S AD QD JD

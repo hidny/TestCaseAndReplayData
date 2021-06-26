@@ -1,0 +1,53 @@
+Your name: Doris
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 726             61
+
+Cards dealt:
+AS 8S 3S 6H 4H QC JC 7C 2C AD KD JD 2D
+
+6H 4H 2C KD 
+
+Bid history:
+Michael2021-2 bid 3.
+Phil bid 4.
+Richard bid 1.
+Doris bid 3.
+
+
+Play history:
+--new round--
+Michael2021-2 played the AH.
+Phil played the TH.
+Richard played the 3H.
+Doris played the 4H.
+--new round--
+Michael2021-2 played the KH.
+Phil played the JH.
+Richard played the 5H.
+Doris played the 6H.
+--new round--
+Michael2021-2 played the AC.
+Phil played the 8C.
+Richard played the 3C.
+Doris played the 2C.
+--new round--
+Michael2021-2 played the 5D.
+Phil played the 7D.
+Richard played the QD.
+Doris played the KD.
+--new round--
+
+
+Cards in hand:
+AS 8S 3S QC JC 7C AD JD 2D
+
+Expert response:
+AS
+Expert alternative response:
+AD
+
+#Please don't play QC...
+#AS and AD is much better.
+#AS when you consider the trick count.

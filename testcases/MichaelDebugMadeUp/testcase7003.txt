@@ -1,0 +1,28 @@
+Your name: Phil
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 770             -9
+
+Cards dealt:
+AS KS 2S AH 4H 3H AC JC 8C 7C KD 9D 7D
+
+Bid history:
+Phil bid 4.
+Richard bid 2.
+Doris bid mellow.
+Michael2021-2 bid 3.
+
+
+Play history:
+--new round--
+
+Cards in hand:
+AS KS 2S AH 4H 3H AC JC 8C 7C KD 9D 7D
+
+Expert response:
+AS
+Expert alternative response:
+AC
+
+#Don't lead KS as a protector if you also have the AS!

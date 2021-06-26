@@ -1,0 +1,20 @@
+Your name: Richard
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 770             -9
+
+Cards dealt:
+KS TS 9S 7S 6S 3S QH AC 9C AD QD 3D 2D 
+
+Bid history:
+
+Cards in hand:
+KS TS 9S 7S 6S 3S QH AC 9C AD QD 3D 2D 
+
+Expert response:
+5
+Expert alternative response:
+
+
+#Richard bid really high again.

@@ -73,8 +73,8 @@ Cards in hand:
 KS TD 6D 
 
 Expert response:
-6D
+KS
 Expert alternative response:
 
 
-#Give partner a chance to make a trick
+#Partner signalled that he can't trump, so trump.
