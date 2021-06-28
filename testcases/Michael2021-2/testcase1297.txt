@@ -68,4 +68,7 @@ QS 3S KC 6D 5D
 Expert response:
 6D
 Expert alternative response:
+KC
 
+#Because both Phil and Doris are void in S, this is an easy trick
+#Now that I think about it more, play KC then 6D instead.

@@ -71,7 +71,4 @@ KH 9C JD
 Expert response:
 KH
 Expert alternative response:
-9C JD
-
-#This doesn't matter. Doris will either take with QD or trump...
-#Also, monte carlo sim confirmed it...
+9C
