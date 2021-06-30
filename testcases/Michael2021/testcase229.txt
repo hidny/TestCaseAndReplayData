@@ -60,4 +60,7 @@ Cards in hand:
 Expert response:
 8C
 Expert alternative response:
-6C 5C
+6C 5C QC
+
+#June 29th 2021:
+#Why not just play QC?

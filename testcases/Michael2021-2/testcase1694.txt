@@ -40,4 +40,8 @@ JH TH 9H QC 8C 6C 5C JD TD 9D 7D
 Expert response:
 8C
 Expert alternative response:
+QC
 
+#The QC is your best chance at making a trick because partner bid 6.
+#Keep it!
+#This might be wrong though... I'm not sure.

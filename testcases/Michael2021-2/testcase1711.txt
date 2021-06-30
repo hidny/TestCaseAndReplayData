@@ -61,5 +61,8 @@ KS 9S 7S 2S QD TD 4D
 Expert response:
 2S
 Expert alternative response:
+KS
 
 #Save KS when you have 4 spades...
+#The thing is, your partner wants you to play high...
+#Should you risk it? A: yes!
