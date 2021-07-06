@@ -1,0 +1,24 @@
+Your name: Richard
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 963             679
+
+Cards dealt:
+AS KS 3S KH 5H AC TC 3C 2C AD JD 8D 3D
+
+Bid history:
+Michael2021-2 bid 4.
+Phil bid 1.
+Richard bid 2.
+
+
+Cards in hand:
+9S 8S 3S QH JH TH QC TC 6C 5C QD JD 6D  
+
+Expert response:
+1
+Expert alternative response:
+
+# QJ6 D too risky
+#Also QJTH too risky

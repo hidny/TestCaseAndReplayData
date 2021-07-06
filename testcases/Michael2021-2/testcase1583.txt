@@ -68,8 +68,10 @@ JS TS 8S QH JC
 Expert response:
 8S
 Expert alternative response:
-JS JC
+JS
 
 #Probably have to drain spade before playing master cards
 #After researching, I noticed that the computer deduced partner was void in Clubs,
 #so JC is also a good move! It took me a long time to realize this...
+#Still think spades are better though...
+#TODO: investigate even more

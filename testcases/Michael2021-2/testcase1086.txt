@@ -53,4 +53,4 @@ JS 7S 5S 4S QH 8H KC 8C
 Expert response:
 4S
 Expert alternative response:
-5S
+5S 7S
