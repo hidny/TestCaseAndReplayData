@@ -1,7 +1,8 @@
 Your name: Phil
 Dealer is your partner opposite you.
 Score at start:
-
+Your Score      Their Score
+0 0
 Cards dealt:
 5S 3H 3S 8D JH 6H KD 7D AD QC 2D 2S 5D 
 

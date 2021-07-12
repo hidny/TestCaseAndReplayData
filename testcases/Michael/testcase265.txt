@@ -1,6 +1,8 @@
 Your name: Michael
 Dealer is your partner opposite you.
 Score at start:
+Your Score      Their Score
+0 0
 
 Cards dealt:
 JS 9S 8S 6S 8H 3H 2H AC KC QD 8D 4D 2D 

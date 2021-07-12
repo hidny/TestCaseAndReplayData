@@ -63,5 +63,8 @@ QS 7S 8H KC 5C TD
 Expert response:
 7S
 Expert alternative response:
+TD
 
 #OOPS! I originally played the QS...
+# Computer played the TD because partner signal void in D.
+# I think computer is right.

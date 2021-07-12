@@ -48,4 +48,4 @@ AH 4H KC JC KD QD JD TD 4D
 Expert response:
 KD
 Expert alternative response:
-
+AH

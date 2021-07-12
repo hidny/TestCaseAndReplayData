@@ -33,4 +33,6 @@ Cards in hand:
 Expert response:
 KC
 Expert alternative response:
+QH
 
+#Comp played QH, and I feel that's also a good lead.

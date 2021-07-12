@@ -43,4 +43,6 @@ QS 8S 7S QH 5H QC 4C TD 5D 2D
 Expert response:
 TD
 Expert alternative response:
+QH
 
+#Comp played QH, and that seems good to me.

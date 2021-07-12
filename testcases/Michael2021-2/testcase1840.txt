@@ -53,6 +53,6 @@ AH 4H KC JC QD JD TD 4D
 Expert response:
 QD
 Expert alternative response:
-
+AH
 #Play D. Only 1 S, so you might be able to get some easy diamond by forcing trump
 #Or Partner might have last S...
