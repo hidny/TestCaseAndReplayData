@@ -66,8 +66,6 @@ Cards in hand:
 8S 8H 3H 8D 
 
 Expert response:
-8D
+8H
 Expert alternative response:
-
-# Changed to suggesting the 8D because anything else is really bad.
-# Monte carlo agrees.
+3H
