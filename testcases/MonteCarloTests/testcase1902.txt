@@ -36,9 +36,6 @@ TS 8S 4S 2S QH JH 4H TC 3C KD 2D
 # Doris: 0/5
 
 Expert response:
-QH
-Expert alternative response:
 3C
+Expert alternative response:
 
-#After looking at this again, it seems like leading QH is also good.
-#Monte prefers clubs though...

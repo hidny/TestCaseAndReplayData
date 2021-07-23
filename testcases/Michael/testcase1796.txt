@@ -21,4 +21,6 @@ QS 5S KH 7H 4H KC QC 7C 6C 2C TD 7D 6D
 Expert response:
 7D
 Expert alternative response:
-7C 6C QS
+7C 6C QS 2C
+
+#Computer played extra safe, and I can't say I blame them.

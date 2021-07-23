@@ -58,4 +58,6 @@ Cards in hand:
 Expert response:
 TC
 Expert alternative response:
-4C 6H 5H 4H
+4C 6H 5H 4H 9H
+
+#At first I wanted to not play the 9H, but that's childish!

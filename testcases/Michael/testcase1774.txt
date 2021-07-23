@@ -43,4 +43,6 @@ Cards in hand:
 Expert response:
 KD
 Expert alternative response:
-9C 8C 5C 2C KC 
+9C 8C 5C 2C 
+
+#AI lead highest JC, but what if JC becomes master?

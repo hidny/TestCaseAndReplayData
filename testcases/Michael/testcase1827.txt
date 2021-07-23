@@ -48,4 +48,6 @@ Cards in hand:
 Expert response:
 7D
 Expert alternative response:
-2D 9S 8S
+2D 9S 8S QD
+
+#Computer played QD, and might be right...

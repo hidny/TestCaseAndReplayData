@@ -22,3 +22,5 @@ Expert response:
 KD
 Expert alternative response:
 KD TS
+
+#Don't play AC, because that exposes the 9C and 2C...

@@ -33,4 +33,6 @@ AS QS 9S 8S AH 9H 6H 3H QD 7D 2D
 Expert response:
 AH
 Expert alternative response:
+AS
 
+#Why not just play the AS first?
