@@ -71,4 +71,3 @@ TC
 #June 22nd, 2021: computer played 9S, and I liked it.
 #Anything else just feeds the opponent on RHS (Doris)
 #Maybe TC is ok because partner knows I'm feeding RHS?
-#Monte carlo agrees with me... barely

@@ -63,4 +63,6 @@ Cards in hand:
 Expert response:
 2D
 Expert alternative response:
-5D 3S 2S
+5D 3S 2S 9D
+
+#I don't think what I play here matters at this point

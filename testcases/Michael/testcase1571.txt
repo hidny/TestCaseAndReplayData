@@ -71,6 +71,9 @@ Cards in hand:
 9S 8S 6C 
 
 Expert response:
-9S
+6C
 Expert alternative response:
-8S
+
+
+#Give partner a chance to trump with their last spade
+#Opponents don't have spade at this point.
