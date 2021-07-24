@@ -1,22 +1,21 @@
-Your name: Richard
+Your name: Doris
 Dealer is your partner opposite you
 Score at start:
 Your Score      Their Score
- 946             282
+ 765             268
 
 Cards dealt:
-AS JS TS 6S 4S 3S JH 9H AC QC 8C 5D 3D 
+KS QS 7S KH TH 5H 4H 3H AC KC 5C AD KD 
 
 Bid history:
-Phil bid 4.
+Richard bid 4.
 
 Cards in hand:
-AS JS TS 6S 4S 3S JH 9H AC QC 8C 5D 3D 
+KS QS 7S KH TH 5H 4H 3H AC KC 5C AD KD 
 
 Expert response:
 4
 Expert alternative response:
+5
 
-
-# Richard should not bid so high...
-# What if Michael can't make 1.
+# Maybe bidding 6 is too high because partner may say mellow
