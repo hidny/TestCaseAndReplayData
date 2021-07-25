@@ -54,3 +54,6 @@ Expert response:
 QH
 Expert alternative response:
 JC
+
+#JD is slightly risky if RHS is void in D,
+# so leading master QH is preferred.

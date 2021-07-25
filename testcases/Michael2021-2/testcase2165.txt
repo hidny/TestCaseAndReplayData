@@ -53,4 +53,7 @@ TS 5S JC 5C 3C JD 8D 7D
 Expert response:
 3C
 Expert alternative response:
+7D 8D
 
+#You could also lead diamond because partner did a king
+#sacrifice in diamond.

@@ -51,3 +51,5 @@ Expert response:
 QS
 Expert alternative response:
 
+# Waste high Spade to make sure RHS doesn't make an easy trick
+# Playing high Spade is slightly dubious, but I'm sticking to it!

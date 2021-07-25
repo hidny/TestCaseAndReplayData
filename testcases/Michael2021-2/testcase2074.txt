@@ -53,4 +53,4 @@ QH 4H TC 7C 6C 2C 6D 3D
 Expert response:
 4H
 Expert alternative response:
-6C
+2C 7C 6C

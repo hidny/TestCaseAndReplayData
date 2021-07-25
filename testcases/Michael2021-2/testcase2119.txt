@@ -86,4 +86,4 @@ Cards in hand:
 Expert response:
 2H
 Expert alternative response:
-
+6H

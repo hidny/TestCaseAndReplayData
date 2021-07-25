@@ -79,3 +79,5 @@ Expert response:
 TD
 Expert alternative response:
 
+#Play master because it's 12 bid and protector doesn't have their tricks (2)
+#Also mellow doesn't have hearts
