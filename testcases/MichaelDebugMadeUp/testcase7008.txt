@@ -60,6 +60,7 @@ KH 9H 6H AD 8D 2D
 Expert response:
 8D 9H
 Expert alternative response:
-
+KH AD
 
 #Throwing away masters when attacking mellow isn't that great... (Phil)
+#Next day: July 25th: it's probably not a huge deal
