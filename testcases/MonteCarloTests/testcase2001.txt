@@ -78,6 +78,4 @@ Cards in hand:
 Expert response:
 3S
 Expert alternative response:
-
-#According to Monte, 3S is slightly more agro...
-#Clubs just feeds Opponent
+TC 9C

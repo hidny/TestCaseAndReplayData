@@ -33,4 +33,4 @@ Cards in hand:
 Expert response:
 QC
 Expert alternative response:
-
+QH
