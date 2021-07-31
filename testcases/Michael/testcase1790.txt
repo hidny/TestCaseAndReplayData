@@ -58,4 +58,7 @@ KH QH QC JC AD JD
 Expert response:
 AD
 Expert alternative response:
+KH
 
+#Don't lead C because partner can't trump
+#and one of the opponents will.

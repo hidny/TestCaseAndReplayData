@@ -38,4 +38,4 @@ TS 8S 6S 5S TH 8H AC KD 9D 5D 2D
 Expert response:
 AC
 Expert alternative response:
-
+6S 5S

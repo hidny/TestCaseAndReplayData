@@ -69,6 +69,3 @@ Expert response:
 8D
 Expert alternative response:
 
-#AI player deduced that Mellow partner is void in D....
-#AI happens to be right, but this makes me unconfortable.
-#I'm not sure about this one.

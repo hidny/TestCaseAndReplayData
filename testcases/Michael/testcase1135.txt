@@ -41,4 +41,4 @@ Cards in hand:
 Expert response:
 JH
 Expert alternative response:
-
+TC

@@ -56,4 +56,7 @@ KS TS 5S JH KC 8D
 Expert response:
 KC
 Expert alternative response:
-JH
+JH KS
+
+#Maybe KC is best because there might be a surprise that
+#we're void afterwards...

@@ -45,3 +45,4 @@ AD
 Expert alternative response:
 
 #Playing Spade really didn't work out here...
+#Partner got his tricks and didn't really have the spades to support this strat.
