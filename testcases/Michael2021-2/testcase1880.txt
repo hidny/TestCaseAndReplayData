@@ -58,4 +58,6 @@ Cards in hand:
 Expert response:
 2C
 Expert alternative response:
-3C 5C
+3C 5C 7H 6H 4H
+
+#Partner might have KC, so leading C could be a mistake

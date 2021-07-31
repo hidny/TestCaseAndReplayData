@@ -68,9 +68,10 @@ Cards in hand:
 Expert response:
 3C
 Expert alternative response:
-5C
+5C TC
 
 #You should lead into C because your partner is likely to have the KC
 # (Instead of flipping a coin on hearts)
 #This is true because your partner said 4, and you have to trust that he'll make it.
+#July 31st 2021, TC is okay... I'll take it
  

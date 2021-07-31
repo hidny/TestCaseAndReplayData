@@ -41,6 +41,8 @@ Cards in hand:
 # Doris: 1/1
 
 Expert response:
-TH
+JD
 Expert alternative response:
-2H
+9D 8D 7D 4D 5C 3C
+
+#Hearts might be bad if partner has KH but not AH.
