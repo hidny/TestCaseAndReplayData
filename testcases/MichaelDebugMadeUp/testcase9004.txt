@@ -1,0 +1,26 @@
+Your name: Richard
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 850             933
+
+Cards dealt:
+7S 8H 7H KC 7C 6C 4C 3C KD QD TD 9D 2D 
+
+
+Bid history:
+Michael2021-2 bid 5.
+Phil bid 1.
+Richard bid 1.
+Doris bid 2.
+
+Cards in hand:
+7S 8H 7H KC 7C 6C 4C 3C KD QD TD 9D 2D 
+
+Expert response:
+0
+Expert alternative response:
+
+
+#Just say mellow and try to win.
+# We have 850 points, so the mellow will threaten a quick win

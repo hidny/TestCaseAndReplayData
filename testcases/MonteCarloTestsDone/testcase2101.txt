@@ -56,10 +56,8 @@ KS 3S 2S 6H JC JD 5D
 # Doris: 2/2
 
 Expert response:
-JD
+6H
 Expert alternative response:
 
-#July 31st update:
-#JD is a no-brainer!
-#Monte wants the JC, but lets ignore that.
-#
+#JD is slightly risky if RHS is void in D,
+# so 6H feeding partner is preferred.

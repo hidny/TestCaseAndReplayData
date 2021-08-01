@@ -1,0 +1,23 @@
+Your name: Michael2021-2
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 645             762
+
+Cards dealt:
+TS 7S 6S 3S 9H 7H 2H 6C 3C 2C AD JD 4D 
+
+
+Bid history:
+
+
+Cards in hand:
+TS 7S 6S 3S 9H 7H 2H 6C 3C 2C AD JD 4D 
+
+
+Expert response:
+2
+Expert alternative response:
+1
+
+#I needed my partner's help to make this, so maybe 1 bid is better.

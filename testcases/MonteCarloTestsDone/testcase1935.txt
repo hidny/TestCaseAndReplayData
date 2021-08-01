@@ -73,8 +73,6 @@ Cards in hand:
 Expert response:
 QC
 Expert alternative response:
-7D 8D
 
 #There's no spade in other people's hand, so just make an easy trick...
 #Or play D and be ready to trump.
-#Monte says to play 7D or 8D

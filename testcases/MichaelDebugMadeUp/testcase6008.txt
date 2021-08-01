@@ -1,0 +1,25 @@
+Your name: Phil
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 237             231
+
+Cards dealt:
+AS QS JS TS 8S 5S 2S 7H 6H 2H 8C 6C 3C 
+
+
+Bid history:
+Richard bid 2.
+Doris bid 2.
+Michael2021-2 bid mellow.
+
+
+Cards in hand:
+AS QS JS TS 8S 5S 2S 7H 6H 2H 8C 6C 3C
+
+Expert response:
+6
+Expert alternative response:
+5
+
+#Bid less just in case you want to burn mellow and sacrifice a trick
