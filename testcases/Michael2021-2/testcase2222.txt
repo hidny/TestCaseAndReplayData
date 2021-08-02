@@ -78,4 +78,6 @@ QH TH TD
 Expert response:
 QH
 Expert alternative response:
+TH
 
+#Partner signalled AH, so H doesn't matter too much

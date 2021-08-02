@@ -33,4 +33,4 @@ QS 6S 3S 2S AH KH QH 2H JC 2C AD 4D
 Expert response:
 2S
 Expert alternative response:
-3S
+3S 6S

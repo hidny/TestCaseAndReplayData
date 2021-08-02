@@ -38,4 +38,4 @@ Cards in hand:
 Expert response:
 2S
 Expert alternative response:
-
+5S

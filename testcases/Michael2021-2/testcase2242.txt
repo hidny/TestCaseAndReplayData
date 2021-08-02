@@ -50,6 +50,9 @@ JH 8H 7H AC 6C AD KD QD JD
 # Doris: 0/1
 
 Expert response:
-6C
+7H 8H
 Expert alternative response:
 
+
+#Clubs isn't great because your partner might have KC alone or KQC
+#(That happened!)

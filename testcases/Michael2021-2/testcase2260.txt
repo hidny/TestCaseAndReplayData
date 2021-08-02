@@ -76,4 +76,6 @@ AH 3H QC 3C
 Expert response:
 QC
 Expert alternative response:
+AH
 
+#Technically, mellow is safe in every suit, so it doesn't matter

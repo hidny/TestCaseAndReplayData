@@ -34,3 +34,4 @@ Expert response:
 AS
 Expert alternative response:
 
+#Leading D might be good for trumping, but I prefer leading S.

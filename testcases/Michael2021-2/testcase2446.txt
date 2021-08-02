@@ -30,6 +30,6 @@ Cards in hand:
 # Doris: 0/0
 
 Expert response:
-8S
+6S
 Expert alternative response:
 

@@ -58,6 +58,7 @@ JS 8S 2S KH JH 9H 5H
 # Doris: 2/3
 
 Expert response:
-8S
+JS
 Expert alternative response:
-2S
+2S 8S
+#Going big is probably best, but it's hard to tell.
