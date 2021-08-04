@@ -49,3 +49,5 @@ Expert response:
 4H
 Expert alternative response:
 9C
+
+#Don't lead 3S when mellow has 6 or under and you're attacking

@@ -81,4 +81,3 @@ Expert alternative response:
 8H
 
 #Save Q equiv H and lead lower
-#Monte agrees

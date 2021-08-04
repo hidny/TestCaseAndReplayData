@@ -64,3 +64,5 @@ Expert response:
 KS
 Expert alternative response:
 
+#RHS signalled 1 last spade, so drain it
+#This might be a trick, but whatever

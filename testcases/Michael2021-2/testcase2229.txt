@@ -49,3 +49,7 @@ Expert response:
 3H
 Expert alternative response:
 4H 7H
+
+#Hearts has no risk of losing partner's K
+#, so play H
+#Also, Save Spade to trump diamonds.

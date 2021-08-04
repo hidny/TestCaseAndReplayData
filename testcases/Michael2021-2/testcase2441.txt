@@ -71,3 +71,5 @@ Expert response:
 QS
 Expert alternative response:
 
+#Choose is to Prefer playing quasi-TRAM over
+#hoping partner has master diamond.

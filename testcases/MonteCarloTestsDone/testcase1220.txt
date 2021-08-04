@@ -76,5 +76,4 @@ Cards in hand:
 Expert response:
 4D
 Expert alternative response:
-9D
-#This doesn't matter
+

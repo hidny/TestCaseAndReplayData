@@ -76,6 +76,4 @@ JH 7H
 Expert response:
 7H
 Expert alternative response:
-JH
 
-#Whatever

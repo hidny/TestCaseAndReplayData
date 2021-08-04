@@ -56,6 +56,6 @@ Cards in hand:
 TS 5H 3H JC 9C 6C 
 
 Expert response:
-TS
+5H
 Expert alternative response:
-JC 9C
+JC 9C 3H

@@ -34,3 +34,5 @@ Expert response:
 AS
 Expert alternative response:
 6S 7S 9C 9H
+
+#I guess AS because opponents each bid 1...

@@ -39,3 +39,5 @@ Expert response:
 9H
 Expert alternative response:
 9C
+
+#Don't lead spade because you want to trump diamonsd
