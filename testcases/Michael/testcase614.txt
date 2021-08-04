@@ -36,4 +36,4 @@ QS JS 9S 7S 6S 5S 9H 9C 3C 6D
 Expert response:
 9C
 Expert alternative response:
-QS
+QS 9S 7S 6S 5S

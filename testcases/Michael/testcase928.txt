@@ -47,3 +47,7 @@ Expert response:
 TS
 Expert alternative response:
 9S
+
+#Because only Phil has S, we should guarantee two spade
+#tricks by playing high S.
+#leading 5S just losses a trick.(2)

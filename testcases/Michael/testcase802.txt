@@ -67,3 +67,6 @@ Expert response:
 QD
 Expert alternative response:
 6S
+
+#Lead S to get rid of 2 of their spades
+#(Opponents currently have 5S between them)

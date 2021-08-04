@@ -46,4 +46,8 @@ Cards in hand:
 Expert response:
 4H
 Expert alternative response:
-TD 5D
+TD 5D 2C
+
+#The fact that the AC wasn't played makes me think
+#this isn't a real game...
+#Also, leading the 2C is fine.

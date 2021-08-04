@@ -41,4 +41,7 @@ KS QS TS JH 9H 8H 7H 3H 5C
 Expert response:
 5C
 Expert alternative response:
-JH 8H 7H
+JH 8H 7H KS
+
+#I originally said to not play the KS, but now I think it's good.
+#It drains Phil's last spade and gives me info.
