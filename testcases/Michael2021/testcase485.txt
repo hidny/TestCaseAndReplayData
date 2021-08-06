@@ -38,4 +38,4 @@ KS TS QH TH 7H JC 9C 8C 6C 8D 6D
 Expert response:
 8C
 Expert alternative response:
-9C JC 7H TH
+9C JC QH 7H TH

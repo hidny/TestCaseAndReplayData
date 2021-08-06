@@ -49,6 +49,9 @@ Cards in hand:
 QS 9S 7H 7C 6C 4C 2C 
 
 Expert response:
-7C
+7H
 Expert alternative response:
-6C 4C 2C
+
+
+#Don't play clubs because you will feed RHS
+#Also don't play S, because you're not strong in spade.

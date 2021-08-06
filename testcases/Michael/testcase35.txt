@@ -58,4 +58,7 @@ QS 8S TH 5H 2H 7C
 Expert response:
 8S
 Expert alternative response:
-QS
+QS TH 5H
+
+#Originally said to play Spade,
+# But LHS signalled no spades, so we're helping the opponents by leading spade.

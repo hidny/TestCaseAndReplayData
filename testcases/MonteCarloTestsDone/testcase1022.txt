@@ -58,10 +58,8 @@ TS 5S 4S 7H 3H TD 2D
 Expert response:
 TS
 Expert alternative response:
-5S 4S
 
 #I feel it's better to assume mellow doesn't have high S than high D
 #Also, leading spade in the hopes that Phil or Doris is forced to save Rich
 # isn't bad.
-#Don't forget that if TD is led, 2D alone is left in hand, and that's a recipe for disaster.
-#Monte recommends 54S, and in hind-sight, yes!
+#Don't forget that if TD is lead, 2D alone is left in hand, and that's a recipe for disaster.

@@ -41,6 +41,9 @@ Cards in hand:
 TS 8S 7S 4S KH QH TC TD 2D 
 
 Expert response:
-2D
+4S
 Expert alternative response:
-TC
+TC KH 2D
+
+#Because your partner bid 9, leading spade is correct
+#But bidding 9 makes no sense

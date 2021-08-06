@@ -34,3 +34,6 @@ Expert response:
 5D
 Expert alternative response:
 6H 4S 5S 7S
+
+#Save the 2H... even if it means potentially 
+# saving a burn with the 6H.

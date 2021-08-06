@@ -53,4 +53,10 @@ Cards in hand:
 Expert response:
 6S
 Expert alternative response:
-6C
+6C 8D 4D 3D 2D 
+
+#Technically, mellow/Richard signalled no diamonds,
+#so diamonds could be a good lead even though it looks dubious
+#Leading diamond only works if you make a lot of assumptions about how mellow plays
+#Aug 5th: I'm starting to love the computer's style
+#I'm going to let it do this strategy, because it's so powerful.

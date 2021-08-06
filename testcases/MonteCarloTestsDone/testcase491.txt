@@ -69,9 +69,6 @@ Cards in hand:
 TC 8D 5D 
 
 Expert response:
-TC
+5D
 Expert alternative response:
-
-#I preferred the Diamond before,
-#but now TC seems like a no-brainer...
-#I'll just let the AI pass.
+8D

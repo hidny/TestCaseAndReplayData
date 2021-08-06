@@ -63,4 +63,7 @@ TS 8S 7S 4S TD
 Expert response:
 TD
 Expert alternative response:
+4S
 
+#Because your partner bid 9, leading spade is correct
+#But bidding 9 makes no sense (3)

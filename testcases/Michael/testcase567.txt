@@ -59,6 +59,10 @@ Cards in hand:
 KS TS 5S JH 8D 
 
 Expert response:
-JH
+KS
 Expert alternative response:
-8D 5S
+5S
+
+#leading the master KS seems like a no brainer.
+#Maybe leading 5S first to encourage the waste
+#of Spades is similarly good?, but nothing else compares

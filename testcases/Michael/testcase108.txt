@@ -28,4 +28,4 @@ Cards in hand:
 Expert response:
 9D
 Expert alternative response:
-2D 3C
+2D 3C 9H 3H 2H

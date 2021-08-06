@@ -42,3 +42,6 @@ Expert response:
 5D
 Expert alternative response:
 3D
+
+#leading 3C would be very bad here
+#because mellow signalled 5C or less

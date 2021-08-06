@@ -34,3 +34,7 @@ Expert response:
 KS
 Expert alternative response:
 JC
+
+#I think Leading another master spade or leading JC
+#so partner is less likely to lose KC is better
+#than leading H to become void in hearts

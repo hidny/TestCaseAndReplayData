@@ -48,3 +48,6 @@ Expert alternative response:
 #Basically hoping to fish the AD out...
 #There's only 1 other spade, so there's a low chance of getting trumped on.
 #I don't know if it's a good idea, but it feels right
+#Aug 5th: This is a risky play, but I think it's a good risk to take.
+#Because: *only 1 other spade
+#         *Already have 3/4 tricks.

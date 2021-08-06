@@ -44,3 +44,7 @@ Expert response:
 KD
 Expert alternative response:
 TH TS 8S
+
+#At this point, AI should try to cash out the KD
+#and save spade for trumping.
+#Maybe if we have the QS, this would be more acceptable.

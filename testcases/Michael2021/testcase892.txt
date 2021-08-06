@@ -56,7 +56,10 @@ Cards in hand:
 # Doris: 2/4
 
 Expert response:
-7H
+6H
 Expert alternative response:
-
+2H 7H 
 #Just hope Richard didn't start with: QH, JH, TH, 8H
+#FYI: AI is funny, but I can't argue with it!
+#AI thinks there's no way their partner would have a third heart
+#based on what's played.

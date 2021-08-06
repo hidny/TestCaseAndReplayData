@@ -42,3 +42,6 @@ Expert response:
 TC
 Expert alternative response:
 9C KH
+
+#Playing clubs is great here because RHS has no spade above 9S
+#and LHS has to follow suit.

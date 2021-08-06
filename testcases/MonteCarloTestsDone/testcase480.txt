@@ -78,11 +78,4 @@ TS 8C TD
 Expert response:
 TS
 Expert alternative response:
-TD
 
-#TS then TD forces tricks and is better than leading 8C.
-#TD gets style points because it can be deduced that both opponents must follow suit
-#and partner is nice enough not to trump on you.
-#Logic: There's 4 diamonds not in hand and not played, partner is void in D
-# and There's only 3 cards left in hand
-#So even if 1 opponent has 3 diamond (all diamond), the other opponent will have 1.

@@ -63,4 +63,4 @@ Cards in hand:
 Expert response:
 TD
 Expert alternative response:
-8D 4H 3H
+8D 4H 3H 6H

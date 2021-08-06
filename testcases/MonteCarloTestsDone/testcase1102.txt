@@ -71,5 +71,4 @@ Expert alternative response:
 8C 5C 3S
 
 #Don't lead QC, because maybe it will be master?
-#I'm not 100% sure about this, but whatever.
-#Monte agrees!
+#I not 100% sure about this, but whatever.

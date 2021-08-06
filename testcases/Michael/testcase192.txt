@@ -43,4 +43,8 @@ Cards in hand:
 Expert response:
 5S
 Expert alternative response:
-AD
+
+
+#Why play the 5C first?
+#Don't play AD because LHS is trumping diamond,
+#and might notice...
