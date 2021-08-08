@@ -65,7 +65,5 @@ JH
 Expert alternative response:
 TH
 
-# Playing Master spade just removes ability to trump
-# It's not a huge diff though...
-#Aug 5th: leading spade could force 4 tricks
-#Lead spade...
+# Just lead hearts because there's no one else with spades,
+# and you can take them all.
