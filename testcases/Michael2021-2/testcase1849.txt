@@ -34,3 +34,6 @@ Expert response:
 4D
 Expert alternative response:
 6D
+
+#I currently prefer leading into suit where king is safe
+#over leading suit that only has 1 card.

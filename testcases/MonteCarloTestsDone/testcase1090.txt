@@ -74,6 +74,3 @@ Expert response:
 QH
 Expert alternative response:
 
-#Play master QH because there's only 2 other hearts in other people's hands.
-#As opposed to KC that has 3 other clubs in other people's hands
-#Monte agrees! But it's only 0.1 points better on average

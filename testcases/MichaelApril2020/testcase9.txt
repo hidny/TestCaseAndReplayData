@@ -56,6 +56,9 @@ Cards in hand:
 KS 8S 6S JC 7C 6C 
 
 Expert response:
-8S
+6C
 Expert alternative response:
-6S
+7C 
+
+#Don't play spade because LHS signalled no C, so
+#LHS is just going to trump over you
