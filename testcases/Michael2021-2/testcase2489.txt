@@ -46,8 +46,6 @@ AH QH 9H 4H KC 9C 2C KD 8D
 # Doris: 0/3
 
 Expert response:
-8D
+KD
 Expert alternative response:
 AH
-
-#Don't lead KD when you know that partner has AD.
