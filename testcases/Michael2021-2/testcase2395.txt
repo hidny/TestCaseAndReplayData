@@ -33,5 +33,7 @@ AS TS 9S 4S 5H 4H 3H 7C 6C 2C 5D 2D
 Expert response:
 AS
 Expert alternative response:
-
+5H 4H 3H
 #Leading D might be good for trumping, but I prefer leading S.
+#Also leading D might risk partner's KD.
+#Leading hearts might be ok too...

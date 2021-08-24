@@ -26,4 +26,4 @@ JS TS 8S 4S 3S 2H 9C 4C 3C 2C TD 8D 5D
 Expert response:
 2H
 Expert alternative response:
-9C TD 3S
+9C TD 3S 4S

@@ -1,0 +1,22 @@
+Your name: Michael2021-2
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 835             405
+
+Cards dealt:
+AS 8S KH QH 9H 7H 5H 2H 7C 6C 4C JD 6D 
+
+
+Bid history:
+Doris bid 2.
+
+
+Cards in hand:
+AS 8S KH QH 9H 7H 5H 2H 7C 6C 4C JD 6D 
+
+
+Expert response:
+2
+Expert alternative response:
+
