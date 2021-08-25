@@ -46,4 +46,4 @@ JS 9S QH 6H 5H KD 9D 6D
 Expert response:
 QH
 Expert alternative response:
-KD
+KD JS

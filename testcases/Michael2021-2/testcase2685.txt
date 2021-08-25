@@ -48,7 +48,5 @@ QS JS 8S KC 2C QD 5D 4D 2D
 Expert response:
 2D
 Expert alternative response:
-4D 5D
-#Maybe being agro with QD isn't bad...
-#I'll let AI pass.
-#Monte doesn't like the QD... I'll fail this test case.
+4D 5D 8S
+#Monte doesn't like the QD...

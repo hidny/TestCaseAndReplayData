@@ -65,4 +65,4 @@ KS 8S 3S 9H KC
 Expert response:
 KS
 Expert alternative response:
-KC 9H
+KC 9H 3S 8S

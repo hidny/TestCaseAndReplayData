@@ -38,4 +38,4 @@ KS QS 8S 6S QH 5H 3H 2H 9C 5C 4C
 Expert response:
 6S
 Expert alternative response:
-8S
+8S KS
