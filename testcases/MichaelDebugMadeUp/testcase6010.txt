@@ -1,0 +1,26 @@
+Your name: Doris
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 941             959
+
+Cards dealt:
+JS 9S KH 9H 5H KC JC 8C 4C KD QD 9D 7D 
+
+Bid history:
+Michael2021-2 bid 3.
+Phil bid 2.
+Richard bid 2.
+
+
+Cards in hand:
+JS 9S KH 9H 5H KC JC 8C 4C KD QD 9D 7D 
+
+
+Expert response:
+5
+Expert alternative response:
+0
+
+#Last round weirdness.
+#Bid min needed to win or mellow.

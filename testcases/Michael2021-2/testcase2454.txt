@@ -73,5 +73,5 @@ Expert response:
 KH
 Expert alternative response:
 
-#Don't throw off 4D just in case you could it later.
+#Don't throw off 4D just in case you could use it later.
 #Doesn't matter too much though

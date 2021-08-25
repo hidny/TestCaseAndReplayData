@@ -1,0 +1,21 @@
+Your name: Michael2021-2
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 750             710
+
+Cards dealt:
+AS KS JS 5S 4S 2S 7H 6H TC 4C QD JD 2D 
+
+
+Bid history:
+
+
+Cards in hand:
+AS KS JS 5S 4S 2S 7H 6H TC 4C QD JD 2D 
+
+
+Expert response:
+4
+Expert alternative response:
+5
