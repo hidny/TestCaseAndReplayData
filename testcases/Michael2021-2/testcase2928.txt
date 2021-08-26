@@ -1,0 +1,31 @@
+Your name: Michael2021-2
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 349             415
+
+Cards dealt:
+8S KH TH 9H 3H QC 9C 8C 7C 3C 8D 7D 2D 
+
+
+Bid history:
+Richard bid 3.
+Doris bid 3.
+Michael2021-2 bid mellow.
+Phil bid 3.
+
+
+Play history:
+--new round--
+Richard played the KS.
+Doris played the AS.
+
+Cards in hand:
+8S KH TH 9H 3H QC 9C 8C 7C 3C 8D 7D 2D 
+
+# Only option
+
+Expert response:
+8S
+Expert alternative response:
+

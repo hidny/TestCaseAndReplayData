@@ -1,0 +1,61 @@
+Your name: Doris
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 408             453
+
+Cards dealt:
+KS JS 8S 5S 6H 5H TC 9C 5C AD 9D 6D 3D 
+
+Bid history:
+Phil bid 3.
+Richard bid 2.
+Doris bid 3.
+Michael2021-2 bid 2.
+
+
+Play history:
+--new round--
+Phil played the AH.
+Richard played the 4H.
+Doris played the 5H.
+Michael2021-2 played the 2H.
+--new round--
+Phil played the QC.
+Richard played the AC.
+Doris played the 5C.
+Michael2021-2 played the 4C.
+--new round--
+Richard played the KH.
+Doris played the 6H.
+Michael2021-2 played the 8H.
+Phil played the 3H.
+--new round--
+Richard played the QH.
+Doris played the 5S.
+Michael2021-2 played the JH.
+Phil played the 7H.
+--new round--
+Doris played the AD.
+Michael2021-2 played the 2D.
+Phil played the TD.
+Richard played the 4D.
+--new round--
+Doris played the TC.
+Michael2021-2 played the 7C.
+Phil played the 3C.
+Richard played the KC.
+--new round--
+Richard played the 9H.
+
+
+Cards in hand:
+KS JS 8S 9C 9D 6D 3D 
+
+Expert response:
+JS
+Expert alternative response:
+
+
+#Go big or go home!
+#Actually, don't go that big...

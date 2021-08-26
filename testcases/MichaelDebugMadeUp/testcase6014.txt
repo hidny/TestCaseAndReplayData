@@ -1,0 +1,25 @@
+Your name: Phil
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 914             950
+
+Cards dealt:
+AS 2S TH 6H 5H 4H 2H AC QC JD 8D 4D 
+
+
+Bid history:
+Richard bid 3.
+Doris bid 3.
+Michael2021-2 bid 2.
+
+
+Cards in hand:
+AS 2S TH 6H 5H 4H 2H AC QC JD 8D 4D 
+
+Expert response:
+6
+Expert alternative response:
+
+
+#Weird Last round bid logic

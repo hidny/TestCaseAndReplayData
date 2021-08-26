@@ -1,0 +1,24 @@
+Your name: Michael2021-2
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 950             914
+
+Cards dealt:
+TS 4S KH QH 9H 7H 3H 7C 4C 2C 9D 7D 2D 
+
+
+Bid history:
+Richard bid 3.
+Doris bid 3.
+
+
+Cards in hand:
+TS 4S KH QH 9H 7H 3H 7C 4C 2C 9D 7D 2D 
+
+
+Expert response:
+2
+Expert alternative response:
+0
+#Min bid to win test case

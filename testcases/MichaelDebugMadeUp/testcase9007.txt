@@ -1,0 +1,22 @@
+Your name: Richard
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 882             773
+
+Cards dealt:
+QS 9S TC 6C 5C 2C TH 7H 5H 4H 2H JD 9D
+
+
+Bid history:
+Doris bid 2.
+Michael2021-2 bid 3.
+
+Cards in hand:
+QS 9S TC 6C 5C 2C TH 7H 5H 4H 2H JD 9D
+
+Expert response:
+1
+Expert alternative response:
+
+#Don't say mellow... this is rough.
