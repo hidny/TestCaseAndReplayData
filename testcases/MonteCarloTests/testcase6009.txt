@@ -58,9 +58,8 @@ KS TH 6H 3H QC 6D
 Expert response:
 QC
 Expert alternative response:
-TH 6H 3H
+
 
 #Don't help opponent by leading into Spade
 #It didn't end well when leading into spade;, but maybe it doesn't matter...
 #TODO: monte carlo this test case...
-#Monte wants QC!

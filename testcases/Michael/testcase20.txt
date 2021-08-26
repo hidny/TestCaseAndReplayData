@@ -48,4 +48,7 @@ QH 8H 7H 4H TC 7C 6C 4D
 Expert response:
 QH
 Expert alternative response:
-4D
+4D 8H 7H 4H
+
+#What happened in diamonds does not make sense
+#This shouldn't be a real test case.

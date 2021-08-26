@@ -83,6 +83,6 @@ JS TD
 Expert response:
 JS
 Expert alternative response:
-
+TD
 #My brain hurts...
-#Monte says to play JS and that was my instinct. So just do it 
+#Just pass the test case.
