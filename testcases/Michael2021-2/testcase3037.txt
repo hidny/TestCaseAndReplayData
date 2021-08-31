@@ -53,5 +53,6 @@ AS QS TS 8S 7S 8H 6H 2H
 Expert response:
 2H
 Expert alternative response:
-
+6H
 #I guess you should play heart because parnter probably has the king, but I don't know.
+#Also, Monte recommends 6H for some reason...
