@@ -78,6 +78,7 @@ Cards in hand:
 # Doris: 4/4
 
 Expert response:
-3H
+9S
 Expert alternative response:
 
+#I could TRAM here

@@ -43,4 +43,8 @@ Cards in hand:
 Expert response:
 JC
 Expert alternative response:
-6D
+6D 9C
+
+#Hard to tell what to do.
+#I think the JC is best because mellow might have A or K C
+#(Monte's confused, so I'm not sure)

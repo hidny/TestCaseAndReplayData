@@ -78,6 +78,7 @@ TS 7S 7D
 Expert response:
 TS
 Expert alternative response:
-7S
+7S 7D
 
 #Forcing out the master S seems better than letting opponents trump.
+#But what if opponent has KQ S?

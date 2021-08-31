@@ -85,4 +85,6 @@ TS JH
 Expert response:
 TS
 Expert alternative response:
+JH
 
+#Monte accepts both plays, so whatever

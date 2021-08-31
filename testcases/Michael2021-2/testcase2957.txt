@@ -43,4 +43,6 @@ QS TS 8S 9C 7C 5C KD 8D 7D 3D
 Expert response:
 9C
 Expert alternative response:
+7C 5C
 
+#Computer likes leading spade, but I'm not sure about that...

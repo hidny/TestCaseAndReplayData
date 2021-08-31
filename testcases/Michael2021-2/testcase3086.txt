@@ -41,6 +41,7 @@ TS 4S KH QH 9H 7H 7C 4C 2C 9D 7D
 Expert response:
 KH
 Expert alternative response:
-
+7H
 
 #Letting partner win reveals too much.
+#But that's way too brainy for the AI and for me.

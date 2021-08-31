@@ -83,4 +83,7 @@ JS 9H
 Expert response:
 JS
 Expert alternative response:
+9H
 
+#After a lot of thinking, I found out that's there's only 1 way the cards can be,
+#and it doesn't matter.

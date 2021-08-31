@@ -38,8 +38,4 @@ Cards in hand:
 Expert response:
 TC
 Expert alternative response:
-8C 6C 4C 8S
-#Monte says that leading your last spade here makes sense...
-#That's because there's nothing to trump and your last spade is useless.
-#The test case still fails though.
-#Also, stop leading Q offsuit when you have 4 other ones...
+8C 6C 4C

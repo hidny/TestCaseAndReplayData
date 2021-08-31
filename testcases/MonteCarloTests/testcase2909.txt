@@ -63,6 +63,4 @@ Cards in hand:
 Expert response:
 5H
 Expert alternative response:
-6H 8C 6C 
-
-#Playing hearts just feeds LHS (phil)
+6H

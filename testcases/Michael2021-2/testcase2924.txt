@@ -73,4 +73,4 @@ JS TS 8S 8D
 Expert response:
 JS
 Expert alternative response:
-TS 8S
+TS 8S 8D

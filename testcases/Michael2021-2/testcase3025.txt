@@ -58,4 +58,5 @@ AS TS 7S JC 6D 5D 3D
 Expert response:
 AS
 Expert alternative response:
-
+JC
+#JC is master and partner might be void, so play it.

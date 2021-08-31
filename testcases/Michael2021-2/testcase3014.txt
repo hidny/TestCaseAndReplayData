@@ -68,4 +68,5 @@ KC TC KD TD 5D
 Expert response:
 KC
 Expert alternative response:
+KD
 

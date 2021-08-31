@@ -86,3 +86,4 @@ Expert response:
 TD
 Expert alternative response:
 
+#TC is slightly better, so throw the TD.

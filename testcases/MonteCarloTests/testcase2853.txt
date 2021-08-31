@@ -31,27 +31,16 @@ Phil played the TS.
 Richard played the 2S.
 Doris played the 6S.
 Michael2021-2 played the KS.
---new round--
-Michael2021-2 played the JC.
-Phil played the 6C.
-Richard played the 8C.
-Doris played the 2C.
 
 Cards in hand:
-9S 7S KH QH 8H 5H 9C KD 6D 
+9S 7S KH QH 8H 5H JC 9C KD 6D 
 
-# Michael2021-2: 2/2
+# Michael2021-2: 1/2
 # Phil: 2/1
 # Richard: 0/4
 # Doris: 0/0
 
 Expert response:
-9C
+JC
 Expert alternative response:
-
-#Hard to tell and monte's no help...
-#Hard to tell what to do.
-#I think the 9C is best because mellow might have A or K C
-#But I don't know. What if partner is forced to play AC?
-#What if mellow is out of clubs?
-#(Monte's confused, so I'm not sure)
+6D
