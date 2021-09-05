@@ -55,6 +55,4 @@ AS KS JS 8S 4S 2S JH
 Expert response:
 2S
 Expert alternative response:
-AS KS JS 8S 4S JH 
-
-#This test case doesn't really make sense to be honest.
+4S 8S JS JH
