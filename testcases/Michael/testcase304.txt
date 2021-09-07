@@ -48,8 +48,9 @@ TS 5S 4S 2S AC KC TC 8C
 Expert response:
 4S
 Expert alternative response:
-TS 5S
+TS 5S 8C
 
 #Don't trump with 2S just in case 3S is out.
 #Also, just trump because you've got enough S to cover mellow...
 #The math on this is hard to explain though.
+#Sept 6th: what's wrong with 8C?
