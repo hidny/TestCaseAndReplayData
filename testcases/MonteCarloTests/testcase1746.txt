@@ -33,5 +33,4 @@ TS 7S 3S JH TH 5H 4H 2H AC 9C 2C
 Expert response:
 AC
 Expert alternative response:
-TS
-#AI suggests the TS, and might be right...
+

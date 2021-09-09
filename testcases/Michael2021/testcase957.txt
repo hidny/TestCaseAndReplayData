@@ -58,4 +58,6 @@ Cards in hand:
 Expert response:
 8S
 Expert alternative response:
+3C
 
+#Mellow might have 2C, but maybe not...
