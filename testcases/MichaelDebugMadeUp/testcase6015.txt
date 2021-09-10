@@ -1,0 +1,23 @@
+Your name: Richard
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 396             494
+
+Cards dealt:
+7S KH QH JH TH 5H QC 5C 4C TD 8D 6D 3D 
+
+
+Bid history:
+Doris bid 4.
+Michael2021-2 bid 4.
+Phil bid 2.
+
+Cards in hand:
+7S KH QH JH TH 5H QC 5C 4C TD 8D 6D 3D 
+
+Expert response:
+1
+Expert alternative response:
+2
+#Don't say mellow here.

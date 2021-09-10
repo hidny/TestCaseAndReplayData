@@ -1,0 +1,33 @@
+Your name: Michael2021-2
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 666             736
+
+Cards dealt:
+AS 8S 6S 4S TH 8H 2H 7C 4C TD 8D 6D 5D 
+
+
+Bid history:
+Doris bid 2.
+Michael2021-2 bid 2.
+Phil bid 4.
+Richard bid 1.
+
+
+Play history:
+--new round--
+Doris played the AH.
+
+Cards in hand:
+AS 8S 6S 4S TH 8H 2H 7C 4C TD 8D 6D 5D 
+
+# Michael2021-2: 0/2
+# Phil: 0/4
+# Richard: 0/1
+# Doris: 0/2
+
+Expert response:
+8H
+Expert alternative response:
+2H
