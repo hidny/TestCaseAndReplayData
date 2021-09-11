@@ -38,4 +38,4 @@ QS TS 8S 7S 3S TH 7C 6C AD 8D 2D
 Expert response:
 AD
 Expert alternative response:
-
+3S 7S 8S

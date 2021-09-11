@@ -73,4 +73,4 @@ AS 2S TC 5C
 Expert response:
 AS
 Expert alternative response:
-2S
+2S TC 5C

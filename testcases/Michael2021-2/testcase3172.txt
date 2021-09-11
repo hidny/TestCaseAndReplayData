@@ -82,4 +82,6 @@ AC 5C KD
 Expert response:
 5C
 Expert alternative response:
+KD
 
+#Alt KD to burn mellow is also good.

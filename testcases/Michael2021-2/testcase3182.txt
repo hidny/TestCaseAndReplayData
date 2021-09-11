@@ -63,4 +63,6 @@ QC TC 8C 4C 3C 7D
 Expert response:
 QC
 Expert alternative response:
+7D
 
+#Feed partner AD...

@@ -78,4 +78,4 @@ Cards in hand:
 Expert response:
 8C
 Expert alternative response:
-4D
+4D 5S

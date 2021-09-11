@@ -84,3 +84,6 @@ Expert response:
 5C
 Expert alternative response:
 
+#By playing the 5C there's hope that the 2S becomes master next round
+#Leading the 2S offers no hope
+#This is because there's only 2 more spades out.

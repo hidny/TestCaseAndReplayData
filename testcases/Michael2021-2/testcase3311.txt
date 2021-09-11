@@ -62,3 +62,4 @@ Expert response:
 9C
 Expert alternative response:
 
+#Don't throw off hearts because partner signalled QH or no hearts.

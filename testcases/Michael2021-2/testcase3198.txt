@@ -79,3 +79,7 @@ Expert response:
 JD
 Expert alternative response:
 
+#If you have 2 offsuit masters and no spades,
+#lead the offsuit master with less in other people's hand
+#(applies near the end of the round)
+#(Maybe 5C will win a trick...

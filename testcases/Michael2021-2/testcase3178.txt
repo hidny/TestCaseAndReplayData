@@ -43,4 +43,6 @@ Cards in hand:
 Expert response:
 KC
 Expert alternative response:
+AD
 
+#I prefer playing KC, but there's a good argument for playing D instead.

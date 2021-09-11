@@ -64,3 +64,5 @@ Expert response:
 JD
 Expert alternative response:
 9C
+
+#Don't waste last spade if 1 other has a spade and it's higher

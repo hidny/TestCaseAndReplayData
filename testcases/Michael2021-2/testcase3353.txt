@@ -74,3 +74,5 @@ Expert response:
 4H
 Expert alternative response:
 
+#There's only 2 other Spades over your 2 spades
+#Don't lead spade!

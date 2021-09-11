@@ -52,4 +52,6 @@ QS AH KH 9H 6H 4H 3H AC KC
 Expert response:
 AH
 Expert alternative response:
+KH
 
+#Playing AH might be slightly better, but it's hard to tell.

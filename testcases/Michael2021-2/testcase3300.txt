@@ -72,3 +72,4 @@ Expert response:
 TH
 Expert alternative response:
 
+#Don't throw D because partner is trumping Diamond.

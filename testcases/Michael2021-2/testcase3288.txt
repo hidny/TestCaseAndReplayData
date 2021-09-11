@@ -74,3 +74,6 @@ Expert response:
 8H
 Expert alternative response:
 
+#Save last S to protect partner?
+#I'm not 100% sure about this.
+#What if partner has AH or KH?

@@ -30,4 +30,4 @@ QS TS 5S 4S 9H 3H KC 8C 3C AD KD 7D 4D
 Expert response:
 AD
 Expert alternative response:
-
+KD
