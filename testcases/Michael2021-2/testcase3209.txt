@@ -71,4 +71,7 @@ Expert response:
 3C
 Expert alternative response:
 
-#Keep Diamond in case someone leads TD. Don't know why that would happen though...
+#Complicated test
+#Prefer removing lowest of K and 2 others
+#over lowest of A Q equiv...
+#I'm not 100% sure about this.

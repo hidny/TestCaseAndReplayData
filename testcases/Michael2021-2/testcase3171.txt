@@ -77,5 +77,6 @@ AC 5C 3C KD
 Expert response:
 3C
 Expert alternative response:
-5C KD
+5C KD AC
 #alt KD to burn mellow is also good.
+#Even AC might be good...

@@ -49,8 +49,9 @@ Cards in hand:
 AS 7S 4S 2S KH TH 7H 7D 
 
 Expert response:
-
+7S
 Expert alternative response:
+AS
 
-
-#Phil should NOT trump with the master AS here. It ruined everything!
+#Maybe Phil should NOT trump with the master AS here. It ruined everything!
+#Or maybe it doesn't matter.

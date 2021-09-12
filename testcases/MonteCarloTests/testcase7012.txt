@@ -55,5 +55,4 @@ Expert alternative response:
 
 
 #Don't just waste the master spade
-#Try to make a trick with QC instead
-#And force oppenent to trump twice on C
+#If you lead QC, partner might be able to drain spades or make a trick.

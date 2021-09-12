@@ -61,5 +61,6 @@ AS QS 8S 7S 5H JC 9C
 Expert response:
 9C
 Expert alternative response:
-
+5H
 #Don't throw off hearts because partner signalled QH or no hearts.
+#But JC is KQuiv, so maybe it's fine? Hard to say. I'll let AI pass.
