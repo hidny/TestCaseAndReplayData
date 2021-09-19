@@ -61,4 +61,4 @@ TH JC 4C 3C QD JD 9D
 Expert response:
 4C
 Expert alternative response:
-TH 9D
+TH 9D 3C
