@@ -1,0 +1,90 @@
+Your name: Michael2021-2
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 913             572
+
+Cards dealt:
+JS 9S 5S QH 9H 8H 2H KC 7C 6C 5C 4C 2D 
+
+
+Bid history:
+Phil bid 3.
+Richard bid 2.
+Doris bid 3.
+Michael2021-2 bid 1.
+
+
+Play history:
+--new round--
+Phil played the AS.
+Richard played the 2S.
+Doris played the 6S.
+Michael2021-2 played the 5S.
+--new round--
+Phil played the AD.
+Richard played the 6D.
+Doris played the 4D.
+Michael2021-2 played the 2D.
+--new round--
+Phil played the KS.
+Richard played the 3S.
+Doris played the 8S.
+Michael2021-2 played the 9S.
+--new round--
+Phil played the 7S.
+Richard played the 2C.
+Doris played the TS.
+Michael2021-2 played the JS.
+--new round--
+Michael2021-2 played the QH.
+Phil played the 6H.
+Richard played the 4H.
+Doris played the 3H.
+--new round--
+Michael2021-2 played the 9H.
+Phil played the TH.
+Richard played the AH.
+Doris played the 5H.
+--new round--
+Richard played the KH.
+Doris played the JH.
+Michael2021-2 played the 2H.
+Phil played the 7H.
+--new round--
+Richard played the TD.
+Doris played the KD.
+Michael2021-2 played the 4C.
+Phil played the 3D.
+--new round--
+Doris played the AC.
+Michael2021-2 played the 5C.
+Phil played the 3C.
+Richard played the 8C.
+--new round--
+Doris played the JC.
+Michael2021-2 played the KC.
+Phil played the TC.
+Richard played the 9C.
+--new round--
+Michael2021-2 played the 8H.
+Phil played the 4S.
+Richard played the 7D.
+Doris played the 9D.
+--new round--
+Phil played the 8D.
+Richard played the QD.
+Doris played the JD.
+
+Cards in hand:
+7C 6C 
+
+# Michael2021-2: 3/1
+# Phil: 4/3
+# Richard: 2/2
+# Doris: 2/3
+
+Expert response:
+6C
+Expert alternative response:
+7C

@@ -1,0 +1,47 @@
+Your name: Doris
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 200             300
+
+Cards dealt:
+QS TS 8S 6S JH 5H 3H AC JC KD JD 9D 4D 
+
+
+Bid history:
+Phil bid 3.
+Richard bid 2.
+Doris bid 3.
+Michael2021-2 bid 1.
+
+
+Play history:
+--new round--
+Phil played the AS.
+Richard played the 2S.
+Doris played the 6S.
+Michael2021-2 played the 5S.
+--new round--
+Phil played the AD.
+Richard played the 6D.
+Doris played the 4D.
+Michael2021-2 played the 2D.
+--new round--
+Phil played the KS.
+Richard played the 3S.
+Doris played the 8S.
+Michael2021-2 played the 9S.
+--new round--
+Phil played the 7S.
+Richard played the 2C.
+
+
+Cards in hand:
+QS TS JH 5H 3H AC JC KD JD 9D 
+
+Expert response:
+QS
+Expert alternative response:
+
+
+#Just play high and don't let 4th thrower win.
