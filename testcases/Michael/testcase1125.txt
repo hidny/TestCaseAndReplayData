@@ -56,7 +56,7 @@ QS 4H JC 9C 7C 5C
 Expert response:
 9C
 Expert alternative response:
-7C 5C
+7C 5C JC
 
-#There's no reason to play high when only RHS (Doris)
-#is following suit. This is an easy one.
+#Prefer being obvious about not leading master maybe?
+#Whatever!
