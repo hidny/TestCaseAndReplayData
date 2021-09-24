@@ -58,4 +58,7 @@ AS QS 8S TH 9H 6H 7C
 Expert response:
 7C
 Expert alternative response:
+TH 9H 6H
 
+#Partner is void in hearts, so playing hearts is an option
+#It's probably the better option because LHS(Phil) led the JH

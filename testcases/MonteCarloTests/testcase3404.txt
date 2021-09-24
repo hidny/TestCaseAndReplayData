@@ -71,5 +71,4 @@ Expert alternative response:
 8D 5D
 
 #Monte doesn't like the diamond lead, but it's hard to understand why it's
-#not optimal, so I'll let the computer have this...
-#(I originally made the worst choice and led C)
+#not optimal, so I'll let the computer have this... 
