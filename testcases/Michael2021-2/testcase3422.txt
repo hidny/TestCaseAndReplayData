@@ -26,9 +26,10 @@ AS QS TS 9S 8S QH 4H 7C 4C 2C AD JD TD
 Expert response:
 QH
 Expert alternative response:
-AD
+AD QS AS TS 9S 8S
 
 #I'm not sure about this one.
 #AI has 10+ reasons to play spade here,
 #but instincts say don't.
-#Monte says: 
+#Monte says: Play any spade or QH or maybe 4H.
+#I'll go with monte.
