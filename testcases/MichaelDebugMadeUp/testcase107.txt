@@ -24,7 +24,7 @@ AS QS TS JH TH 5H QC 5C 4C JD 6D 4D 2D
 Expert response:
 JH
 Expert alternative response:
-TH JD QC
+TH JD QC 5C 4C
 #Phil started with the AS, and it really didn't work out.
 #I think starting with AS when opponents are stronger than you is ill advised.
 #His partner Doris lost the ability to trump:

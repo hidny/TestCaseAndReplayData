@@ -63,4 +63,6 @@ QH 9H QD 8D 6D 5D
 Expert response:
 QH
 Expert alternative response:
+QD
 
+#QD is acceptable because RHS (Doris) is void in spade.

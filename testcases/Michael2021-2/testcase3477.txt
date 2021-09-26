@@ -43,4 +43,4 @@ QS 4S 2S QH 9H 6H JC 6C 4C 3C
 Expert response:
 JC
 Expert alternative response:
-6C 4C 3C
+6C 4C 3C QH 9H 6H

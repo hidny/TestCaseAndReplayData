@@ -83,6 +83,5 @@ Cards in hand:
 Expert response:
 9S
 Expert alternative response:
-JD
 
-#Monte says it doesn't matter.
+

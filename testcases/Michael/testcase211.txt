@@ -73,8 +73,9 @@ Cards in hand:
 KS TD 6D 
 
 Expert response:
-KS
+6D
 Expert alternative response:
+TD 
 
-
-#Partner signalled that he can't trump, so trump.
+#Save your master spade for later.
+#Monte agrees!

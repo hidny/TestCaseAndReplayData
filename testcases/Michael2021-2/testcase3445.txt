@@ -82,4 +82,6 @@ TC 9D 8D
 Expert response:
 8D
 Expert alternative response:
+TC
 
+#TC is the lowest, so it's ok to throw
