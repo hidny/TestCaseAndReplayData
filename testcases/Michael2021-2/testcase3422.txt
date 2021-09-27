@@ -31,5 +31,5 @@ AD QS AS TS 9S 8S
 #I'm not sure about this one.
 #AI has 10+ reasons to play spade here,
 #but instincts say don't.
-#Monte says: Play any spade or QH or maybe 4H.
+#Monte says: Play QS, or any spade or QH or maybe 4H.
 #I'll go with monte.
