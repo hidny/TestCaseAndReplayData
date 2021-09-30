@@ -43,4 +43,8 @@ TS 6S 2S 8H 4H 7C 4C 3C AD 5D
 Expert response:
 2S
 Expert alternative response:
-AD 4C 3C 7C
+AD 7C 4C 3C 6S
+
+#Monte: no spades play clubs
+#Also AD is bad too (It prefers 5D over AD)
+#Also 6S = 2s, so let comp play 6S if 2S is good.

@@ -61,5 +61,4 @@ Expert alternative response:
 JH JD TD 9D
 
 #Maybe diamond, but partner signalled no spade...
-#Whatever! Don't play low D because you could force a master D...
-#Monte Prefers 7H, then JH and then JT9D. Whatever!
+#Whatever!

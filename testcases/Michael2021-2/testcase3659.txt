@@ -46,4 +46,9 @@ AH 3H AC QC JC TC 4C 2C TD 2D
 Expert response:
 AH
 Expert alternative response:
+TD
+
+#Monte likes throwing the TD
+#Maybe because if LHS leads H, it's not that threatning
+#Monte also likes AH... (just over a 2 point diff) (In the 2nd run diff was less than .1 points)
 

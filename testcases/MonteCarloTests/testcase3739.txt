@@ -53,8 +53,4 @@ TS 6S 4S JC 6C 4C 2C TD
 Expert response:
 JC
 Expert alternative response:
-6S 4S 6C 4C 2C
-
-#Draining spades is also an option
-#Monte likes TD and then 2to 6C, then spade then JC...
-#I don't approve of the TD because Doris led the KD and monte still doesn't know what that means
+6S 4S

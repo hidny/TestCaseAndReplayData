@@ -78,6 +78,4 @@ Cards in hand:
 Expert response:
 5D
 Expert alternative response:
-
-#Monte thinks the 7S is a bad play.
-#Also, don't play QD, it will just get taken...
+7S
