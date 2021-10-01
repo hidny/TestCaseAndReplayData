@@ -78,6 +78,11 @@ Cards in hand:
 Expert response:
 5D
 Expert alternative response:
+QD
 
 #Monte thinks the 7S is a bad play.
 #Also, don't play QD, it will just get taken...
+#I'm not 100% sure about this.
+#Update: There's 7 Diamonds among 3 other players,
+#so no one is void in diamond... but I still can't figure out why playing QD is bad.
+#I'll just the QD be ok...

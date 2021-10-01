@@ -64,3 +64,6 @@ Expert response:
 2S
 Expert alternative response:
 9S 6D
+
+#Don't play hearts because phil(LHS) signalled master or trumping H
+#Don't play JS because it will just be eaten by the QS.
