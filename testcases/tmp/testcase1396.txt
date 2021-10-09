@@ -49,6 +49,3 @@ Expert response:
 7S
 Expert alternative response:
 TS 9S 4S
-
-#Monte like spade below KS, so I'll keep it as-is
-#It also prefers the 7S just like me!

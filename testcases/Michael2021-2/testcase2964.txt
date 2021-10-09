@@ -78,4 +78,7 @@ QS 8D 7D
 Expert response:
 8D
 Expert alternative response:
-7D
+7D QS
+
+#On second thought, Phil signalled high diamond or void,
+#so don't lead diamond

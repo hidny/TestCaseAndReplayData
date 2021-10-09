@@ -19,6 +19,4 @@ TS 8S 7S 4S 2S TH QC 8C 5C 4C 3C TD 9D
 Expert response:
 8C
 Expert alternative response:
-8S 7S 4S 2S 5C 4C 3C
-
-#Play lower spade or low club
+TH TD 9D 8S 7S 4S 2S

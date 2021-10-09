@@ -64,6 +64,3 @@ Expert response:
 KH
 Expert alternative response:
 
-#Dare last player with spade to trump
-#don't risk last KC.
-#(Monte confirmed this)

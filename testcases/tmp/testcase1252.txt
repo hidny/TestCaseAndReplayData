@@ -38,7 +38,4 @@ QS 9S 8S 5S 2S TC 6C 5C QD TD 3D
 Expert response:
 2S
 Expert alternative response:
-5S 8S 9S
-
-#Monte likes spade below QS and then the 3D as a 2nd choice
-#I'll just pass the low spade...
+5S 8S 9S TD TC
