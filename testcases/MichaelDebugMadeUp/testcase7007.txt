@@ -2,7 +2,7 @@ Your name: Richard
 Dealer is on your right
 Score at start:
 Your Score      Their Score
- 770             -9
+ 983             700
 
 Cards dealt:
 3S QH 8H 7H 5H 4H 7C 6C QD JD TD 7D 2D

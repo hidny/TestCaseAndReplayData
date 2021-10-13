@@ -20,3 +20,4 @@ Expert response:
 1
 Expert alternative response:
 
+#Monte agrees that we should not bid mellow here (it bids 2)

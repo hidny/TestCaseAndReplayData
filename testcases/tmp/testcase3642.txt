@@ -2,24 +2,22 @@ Your name: Michael2021-2
 Dealer is on your left
 Score at start:
 Your Score      Their Score
- 886             345
+ 372             96
 
 Cards dealt:
-JH TH 9H 5H QC 8C 6C 5C 4C JD TD 9D 7D 
+3S KH QH JH 3H JC TC 5C AD QD JD 9D 7D 
 
 
 Bid history:
-Richard bid 6.
+Richard bid 3.
 Doris bid 4.
 
 
 Cards in hand:
-JH TH 9H 5H QC 8C 6C 5C 4C JD TD 9D 7D 
+3S KH QH JH 3H JC TC 5C AD QD JD 9D 7D 
 
 
 Expert response:
-1
+3
 Expert alternative response:
-0
-
-#Monte likes just bidding mellow, and I don't blame it.
+2
