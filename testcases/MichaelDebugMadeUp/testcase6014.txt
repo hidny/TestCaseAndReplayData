@@ -22,4 +22,4 @@ Expert response:
 Expert alternative response:
 
 
-#Weird Last round bid logic
+#Weird Last round bid high logic

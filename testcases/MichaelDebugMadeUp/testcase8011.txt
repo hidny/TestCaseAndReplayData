@@ -1,0 +1,20 @@
+Your name: Doris
+Dealer is your partner opposite you
+Your Score      Their Score
+ 372             96
+
+Cards dealt:
+AS TS 9S 6S 2S AH 9C 7C 2C TD 8D 4D 3D 
+
+Bid history:
+Richard bid 3.
+
+Cards in hand:
+AS TS 9S 6S 2S AH 9C 7C 2C TD 8D 4D 3D 
+
+Expert response:
+3
+Expert alternative response:
+
+
+#Don't bid too high

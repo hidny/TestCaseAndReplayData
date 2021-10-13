@@ -1,0 +1,21 @@
+Your name: Doris
+Dealer is your partner opposite you
+Your Score      Their Score
+ 668             161
+
+Cards dealt:
+KS QS JS TS 8S 7S 4S TH 6H 2H 8C 3C TD 
+
+
+Bid history:
+Richard bid 1.
+
+Cards in hand:
+KS QS JS TS 8S 7S 4S TH 6H 2H 8C 3C TD 
+
+Expert response:
+6
+Expert alternative response:
+
+
+#Bid 6 because of spade...

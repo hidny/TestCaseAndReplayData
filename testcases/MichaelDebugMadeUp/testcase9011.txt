@@ -1,0 +1,57 @@
+Your name: Richard
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 573             71
+
+Cards dealt:
+9S 7S AH QH JH 6H 4H 2H 5C TD 8D 5D 2D 
+
+
+Bid history:
+Michael2021-2 bid 3.
+Phil bid 7.
+Richard bid 2.
+Doris bid mellow.
+
+
+Play history:
+--new round--
+Michael2021-2 played the 7D.
+Phil played the AD.
+Richard played the TD.
+Doris played the AC.
+--new round--
+Phil played the AS.
+Richard played the 7S.
+Doris played the TS.
+Michael2021-2 played the JS.
+--new round--
+Phil played the 3D.
+Richard played the 5D.
+Doris played the JC.
+Michael2021-2 played the KD.
+--new round--
+Michael2021-2 played the 4C.
+Phil played the QC.
+Richard played the 5C.
+Doris played the 9C.
+--new round--
+Phil played the 4D.
+Richard played the 8D.
+Doris played the 8C.
+Michael2021-2 played the QD.
+--new round--
+Michael2021-2 played the 9H.
+Phil played the 2S.
+
+
+Cards in hand:
+9S AH QH JH 6H 4H 2H 2D 
+
+Expert response:
+QH
+Expert alternative response:
+JH 6H
+
+#Don't waste master Hearts as mellow attacker.
