@@ -1,0 +1,45 @@
+Your name: Phil
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 341             328
+
+Cards dealt:
+AS KS QS 5S 3S 2S KH 8H TC 7C 3C QD 4D 
+
+Bid history:
+Doris bid 1.
+Michael2021-2 bid 1.
+Phil bid 7.
+Richard bid 3.
+
+
+Play history:
+--new round--
+Doris played the 7S.
+Michael2021-2 played the 8S.
+Phil played the AS.
+Richard played the 4S.
+--new round--
+Phil played the KS.
+Richard played the 9S.
+Doris played the 6S.
+Michael2021-2 played the TS.
+--new round--
+Phil played the QS.
+Richard played the 4C.
+Doris played the JS.
+Michael2021-2 played the 2H.
+--new round--
+
+
+Cards in hand:
+5S 3S 2S KH 8H TC 7C 3C QD 4D 
+
+Expert response:
+QD
+Expert alternative response:
+TC 7C 3C 4D
+
+#Phil shouldn't lead H when he could sweep
+#spade and has the KH with only 1 other.

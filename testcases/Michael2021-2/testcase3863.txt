@@ -1,0 +1,24 @@
+Your name: Michael2021-2
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 183             336
+
+Cards dealt:
+AS KS JS 8S QH QC 8C 6C 5C 4C AD 9D 6D 
+
+
+Bid history:
+Richard bid 1.
+Doris bid 2.
+
+
+Cards in hand:
+AS KS JS 8S QH QC 8C 6C 5C 4C AD 9D 6D 
+
+
+Expert response:
+4
+Expert alternative response:
+3
+#I'll allow the AI to be a coward because partner said 1.

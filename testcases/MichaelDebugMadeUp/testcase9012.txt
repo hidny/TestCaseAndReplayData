@@ -1,0 +1,24 @@
+Your name: Doris
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 341             328
+
+Cards dealt:
+3S QH 9H 6H 9C 8C 5C 3C TD 9D 8D 6D 3D 
+
+Bid history:
+Phil bid 3.
+Richard bid 1.
+
+
+Cards in hand:
+3S QH 9H 6H 9C 8C 5C 3C TD 9D 8D 6D 3D 
+
+Expert response:
+0
+Expert alternative response:
+
+
+#Just bid mellow with this.
+#Can't even make 1

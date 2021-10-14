@@ -43,8 +43,10 @@ QS JS 8S 3H 4C 2C KD JD TD 9D
 Expert response:
 KD
 Expert alternative response:
-
+QS JS 8S 3H
 
 #Just lead offsuit master instead of  trying to force out S
 #I'm not sure about this
 #Maybe I wanted to play diamond, so I can make JD, TD master for later?
+#October 13th: Monte likes leading spade because partner said 5
+#Monte also likes leading the 3H, but I'm not sure.

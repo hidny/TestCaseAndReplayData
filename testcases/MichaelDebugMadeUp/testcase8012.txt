@@ -59,7 +59,7 @@ Richard played the 7H.
 
 
 Cards in hand:
-TS 9S 2S TD 8D 4D
+TS 9S 2S 8D 4D
 
 Expert response:
 2S
