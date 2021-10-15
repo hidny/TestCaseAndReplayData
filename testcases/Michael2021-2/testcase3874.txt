@@ -81,4 +81,8 @@ Cards in hand:
 Expert response:
 QC
 Expert alternative response:
+8C
 
+#I did the math, and checked with monte:
+#You could get all tricks by playing either club
+#because you have last spade and partner has 7C back

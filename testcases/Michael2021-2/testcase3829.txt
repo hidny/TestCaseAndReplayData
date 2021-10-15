@@ -46,6 +46,8 @@ QS JS 2S QH TH 3H JC TC 9D
 # Doris: 1/2
 
 Expert response:
-QS
+JC
 Expert alternative response:
-JH
+TC JH QS
+
+#Feed your partner

@@ -32,4 +32,6 @@ KS 6S 2S AH QH 9H 8H AC KC QC TC JD 5D
 Expert response:
 AC
 Expert alternative response:
+KC QC
 
+#Monte doesn't think AC is better than KC, QC, so I'll give all three options.

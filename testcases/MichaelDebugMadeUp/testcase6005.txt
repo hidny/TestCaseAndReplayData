@@ -1,22 +1,50 @@
-Your name: Doris
+Your name: Phil
 You are the Dealer
 Score at start:
 Your Score      Their Score
- 142             73
+ 114             74
 
 Cards dealt:
-3S KH JH TH 9H 6H TC 8C 3C JD TD 8D 3D 
+7S 4S AH KH 9H 2H QC TC 6C 5C 4C JD 4D
+
 
 Bid history:
-Richard bid 6.
+Richard bid 3.
+Doris bid 6.
+Michael2021-2 bid 1.
+Phil bid 2.
+
+
+Play history:
+--new round--
+Richard played the AD.
+Doris played the TD.
+Michael2021-2 played the 2D.
+Phil played the 4D.
+--new round--
+Richard played the KD.
+Doris played the QD.
+Michael2021-2 played the 3D.
+Phil played the JD.
+--new round--
+Richard played the AC.
+Doris played the 3C.
+Michael2021-2 played the 8C.
+Phil played the 4C.
+--new round--
+Richard played the 8H.
+Doris played the 5H.
+Michael2021-2 played the QH.
+Phil played the KH.
+--new round--
 
 
 Cards in hand:
-3S KH JH TH 9H 6H TC 8C 3C JD TD 8D 3D
+7S 4S AH 9H 2H QC TC 6C 5C
 
 Expert response:
-1
+4S
 Expert alternative response:
-
-
-#This mellow is way too dangerous.
+7S
+#Lead spade to help partner who bid 6
+#Leading hearts didn't work out (opponents trumped)

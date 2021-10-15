@@ -26,18 +26,26 @@ Doris played the 5H.
 Michael2021-2 played the 9H.
 Phil played the 2H.
 Richard played the 6H.
+--new round--
+Michael2021-2 played the AC.
+Phil played the 4C.
+Richard played the TC.
+Doris played the JC.
+--new round--
+Michael2021-2 played the AS.
+Phil played the 9S.
+Richard played the JS.
+Doris played the QS.
 
 Cards in hand:
-AS TS 7S 4S 4H AC KC 7C JD 8D 6D 
+TS 7S 4S 4H KC 7C JD 8D 6D 
 
-# Michael2021-2: 1/3
+# Michael2021-2: 3/3
 # Phil: 0/3
 # Richard: 0/0
 # Doris: 1/1
 
 Expert response:
-AC
+KC
 Expert alternative response:
-AS
 
-#Playing AS is also good here.
