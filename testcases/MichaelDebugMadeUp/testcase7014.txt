@@ -1,0 +1,21 @@
+Your name: Phil
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 368             317
+
+Cards dealt:
+QH JH 5H 2H QC 8C 6C 5C 3C 2C JD 6D 4D 
+
+
+Bid history:
+
+Cards in hand:
+QH JH 5H 2H QC 8C 6C 5C 3C 2C JD 6D 4D 
+
+Expert response:
+0
+Expert alternative response:
+
+#Debug monte carlo simulator
+#Trying to activate an edge case that requires current user to have 0 spade

@@ -64,3 +64,6 @@ Expert response:
 6C
 Expert alternative response:
 QC 8C
+
+#Play club to hopefully force out last spade from Doris...
+#D seems like a bit of a trap because LHS led QD

@@ -70,7 +70,5 @@ Expert response:
 Expert alternative response:
 4S 2S 7H 6H
 
-#Oct 17th, 2021:
 #Maybe feed partner with hearts?
-#I don't think it matters, and monte agrees!
-#(Note that the Spades are guaranteed)
+#I don't think it matters.

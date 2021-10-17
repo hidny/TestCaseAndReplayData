@@ -31,6 +31,11 @@ QS JS TS 6S 3S 2H AC QC 8D 7D 6D 2D
 # Doris: 0/1
 
 Expert response:
-3S
+QS
 Expert alternative response:
-AC
+JS TS 3S AC 2H
+
+#Oct 17th, 2021:
+#I now like just leading high spade.
+#Current version of Monte likes leading AC or 2H, then high spade, then low spade.
+#I don't understand Monte...

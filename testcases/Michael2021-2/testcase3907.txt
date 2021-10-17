@@ -52,3 +52,5 @@ Expert response:
 KS
 Expert alternative response:
 QS
+
+#Play higher spade when you have a lot of spade. (Be more forcing)

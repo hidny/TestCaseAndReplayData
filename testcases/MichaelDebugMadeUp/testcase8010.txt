@@ -52,6 +52,7 @@ QS JS TS 8S 7S 6H 8C
 Expert response:
 QS
 Expert alternative response:
-JS TS
+JS TS 6H 7S 8S
 
 #Lead high spade so you can sweep it. (2)
+#Oct 17th 2021, monte prefers playing 78S, or 6H... so I'll add those as options

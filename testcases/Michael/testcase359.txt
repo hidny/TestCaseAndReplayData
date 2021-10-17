@@ -63,4 +63,6 @@ Cards in hand:
 Expert response:
 4S
 Expert alternative response:
-3S 8C
+3S 8C TH 4H
+#The Ais didn't play well enough for me to have a good recommendation
+#ex: how did the KH make a trick?
