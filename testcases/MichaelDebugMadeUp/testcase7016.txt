@@ -1,0 +1,21 @@
+Your name: Doris
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 182             154
+
+Cards dealt:
+AS 7S 5S QH 5H 4H 3H 8C TD 9D 6D 3D 2D 
+
+
+Bid history:
+
+
+Cards in hand:
+AS 7S 5S QH 5H 4H 3H 8C TD 9D 6D 3D 2D
+
+Expert response:
+1
+Expert alternative response:
+
+#Bidding 2 is too high

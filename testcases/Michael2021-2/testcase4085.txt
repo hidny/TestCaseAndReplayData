@@ -1,0 +1,26 @@
+Your name: Michael2021-2
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 604             533
+
+Cards dealt:
+9S 3S QH 9H 7H 5H 3H AC QC JC 8C 7C KD 
+
+
+Bid history:
+Phil bid 3.
+Richard bid 4.
+Doris bid 3.
+
+
+Cards in hand:
+9S 3S QH 9H 7H 5H 3H AC QC JC 8C 7C KD 
+
+
+Expert response:
+1
+Expert alternative response:
+
+#Sometimes, it pays to not put the bid up to 12.
+#Also, this is not a mellow

@@ -1,0 +1,23 @@
+Your name: Michael2021-2
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 655             594
+
+Cards dealt:
+AS JS 9S 5S 3S 7H 5H 3H AC 5C AD KD 6D 
+
+
+Bid history:
+Richard bid 2.
+Doris bid mellow.
+
+
+Cards in hand:
+AS JS 9S 5S 3S 7H 5H 3H AC 5C AD KD 6D 
+
+
+Expert response:
+5
+Expert alternative response:
+6

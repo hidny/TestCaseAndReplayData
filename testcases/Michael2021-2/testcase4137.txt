@@ -1,0 +1,25 @@
+Your name: Michael2021-2
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 840             600
+
+Cards dealt:
+7S 4S KH QH JH 9H 2H TC 7C 2C 9D 7D 5D 
+
+
+Bid history:
+Phil bid 6.
+Richard bid 2.
+Doris bid 1.
+
+
+Cards in hand:
+7S 4S KH QH JH 9H 2H TC 7C 2C 9D 7D 5D 
+
+
+Expert response:
+1
+Expert alternative response:
+
+#Don't say mellow because Hearts are risky and you're ahead.
