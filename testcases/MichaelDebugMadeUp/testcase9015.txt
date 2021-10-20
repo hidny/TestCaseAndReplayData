@@ -1,12 +1,11 @@
-Your name: Michael2021-2
-Dealer is your partner opposite you.
+Your name: Phil
+Dealer is on your left
 Score at start:
 Your Score      Their Score
- 842             736
+ 736             842
 
 Cards dealt:
-QS TS 9S 2S KH 5H KC JC 9C 3C 2C 9D 8D 
-
+AS 7S 6S 5S 3S AH 3H AC QC 8C 5C 7D 2D 
 
 Bid history:
 Doris bid mellow.
@@ -39,9 +38,10 @@ Doris played the 7C.
 --new round--
 Richard played the 8S.
 Doris played the QH.
+Michael2021-2 played the 9S.
 
 Cards in hand:
-QS 9S 2S KH 5H KC 9C 3C 2C 
+AS 7S 6S 5S AH 3H AC QC 8C 
 
 # Michael2021-2: 2/3
 # Phil: 0/5
@@ -49,13 +49,12 @@ QS 9S 2S KH 5H KC 9C 3C 2C
 # Doris: 0/0
 
 Expert response:
-2S
+7S
 Expert alternative response:
-9S QS
+6S 5S
 
-#Oct 19th:
-#Maybe try to take lead and burn mellow though,
-#because partner is showing that he can't do it.
-#I'm pretty sure about this, but not 100%.
-#Monte prefers 9S (by 9 points), but based on how mellow protector played,
-# maybe current Monte isn't a good judge.
+#Why not just take the trick?
+#Mellow protector test case.
+#I actually agree with AI now that I made the test case...
+#TODO: when an improved version of Monte comes online, use it here.
+#The improved version should factor in signals.

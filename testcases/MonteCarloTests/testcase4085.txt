@@ -26,4 +26,4 @@ Expert alternative response:
 #Also, this is not a mellow
 #Also, because the other bids are high, it's easy to imagine the AC getting trumped on
 #or the diamonds getting trumped over...
-#Monte prefers saying 1. (difference is 7 points on average)
+#TODO: check with Monte

@@ -49,4 +49,3 @@ Expert alternative response:
 7C 8C 9C
 
 #Don't throw QC in case protector leads JC.
-#Monte prefers playing S, but hates playing QC and AC the most (close enough)

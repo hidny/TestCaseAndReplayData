@@ -23,4 +23,3 @@ Expert alternative response:
 1
 #It's hard to imagine the dealer having a strong enough hand to make 10 tricks in a round,
 #but I feel this is only a one...
-#Monte slightly prefers 2, but 1 is 2nd best candidate.
