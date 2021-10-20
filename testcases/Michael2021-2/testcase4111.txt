@@ -20,3 +20,7 @@ Expert response:
 4
 Expert alternative response:
 
+#Don't bid 5 because you aren't sure to make the KD
+#and 4 spades... (It's like 80% certain)
+#TODO: What does monte think?
+#Also, you're 200 points ahead.

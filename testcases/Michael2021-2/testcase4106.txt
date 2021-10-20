@@ -65,4 +65,6 @@ JS 9S 3S AD KD 6D
 Expert response:
 3S
 Expert alternative response:
+6D
 
+#AI plays the 6D which makes sense because what if LHS trumps over you?

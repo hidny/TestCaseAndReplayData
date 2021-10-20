@@ -41,3 +41,5 @@ Expert response:
 6H
 Expert alternative response:
 AS
+
+#Prefer being void in H over throwing off 1 of 5 Diamonds

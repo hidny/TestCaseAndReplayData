@@ -78,3 +78,7 @@ Expert response:
 AH
 Expert alternative response:
 
+#Play AH so opponent who needs two more tricks might think their partner has KH.
+#It doesn't matter in this case because LHS (Phil) has only Spades and Diamonds,
+#but it's the principle of the thing!
+#Pass this test case once you address this niche issue.

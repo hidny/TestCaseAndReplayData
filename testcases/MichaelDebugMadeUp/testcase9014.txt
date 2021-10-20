@@ -1,0 +1,25 @@
+Your name: Doris
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 898             987
+
+Cards dealt:
+KS JS TS 3S 2S AH KH 8H 6H 3H 6C 2C QD 
+
+
+Bid history:
+Phil bid 1.
+Richard bid 1.
+
+
+Cards in hand:
+KS JS TS 3S 2S AH KH 8H 6H 3H 6C 2C QD 
+
+
+Expert response:
+11
+Expert alternative response:
+
+#Why not go out with a bang??
+#This isn't too important though

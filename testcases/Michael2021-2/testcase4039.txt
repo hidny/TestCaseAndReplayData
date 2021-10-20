@@ -57,6 +57,7 @@ Expert response:
 Expert alternative response:
 6C
 
+#Cover this case:
 #There's only 1 card under, so even if partner is stuck with 5C,
 #opponent will save me.
 #Partner might need to trump to save me, but I only have the 3S, so that's ok.

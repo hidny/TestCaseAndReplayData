@@ -47,3 +47,5 @@ Expert response:
 TS
 Expert alternative response:
 7C 8C 9C
+
+#Don't throw QC in case protector leads JC.

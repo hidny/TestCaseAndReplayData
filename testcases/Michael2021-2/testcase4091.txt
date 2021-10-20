@@ -56,4 +56,6 @@ Cards in hand:
 Expert response:
 7C
 Expert alternative response:
-8C
+8C 5H 7H
+
+#Both suits are useless, don't worry about which one.

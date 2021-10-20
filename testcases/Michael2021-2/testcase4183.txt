@@ -58,8 +58,8 @@ JS TS 9S 5S AD JD 7D
 # Doris: 1/1
 
 Expert response:
-JD
+7D
 Expert alternative response:
-AD
 
-#I should play AD, but that's hard and I got nervous.
+
+#Comp correct with 7D because Mellow has 4D, 9D and is untouchable

@@ -67,4 +67,6 @@ KH QH 9H 2H 9D 7D
 Expert response:
 2H
 Expert alternative response:
+7D 9D
 
+#Just throw some useless card off.

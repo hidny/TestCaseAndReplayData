@@ -37,3 +37,7 @@ Expert response:
 JC
 Expert alternative response:
 
+#Don't waste KC in case you might want to take lead later
+#Mellow isn't much safer because
+#1) You're left of mellow
+#2) You have 4+ Clubs.

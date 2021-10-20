@@ -36,4 +36,6 @@ JS TS 9S 5S AH KH AC AD JD 7D 6D 2D
 Expert response:
 AH
 Expert alternative response:
+KH
 
+#AH=KH in this case

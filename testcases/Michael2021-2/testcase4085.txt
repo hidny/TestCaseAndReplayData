@@ -24,3 +24,6 @@ Expert alternative response:
 
 #Sometimes, it pays to not put the bid up to 12.
 #Also, this is not a mellow
+#Also, because the other bids are high, it's easy to imagine the AC getting trumped on
+#or the diamonds getting trumped over...
+#TODO: check with Monte

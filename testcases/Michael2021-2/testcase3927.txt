@@ -81,4 +81,5 @@ JH QD TD
 Expert response:
 JH
 Expert alternative response:
-
+TD QD
+#You have the last 2 diamonds, so feel free to throw it.

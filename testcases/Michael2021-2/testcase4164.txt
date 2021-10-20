@@ -31,3 +31,5 @@ Expert response:
 TS
 Expert alternative response:
 9S 2S
+
+#LHS will probably play highest spade no matter what, so play low.
