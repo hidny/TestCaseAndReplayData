@@ -73,5 +73,6 @@ Cards in hand:
 Expert response:
 8S
 Expert alternative response:
-
+JH 8H 4H 
 #My pathetic attempt to take the rest of the tricks... (2)
+#Monte prefers any other card.

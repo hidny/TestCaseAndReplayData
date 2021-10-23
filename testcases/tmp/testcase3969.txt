@@ -26,6 +26,4 @@ KS JS 5S 3S 2S TH 9H KC JC 9C 5C QD 4D
 Expert response:
 QD
 Expert alternative response:
-2S 3S 5S
-#I prefer starting with QD, while Monte prefers starting with low S
-#I'll pass both options.
+

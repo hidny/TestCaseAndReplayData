@@ -80,4 +80,3 @@ QC
 Expert alternative response:
 
 #Force out the last spade in case LHS only has hearts and 1 spade.
-#Monte agrees!

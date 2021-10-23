@@ -44,6 +44,3 @@ Expert response:
 3H
 Expert alternative response:
 9H 7H 5H
-
-#Lead H to cash-out on Partner's Ace
-#Monte doesn't understand this positison

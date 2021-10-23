@@ -63,22 +63,20 @@ Phil played the 4C.
 Richard played the 8C.
 --new round--
 Doris played the KC.
-Michael2021-2 played the TS.
-Phil played the 6S.
-Richard played the 7C.
 
 Cards in hand:
-9S 5S 7D 
+TS 9S 5S 7D 
 
-# Michael2021-2: 4/4
+# Michael2021-2: 3/4
 # Phil: 0/0
 # Richard: 3/4
 # Doris: 3/1
 
 Expert response:
-5S
+7D
 Expert alternative response:
-7D 9S
 
-#At this point, there's no burning the mellow so it doesn't matter.
-#Monte agrees!
+
+#Play 7D and hope mellow burns 6S
+#It would have worked!
+#I made a huge mistake during the game.

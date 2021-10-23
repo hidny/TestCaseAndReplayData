@@ -43,8 +43,4 @@ QS 9S 2S KH 5H KC 9C 3C 2C 9D
 Expert response:
 9D
 Expert alternative response:
-KC 9C 3C 2C
 
-#As mellow attacker, value leading into suit you have less cards of
-#because others are less likely to play off,
-#Monte prefers clubs.

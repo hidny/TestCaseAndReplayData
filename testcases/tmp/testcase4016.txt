@@ -66,9 +66,6 @@ Cards in hand:
 # Doris: 0/4
 
 Expert response:
-2S
+5H
 Expert alternative response:
-9D 7D
-
-#Monte like the 2S (to drain opponents S), then low D, then KD
-#I'm going with Monte. Playing 5H just feeds opponents
+9D

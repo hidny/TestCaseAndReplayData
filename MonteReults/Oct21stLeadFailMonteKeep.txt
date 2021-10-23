@@ -1,0 +1,6028 @@
+File testcase3918.txt
+File testcase3966.txt
+File testcase3969.txt
+File testcase3983.txt
+File testcase3990.txt
+File testcase4016.txt
+File testcase4044.txt
+File testcase4067.txt
+File testcase4089.txt
+File testcase4107.txt
+File testcase4108.txt
+File testcase4115.txt
+File testcase4120.txt
+File testcase4121.txt
+File testcase4122.txt
+File testcase4129.txt
+File testcase4167.txt
+File testcase4181.txt
+File testcase4186.txt
+File testcase4187.txt
+
+
+Testing: testcase3918.txt
+Your name: Michael2021-2
+Cards dealt: 
+KS 2S JH 8H AC QC 5C 4C QD TD 7D 6D 4D 
+AI look at cards print statements --------
+****************************
+Michael2021-2 bid 2.
+Phil bid 3.
+Richard bid 6.
+Doris bid 1.
+--new round--
+Michael2021-2 played the AC.
+Phil played the 2C.
+Richard played the 6C.
+Doris played the 8C.
+
+Cards left:
+KS 2S JH 8H QC 5C 4C QD TD 7D 6D 4D 
+AI handle action print statements --------
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 39993 out of 40093
+That's a 99.75% skip rate.
+
+200 out of 5000
+Skipped 88013 out of 88213
+That's a 99.77% skip rate.
+
+300 out of 5000
+Skipped 136058 out of 136358
+That's a 99.78% skip rate.
+
+400 out of 5000
+Skipped 186704 out of 187104
+That's a 99.79% skip rate.
+
+500 out of 5000
+Skipped 236606 out of 237106
+That's a 99.79% skip rate.
+
+600 out of 5000
+Skipped 298897 out of 299497
+That's a 99.80% skip rate.
+
+700 out of 5000
+Skipped 347469 out of 348169
+That's a 99.80% skip rate.
+
+800 out of 5000
+Skipped 398346 out of 399146
+That's a 99.80% skip rate.
+
+900 out of 5000
+Skipped 447885 out of 448785
+That's a 99.80% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 2S: 47.39558232931727
+Average util (point diff) of playing the KS: 49.613453815261046
+Average util (point diff) of playing the 8H: 38.70281124497992
+Average util (point diff) of playing the JH: 35.450803212851405
+Average util (point diff) of playing the 4C: 43.42570281124498
+Average util (point diff) of playing the 5C: 43.42570281124498
+Average util (point diff) of playing the QC: 18.84437751004016
+Average util (point diff) of playing the 4D: 43.05020080321285
+Average util (point diff) of playing the 6D: 42.88353413654618
+Average util (point diff) of playing the 7D: 42.88353413654618
+Average util (point diff) of playing the TD: 40.0933734939759
+Average util (point diff) of playing the QD: 35.497991967871485
+Sum of impact of simulation: 996.0 out of a possible 996 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the KS
+****************************
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 40905 out of 41005
+That's a 99.76% skip rate.
+
+200 out of 5000
+Skipped 92422 out of 92622
+That's a 99.78% skip rate.
+
+300 out of 5000
+Skipped 147398 out of 147698
+That's a 99.80% skip rate.
+
+400 out of 5000
+Skipped 198125 out of 198525
+That's a 99.80% skip rate.
+
+500 out of 5000
+Skipped 243171 out of 243671
+That's a 99.79% skip rate.
+
+600 out of 5000
+Skipped 301032 out of 301632
+That's a 99.80% skip rate.
+
+700 out of 5000
+Skipped 349907 out of 350607
+That's a 99.80% skip rate.
+
+800 out of 5000
+Skipped 393667 out of 394467
+That's a 99.80% skip rate.
+
+900 out of 5000
+Skipped 455720 out of 456620
+That's a 99.80% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 2S: 44.07244897959184
+Average util (point diff) of playing the KS: 45.07448979591837
+Average util (point diff) of playing the 8H: 34.99081632653061
+Average util (point diff) of playing the JH: 33.32857142857143
+Average util (point diff) of playing the 4C: 42.52755102040816
+Average util (point diff) of playing the 5C: 42.52755102040816
+Average util (point diff) of playing the QC: 22.23265306122449
+Average util (point diff) of playing the 4D: 40.85204081632653
+Average util (point diff) of playing the 6D: 40.689795918367345
+Average util (point diff) of playing the 7D: 40.689795918367345
+Average util (point diff) of playing the TD: 38.940816326530616
+Average util (point diff) of playing the QD: 33.683673469387756
+Sum of impact of simulation: 980.0 out of a possible 980 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the KS
+AI response: KS
+Expert response: 4C
+Acceptable alternative response: 5C KS JH QD
+AI matches expert alternative response! (PASS)
+END OF TESTCASE
+
+
+Testing: testcase3966.txt
+Your name: Michael2021-2
+Cards dealt: 
+TS 2S AH KH 6H QC 9C 7C 3C 2C 7D 5D 4D 
+AI look at cards print statements --------
+****************************
+Doris bid 2.
+Michael2021-2 bid 2.
+Phil bid 7.
+Richard bid 1.
+--new round--
+Doris played the AS.
+Michael2021-2 played the 2S.
+Phil played the 3S.
+Richard played the 9S.
+--new round--
+Doris played the 5S.
+Michael2021-2 played the TS.
+Phil played the KS.
+Richard played the 4C.
+--new round--
+Phil played the QS.
+Richard played the 6C.
+Doris played the 7S.
+Michael2021-2 played the 2C.
+--new round--
+Phil played the JS.
+Richard played the 8H.
+Doris played the 8C.
+Michael2021-2 played the 4D.
+--new round--
+Phil played the AD.
+Richard played the 8D.
+Doris played the 2D.
+Michael2021-2 played the 5D.
+--new round--
+Phil played the JC.
+Richard played the AC.
+Doris played the 3D.
+Michael2021-2 played the 3C.
+--new round--
+Richard played the KD.
+Doris played the 6D.
+Michael2021-2 played the 7D.
+Phil played the 4S.
+--new round--
+Phil played the 5C.
+Richard played the TC.
+Doris played the 3H.
+Michael2021-2 played the 7C.
+--new round--
+Richard played the KC.
+Doris played the 4H.
+Michael2021-2 played the 9C.
+Phil played the 6S.
+--new round--
+Phil played the JH.
+Richard played the 9H.
+Doris played the 5H.
+Michael2021-2 played the AH.
+
+Cards left:
+KH 6H QC 
+AI handle action print statements --------
+RUN SIMULATION
+0 out of 120
+100 out of 120
+Skipped 0 out of 100
+That's a 0.00% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 6H: -16.983333333333334
+Average util (point diff) of playing the KH: -40.9
+Average util (point diff) of playing the QC: 28.483333333333334
+Sum of impact of simulation: 120.0 out of a possible 120 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the QC
+****************************
+RUN SIMULATION
+0 out of 120
+100 out of 120
+Skipped 0 out of 100
+That's a 0.00% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 6H: -16.983333333333334
+Average util (point diff) of playing the KH: -40.9
+Average util (point diff) of playing the QC: 28.483333333333334
+Sum of impact of simulation: 120.0 out of a possible 120 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the QC
+AI response: QC
+Expert response: QC
+Acceptable alternative response: 
+AI matches expert response! (PASS)
+#Comments:
+#Force out the last spade in case LHS only has hearts and 1 spade.
+END OF TESTCASE
+
+
+Testing: testcase3969.txt
+Your name: Michael2021-2
+Cards dealt: 
+KS JS 5S 3S 2S TH 9H KC JC 9C 5C QD 4D 
+AI look at cards print statements --------
+****************************
+Michael2021-2 bid 4.
+Phil bid 3.
+Richard bid 1.
+Doris bid 2.
+Cards left:
+KS JS 5S 3S 2S TH 9H KC JC 9C 5C QD 4D 
+AI handle action print statements --------
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 3414 out of 3514
+That's a 97.15% skip rate.
+
+200 out of 5000
+Skipped 6875 out of 7075
+That's a 97.17% skip rate.
+
+300 out of 5000
+Skipped 10271 out of 10571
+That's a 97.16% skip rate.
+
+400 out of 5000
+Skipped 13036 out of 13436
+That's a 97.02% skip rate.
+
+500 out of 5000
+Skipped 16118 out of 16618
+That's a 96.99% skip rate.
+
+600 out of 5000
+Skipped 19123 out of 19723
+That's a 96.96% skip rate.
+
+700 out of 5000
+Skipped 22399 out of 23099
+That's a 96.97% skip rate.
+
+800 out of 5000
+Skipped 25608 out of 26408
+That's a 96.97% skip rate.
+
+900 out of 5000
+Skipped 28835 out of 29735
+That's a 96.97% skip rate.
+
+1000 out of 5000
+Skipped 32062 out of 33062
+That's a 96.98% skip rate.
+
+1100 out of 5000
+Skipped 35041 out of 36141
+That's a 96.96% skip rate.
+
+1200 out of 5000
+Skipped 38503 out of 39703
+That's a 96.98% skip rate.
+
+1300 out of 5000
+Skipped 41171 out of 42471
+That's a 96.94% skip rate.
+
+1400 out of 5000
+Skipped 44133 out of 45533
+That's a 96.93% skip rate.
+
+1500 out of 5000
+Skipped 47556 out of 49056
+That's a 96.94% skip rate.
+
+1600 out of 5000
+Skipped 51119 out of 52719
+That's a 96.97% skip rate.
+
+1700 out of 5000
+Skipped 54033 out of 55733
+That's a 96.95% skip rate.
+
+1800 out of 5000
+Skipped 57055 out of 58855
+That's a 96.94% skip rate.
+
+1900 out of 5000
+Skipped 60118 out of 62018
+That's a 96.94% skip rate.
+
+2000 out of 5000
+Skipped 63360 out of 65360
+That's a 96.94% skip rate.
+
+2100 out of 5000
+Skipped 65969 out of 68069
+That's a 96.91% skip rate.
+
+2200 out of 5000
+Skipped 68739 out of 70939
+That's a 96.90% skip rate.
+
+2300 out of 5000
+Skipped 72454 out of 74754
+That's a 96.92% skip rate.
+
+2400 out of 5000
+Skipped 75729 out of 78129
+That's a 96.93% skip rate.
+
+2500 out of 5000
+Skipped 78562 out of 81062
+That's a 96.92% skip rate.
+
+2600 out of 5000
+Skipped 81816 out of 84416
+That's a 96.92% skip rate.
+
+2700 out of 5000
+Skipped 84895 out of 87595
+That's a 96.92% skip rate.
+
+2800 out of 5000
+Skipped 87920 out of 90720
+That's a 96.91% skip rate.
+
+2900 out of 5000
+Skipped 91140 out of 94040
+That's a 96.92% skip rate.
+
+3000 out of 5000
+Skipped 94213 out of 97213
+That's a 96.91% skip rate.
+
+3100 out of 5000
+Skipped 97606 out of 100706
+That's a 96.92% skip rate.
+
+3200 out of 5000
+Skipped 101164 out of 104364
+That's a 96.93% skip rate.
+
+3300 out of 5000
+Skipped 104267 out of 107567
+That's a 96.93% skip rate.
+
+3400 out of 5000
+Skipped 107999 out of 111399
+That's a 96.95% skip rate.
+
+3500 out of 5000
+Skipped 110865 out of 114365
+That's a 96.94% skip rate.
+
+3600 out of 5000
+Skipped 113785 out of 117385
+That's a 96.93% skip rate.
+
+3700 out of 5000
+Skipped 117051 out of 120751
+That's a 96.94% skip rate.
+
+3800 out of 5000
+Skipped 119995 out of 123795
+That's a 96.93% skip rate.
+
+3900 out of 5000
+Skipped 122884 out of 126784
+That's a 96.92% skip rate.
+
+4000 out of 5000
+Skipped 126596 out of 130596
+That's a 96.94% skip rate.
+
+4100 out of 5000
+Skipped 129875 out of 133975
+That's a 96.94% skip rate.
+
+4200 out of 5000
+Skipped 133288 out of 137488
+That's a 96.95% skip rate.
+
+4300 out of 5000
+Skipped 136321 out of 140621
+That's a 96.94% skip rate.
+
+4400 out of 5000
+Skipped 139117 out of 143517
+That's a 96.93% skip rate.
+
+4500 out of 5000
+Skipped 142505 out of 147005
+That's a 96.94% skip rate.
+
+4600 out of 5000
+Skipped 145695 out of 150295
+That's a 96.94% skip rate.
+
+4700 out of 5000
+Skipped 148757 out of 153457
+That's a 96.94% skip rate.
+
+4800 out of 5000
+Skipped 151751 out of 156551
+That's a 96.93% skip rate.
+
+4900 out of 5000
+Skipped 155011 out of 159911
+That's a 96.94% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 2S: 2.2058
+Average util (point diff) of playing the 3S: 2.2058
+Average util (point diff) of playing the 5S: 2.0898
+Average util (point diff) of playing the JS: -2.5854
+Average util (point diff) of playing the KS: -2.9966
+Average util (point diff) of playing the 9H: -0.143
+Average util (point diff) of playing the TH: -0.1516
+Average util (point diff) of playing the 5C: -0.3604
+Average util (point diff) of playing the 9C: -0.78
+Average util (point diff) of playing the JC: -1.2164
+Average util (point diff) of playing the KC: -3.5208
+Average util (point diff) of playing the 4D: -0.094
+Average util (point diff) of playing the QD: -0.9322
+Sum of impact of simulation: 5000.0 out of a possible 5000 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 2S
+****************************
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 3206 out of 3306
+That's a 96.98% skip rate.
+
+200 out of 5000
+Skipped 5935 out of 6135
+That's a 96.74% skip rate.
+
+300 out of 5000
+Skipped 9163 out of 9463
+That's a 96.83% skip rate.
+
+400 out of 5000
+Skipped 12005 out of 12405
+That's a 96.78% skip rate.
+
+500 out of 5000
+Skipped 15682 out of 16182
+That's a 96.91% skip rate.
+
+600 out of 5000
+Skipped 18910 out of 19510
+That's a 96.92% skip rate.
+
+700 out of 5000
+Skipped 21984 out of 22684
+That's a 96.91% skip rate.
+
+800 out of 5000
+Skipped 26050 out of 26850
+That's a 97.02% skip rate.
+
+900 out of 5000
+Skipped 29036 out of 29936
+That's a 96.99% skip rate.
+
+1000 out of 5000
+Skipped 32183 out of 33183
+That's a 96.99% skip rate.
+
+1100 out of 5000
+Skipped 36083 out of 37183
+That's a 97.04% skip rate.
+
+1200 out of 5000
+Skipped 39306 out of 40506
+That's a 97.04% skip rate.
+
+1300 out of 5000
+Skipped 42630 out of 43930
+That's a 97.04% skip rate.
+
+1400 out of 5000
+Skipped 45482 out of 46882
+That's a 97.01% skip rate.
+
+1500 out of 5000
+Skipped 49172 out of 50672
+That's a 97.04% skip rate.
+
+1600 out of 5000
+Skipped 52843 out of 54443
+That's a 97.06% skip rate.
+
+1700 out of 5000
+Skipped 55967 out of 57667
+That's a 97.05% skip rate.
+
+1800 out of 5000
+Skipped 58685 out of 60485
+That's a 97.02% skip rate.
+
+1900 out of 5000
+Skipped 61870 out of 63770
+That's a 97.02% skip rate.
+
+2000 out of 5000
+Skipped 65513 out of 67513
+That's a 97.04% skip rate.
+
+2100 out of 5000
+Skipped 68933 out of 71033
+That's a 97.04% skip rate.
+
+2200 out of 5000
+Skipped 72515 out of 74715
+That's a 97.06% skip rate.
+
+2300 out of 5000
+Skipped 75271 out of 77571
+That's a 97.03% skip rate.
+
+2400 out of 5000
+Skipped 78480 out of 80880
+That's a 97.03% skip rate.
+
+2500 out of 5000
+Skipped 81239 out of 83739
+That's a 97.01% skip rate.
+
+2600 out of 5000
+Skipped 84485 out of 87085
+That's a 97.01% skip rate.
+
+2700 out of 5000
+Skipped 88089 out of 90789
+That's a 97.03% skip rate.
+
+2800 out of 5000
+Skipped 91003 out of 93803
+That's a 97.02% skip rate.
+
+2900 out of 5000
+Skipped 94323 out of 97223
+That's a 97.02% skip rate.
+
+3000 out of 5000
+Skipped 97640 out of 100640
+That's a 97.02% skip rate.
+
+3100 out of 5000
+Skipped 101120 out of 104220
+That's a 97.03% skip rate.
+
+3200 out of 5000
+Skipped 104056 out of 107256
+That's a 97.02% skip rate.
+
+3300 out of 5000
+Skipped 107110 out of 110410
+That's a 97.01% skip rate.
+
+3400 out of 5000
+Skipped 110817 out of 114217
+That's a 97.02% skip rate.
+
+3500 out of 5000
+Skipped 113794 out of 117294
+That's a 97.02% skip rate.
+
+3600 out of 5000
+Skipped 117152 out of 120752
+That's a 97.02% skip rate.
+
+3700 out of 5000
+Skipped 120155 out of 123855
+That's a 97.01% skip rate.
+
+3800 out of 5000
+Skipped 123746 out of 127546
+That's a 97.02% skip rate.
+
+3900 out of 5000
+Skipped 127102 out of 131002
+That's a 97.02% skip rate.
+
+4000 out of 5000
+Skipped 130572 out of 134572
+That's a 97.03% skip rate.
+
+4100 out of 5000
+Skipped 133552 out of 137652
+That's a 97.02% skip rate.
+
+4200 out of 5000
+Skipped 136964 out of 141164
+That's a 97.02% skip rate.
+
+4300 out of 5000
+Skipped 139803 out of 144103
+That's a 97.02% skip rate.
+
+4400 out of 5000
+Skipped 143143 out of 147543
+That's a 97.02% skip rate.
+
+4500 out of 5000
+Skipped 146399 out of 150899
+That's a 97.02% skip rate.
+
+4600 out of 5000
+Skipped 149438 out of 154038
+That's a 97.01% skip rate.
+
+4700 out of 5000
+Skipped 152382 out of 157082
+That's a 97.01% skip rate.
+
+4800 out of 5000
+Skipped 155089 out of 159889
+That's a 97.00% skip rate.
+
+4900 out of 5000
+Skipped 158582 out of 163482
+That's a 97.00% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 2S: 2.069
+Average util (point diff) of playing the 3S: 2.069
+Average util (point diff) of playing the 5S: 1.8498
+Average util (point diff) of playing the JS: -2.6902
+Average util (point diff) of playing the KS: -3.5478
+Average util (point diff) of playing the 9H: -0.379
+Average util (point diff) of playing the TH: -0.2844
+Average util (point diff) of playing the 5C: -0.6394
+Average util (point diff) of playing the 9C: -0.805
+Average util (point diff) of playing the JC: -1.6212
+Average util (point diff) of playing the KC: -3.0182
+Average util (point diff) of playing the 4D: -0.0774
+Average util (point diff) of playing the QD: -0.223
+Sum of impact of simulation: 5000.0 out of a possible 5000 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 2S
+AI response: 2S
+Expert response: QD
+Acceptable alternative response: 
+Fail: AI doesn't do what the expert does (FAIL)
+(LEAD FAIL)
+END OF TESTCASE
+
+
+Testing: testcase3983.txt
+Your name: Michael2021-2
+Cards dealt: 
+QS 8S 5S AH QH 5H 3H KC 9C 8C 7C 9D 3D 
+AI look at cards print statements --------
+****************************
+Phil bid 1.
+Richard bid 5.
+Doris bid 1.
+Michael2021-2 bid 3.
+--new round--
+Phil played the 2H.
+Richard played the JH.
+Doris played the KH.
+Michael2021-2 played the AH.
+
+Cards left:
+QS 8S 5S QH 5H 3H KC 9C 8C 7C 9D 3D 
+AI handle action print statements --------
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 9093 out of 9193
+That's a 98.91% skip rate.
+
+200 out of 5000
+Skipped 18385 out of 18585
+That's a 98.92% skip rate.
+
+300 out of 5000
+Skipped 29585 out of 29885
+That's a 99.00% skip rate.
+
+400 out of 5000
+Skipped 39879 out of 40279
+That's a 99.01% skip rate.
+
+500 out of 5000
+Skipped 50691 out of 51191
+That's a 99.02% skip rate.
+
+600 out of 5000
+Skipped 60842 out of 61442
+That's a 99.02% skip rate.
+
+700 out of 5000
+Skipped 70801 out of 71501
+That's a 99.02% skip rate.
+
+800 out of 5000
+Skipped 81901 out of 82701
+That's a 99.03% skip rate.
+
+900 out of 5000
+Skipped 93140 out of 94040
+That's a 99.04% skip rate.
+
+1000 out of 5000
+Skipped 102679 out of 103679
+That's a 99.04% skip rate.
+
+1100 out of 5000
+Skipped 114599 out of 115699
+That's a 99.05% skip rate.
+
+1200 out of 5000
+Skipped 125086 out of 126286
+That's a 99.05% skip rate.
+
+1300 out of 5000
+Skipped 134887 out of 136187
+That's a 99.05% skip rate.
+
+1400 out of 5000
+Skipped 144380 out of 145780
+That's a 99.04% skip rate.
+
+1500 out of 5000
+Skipped 155788 out of 157288
+That's a 99.05% skip rate.
+
+1600 out of 5000
+Skipped 165368 out of 166968
+That's a 99.04% skip rate.
+
+1700 out of 5000
+Skipped 174832 out of 176532
+That's a 99.04% skip rate.
+
+1800 out of 5000
+Skipped 186793 out of 188593
+That's a 99.05% skip rate.
+
+1900 out of 5000
+Skipped 199188 out of 201088
+That's a 99.06% skip rate.
+
+2000 out of 5000
+Skipped 209813 out of 211813
+That's a 99.06% skip rate.
+
+2100 out of 5000
+Skipped 220250 out of 222350
+That's a 99.06% skip rate.
+
+2200 out of 5000
+Skipped 229548 out of 231748
+That's a 99.05% skip rate.
+
+2300 out of 5000
+Skipped 237967 out of 240267
+That's a 99.04% skip rate.
+
+2400 out of 5000
+Skipped 248711 out of 251111
+That's a 99.04% skip rate.
+
+2500 out of 5000
+Skipped 259369 out of 261869
+That's a 99.05% skip rate.
+
+2600 out of 5000
+Skipped 269538 out of 272138
+That's a 99.04% skip rate.
+
+2700 out of 5000
+Skipped 278846 out of 281546
+That's a 99.04% skip rate.
+
+2800 out of 5000
+Skipped 289115 out of 291915
+That's a 99.04% skip rate.
+
+2900 out of 5000
+Skipped 298137 out of 301037
+That's a 99.04% skip rate.
+
+3000 out of 5000
+Skipped 307292 out of 310292
+That's a 99.03% skip rate.
+
+3100 out of 5000
+Skipped 319327 out of 322427
+That's a 99.04% skip rate.
+
+3200 out of 5000
+Skipped 330935 out of 334135
+That's a 99.04% skip rate.
+
+3300 out of 5000
+Skipped 339962 out of 343262
+That's a 99.04% skip rate.
+
+3400 out of 5000
+Skipped 349748 out of 353148
+That's a 99.04% skip rate.
+
+3500 out of 5000
+Skipped 359513 out of 363013
+That's a 99.04% skip rate.
+
+3600 out of 5000
+Skipped 369320 out of 372920
+That's a 99.03% skip rate.
+
+3700 out of 5000
+Skipped 379199 out of 382899
+That's a 99.03% skip rate.
+
+3800 out of 5000
+Skipped 389913 out of 393713
+That's a 99.03% skip rate.
+
+3900 out of 5000
+Skipped 400922 out of 404822
+That's a 99.04% skip rate.
+
+4000 out of 5000
+Skipped 411420 out of 415420
+That's a 99.04% skip rate.
+
+4100 out of 5000
+Skipped 422245 out of 426345
+That's a 99.04% skip rate.
+
+4200 out of 5000
+Skipped 432782 out of 436982
+That's a 99.04% skip rate.
+
+4300 out of 5000
+Skipped 441672 out of 445972
+That's a 99.04% skip rate.
+
+4400 out of 5000
+Skipped 451823 out of 456223
+That's a 99.04% skip rate.
+
+4500 out of 5000
+Skipped 462917 out of 467417
+That's a 99.04% skip rate.
+
+4600 out of 5000
+Skipped 473618 out of 478218
+That's a 99.04% skip rate.
+
+4700 out of 5000
+Skipped 484353 out of 489053
+That's a 99.04% skip rate.
+
+4800 out of 5000
+Skipped 494560 out of 499360
+That's a 99.04% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 5S: 61.17539159109646
+Average util (point diff) of playing the 8S: 60.688169826875516
+Average util (point diff) of playing the QS: 61.04802143446002
+Average util (point diff) of playing the 3H: 59.824814509480625
+Average util (point diff) of playing the 5H: 59.66652926628195
+Average util (point diff) of playing the QH: 60.5358615004122
+Average util (point diff) of playing the 7C: 61.197032151690024
+Average util (point diff) of playing the 8C: 61.197032151690024
+Average util (point diff) of playing the 9C: 61.1962077493817
+Average util (point diff) of playing the KC: 58.64674361088211
+Average util (point diff) of playing the 3D: 61.76112943116241
+Average util (point diff) of playing the 9D: 61.76628194558945
+Sum of impact of simulation: 4852.0 out of a possible 4852 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 9D
+****************************
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 10564 out of 10664
+That's a 99.06% skip rate.
+
+200 out of 5000
+Skipped 19670 out of 19870
+That's a 98.99% skip rate.
+
+300 out of 5000
+Skipped 29619 out of 29919
+That's a 99.00% skip rate.
+
+400 out of 5000
+Skipped 40090 out of 40490
+That's a 99.01% skip rate.
+
+500 out of 5000
+Skipped 50263 out of 50763
+That's a 99.02% skip rate.
+
+600 out of 5000
+Skipped 59060 out of 59660
+That's a 98.99% skip rate.
+
+700 out of 5000
+Skipped 69265 out of 69965
+That's a 99.00% skip rate.
+
+800 out of 5000
+Skipped 80048 out of 80848
+That's a 99.01% skip rate.
+
+900 out of 5000
+Skipped 90377 out of 91277
+That's a 99.01% skip rate.
+
+1000 out of 5000
+Skipped 102965 out of 103965
+That's a 99.04% skip rate.
+
+1100 out of 5000
+Skipped 112498 out of 113598
+That's a 99.03% skip rate.
+
+1200 out of 5000
+Skipped 121706 out of 122906
+That's a 99.02% skip rate.
+
+1300 out of 5000
+Skipped 132151 out of 133451
+That's a 99.03% skip rate.
+
+1400 out of 5000
+Skipped 142715 out of 144115
+That's a 99.03% skip rate.
+
+1500 out of 5000
+Skipped 151670 out of 153170
+That's a 99.02% skip rate.
+
+1600 out of 5000
+Skipped 161590 out of 163190
+That's a 99.02% skip rate.
+
+1700 out of 5000
+Skipped 172324 out of 174024
+That's a 99.02% skip rate.
+
+1800 out of 5000
+Skipped 183242 out of 185042
+That's a 99.03% skip rate.
+
+1900 out of 5000
+Skipped 195122 out of 197022
+That's a 99.04% skip rate.
+
+2000 out of 5000
+Skipped 206197 out of 208197
+That's a 99.04% skip rate.
+
+2100 out of 5000
+Skipped 216206 out of 218306
+That's a 99.04% skip rate.
+
+2200 out of 5000
+Skipped 227126 out of 229326
+That's a 99.04% skip rate.
+
+2300 out of 5000
+Skipped 236278 out of 238578
+That's a 99.04% skip rate.
+
+2400 out of 5000
+Skipped 248633 out of 251033
+That's a 99.04% skip rate.
+
+2500 out of 5000
+Skipped 260221 out of 262721
+That's a 99.05% skip rate.
+
+2600 out of 5000
+Skipped 270513 out of 273113
+That's a 99.05% skip rate.
+
+2700 out of 5000
+Skipped 281586 out of 284286
+That's a 99.05% skip rate.
+
+2800 out of 5000
+Skipped 292027 out of 294827
+That's a 99.05% skip rate.
+
+2900 out of 5000
+Skipped 303360 out of 306260
+That's a 99.05% skip rate.
+
+3000 out of 5000
+Skipped 314412 out of 317412
+That's a 99.05% skip rate.
+
+3100 out of 5000
+Skipped 326775 out of 329875
+That's a 99.06% skip rate.
+
+3200 out of 5000
+Skipped 337528 out of 340728
+That's a 99.06% skip rate.
+
+3300 out of 5000
+Skipped 346902 out of 350202
+That's a 99.06% skip rate.
+
+3400 out of 5000
+Skipped 357320 out of 360720
+That's a 99.06% skip rate.
+
+3500 out of 5000
+Skipped 369228 out of 372728
+That's a 99.06% skip rate.
+
+3600 out of 5000
+Skipped 378603 out of 382203
+That's a 99.06% skip rate.
+
+3700 out of 5000
+Skipped 388154 out of 391854
+That's a 99.06% skip rate.
+
+3800 out of 5000
+Skipped 399234 out of 403034
+That's a 99.06% skip rate.
+
+3900 out of 5000
+Skipped 408880 out of 412780
+That's a 99.06% skip rate.
+
+4000 out of 5000
+Skipped 418370 out of 422370
+That's a 99.05% skip rate.
+
+4100 out of 5000
+Skipped 429123 out of 433223
+That's a 99.05% skip rate.
+
+4200 out of 5000
+Skipped 440269 out of 444469
+That's a 99.06% skip rate.
+
+4300 out of 5000
+Skipped 449141 out of 453441
+That's a 99.05% skip rate.
+
+4400 out of 5000
+Skipped 460010 out of 464410
+That's a 99.05% skip rate.
+
+4500 out of 5000
+Skipped 470170 out of 474670
+That's a 99.05% skip rate.
+
+4600 out of 5000
+Skipped 482512 out of 487112
+That's a 99.06% skip rate.
+
+4700 out of 5000
+Skipped 495063 out of 499763
+That's a 99.06% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 5S: 60.97667577222106
+Average util (point diff) of playing the 8S: 60.53582685438117
+Average util (point diff) of playing the QS: 60.627442740071444
+Average util (point diff) of playing the 3H: 60.229670098760245
+Average util (point diff) of playing the 5H: 60.132170624080686
+Average util (point diff) of playing the QH: 60.72473208657281
+Average util (point diff) of playing the 7C: 61.54507249422147
+Average util (point diff) of playing the 8C: 61.54507249422147
+Average util (point diff) of playing the 9C: 61.54507249422147
+Average util (point diff) of playing the KC: 58.95251103172936
+Average util (point diff) of playing the 3D: 61.639840302584574
+Average util (point diff) of playing the 9D: 61.63353645723892
+Sum of impact of simulation: 4759.0 out of a possible 4759 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 3D
+AI response: 9D
+Expert response: 5S
+Acceptable alternative response: 8S
+Fail: AI doesn't do what the expert does (FAIL)
+(LEAD FAIL)
+END OF TESTCASE
+
+
+Testing: testcase3990.txt
+Your name: Michael2021-2
+Cards dealt: 
+QS 8S 5S AH QH 5H 3H KC 9C 8C 7C 9D 3D 
+AI look at cards print statements --------
+****************************
+Phil bid 1.
+Richard bid 5.
+Doris bid 1.
+Michael2021-2 bid 3.
+--new round--
+Phil played the 2H.
+Richard played the JH.
+Doris played the KH.
+Michael2021-2 played the AH.
+--new round--
+Michael2021-2 played the 5S.
+Phil played the 3S.
+Richard played the AS.
+Doris played the 4S.
+--new round--
+Richard played the 2S.
+Doris played the 6S.
+Michael2021-2 played the 8S.
+Phil played the KS.
+--new round--
+Phil played the JD.
+Richard played the AD.
+Doris played the 7D.
+Michael2021-2 played the 3D.
+--new round--
+Richard played the AC.
+Doris played the JC.
+Michael2021-2 played the 7C.
+Phil played the 2C.
+--new round--
+Richard played the KD.
+Doris played the 8D.
+Michael2021-2 played the 9D.
+Phil played the 2D.
+--new round--
+Richard played the 7S.
+Doris played the 9S.
+Michael2021-2 played the QS.
+Phil played the 4C.
+--new round--
+Michael2021-2 played the KC.
+Phil played the 5C.
+Richard played the 3C.
+Doris played the QC.
+
+Cards left:
+QH 5H 3H 9C 8C 
+AI handle action print statements --------
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 237 out of 337
+That's a 70.33% skip rate.
+
+200 out of 5000
+Skipped 474 out of 674
+That's a 70.33% skip rate.
+
+300 out of 5000
+Skipped 701 out of 1001
+That's a 70.03% skip rate.
+
+400 out of 5000
+Skipped 905 out of 1305
+That's a 69.35% skip rate.
+
+500 out of 5000
+Skipped 1143 out of 1643
+That's a 69.57% skip rate.
+
+600 out of 5000
+Skipped 1400 out of 2000
+That's a 70.00% skip rate.
+
+700 out of 5000
+Skipped 1646 out of 2346
+That's a 70.16% skip rate.
+
+800 out of 5000
+Skipped 1884 out of 2684
+That's a 70.19% skip rate.
+
+900 out of 5000
+Skipped 2125 out of 3025
+That's a 70.25% skip rate.
+
+1000 out of 5000
+Skipped 2372 out of 3372
+That's a 70.34% skip rate.
+
+1100 out of 5000
+Skipped 2634 out of 3734
+That's a 70.54% skip rate.
+
+1200 out of 5000
+Skipped 2876 out of 4076
+That's a 70.56% skip rate.
+
+1300 out of 5000
+Skipped 3114 out of 4414
+That's a 70.55% skip rate.
+
+1400 out of 5000
+Skipped 3356 out of 4756
+That's a 70.56% skip rate.
+
+1500 out of 5000
+Skipped 3554 out of 5054
+That's a 70.32% skip rate.
+
+1600 out of 5000
+Skipped 3787 out of 5387
+That's a 70.30% skip rate.
+
+1700 out of 5000
+Skipped 4031 out of 5731
+That's a 70.34% skip rate.
+
+1800 out of 5000
+Skipped 4268 out of 6068
+That's a 70.34% skip rate.
+
+1900 out of 5000
+Skipped 4520 out of 6420
+That's a 70.40% skip rate.
+
+2000 out of 5000
+Skipped 4799 out of 6799
+That's a 70.58% skip rate.
+
+2100 out of 5000
+Skipped 5053 out of 7153
+That's a 70.64% skip rate.
+
+2200 out of 5000
+Skipped 5301 out of 7501
+That's a 70.67% skip rate.
+
+2300 out of 5000
+Skipped 5581 out of 7881
+That's a 70.82% skip rate.
+
+2400 out of 5000
+Skipped 5802 out of 8202
+That's a 70.74% skip rate.
+
+2500 out of 5000
+Skipped 6075 out of 8575
+That's a 70.85% skip rate.
+
+2600 out of 5000
+Skipped 6304 out of 8904
+That's a 70.80% skip rate.
+
+2700 out of 5000
+Skipped 6545 out of 9245
+That's a 70.80% skip rate.
+
+2800 out of 5000
+Skipped 6763 out of 9563
+That's a 70.72% skip rate.
+
+2900 out of 5000
+Skipped 6936 out of 9836
+That's a 70.52% skip rate.
+
+3000 out of 5000
+Skipped 7178 out of 10178
+That's a 70.52% skip rate.
+
+3100 out of 5000
+Skipped 7436 out of 10536
+That's a 70.58% skip rate.
+
+3200 out of 5000
+Skipped 7672 out of 10872
+That's a 70.57% skip rate.
+
+3300 out of 5000
+Skipped 7920 out of 11220
+That's a 70.59% skip rate.
+
+3400 out of 5000
+Skipped 8138 out of 11538
+That's a 70.53% skip rate.
+
+3500 out of 5000
+Skipped 8371 out of 11871
+That's a 70.52% skip rate.
+
+3600 out of 5000
+Skipped 8622 out of 12222
+That's a 70.54% skip rate.
+
+3700 out of 5000
+Skipped 8824 out of 12524
+That's a 70.46% skip rate.
+
+3800 out of 5000
+Skipped 9032 out of 12832
+That's a 70.39% skip rate.
+
+3900 out of 5000
+Skipped 9335 out of 13235
+That's a 70.53% skip rate.
+
+4000 out of 5000
+Skipped 9589 out of 13589
+That's a 70.56% skip rate.
+
+4100 out of 5000
+Skipped 9833 out of 13933
+That's a 70.57% skip rate.
+
+4200 out of 5000
+Skipped 10076 out of 14276
+That's a 70.58% skip rate.
+
+4300 out of 5000
+Skipped 10348 out of 14648
+That's a 70.64% skip rate.
+
+4400 out of 5000
+Skipped 10561 out of 14961
+That's a 70.59% skip rate.
+
+4500 out of 5000
+Skipped 10789 out of 15289
+That's a 70.57% skip rate.
+
+4600 out of 5000
+Skipped 10999 out of 15599
+That's a 70.51% skip rate.
+
+4700 out of 5000
+Skipped 11208 out of 15908
+That's a 70.46% skip rate.
+
+4800 out of 5000
+Skipped 11417 out of 16217
+That's a 70.40% skip rate.
+
+4900 out of 5000
+Skipped 11622 out of 16522
+That's a 70.34% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 3H: 61.0438
+Average util (point diff) of playing the 5H: 60.744
+Average util (point diff) of playing the QH: 60.7428
+Average util (point diff) of playing the 8C: 59.9326
+Average util (point diff) of playing the 9C: 59.9358
+0 out of 5000
+Sum of impact of simulation: 5000.0 out of a possible 5000 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 3H
+****************************
+RUN SIMULATION
+100 out of 5000
+Skipped 280 out of 380
+That's a 73.68% skip rate.
+
+200 out of 5000
+Skipped 545 out of 745
+That's a 73.15% skip rate.
+
+300 out of 5000
+Skipped 740 out of 1040
+That's a 71.15% skip rate.
+
+400 out of 5000
+Skipped 938 out of 1338
+That's a 70.10% skip rate.
+
+500 out of 5000
+Skipped 1153 out of 1653
+That's a 69.75% skip rate.
+
+600 out of 5000
+Skipped 1335 out of 1935
+That's a 68.99% skip rate.
+
+700 out of 5000
+Skipped 1632 out of 2332
+That's a 69.98% skip rate.
+
+800 out of 5000
+Skipped 1829 out of 2629
+That's a 69.57% skip rate.
+
+900 out of 5000
+Skipped 2054 out of 2954
+That's a 69.53% skip rate.
+
+1000 out of 5000
+Skipped 2306 out of 3306
+That's a 69.75% skip rate.
+
+1100 out of 5000
+Skipped 2526 out of 3626
+That's a 69.66% skip rate.
+
+1200 out of 5000
+Skipped 2787 out of 3987
+That's a 69.90% skip rate.
+
+1300 out of 5000
+Skipped 2996 out of 4296
+That's a 69.74% skip rate.
+
+1400 out of 5000
+Skipped 3214 out of 4614
+That's a 69.66% skip rate.
+
+1500 out of 5000
+Skipped 3446 out of 4946
+That's a 69.67% skip rate.
+
+1600 out of 5000
+Skipped 3658 out of 5258
+That's a 69.57% skip rate.
+
+1700 out of 5000
+Skipped 3878 out of 5578
+That's a 69.52% skip rate.
+
+1800 out of 5000
+Skipped 4123 out of 5923
+That's a 69.61% skip rate.
+
+1900 out of 5000
+Skipped 4379 out of 6279
+That's a 69.74% skip rate.
+
+2000 out of 5000
+Skipped 4590 out of 6590
+That's a 69.65% skip rate.
+
+2100 out of 5000
+Skipped 4858 out of 6958
+That's a 69.82% skip rate.
+
+2200 out of 5000
+Skipped 5092 out of 7292
+That's a 69.83% skip rate.
+
+2300 out of 5000
+Skipped 5339 out of 7639
+That's a 69.89% skip rate.
+
+2400 out of 5000
+Skipped 5612 out of 8012
+That's a 70.04% skip rate.
+
+2500 out of 5000
+Skipped 5882 out of 8382
+That's a 70.17% skip rate.
+
+2600 out of 5000
+Skipped 6117 out of 8717
+That's a 70.17% skip rate.
+
+2700 out of 5000
+Skipped 6349 out of 9049
+That's a 70.16% skip rate.
+
+2800 out of 5000
+Skipped 6580 out of 9380
+That's a 70.15% skip rate.
+
+2900 out of 5000
+Skipped 6767 out of 9667
+That's a 70.00% skip rate.
+
+3000 out of 5000
+Skipped 6974 out of 9974
+That's a 69.92% skip rate.
+
+3100 out of 5000
+Skipped 7180 out of 10280
+That's a 69.84% skip rate.
+
+3200 out of 5000
+Skipped 7435 out of 10635
+That's a 69.91% skip rate.
+
+3300 out of 5000
+Skipped 7668 out of 10968
+That's a 69.91% skip rate.
+
+3400 out of 5000
+Skipped 7943 out of 11343
+That's a 70.03% skip rate.
+
+3500 out of 5000
+Skipped 8149 out of 11649
+That's a 69.95% skip rate.
+
+3600 out of 5000
+Skipped 8372 out of 11972
+That's a 69.93% skip rate.
+
+3700 out of 5000
+Skipped 8619 out of 12319
+That's a 69.97% skip rate.
+
+3800 out of 5000
+Skipped 8887 out of 12687
+That's a 70.05% skip rate.
+
+3900 out of 5000
+Skipped 9111 out of 13011
+That's a 70.03% skip rate.
+
+4000 out of 5000
+Skipped 9322 out of 13322
+That's a 69.97% skip rate.
+
+4100 out of 5000
+Skipped 9621 out of 13721
+That's a 70.12% skip rate.
+
+4200 out of 5000
+Skipped 9866 out of 14066
+That's a 70.14% skip rate.
+
+4300 out of 5000
+Skipped 10121 out of 14421
+That's a 70.18% skip rate.
+
+4400 out of 5000
+Skipped 10346 out of 14746
+That's a 70.16% skip rate.
+
+4500 out of 5000
+Skipped 10576 out of 15076
+That's a 70.15% skip rate.
+
+4600 out of 5000
+Skipped 10750 out of 15350
+That's a 70.03% skip rate.
+
+4700 out of 5000
+Skipped 10966 out of 15666
+That's a 70.00% skip rate.
+
+4800 out of 5000
+Skipped 11222 out of 16022
+That's a 70.04% skip rate.
+
+4900 out of 5000
+Skipped 11431 out of 16331
+That's a 70.00% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 3H: 61.5582
+Average util (point diff) of playing the 5H: 61.3466
+Average util (point diff) of playing the QH: 60.69
+Average util (point diff) of playing the 8C: 59.7956
+Average util (point diff) of playing the 9C: 59.8016
+Sum of impact of simulation: 5000.0 out of a possible 5000 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 3H
+AI response: 3H
+Expert response: 8C
+Acceptable alternative response: 9C
+Fail: AI doesn't do what the expert does (FAIL)
+(LEAD FAIL)
+END OF TESTCASE
+
+
+Testing: testcase4016.txt
+Your name: Michael2021-2
+Cards dealt: 
+KS 6S 2S QH 8H 5H 2H 2C KD 9D 7D 5D 3D 
+AI look at cards print statements --------
+****************************
+Doris bid 4.
+Michael2021-2 bid 2.
+Phil bid 2.
+Richard bid 2.
+--new round--
+Doris played the 4S.
+Michael2021-2 played the 6S.
+Phil played the AS.
+Richard played the TS.
+--new round--
+Phil played the AH.
+Richard played the 3H.
+Doris played the 4H.
+Michael2021-2 played the 2H.
+--new round--
+Phil played the 5S.
+Richard played the 6C.
+Doris played the QS.
+Michael2021-2 played the KS.
+--new round--
+Michael2021-2 played the 8H.
+Phil played the TH.
+Richard played the KH.
+Doris played the 7H.
+--new round--
+Richard played the AC.
+Doris played the 4C.
+Michael2021-2 played the 2C.
+Phil played the 3C.
+--new round--
+Richard played the KC.
+Doris played the 7C.
+Michael2021-2 played the 3D.
+Phil played the 5C.
+--new round--
+Richard played the QC.
+Doris played the TC.
+Michael2021-2 played the 5D.
+Phil played the 9C.
+--new round--
+Richard played the 9H.
+Doris played the JH.
+Michael2021-2 played the QH.
+Phil played the 6H.
+
+Cards left:
+2S 5H KD 9D 7D 
+AI handle action print statements --------
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 2291 out of 2391
+That's a 95.82% skip rate.
+
+200 out of 5000
+Skipped 4414 out of 4614
+That's a 95.67% skip rate.
+
+300 out of 5000
+Skipped 6581 out of 6881
+That's a 95.64% skip rate.
+
+400 out of 5000
+Skipped 8256 out of 8656
+That's a 95.38% skip rate.
+
+500 out of 5000
+Skipped 10701 out of 11201
+That's a 95.54% skip rate.
+
+600 out of 5000
+Skipped 13046 out of 13646
+That's a 95.60% skip rate.
+
+700 out of 5000
+Skipped 15382 out of 16082
+That's a 95.65% skip rate.
+
+800 out of 5000
+Skipped 17471 out of 18271
+That's a 95.62% skip rate.
+
+900 out of 5000
+Skipped 19729 out of 20629
+That's a 95.64% skip rate.
+
+1000 out of 5000
+Skipped 22044 out of 23044
+That's a 95.66% skip rate.
+
+1100 out of 5000
+Skipped 24605 out of 25705
+That's a 95.72% skip rate.
+
+1200 out of 5000
+Skipped 27537 out of 28737
+That's a 95.82% skip rate.
+
+1300 out of 5000
+Skipped 29623 out of 30923
+That's a 95.80% skip rate.
+
+1400 out of 5000
+Skipped 32402 out of 33802
+That's a 95.86% skip rate.
+
+1500 out of 5000
+Skipped 34881 out of 36381
+That's a 95.88% skip rate.
+
+1600 out of 5000
+Skipped 37027 out of 38627
+That's a 95.86% skip rate.
+
+1700 out of 5000
+Skipped 39025 out of 40725
+That's a 95.83% skip rate.
+
+1800 out of 5000
+Skipped 41022 out of 42822
+That's a 95.80% skip rate.
+
+1900 out of 5000
+Skipped 42924 out of 44824
+That's a 95.76% skip rate.
+
+2000 out of 5000
+Skipped 44900 out of 46900
+That's a 95.74% skip rate.
+
+2100 out of 5000
+Skipped 46802 out of 48902
+That's a 95.71% skip rate.
+
+2200 out of 5000
+Skipped 49347 out of 51547
+That's a 95.73% skip rate.
+
+2300 out of 5000
+Skipped 51111 out of 53411
+That's a 95.69% skip rate.
+
+2400 out of 5000
+Skipped 53153 out of 55553
+That's a 95.68% skip rate.
+
+2500 out of 5000
+Skipped 55535 out of 58035
+That's a 95.69% skip rate.
+
+2600 out of 5000
+Skipped 57625 out of 60225
+That's a 95.68% skip rate.
+
+2700 out of 5000
+Skipped 59921 out of 62621
+That's a 95.69% skip rate.
+
+2800 out of 5000
+Skipped 62096 out of 64896
+That's a 95.69% skip rate.
+
+2900 out of 5000
+Skipped 64408 out of 67308
+That's a 95.69% skip rate.
+
+3000 out of 5000
+Skipped 66849 out of 69849
+That's a 95.71% skip rate.
+
+3100 out of 5000
+Skipped 69078 out of 72178
+That's a 95.71% skip rate.
+
+3200 out of 5000
+Skipped 71599 out of 74799
+That's a 95.72% skip rate.
+
+3300 out of 5000
+Skipped 73388 out of 76688
+That's a 95.70% skip rate.
+
+3400 out of 5000
+Skipped 75511 out of 78911
+That's a 95.69% skip rate.
+
+3500 out of 5000
+Skipped 77943 out of 81443
+That's a 95.70% skip rate.
+
+3600 out of 5000
+Skipped 79749 out of 83349
+That's a 95.68% skip rate.
+
+3700 out of 5000
+Skipped 81944 out of 85644
+That's a 95.68% skip rate.
+
+3800 out of 5000
+Skipped 84360 out of 88160
+That's a 95.69% skip rate.
+
+3900 out of 5000
+Skipped 86262 out of 90162
+That's a 95.67% skip rate.
+
+4000 out of 5000
+Skipped 88526 out of 92526
+That's a 95.68% skip rate.
+
+4100 out of 5000
+Skipped 90549 out of 94649
+That's a 95.67% skip rate.
+
+4200 out of 5000
+Skipped 93032 out of 97232
+That's a 95.68% skip rate.
+
+4300 out of 5000
+Skipped 95102 out of 99402
+That's a 95.67% skip rate.
+
+4400 out of 5000
+Skipped 97347 out of 101747
+That's a 95.68% skip rate.
+
+4500 out of 5000
+Skipped 99360 out of 103860
+That's a 95.67% skip rate.
+
+4600 out of 5000
+Skipped 101427 out of 106027
+That's a 95.66% skip rate.
+
+4700 out of 5000
+Skipped 103639 out of 108339
+That's a 95.66% skip rate.
+
+4800 out of 5000
+Skipped 105812 out of 110612
+That's a 95.66% skip rate.
+
+4900 out of 5000
+Skipped 107770 out of 112670
+That's a 95.65% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 2S: -17.52
+Average util (point diff) of playing the 5H: -19.0
+Average util (point diff) of playing the 7D: -18.1504
+Average util (point diff) of playing the 9D: -18.1504
+Average util (point diff) of playing the KD: -18.2224
+0 out of 5000
+Sum of impact of simulation: 5000.0 out of a possible 5000 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 2S
+****************************
+RUN SIMULATION
+100 out of 5000
+Skipped 2044 out of 2144
+That's a 95.34% skip rate.
+
+200 out of 5000
+Skipped 4110 out of 4310
+That's a 95.36% skip rate.
+
+300 out of 5000
+Skipped 6160 out of 6460
+That's a 95.36% skip rate.
+
+400 out of 5000
+Skipped 8497 out of 8897
+That's a 95.50% skip rate.
+
+500 out of 5000
+Skipped 10816 out of 11316
+That's a 95.58% skip rate.
+
+600 out of 5000
+Skipped 12962 out of 13562
+That's a 95.58% skip rate.
+
+700 out of 5000
+Skipped 15248 out of 15948
+That's a 95.61% skip rate.
+
+800 out of 5000
+Skipped 17316 out of 18116
+That's a 95.58% skip rate.
+
+900 out of 5000
+Skipped 19336 out of 20236
+That's a 95.55% skip rate.
+
+1000 out of 5000
+Skipped 21609 out of 22609
+That's a 95.58% skip rate.
+
+1100 out of 5000
+Skipped 23769 out of 24869
+That's a 95.58% skip rate.
+
+1200 out of 5000
+Skipped 26023 out of 27223
+That's a 95.59% skip rate.
+
+1300 out of 5000
+Skipped 28352 out of 29652
+That's a 95.62% skip rate.
+
+1400 out of 5000
+Skipped 31054 out of 32454
+That's a 95.69% skip rate.
+
+1500 out of 5000
+Skipped 33280 out of 34780
+That's a 95.69% skip rate.
+
+1600 out of 5000
+Skipped 35438 out of 37038
+That's a 95.68% skip rate.
+
+1700 out of 5000
+Skipped 37273 out of 38973
+That's a 95.64% skip rate.
+
+1800 out of 5000
+Skipped 39865 out of 41665
+That's a 95.68% skip rate.
+
+1900 out of 5000
+Skipped 41779 out of 43679
+That's a 95.65% skip rate.
+
+2000 out of 5000
+Skipped 44007 out of 46007
+That's a 95.65% skip rate.
+
+2100 out of 5000
+Skipped 46259 out of 48359
+That's a 95.66% skip rate.
+
+2200 out of 5000
+Skipped 48705 out of 50905
+That's a 95.68% skip rate.
+
+2300 out of 5000
+Skipped 51517 out of 53817
+That's a 95.73% skip rate.
+
+2400 out of 5000
+Skipped 53886 out of 56286
+That's a 95.74% skip rate.
+
+2500 out of 5000
+Skipped 56179 out of 58679
+That's a 95.74% skip rate.
+
+2600 out of 5000
+Skipped 58351 out of 60951
+That's a 95.73% skip rate.
+
+2700 out of 5000
+Skipped 60397 out of 63097
+That's a 95.72% skip rate.
+
+2800 out of 5000
+Skipped 62440 out of 65240
+That's a 95.71% skip rate.
+
+2900 out of 5000
+Skipped 64386 out of 67286
+That's a 95.69% skip rate.
+
+3000 out of 5000
+Skipped 66806 out of 69806
+That's a 95.70% skip rate.
+
+3100 out of 5000
+Skipped 68991 out of 72091
+That's a 95.70% skip rate.
+
+3200 out of 5000
+Skipped 70834 out of 74034
+That's a 95.68% skip rate.
+
+3300 out of 5000
+Skipped 73050 out of 76350
+That's a 95.68% skip rate.
+
+3400 out of 5000
+Skipped 74885 out of 78285
+That's a 95.66% skip rate.
+
+3500 out of 5000
+Skipped 76996 out of 80496
+That's a 95.65% skip rate.
+
+3600 out of 5000
+Skipped 78882 out of 82482
+That's a 95.64% skip rate.
+
+3700 out of 5000
+Skipped 81150 out of 84850
+That's a 95.64% skip rate.
+
+3800 out of 5000
+Skipped 83452 out of 87252
+That's a 95.64% skip rate.
+
+3900 out of 5000
+Skipped 86011 out of 89911
+That's a 95.66% skip rate.
+
+4000 out of 5000
+Skipped 88155 out of 92155
+That's a 95.66% skip rate.
+
+4100 out of 5000
+Skipped 90706 out of 94806
+That's a 95.68% skip rate.
+
+4200 out of 5000
+Skipped 92592 out of 96792
+That's a 95.66% skip rate.
+
+4300 out of 5000
+Skipped 94588 out of 98888
+That's a 95.65% skip rate.
+
+4400 out of 5000
+Skipped 96817 out of 101217
+That's a 95.65% skip rate.
+
+4500 out of 5000
+Skipped 98771 out of 103271
+That's a 95.64% skip rate.
+
+4600 out of 5000
+Skipped 100937 out of 105537
+That's a 95.64% skip rate.
+
+4700 out of 5000
+Skipped 103278 out of 107978
+That's a 95.65% skip rate.
+
+4800 out of 5000
+Skipped 105447 out of 110247
+That's a 95.65% skip rate.
+
+4900 out of 5000
+Skipped 107970 out of 112870
+That's a 95.66% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 2S: -17.4972
+Average util (point diff) of playing the 5H: -19.0
+Average util (point diff) of playing the 7D: -18.1784
+Average util (point diff) of playing the 9D: -18.1784
+Average util (point diff) of playing the KD: -18.2444
+Sum of impact of simulation: 5000.0 out of a possible 5000 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 2S
+AI response: 2S
+Expert response: 5H
+Acceptable alternative response: 9D
+Fail: AI doesn't do what the expert does (FAIL)
+(LEAD FAIL)
+END OF TESTCASE
+
+
+Testing: testcase4044.txt
+Your name: Michael2021-2
+Cards dealt: 
+QS 3S JH 8H 7H JC 7C 6C 3C QD 9D 6D 3D 
+AI look at cards print statements --------
+****************************
+Phil bid 5.
+Richard bid 3.
+Doris bid 2.
+Michael2021-2 bid mellow.
+--new round--
+Phil played the 2C.
+Richard played the QC.
+Doris played the KC.
+Michael2021-2 played the JC.
+--new round--
+Doris played the 2D.
+Michael2021-2 played the 3D.
+Phil played the TD.
+Richard played the 4D.
+--new round--
+Phil played the 6H.
+Richard played the QH.
+Doris played the 9H.
+Michael2021-2 played the JH.
+--new round--
+Richard played the KS.
+Doris played the 7S.
+Michael2021-2 played the QS.
+Phil played the AS.
+--new round--
+Phil played the 2H.
+Richard played the 4H.
+Doris played the TH.
+Michael2021-2 played the 8H.
+--new round--
+Doris played the 4C.
+Michael2021-2 played the 7C.
+Phil played the 8D.
+Richard played the 8C.
+--new round--
+Richard played the JS.
+Doris played the 4S.
+Michael2021-2 played the 3S.
+Phil played the 5S.
+--new round--
+Richard played the 9S.
+Doris played the KD.
+Michael2021-2 played the QD.
+Phil played the TS.
+--new round--
+Phil played the 5H.
+Richard played the 3H.
+Doris played the JD.
+Michael2021-2 played the 7H.
+--new round--
+Michael2021-2 played the 9D.
+Phil played the KH.
+Richard played the 5D.
+Doris played the 5C.
+
+Cards left:
+6C 3C 6D 
+AI handle action print statements --------
+TEST BURNT MELLOW index: 0
+RUN SIMULATION
+0 out of 4
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 3C: -137.66666666666666
+Average util (point diff) of playing the 6C: -137.66666666666666
+Average util (point diff) of playing the 6D: -138.33333333333334
+Sum of impact of simulation: 3.0 out of a possible 4 (75.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 3C
+****************************
+TEST BURNT MELLOW index: 0
+RUN SIMULATION
+0 out of 4
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 3C: -137.66666666666666
+Average util (point diff) of playing the 6C: -137.66666666666666
+Average util (point diff) of playing the 6D: -138.33333333333334
+Sum of impact of simulation: 3.0 out of a possible 4 (75.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 3C
+AI response: 3C
+Expert response: 6D
+Acceptable alternative response: 
+Fail: AI doesn't do what the expert does (FAIL)
+(LEAD FAIL)
+END OF TESTCASE
+
+
+Testing: testcase4067.txt
+Your name: Michael2021-2
+Cards dealt: 
+KS QS 9S 8S TH 6H 4H AC KC QC QD JD 5D 
+AI look at cards print statements --------
+****************************
+Doris bid 3.
+Michael2021-2 bid 4.
+Phil bid 2.
+Richard bid 1.
+--new round--
+Doris played the AD.
+Michael2021-2 played the 5D.
+Phil played the 3D.
+Richard played the 2D.
+--new round--
+Doris played the KD.
+Michael2021-2 played the JD.
+Phil played the 7D.
+Richard played the 4D.
+--new round--
+Doris played the 5S.
+Michael2021-2 played the 8S.
+Phil played the AS.
+Richard played the 2S.
+--new round--
+Phil played the AH.
+Richard played the 2H.
+Doris played the 3H.
+Michael2021-2 played the 4H.
+--new round--
+Phil played the KH.
+Richard played the 9H.
+Doris played the 8H.
+Michael2021-2 played the 6H.
+--new round--
+Phil played the 8D.
+Richard played the 6D.
+Doris played the 9D.
+DEBUG MAX 9D is barely over 1
+Michael2021-2 played the QD.
+--new round--
+Michael2021-2 played the KS.
+Phil played the 6S.
+Richard played the 3S.
+Doris played the 4S.
+
+Cards left:
+QS 9S TH AC KC QC 
+AI handle action print statements --------
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 16415 out of 16515
+That's a 99.39% skip rate.
+
+200 out of 5000
+Skipped 29569 out of 29769
+That's a 99.33% skip rate.
+
+300 out of 5000
+Skipped 42614 out of 42914
+That's a 99.30% skip rate.
+
+400 out of 5000
+Skipped 56698 out of 57098
+That's a 99.30% skip rate.
+
+500 out of 5000
+Skipped 71664 out of 72164
+That's a 99.31% skip rate.
+
+600 out of 5000
+Skipped 88344 out of 88944
+That's a 99.33% skip rate.
+
+700 out of 5000
+Skipped 104435 out of 105135
+That's a 99.33% skip rate.
+
+800 out of 5000
+Skipped 117204 out of 118004
+That's a 99.32% skip rate.
+
+900 out of 5000
+Skipped 134712 out of 135612
+That's a 99.34% skip rate.
+
+1000 out of 5000
+Skipped 150621 out of 151621
+That's a 99.34% skip rate.
+
+1100 out of 5000
+Skipped 165897 out of 166997
+That's a 99.34% skip rate.
+
+1200 out of 5000
+Skipped 182210 out of 183410
+That's a 99.35% skip rate.
+
+1300 out of 5000
+Skipped 195740 out of 197040
+That's a 99.34% skip rate.
+
+1400 out of 5000
+Skipped 210566 out of 211966
+That's a 99.34% skip rate.
+
+1500 out of 5000
+Skipped 227241 out of 228741
+That's a 99.34% skip rate.
+
+1600 out of 5000
+Skipped 242958 out of 244558
+That's a 99.35% skip rate.
+
+1700 out of 5000
+Skipped 257145 out of 258845
+That's a 99.34% skip rate.
+
+1800 out of 5000
+Skipped 272874 out of 274674
+That's a 99.34% skip rate.
+
+1900 out of 5000
+Skipped 288348 out of 290248
+That's a 99.35% skip rate.
+
+2000 out of 5000
+Skipped 305624 out of 307624
+That's a 99.35% skip rate.
+
+2100 out of 5000
+Skipped 320805 out of 322905
+That's a 99.35% skip rate.
+
+2200 out of 5000
+Skipped 337245 out of 339445
+That's a 99.35% skip rate.
+
+2300 out of 5000
+Skipped 352140 out of 354440
+That's a 99.35% skip rate.
+
+2400 out of 5000
+Skipped 367712 out of 370112
+That's a 99.35% skip rate.
+
+2500 out of 5000
+Skipped 383005 out of 385505
+That's a 99.35% skip rate.
+
+2600 out of 5000
+Skipped 400249 out of 402849
+That's a 99.35% skip rate.
+
+2700 out of 5000
+Skipped 416788 out of 419488
+That's a 99.36% skip rate.
+
+2800 out of 5000
+Skipped 433960 out of 436760
+That's a 99.36% skip rate.
+
+2900 out of 5000
+Skipped 446023 out of 448923
+That's a 99.35% skip rate.
+
+3000 out of 5000
+Skipped 462491 out of 465491
+That's a 99.36% skip rate.
+
+3100 out of 5000
+Skipped 475633 out of 478733
+That's a 99.35% skip rate.
+
+3200 out of 5000
+Skipped 491671 out of 494871
+That's a 99.35% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 9S: 1.31131498470948
+Average util (point diff) of playing the QS: 0.7217125382262997
+Average util (point diff) of playing the TH: 0.7522935779816514
+Average util (point diff) of playing the QC: 0.67217125382263
+Average util (point diff) of playing the KC: 0.67217125382263
+Average util (point diff) of playing the AC: 0.67217125382263
+Sum of impact of simulation: 3270.0 out of a possible 3270 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 9S
+****************************
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 13455 out of 13555
+That's a 99.26% skip rate.
+
+200 out of 5000
+Skipped 29680 out of 29880
+That's a 99.33% skip rate.
+
+300 out of 5000
+Skipped 44921 out of 45221
+That's a 99.34% skip rate.
+
+400 out of 5000
+Skipped 59449 out of 59849
+That's a 99.33% skip rate.
+
+500 out of 5000
+Skipped 77310 out of 77810
+That's a 99.36% skip rate.
+
+600 out of 5000
+Skipped 92612 out of 93212
+That's a 99.36% skip rate.
+
+700 out of 5000
+Skipped 106453 out of 107153
+That's a 99.35% skip rate.
+
+800 out of 5000
+Skipped 122988 out of 123788
+That's a 99.35% skip rate.
+
+900 out of 5000
+Skipped 140183 out of 141083
+That's a 99.36% skip rate.
+
+1000 out of 5000
+Skipped 153915 out of 154915
+That's a 99.35% skip rate.
+
+1100 out of 5000
+Skipped 168661 out of 169761
+That's a 99.35% skip rate.
+
+1200 out of 5000
+Skipped 183113 out of 184313
+That's a 99.35% skip rate.
+
+1300 out of 5000
+Skipped 198263 out of 199563
+That's a 99.35% skip rate.
+
+1400 out of 5000
+Skipped 214547 out of 215947
+That's a 99.35% skip rate.
+
+1500 out of 5000
+Skipped 228436 out of 229936
+That's a 99.35% skip rate.
+
+1600 out of 5000
+Skipped 244813 out of 246413
+That's a 99.35% skip rate.
+
+1700 out of 5000
+Skipped 259189 out of 260889
+That's a 99.35% skip rate.
+
+1800 out of 5000
+Skipped 272725 out of 274525
+That's a 99.34% skip rate.
+
+1900 out of 5000
+Skipped 287921 out of 289821
+That's a 99.34% skip rate.
+
+2000 out of 5000
+Skipped 303616 out of 305616
+That's a 99.35% skip rate.
+
+2100 out of 5000
+Skipped 318463 out of 320563
+That's a 99.34% skip rate.
+
+2200 out of 5000
+Skipped 333802 out of 336002
+That's a 99.35% skip rate.
+
+2300 out of 5000
+Skipped 352021 out of 354321
+That's a 99.35% skip rate.
+
+2400 out of 5000
+Skipped 366646 out of 369046
+That's a 99.35% skip rate.
+
+2500 out of 5000
+Skipped 382967 out of 385467
+That's a 99.35% skip rate.
+
+2600 out of 5000
+Skipped 398525 out of 401125
+That's a 99.35% skip rate.
+
+2700 out of 5000
+Skipped 413074 out of 415774
+That's a 99.35% skip rate.
+
+2800 out of 5000
+Skipped 426932 out of 429732
+That's a 99.35% skip rate.
+
+2900 out of 5000
+Skipped 442676 out of 445576
+That's a 99.35% skip rate.
+
+3000 out of 5000
+Skipped 457328 out of 460328
+That's a 99.35% skip rate.
+
+3100 out of 5000
+Skipped 475072 out of 478172
+That's a 99.35% skip rate.
+
+3200 out of 5000
+Skipped 489131 out of 492331
+That's a 99.35% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 9S: 1.3161764705882353
+Average util (point diff) of playing the QS: 0.7022058823529411
+Average util (point diff) of playing the TH: 0.7371323529411765
+Average util (point diff) of playing the QC: 0.6574754901960784
+Average util (point diff) of playing the KC: 0.6574754901960784
+Average util (point diff) of playing the AC: 0.6574754901960784
+Sum of impact of simulation: 3264.0 out of a possible 3264 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 9S
+AI response: 9S
+Expert response: QS
+Acceptable alternative response: 
+Fail: AI doesn't do what the expert does (FAIL)
+(LEAD FAIL)
+END OF TESTCASE
+
+
+Testing: testcase4089.txt
+Your name: Michael2021-2
+Cards dealt: 
+9S 3S QH 9H 7H 5H 3H AC QC JC 8C 7C KD 
+AI look at cards print statements --------
+****************************
+Phil bid 3.
+Richard bid 4.
+Doris bid 3.
+Michael2021-2 bid 1.
+--new round--
+Phil played the 8S.
+Richard played the 2S.
+Doris played the AS.
+Michael2021-2 played the 3S.
+--new round--
+Doris played the AD.
+Michael2021-2 played the KD.
+Phil played the 2D.
+Richard played the 5D.
+--new round--
+Doris played the JH.
+Michael2021-2 played the QH.
+Phil played the 4H.
+Richard played the 6H.
+
+Cards left:
+9S 9H 7H 5H 3H AC QC JC 8C 7C 
+AI handle action print statements --------
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 22117 out of 22217
+That's a 99.55% skip rate.
+
+200 out of 5000
+Skipped 40695 out of 40895
+That's a 99.51% skip rate.
+
+300 out of 5000
+Skipped 59840 out of 60140
+That's a 99.50% skip rate.
+
+400 out of 5000
+Skipped 79025 out of 79425
+That's a 99.50% skip rate.
+
+500 out of 5000
+Skipped 99277 out of 99777
+That's a 99.50% skip rate.
+
+600 out of 5000
+Skipped 124942 out of 125542
+That's a 99.52% skip rate.
+
+700 out of 5000
+Skipped 148576 out of 149276
+That's a 99.53% skip rate.
+
+800 out of 5000
+Skipped 173355 out of 174155
+That's a 99.54% skip rate.
+
+900 out of 5000
+Skipped 195378 out of 196278
+That's a 99.54% skip rate.
+
+1000 out of 5000
+Skipped 216062 out of 217062
+That's a 99.54% skip rate.
+
+1100 out of 5000
+Skipped 237561 out of 238661
+That's a 99.54% skip rate.
+
+1200 out of 5000
+Skipped 256912 out of 258112
+That's a 99.54% skip rate.
+
+1300 out of 5000
+Skipped 279218 out of 280518
+That's a 99.54% skip rate.
+
+1400 out of 5000
+Skipped 302451 out of 303851
+That's a 99.54% skip rate.
+
+1500 out of 5000
+Skipped 322361 out of 323861
+That's a 99.54% skip rate.
+
+1600 out of 5000
+Skipped 343339 out of 344939
+That's a 99.54% skip rate.
+
+1700 out of 5000
+Skipped 366047 out of 367747
+That's a 99.54% skip rate.
+
+1800 out of 5000
+Skipped 388525 out of 390325
+That's a 99.54% skip rate.
+
+1900 out of 5000
+Skipped 409808 out of 411708
+That's a 99.54% skip rate.
+
+2000 out of 5000
+Skipped 429517 out of 431517
+That's a 99.54% skip rate.
+
+2100 out of 5000
+Skipped 451975 out of 454075
+That's a 99.54% skip rate.
+
+2200 out of 5000
+Skipped 477459 out of 479659
+That's a 99.54% skip rate.
+
+2300 out of 5000
+Skipped 497874 out of 500174
+That's a 99.54% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 9S: 14.266118563392471
+Average util (point diff) of playing the 3H: 14.827780181739506
+Average util (point diff) of playing the 5H: 14.827780181739506
+Average util (point diff) of playing the 7H: 14.827780181739506
+Average util (point diff) of playing the 9H: 12.276936391172653
+Average util (point diff) of playing the 7C: 17.731717871051494
+Average util (point diff) of playing the 8C: 17.585028126352228
+Average util (point diff) of playing the JC: 28.89701427953267
+Average util (point diff) of playing the QC: 22.62310688013847
+Average util (point diff) of playing the AC: 19.305062743401127
+Sum of impact of simulation: 2311.0 out of a possible 2311 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the JC
+****************************
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 23047 out of 23147
+That's a 99.57% skip rate.
+
+200 out of 5000
+Skipped 46750 out of 46950
+That's a 99.57% skip rate.
+
+300 out of 5000
+Skipped 67209 out of 67509
+That's a 99.56% skip rate.
+
+400 out of 5000
+Skipped 94523 out of 94923
+That's a 99.58% skip rate.
+
+500 out of 5000
+Skipped 115979 out of 116479
+That's a 99.57% skip rate.
+
+600 out of 5000
+Skipped 139603 out of 140203
+That's a 99.57% skip rate.
+
+700 out of 5000
+Skipped 163612 out of 164312
+That's a 99.57% skip rate.
+
+800 out of 5000
+Skipped 185804 out of 186604
+That's a 99.57% skip rate.
+
+900 out of 5000
+Skipped 207529 out of 208429
+That's a 99.57% skip rate.
+
+1000 out of 5000
+Skipped 228839 out of 229839
+That's a 99.56% skip rate.
+
+1100 out of 5000
+Skipped 249951 out of 251051
+That's a 99.56% skip rate.
+
+1200 out of 5000
+Skipped 274811 out of 276011
+That's a 99.57% skip rate.
+
+1300 out of 5000
+Skipped 293944 out of 295244
+That's a 99.56% skip rate.
+
+1400 out of 5000
+Skipped 314858 out of 316258
+That's a 99.56% skip rate.
+
+1500 out of 5000
+Skipped 336085 out of 337585
+That's a 99.56% skip rate.
+
+1600 out of 5000
+Skipped 359629 out of 361229
+That's a 99.56% skip rate.
+
+1700 out of 5000
+Skipped 382431 out of 384131
+That's a 99.56% skip rate.
+
+1800 out of 5000
+Skipped 404233 out of 406033
+That's a 99.56% skip rate.
+
+1900 out of 5000
+Skipped 425118 out of 427018
+That's a 99.56% skip rate.
+
+2000 out of 5000
+Skipped 445411 out of 447411
+That's a 99.55% skip rate.
+
+2100 out of 5000
+Skipped 470186 out of 472286
+That's a 99.56% skip rate.
+
+2200 out of 5000
+Skipped 491898 out of 494098
+That's a 99.55% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 9S: 13.020609318996415
+Average util (point diff) of playing the 3H: 15.722222222222221
+Average util (point diff) of playing the 5H: 15.722222222222221
+Average util (point diff) of playing the 7H: 15.722222222222221
+Average util (point diff) of playing the 9H: 12.618279569892474
+Average util (point diff) of playing the 7C: 16.85573476702509
+Average util (point diff) of playing the 8C: 16.474014336917563
+Average util (point diff) of playing the JC: 26.58915770609319
+Average util (point diff) of playing the QC: 20.87320788530466
+Average util (point diff) of playing the AC: 21.021505376344088
+Sum of impact of simulation: 2232.0 out of a possible 2232 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the JC
+AI response: JC
+Expert response: 3H
+Acceptable alternative response: 9H 7H 5H
+Fail: AI doesn't do what the expert does (FAIL)
+(LEAD FAIL)
+END OF TESTCASE
+
+
+Testing: testcase4107.txt
+Your name: Michael2021-2
+Cards dealt: 
+AS JS 9S 5S 3S 7H 5H 3H AC 5C AD KD 6D 
+AI look at cards print statements --------
+****************************
+Richard bid 2.
+Doris bid mellow.
+Michael2021-2 bid 5.
+Phil bid 1.
+--new round--
+Richard played the 2H.
+Doris played the 4H.
+Michael2021-2 played the 7H.
+Phil played the 8H.
+--new round--
+Phil played the AH.
+Richard played the KH.
+Doris played the JH.
+Michael2021-2 played the 5H.
+--new round--
+Phil played the QH.
+Richard played the 9H.
+Doris played the QC.
+Michael2021-2 played the 3H.
+--new round--
+Phil played the 6H.
+Richard played the TH.
+Doris played the TC.
+Michael2021-2 played the AS.
+--new round--
+Michael2021-2 played the 5C.
+Phil played the KC.
+Richard played the JC.
+Doris played the 9C.
+--new round--
+Phil played the 8C.
+Richard played the 7C.
+Doris played the 6C.
+Michael2021-2 played the AC.
+--new round--
+Michael2021-2 played the 5S.
+Phil played the 6S.
+Richard played the 4S.
+Doris played the TS.
+--new round--
+Doris played the 3C.
+Michael2021-2 played the 3S.
+Phil played the 2C.
+Richard played the 9D.
+
+Cards left:
+JS 9S AD KD 6D 
+AI handle action print statements --------
+TEST BURNT MELLOW index: 3
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 1560 out of 1660
+That's a 93.98% skip rate.
+
+200 out of 5000
+Skipped 3546 out of 3746
+That's a 94.66% skip rate.
+
+300 out of 5000
+Skipped 5370 out of 5670
+That's a 94.71% skip rate.
+
+400 out of 5000
+Skipped 7438 out of 7838
+That's a 94.90% skip rate.
+
+500 out of 5000
+Skipped 9446 out of 9946
+That's a 94.97% skip rate.
+
+600 out of 5000
+Skipped 11388 out of 11988
+That's a 94.99% skip rate.
+
+700 out of 5000
+Skipped 13436 out of 14136
+That's a 95.05% skip rate.
+
+800 out of 5000
+Skipped 15456 out of 16256
+That's a 95.08% skip rate.
+
+900 out of 5000
+Skipped 17574 out of 18474
+That's a 95.13% skip rate.
+
+1000 out of 5000
+Skipped 19120 out of 20120
+That's a 95.03% skip rate.
+
+1100 out of 5000
+Skipped 21224 out of 22324
+That's a 95.07% skip rate.
+
+1200 out of 5000
+Skipped 23250 out of 24450
+That's a 95.09% skip rate.
+
+1300 out of 5000
+Skipped 25271 out of 26571
+That's a 95.11% skip rate.
+
+1400 out of 5000
+Skipped 27267 out of 28667
+That's a 95.12% skip rate.
+
+1500 out of 5000
+Skipped 29267 out of 30767
+That's a 95.12% skip rate.
+
+1600 out of 5000
+Skipped 31161 out of 32761
+That's a 95.12% skip rate.
+
+1700 out of 5000
+Skipped 33247 out of 34947
+That's a 95.14% skip rate.
+
+1800 out of 5000
+Skipped 35358 out of 37158
+That's a 95.16% skip rate.
+
+1900 out of 5000
+Skipped 37233 out of 39133
+That's a 95.14% skip rate.
+
+2000 out of 5000
+Skipped 38895 out of 40895
+That's a 95.11% skip rate.
+
+2100 out of 5000
+Skipped 40740 out of 42840
+That's a 95.10% skip rate.
+
+2200 out of 5000
+Skipped 42882 out of 45082
+That's a 95.12% skip rate.
+
+2300 out of 5000
+Skipped 44661 out of 46961
+That's a 95.10% skip rate.
+
+2400 out of 5000
+Skipped 46427 out of 48827
+That's a 95.08% skip rate.
+
+2500 out of 5000
+Skipped 48168 out of 50668
+That's a 95.07% skip rate.
+
+2600 out of 5000
+Skipped 49596 out of 52196
+That's a 95.02% skip rate.
+
+2700 out of 5000
+Skipped 51675 out of 54375
+That's a 95.03% skip rate.
+
+2800 out of 5000
+Skipped 53689 out of 56489
+That's a 95.04% skip rate.
+
+2900 out of 5000
+Skipped 55314 out of 58214
+That's a 95.02% skip rate.
+
+3000 out of 5000
+Skipped 57216 out of 60216
+That's a 95.02% skip rate.
+
+3100 out of 5000
+Skipped 59160 out of 62260
+That's a 95.02% skip rate.
+
+3200 out of 5000
+Skipped 61458 out of 64658
+That's a 95.05% skip rate.
+
+3300 out of 5000
+Skipped 63278 out of 66578
+That's a 95.04% skip rate.
+
+3400 out of 5000
+Skipped 64902 out of 68302
+That's a 95.02% skip rate.
+
+3500 out of 5000
+Skipped 66889 out of 70389
+That's a 95.03% skip rate.
+
+3600 out of 5000
+Skipped 69047 out of 72647
+That's a 95.04% skip rate.
+
+3700 out of 5000
+Skipped 70980 out of 74680
+That's a 95.05% skip rate.
+
+3800 out of 5000
+Skipped 72684 out of 76484
+That's a 95.03% skip rate.
+
+3900 out of 5000
+Skipped 74304 out of 78204
+That's a 95.01% skip rate.
+
+4000 out of 5000
+Skipped 76313 out of 80313
+That's a 95.02% skip rate.
+
+4100 out of 5000
+Skipped 78266 out of 82366
+That's a 95.02% skip rate.
+
+4200 out of 5000
+Skipped 79989 out of 84189
+That's a 95.01% skip rate.
+
+4300 out of 5000
+Skipped 81670 out of 85970
+That's a 95.00% skip rate.
+
+4400 out of 5000
+Skipped 83393 out of 87793
+That's a 94.99% skip rate.
+
+4500 out of 5000
+Skipped 85452 out of 89952
+That's a 95.00% skip rate.
+
+4600 out of 5000
+Skipped 87601 out of 92201
+That's a 95.01% skip rate.
+
+4700 out of 5000
+Skipped 89341 out of 94041
+That's a 95.00% skip rate.
+
+4800 out of 5000
+Skipped 91144 out of 95944
+That's a 95.00% skip rate.
+
+4900 out of 5000
+Skipped 93381 out of 98281
+That's a 95.01% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 9S: 156.7084
+Average util (point diff) of playing the JS: 156.7084
+Average util (point diff) of playing the 6D: 154.0128
+Average util (point diff) of playing the KD: 156.724
+Average util (point diff) of playing the AD: 156.6948
+0 out of 5000
+Sum of impact of simulation: 5000.0 out of a possible 5000 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the KD
+****************************
+TEST BURNT MELLOW index: 3
+RUN SIMULATION
+100 out of 5000
+Skipped 1861 out of 1961
+That's a 94.90% skip rate.
+
+200 out of 5000
+Skipped 3625 out of 3825
+That's a 94.77% skip rate.
+
+300 out of 5000
+Skipped 5380 out of 5680
+That's a 94.72% skip rate.
+
+400 out of 5000
+Skipped 7131 out of 7531
+That's a 94.69% skip rate.
+
+500 out of 5000
+Skipped 8830 out of 9330
+That's a 94.64% skip rate.
+
+600 out of 5000
+Skipped 10806 out of 11406
+That's a 94.74% skip rate.
+
+700 out of 5000
+Skipped 12650 out of 13350
+That's a 94.76% skip rate.
+
+800 out of 5000
+Skipped 14748 out of 15548
+That's a 94.85% skip rate.
+
+900 out of 5000
+Skipped 16659 out of 17559
+That's a 94.87% skip rate.
+
+1000 out of 5000
+Skipped 18525 out of 19525
+That's a 94.88% skip rate.
+
+1100 out of 5000
+Skipped 20322 out of 21422
+That's a 94.87% skip rate.
+
+1200 out of 5000
+Skipped 22365 out of 23565
+That's a 94.91% skip rate.
+
+1300 out of 5000
+Skipped 24454 out of 25754
+That's a 94.95% skip rate.
+
+1400 out of 5000
+Skipped 26251 out of 27651
+That's a 94.94% skip rate.
+
+1500 out of 5000
+Skipped 28159 out of 29659
+That's a 94.94% skip rate.
+
+1600 out of 5000
+Skipped 30326 out of 31926
+That's a 94.99% skip rate.
+
+1700 out of 5000
+Skipped 32356 out of 34056
+That's a 95.01% skip rate.
+
+1800 out of 5000
+Skipped 34234 out of 36034
+That's a 95.00% skip rate.
+
+1900 out of 5000
+Skipped 36465 out of 38365
+That's a 95.05% skip rate.
+
+2000 out of 5000
+Skipped 38736 out of 40736
+That's a 95.09% skip rate.
+
+2100 out of 5000
+Skipped 41032 out of 43132
+That's a 95.13% skip rate.
+
+2200 out of 5000
+Skipped 42791 out of 44991
+That's a 95.11% skip rate.
+
+2300 out of 5000
+Skipped 44475 out of 46775
+That's a 95.08% skip rate.
+
+2400 out of 5000
+Skipped 46290 out of 48690
+That's a 95.07% skip rate.
+
+2500 out of 5000
+Skipped 48408 out of 50908
+That's a 95.09% skip rate.
+
+2600 out of 5000
+Skipped 49994 out of 52594
+That's a 95.06% skip rate.
+
+2700 out of 5000
+Skipped 52323 out of 55023
+That's a 95.09% skip rate.
+
+2800 out of 5000
+Skipped 54205 out of 57005
+That's a 95.09% skip rate.
+
+2900 out of 5000
+Skipped 55986 out of 58886
+That's a 95.08% skip rate.
+
+3000 out of 5000
+Skipped 57535 out of 60535
+That's a 95.04% skip rate.
+
+3100 out of 5000
+Skipped 59913 out of 63013
+That's a 95.08% skip rate.
+
+3200 out of 5000
+Skipped 62129 out of 65329
+That's a 95.10% skip rate.
+
+3300 out of 5000
+Skipped 64425 out of 67725
+That's a 95.13% skip rate.
+
+3400 out of 5000
+Skipped 66277 out of 69677
+That's a 95.12% skip rate.
+
+3500 out of 5000
+Skipped 68288 out of 71788
+That's a 95.12% skip rate.
+
+3600 out of 5000
+Skipped 70309 out of 73909
+That's a 95.13% skip rate.
+
+3700 out of 5000
+Skipped 72116 out of 75816
+That's a 95.12% skip rate.
+
+3800 out of 5000
+Skipped 73960 out of 77760
+That's a 95.11% skip rate.
+
+3900 out of 5000
+Skipped 75788 out of 79688
+That's a 95.11% skip rate.
+
+4000 out of 5000
+Skipped 77747 out of 81747
+That's a 95.11% skip rate.
+
+4100 out of 5000
+Skipped 79568 out of 83668
+That's a 95.10% skip rate.
+
+4200 out of 5000
+Skipped 81616 out of 85816
+That's a 95.11% skip rate.
+
+4300 out of 5000
+Skipped 83398 out of 87698
+That's a 95.10% skip rate.
+
+4400 out of 5000
+Skipped 85102 out of 89502
+That's a 95.08% skip rate.
+
+4500 out of 5000
+Skipped 86970 out of 91470
+That's a 95.08% skip rate.
+
+4600 out of 5000
+Skipped 88956 out of 93556
+That's a 95.08% skip rate.
+
+4700 out of 5000
+Skipped 91017 out of 95717
+That's a 95.09% skip rate.
+
+4800 out of 5000
+Skipped 93261 out of 98061
+That's a 95.11% skip rate.
+
+4900 out of 5000
+Skipped 95406 out of 100306
+That's a 95.11% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 9S: 156.7168
+Average util (point diff) of playing the JS: 156.7168
+Average util (point diff) of playing the 6D: 154.0982
+Average util (point diff) of playing the KD: 156.7284
+Average util (point diff) of playing the AD: 156.6988
+Sum of impact of simulation: 5000.0 out of a possible 5000 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the KD
+AI response: KD
+Expert response: AD
+Acceptable alternative response: 
+Fail: AI doesn't do what the expert does (FAIL)
+(LEAD FAIL)
+END OF TESTCASE
+
+
+Testing: testcase4108.txt
+Your name: Michael2021-2
+Cards dealt: 
+AS JS 9S 5S 3S 7H 5H 3H AC 5C AD KD 6D 
+AI look at cards print statements --------
+****************************
+Richard bid 2.
+Doris bid mellow.
+Michael2021-2 bid 5.
+Phil bid 1.
+--new round--
+Richard played the 2H.
+Doris played the 4H.
+Michael2021-2 played the 7H.
+Phil played the 8H.
+--new round--
+Phil played the AH.
+Richard played the KH.
+Doris played the JH.
+Michael2021-2 played the 5H.
+--new round--
+Phil played the QH.
+Richard played the 9H.
+Doris played the QC.
+Michael2021-2 played the 3H.
+--new round--
+Phil played the 6H.
+Richard played the TH.
+Doris played the TC.
+Michael2021-2 played the AS.
+--new round--
+Michael2021-2 played the 5C.
+Phil played the KC.
+Richard played the JC.
+Doris played the 9C.
+--new round--
+Phil played the 8C.
+Richard played the 7C.
+Doris played the 6C.
+Michael2021-2 played the AC.
+--new round--
+Michael2021-2 played the 5S.
+Phil played the 6S.
+Richard played the 4S.
+Doris played the TS.
+--new round--
+Doris played the 3C.
+Michael2021-2 played the 3S.
+Phil played the 2C.
+Richard played the 9D.
+--new round--
+Michael2021-2 played the AD.
+Phil played the 3D.
+Richard played the JD.
+Doris played the 2D.
+
+Cards left:
+JS 9S KD 6D 
+AI handle action print statements --------
+TEST BURNT MELLOW index: 3
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 1729 out of 1829
+That's a 94.53% skip rate.
+
+200 out of 5000
+Skipped 3156 out of 3356
+That's a 94.04% skip rate.
+
+300 out of 5000
+Skipped 4488 out of 4788
+That's a 93.73% skip rate.
+
+400 out of 5000
+Skipped 6007 out of 6407
+That's a 93.76% skip rate.
+
+500 out of 5000
+Skipped 7491 out of 7991
+That's a 93.74% skip rate.
+
+600 out of 5000
+Skipped 9062 out of 9662
+That's a 93.79% skip rate.
+
+700 out of 5000
+Skipped 10494 out of 11194
+That's a 93.75% skip rate.
+
+800 out of 5000
+Skipped 12082 out of 12882
+That's a 93.79% skip rate.
+
+900 out of 5000
+Skipped 13492 out of 14392
+That's a 93.75% skip rate.
+
+1000 out of 5000
+Skipped 14868 out of 15868
+That's a 93.70% skip rate.
+
+1100 out of 5000
+Skipped 16143 out of 17243
+That's a 93.62% skip rate.
+
+1200 out of 5000
+Skipped 17554 out of 18754
+That's a 93.60% skip rate.
+
+1300 out of 5000
+Skipped 19127 out of 20427
+That's a 93.64% skip rate.
+
+1400 out of 5000
+Skipped 20753 out of 22153
+That's a 93.68% skip rate.
+
+1500 out of 5000
+Skipped 22210 out of 23710
+That's a 93.67% skip rate.
+
+1600 out of 5000
+Skipped 23447 out of 25047
+That's a 93.61% skip rate.
+
+1700 out of 5000
+Skipped 24703 out of 26403
+That's a 93.56% skip rate.
+
+1800 out of 5000
+Skipped 26075 out of 27875
+That's a 93.54% skip rate.
+
+1900 out of 5000
+Skipped 27585 out of 29485
+That's a 93.56% skip rate.
+
+2000 out of 5000
+Skipped 29135 out of 31135
+That's a 93.58% skip rate.
+
+2100 out of 5000
+Skipped 30776 out of 32876
+That's a 93.61% skip rate.
+
+2200 out of 5000
+Skipped 32077 out of 34277
+That's a 93.58% skip rate.
+
+2300 out of 5000
+Skipped 33393 out of 35693
+That's a 93.56% skip rate.
+
+2400 out of 5000
+Skipped 34979 out of 37379
+That's a 93.58% skip rate.
+
+2500 out of 5000
+Skipped 36409 out of 38909
+That's a 93.57% skip rate.
+
+2600 out of 5000
+Skipped 37664 out of 40264
+That's a 93.54% skip rate.
+
+2700 out of 5000
+Skipped 38915 out of 41615
+That's a 93.51% skip rate.
+
+2800 out of 5000
+Skipped 40808 out of 43608
+That's a 93.58% skip rate.
+
+2900 out of 5000
+Skipped 42293 out of 45193
+That's a 93.58% skip rate.
+
+3000 out of 5000
+Skipped 43490 out of 46490
+That's a 93.55% skip rate.
+
+3100 out of 5000
+Skipped 44923 out of 48023
+That's a 93.54% skip rate.
+
+3200 out of 5000
+Skipped 46404 out of 49604
+That's a 93.55% skip rate.
+
+3300 out of 5000
+Skipped 47668 out of 50968
+That's a 93.53% skip rate.
+
+3400 out of 5000
+Skipped 49197 out of 52597
+That's a 93.54% skip rate.
+
+3500 out of 5000
+Skipped 50695 out of 54195
+That's a 93.54% skip rate.
+
+3600 out of 5000
+Skipped 51908 out of 55508
+That's a 93.51% skip rate.
+
+3700 out of 5000
+Skipped 53537 out of 57237
+That's a 93.54% skip rate.
+
+3800 out of 5000
+Skipped 55065 out of 58865
+That's a 93.54% skip rate.
+
+3900 out of 5000
+Skipped 56304 out of 60204
+That's a 93.52% skip rate.
+
+4000 out of 5000
+Skipped 57797 out of 61797
+That's a 93.53% skip rate.
+
+4100 out of 5000
+Skipped 59245 out of 63345
+That's a 93.53% skip rate.
+
+4200 out of 5000
+Skipped 60681 out of 64881
+That's a 93.53% skip rate.
+
+4300 out of 5000
+Skipped 61765 out of 66065
+That's a 93.49% skip rate.
+
+4400 out of 5000
+Skipped 63432 out of 67832
+That's a 93.51% skip rate.
+
+4500 out of 5000
+Skipped 64687 out of 69187
+That's a 93.50% skip rate.
+
+4600 out of 5000
+Skipped 66086 out of 70686
+That's a 93.49% skip rate.
+
+4700 out of 5000
+Skipped 67560 out of 72260
+That's a 93.50% skip rate.
+
+4800 out of 5000
+Skipped 69024 out of 73824
+That's a 93.50% skip rate.
+
+4900 out of 5000
+Skipped 70449 out of 75349
+That's a 93.50% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 9S: 156.634
+Average util (point diff) of playing the JS: 156.634
+Average util (point diff) of playing the 6D: 149.765
+Average util (point diff) of playing the KD: 156.6296
+0 out of 5000
+Sum of impact of simulation: 5000.0 out of a possible 5000 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 9S
+****************************
+TEST BURNT MELLOW index: 3
+RUN SIMULATION
+100 out of 5000
+Skipped 1611 out of 1711
+That's a 94.16% skip rate.
+
+200 out of 5000
+Skipped 3144 out of 3344
+That's a 94.02% skip rate.
+
+300 out of 5000
+Skipped 4642 out of 4942
+That's a 93.93% skip rate.
+
+400 out of 5000
+Skipped 6412 out of 6812
+That's a 94.13% skip rate.
+
+500 out of 5000
+Skipped 7799 out of 8299
+That's a 93.98% skip rate.
+
+600 out of 5000
+Skipped 9146 out of 9746
+That's a 93.84% skip rate.
+
+700 out of 5000
+Skipped 10338 out of 11038
+That's a 93.66% skip rate.
+
+800 out of 5000
+Skipped 11816 out of 12616
+That's a 93.66% skip rate.
+
+900 out of 5000
+Skipped 12993 out of 13893
+That's a 93.52% skip rate.
+
+1000 out of 5000
+Skipped 14325 out of 15325
+That's a 93.47% skip rate.
+
+1100 out of 5000
+Skipped 15808 out of 16908
+That's a 93.49% skip rate.
+
+1200 out of 5000
+Skipped 17294 out of 18494
+That's a 93.51% skip rate.
+
+1300 out of 5000
+Skipped 18681 out of 19981
+That's a 93.49% skip rate.
+
+1400 out of 5000
+Skipped 20140 out of 21540
+That's a 93.50% skip rate.
+
+1500 out of 5000
+Skipped 21406 out of 22906
+That's a 93.45% skip rate.
+
+1600 out of 5000
+Skipped 23093 out of 24693
+That's a 93.52% skip rate.
+
+1700 out of 5000
+Skipped 24711 out of 26411
+That's a 93.56% skip rate.
+
+1800 out of 5000
+Skipped 26033 out of 27833
+That's a 93.53% skip rate.
+
+1900 out of 5000
+Skipped 27585 out of 29485
+That's a 93.56% skip rate.
+
+2000 out of 5000
+Skipped 28609 out of 30609
+That's a 93.47% skip rate.
+
+2100 out of 5000
+Skipped 29955 out of 32055
+That's a 93.45% skip rate.
+
+2200 out of 5000
+Skipped 31421 out of 33621
+That's a 93.46% skip rate.
+
+2300 out of 5000
+Skipped 33025 out of 35325
+That's a 93.49% skip rate.
+
+2400 out of 5000
+Skipped 34630 out of 37030
+That's a 93.52% skip rate.
+
+2500 out of 5000
+Skipped 36097 out of 38597
+That's a 93.52% skip rate.
+
+2600 out of 5000
+Skipped 37722 out of 40322
+That's a 93.55% skip rate.
+
+2700 out of 5000
+Skipped 39029 out of 41729
+That's a 93.53% skip rate.
+
+2800 out of 5000
+Skipped 40351 out of 43151
+That's a 93.51% skip rate.
+
+2900 out of 5000
+Skipped 41686 out of 44586
+That's a 93.50% skip rate.
+
+3000 out of 5000
+Skipped 43312 out of 46312
+That's a 93.52% skip rate.
+
+3100 out of 5000
+Skipped 44690 out of 47790
+That's a 93.51% skip rate.
+
+3200 out of 5000
+Skipped 46262 out of 49462
+That's a 93.53% skip rate.
+
+3300 out of 5000
+Skipped 47595 out of 50895
+That's a 93.52% skip rate.
+
+3400 out of 5000
+Skipped 49214 out of 52614
+That's a 93.54% skip rate.
+
+3500 out of 5000
+Skipped 50840 out of 54340
+That's a 93.56% skip rate.
+
+3600 out of 5000
+Skipped 52659 out of 56259
+That's a 93.60% skip rate.
+
+3700 out of 5000
+Skipped 54111 out of 57811
+That's a 93.60% skip rate.
+
+3800 out of 5000
+Skipped 55510 out of 59310
+That's a 93.59% skip rate.
+
+3900 out of 5000
+Skipped 56745 out of 60645
+That's a 93.57% skip rate.
+
+4000 out of 5000
+Skipped 58219 out of 62219
+That's a 93.57% skip rate.
+
+4100 out of 5000
+Skipped 59825 out of 63925
+That's a 93.59% skip rate.
+
+4200 out of 5000
+Skipped 61413 out of 65613
+That's a 93.60% skip rate.
+
+4300 out of 5000
+Skipped 62977 out of 67277
+That's a 93.61% skip rate.
+
+4400 out of 5000
+Skipped 64070 out of 68470
+That's a 93.57% skip rate.
+
+4500 out of 5000
+Skipped 65380 out of 69880
+That's a 93.56% skip rate.
+
+4600 out of 5000
+Skipped 66755 out of 71355
+That's a 93.55% skip rate.
+
+4700 out of 5000
+Skipped 68382 out of 73082
+That's a 93.57% skip rate.
+
+4800 out of 5000
+Skipped 69842 out of 74642
+That's a 93.57% skip rate.
+
+4900 out of 5000
+Skipped 71410 out of 76310
+That's a 93.58% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 9S: 156.6356
+Average util (point diff) of playing the JS: 156.6356
+Average util (point diff) of playing the 6D: 150.371
+Average util (point diff) of playing the KD: 156.6344
+Sum of impact of simulation: 5000.0 out of a possible 5000 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 9S
+AI response: 9S
+Expert response: KD
+Acceptable alternative response: 6D
+Fail: AI doesn't do what the expert does (FAIL)
+(LEAD FAIL)
+#Comments:
+#Partner signalled QD or void, so 6D is might be even better. Too complicated though!
+# (I played KD)
+#
+END OF TESTCASE
+
+
+Testing: testcase4115.txt
+Your name: Michael2021-2
+Cards dealt: 
+TS 9S 8S 5S 4S 3S 2S JH 8H 4H 4C KD JD 
+AI look at cards print statements --------
+****************************
+Doris bid 3.
+Michael2021-2 bid 4.
+Phil bid 2.
+Richard bid 2.
+--new round--
+Doris played the 3D.
+Michael2021-2 played the JD.
+Phil played the AD.
+Richard played the 2D.
+--new round--
+Phil played the AC.
+Richard played the 2C.
+Doris played the 3C.
+Michael2021-2 played the 4C.
+--new round--
+Phil played the TC.
+Richard played the JC.
+Doris played the KC.
+Michael2021-2 played the 2S.
+
+Cards left:
+TS 9S 8S 5S 4S 3S JH 8H 4H KD 
+AI handle action print statements --------
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 7694 out of 7794
+That's a 98.72% skip rate.
+
+200 out of 5000
+Skipped 16652 out of 16852
+That's a 98.81% skip rate.
+
+300 out of 5000
+Skipped 25138 out of 25438
+That's a 98.82% skip rate.
+
+400 out of 5000
+Skipped 33495 out of 33895
+That's a 98.82% skip rate.
+
+500 out of 5000
+Skipped 42355 out of 42855
+That's a 98.83% skip rate.
+
+600 out of 5000
+Skipped 52021 out of 52621
+That's a 98.86% skip rate.
+
+700 out of 5000
+Skipped 64073 out of 64773
+That's a 98.92% skip rate.
+
+800 out of 5000
+Skipped 72765 out of 73565
+That's a 98.91% skip rate.
+
+900 out of 5000
+Skipped 81575 out of 82475
+That's a 98.91% skip rate.
+
+1000 out of 5000
+Skipped 89578 out of 90578
+That's a 98.90% skip rate.
+
+1100 out of 5000
+Skipped 99098 out of 100198
+That's a 98.90% skip rate.
+
+1200 out of 5000
+Skipped 109289 out of 110489
+That's a 98.91% skip rate.
+
+1300 out of 5000
+Skipped 118891 out of 120191
+That's a 98.92% skip rate.
+
+1400 out of 5000
+Skipped 128099 out of 129499
+That's a 98.92% skip rate.
+
+1500 out of 5000
+Skipped 135236 out of 136736
+That's a 98.90% skip rate.
+
+1600 out of 5000
+Skipped 143721 out of 145321
+That's a 98.90% skip rate.
+
+1700 out of 5000
+Skipped 152128 out of 153828
+That's a 98.89% skip rate.
+
+1800 out of 5000
+Skipped 161423 out of 163223
+That's a 98.90% skip rate.
+
+1900 out of 5000
+Skipped 169592 out of 171492
+That's a 98.89% skip rate.
+
+2000 out of 5000
+Skipped 177765 out of 179765
+That's a 98.89% skip rate.
+
+2100 out of 5000
+Skipped 186663 out of 188763
+That's a 98.89% skip rate.
+
+2200 out of 5000
+Skipped 195122 out of 197322
+That's a 98.89% skip rate.
+
+2300 out of 5000
+Skipped 203140 out of 205440
+That's a 98.88% skip rate.
+
+2400 out of 5000
+Skipped 212648 out of 215048
+That's a 98.88% skip rate.
+
+2500 out of 5000
+Skipped 222470 out of 224970
+That's a 98.89% skip rate.
+
+2600 out of 5000
+Skipped 230016 out of 232616
+That's a 98.88% skip rate.
+
+2700 out of 5000
+Skipped 238528 out of 241228
+That's a 98.88% skip rate.
+
+2800 out of 5000
+Skipped 247494 out of 250294
+That's a 98.88% skip rate.
+
+2900 out of 5000
+Skipped 255545 out of 258445
+That's a 98.88% skip rate.
+
+3000 out of 5000
+Skipped 263618 out of 266618
+That's a 98.87% skip rate.
+
+3100 out of 5000
+Skipped 270489 out of 273589
+That's a 98.87% skip rate.
+
+3200 out of 5000
+Skipped 280465 out of 283665
+That's a 98.87% skip rate.
+
+3300 out of 5000
+Skipped 287787 out of 291087
+That's a 98.87% skip rate.
+
+3400 out of 5000
+Skipped 295208 out of 298608
+That's a 98.86% skip rate.
+
+3500 out of 5000
+Skipped 303593 out of 307093
+That's a 98.86% skip rate.
+
+3600 out of 5000
+Skipped 312881 out of 316481
+That's a 98.86% skip rate.
+
+3700 out of 5000
+Skipped 321229 out of 324929
+That's a 98.86% skip rate.
+
+3800 out of 5000
+Skipped 330616 out of 334416
+That's a 98.86% skip rate.
+
+3900 out of 5000
+Skipped 339179 out of 343079
+That's a 98.86% skip rate.
+
+4000 out of 5000
+Skipped 348776 out of 352776
+That's a 98.87% skip rate.
+
+4100 out of 5000
+Skipped 357506 out of 361606
+That's a 98.87% skip rate.
+
+4200 out of 5000
+Skipped 365507 out of 369707
+That's a 98.86% skip rate.
+
+4300 out of 5000
+Skipped 374844 out of 379144
+That's a 98.87% skip rate.
+
+4400 out of 5000
+Skipped 383884 out of 388284
+That's a 98.87% skip rate.
+
+4500 out of 5000
+Skipped 393173 out of 397673
+That's a 98.87% skip rate.
+
+4600 out of 5000
+Skipped 401132 out of 405732
+That's a 98.87% skip rate.
+
+4700 out of 5000
+Skipped 408906 out of 413606
+That's a 98.86% skip rate.
+
+4800 out of 5000
+Skipped 416998 out of 421798
+That's a 98.86% skip rate.
+
+4900 out of 5000
+Skipped 426638 out of 431538
+That's a 98.86% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 3S: 30.8142
+Average util (point diff) of playing the 4S: 30.8142
+Average util (point diff) of playing the 5S: 30.8142
+Average util (point diff) of playing the 8S: 31.2656
+Average util (point diff) of playing the 9S: 30.797
+Average util (point diff) of playing the TS: 30.4532
+Average util (point diff) of playing the 4H: 25.9186
+Average util (point diff) of playing the 8H: 25.8878
+Average util (point diff) of playing the JH: 23.2002
+Average util (point diff) of playing the KD: 33.1234
+Sum of impact of simulation: 5000.0 out of a possible 5000 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the KD
+****************************
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 8479 out of 8579
+That's a 98.83% skip rate.
+
+200 out of 5000
+Skipped 16199 out of 16399
+That's a 98.78% skip rate.
+
+300 out of 5000
+Skipped 23944 out of 24244
+That's a 98.76% skip rate.
+
+400 out of 5000
+Skipped 31026 out of 31426
+That's a 98.73% skip rate.
+
+500 out of 5000
+Skipped 40874 out of 41374
+That's a 98.79% skip rate.
+
+600 out of 5000
+Skipped 48648 out of 49248
+That's a 98.78% skip rate.
+
+700 out of 5000
+Skipped 58013 out of 58713
+That's a 98.81% skip rate.
+
+800 out of 5000
+Skipped 67152 out of 67952
+That's a 98.82% skip rate.
+
+900 out of 5000
+Skipped 76004 out of 76904
+That's a 98.83% skip rate.
+
+1000 out of 5000
+Skipped 83435 out of 84435
+That's a 98.82% skip rate.
+
+1100 out of 5000
+Skipped 92946 out of 94046
+That's a 98.83% skip rate.
+
+1200 out of 5000
+Skipped 99939 out of 101139
+That's a 98.81% skip rate.
+
+1300 out of 5000
+Skipped 107398 out of 108698
+That's a 98.80% skip rate.
+
+1400 out of 5000
+Skipped 114984 out of 116384
+That's a 98.80% skip rate.
+
+1500 out of 5000
+Skipped 124551 out of 126051
+That's a 98.81% skip rate.
+
+1600 out of 5000
+Skipped 130848 out of 132448
+That's a 98.79% skip rate.
+
+1700 out of 5000
+Skipped 140923 out of 142623
+That's a 98.81% skip rate.
+
+1800 out of 5000
+Skipped 150061 out of 151861
+That's a 98.81% skip rate.
+
+1900 out of 5000
+Skipped 158573 out of 160473
+That's a 98.82% skip rate.
+
+2000 out of 5000
+Skipped 166501 out of 168501
+That's a 98.81% skip rate.
+
+2100 out of 5000
+Skipped 173273 out of 175373
+That's a 98.80% skip rate.
+
+2200 out of 5000
+Skipped 180799 out of 182999
+That's a 98.80% skip rate.
+
+2300 out of 5000
+Skipped 190486 out of 192786
+That's a 98.81% skip rate.
+
+2400 out of 5000
+Skipped 199432 out of 201832
+That's a 98.81% skip rate.
+
+2500 out of 5000
+Skipped 207650 out of 210150
+That's a 98.81% skip rate.
+
+2600 out of 5000
+Skipped 215349 out of 217949
+That's a 98.81% skip rate.
+
+2700 out of 5000
+Skipped 224069 out of 226769
+That's a 98.81% skip rate.
+
+2800 out of 5000
+Skipped 231718 out of 234518
+That's a 98.81% skip rate.
+
+2900 out of 5000
+Skipped 239534 out of 242434
+That's a 98.80% skip rate.
+
+3000 out of 5000
+Skipped 247993 out of 250993
+That's a 98.80% skip rate.
+
+3100 out of 5000
+Skipped 257369 out of 260469
+That's a 98.81% skip rate.
+
+3200 out of 5000
+Skipped 264968 out of 268168
+That's a 98.81% skip rate.
+
+3300 out of 5000
+Skipped 273307 out of 276607
+That's a 98.81% skip rate.
+
+3400 out of 5000
+Skipped 282610 out of 286010
+That's a 98.81% skip rate.
+
+3500 out of 5000
+Skipped 290822 out of 294322
+That's a 98.81% skip rate.
+
+3600 out of 5000
+Skipped 300641 out of 304241
+That's a 98.82% skip rate.
+
+3700 out of 5000
+Skipped 308059 out of 311759
+That's a 98.81% skip rate.
+
+3800 out of 5000
+Skipped 316965 out of 320765
+That's a 98.82% skip rate.
+
+3900 out of 5000
+Skipped 325371 out of 329271
+That's a 98.82% skip rate.
+
+4000 out of 5000
+Skipped 333185 out of 337185
+That's a 98.81% skip rate.
+
+4100 out of 5000
+Skipped 342654 out of 346754
+That's a 98.82% skip rate.
+
+4200 out of 5000
+Skipped 351241 out of 355441
+That's a 98.82% skip rate.
+
+4300 out of 5000
+Skipped 360122 out of 364422
+That's a 98.82% skip rate.
+
+4400 out of 5000
+Skipped 369448 out of 373848
+That's a 98.82% skip rate.
+
+4500 out of 5000
+Skipped 378440 out of 382940
+That's a 98.82% skip rate.
+
+4600 out of 5000
+Skipped 386658 out of 391258
+That's a 98.82% skip rate.
+
+4700 out of 5000
+Skipped 395935 out of 400635
+That's a 98.83% skip rate.
+
+4800 out of 5000
+Skipped 404310 out of 409110
+That's a 98.83% skip rate.
+
+4900 out of 5000
+Skipped 412485 out of 417385
+That's a 98.83% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 3S: 29.5442
+Average util (point diff) of playing the 4S: 29.5442
+Average util (point diff) of playing the 5S: 29.5442
+Average util (point diff) of playing the 8S: 30.0062
+Average util (point diff) of playing the 9S: 29.3994
+Average util (point diff) of playing the TS: 29.1164
+Average util (point diff) of playing the 4H: 25.1446
+Average util (point diff) of playing the 8H: 24.9996
+Average util (point diff) of playing the JH: 22.5942
+Average util (point diff) of playing the KD: 31.8352
+Sum of impact of simulation: 5000.0 out of a possible 5000 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the KD
+AI response: KD
+Expert response: KD
+Acceptable alternative response: 
+AI matches expert response! (PASS)
+END OF TESTCASE
+
+
+Testing: testcase4120.txt
+Your name: Michael2021-2
+Cards dealt: 
+TS 9S 8S 5S 4S 3S 2S JH 8H 4H 4C KD JD 
+AI look at cards print statements --------
+****************************
+Doris bid 3.
+Michael2021-2 bid 4.
+Phil bid 2.
+Richard bid 2.
+--new round--
+Doris played the 3D.
+Michael2021-2 played the JD.
+Phil played the AD.
+Richard played the 2D.
+--new round--
+Phil played the AC.
+Richard played the 2C.
+Doris played the 3C.
+Michael2021-2 played the 4C.
+--new round--
+Phil played the TC.
+Richard played the JC.
+Doris played the KC.
+Michael2021-2 played the 2S.
+--new round--
+Michael2021-2 played the KD.
+Phil played the 4D.
+Richard played the 5D.
+Doris played the 6S.
+--new round--
+Doris played the KS.
+KING SACRIFICE!
+Michael2021-2 played the 3S.
+Phil played the 7S.
+Richard played the AS.
+--new round--
+Richard played the 8C.
+Doris played the 5C.
+Michael2021-2 played the 4S.
+Phil played the 9C.
+--new round--
+Michael2021-2 played the TS.
+Phil played the 3H.
+Richard played the JS.
+DEBUG MAX JS is barely over 1
+Doris played the QS.
+--new round--
+Doris played the 7C.
+Michael2021-2 played the 5S.
+Phil played the QC.
+Richard played the 2H.
+
+Cards left:
+9S 8S JH 8H 4H 
+AI handle action print statements --------
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 516 out of 616
+That's a 83.77% skip rate.
+
+200 out of 5000
+Skipped 1059 out of 1259
+That's a 84.11% skip rate.
+
+300 out of 5000
+Skipped 1550 out of 1850
+That's a 83.78% skip rate.
+
+400 out of 5000
+Skipped 2107 out of 2507
+That's a 84.04% skip rate.
+
+500 out of 5000
+Skipped 2645 out of 3145
+That's a 84.10% skip rate.
+
+600 out of 5000
+Skipped 3204 out of 3804
+That's a 84.23% skip rate.
+
+700 out of 5000
+Skipped 3760 out of 4460
+That's a 84.30% skip rate.
+
+800 out of 5000
+Skipped 4272 out of 5072
+That's a 84.23% skip rate.
+
+900 out of 5000
+Skipped 4781 out of 5681
+That's a 84.16% skip rate.
+
+1000 out of 5000
+Skipped 5353 out of 6353
+That's a 84.26% skip rate.
+
+1100 out of 5000
+Skipped 5808 out of 6908
+That's a 84.08% skip rate.
+
+1200 out of 5000
+Skipped 6348 out of 7548
+That's a 84.10% skip rate.
+
+1300 out of 5000
+Skipped 6898 out of 8198
+That's a 84.14% skip rate.
+
+1400 out of 5000
+Skipped 7541 out of 8941
+That's a 84.34% skip rate.
+
+1500 out of 5000
+Skipped 8132 out of 9632
+That's a 84.43% skip rate.
+
+1600 out of 5000
+Skipped 8703 out of 10303
+That's a 84.47% skip rate.
+
+1700 out of 5000
+Skipped 9191 out of 10891
+That's a 84.39% skip rate.
+
+1800 out of 5000
+Skipped 9714 out of 11514
+That's a 84.37% skip rate.
+
+1900 out of 5000
+Skipped 10173 out of 12073
+That's a 84.26% skip rate.
+
+2000 out of 5000
+Skipped 10744 out of 12744
+That's a 84.31% skip rate.
+
+2100 out of 5000
+Skipped 11241 out of 13341
+That's a 84.26% skip rate.
+
+2200 out of 5000
+Skipped 11787 out of 13987
+That's a 84.27% skip rate.
+
+2300 out of 5000
+Skipped 12188 out of 14488
+That's a 84.12% skip rate.
+
+2400 out of 5000
+Skipped 12721 out of 15121
+That's a 84.13% skip rate.
+
+2500 out of 5000
+Skipped 13231 out of 15731
+That's a 84.11% skip rate.
+
+2600 out of 5000
+Skipped 13805 out of 16405
+That's a 84.15% skip rate.
+
+2700 out of 5000
+Skipped 14379 out of 17079
+That's a 84.19% skip rate.
+
+2800 out of 5000
+Skipped 14939 out of 17739
+That's a 84.22% skip rate.
+
+2900 out of 5000
+Skipped 15399 out of 18299
+That's a 84.15% skip rate.
+
+3000 out of 5000
+Skipped 15986 out of 18986
+That's a 84.20% skip rate.
+
+3100 out of 5000
+Skipped 16512 out of 19612
+That's a 84.19% skip rate.
+
+3200 out of 5000
+Skipped 17102 out of 20302
+That's a 84.24% skip rate.
+
+3300 out of 5000
+Skipped 17612 out of 20912
+That's a 84.22% skip rate.
+
+3400 out of 5000
+Skipped 18158 out of 21558
+That's a 84.23% skip rate.
+
+3500 out of 5000
+Skipped 18735 out of 22235
+That's a 84.26% skip rate.
+
+3600 out of 5000
+Skipped 19262 out of 22862
+That's a 84.25% skip rate.
+
+3700 out of 5000
+Skipped 19766 out of 23466
+That's a 84.23% skip rate.
+
+3800 out of 5000
+Skipped 20235 out of 24035
+That's a 84.19% skip rate.
+
+3900 out of 5000
+Skipped 20789 out of 24689
+That's a 84.20% skip rate.
+
+4000 out of 5000
+Skipped 21364 out of 25364
+That's a 84.23% skip rate.
+
+4100 out of 5000
+Skipped 21938 out of 26038
+That's a 84.25% skip rate.
+
+4200 out of 5000
+Skipped 22490 out of 26690
+That's a 84.26% skip rate.
+
+4300 out of 5000
+Skipped 22986 out of 27286
+That's a 84.24% skip rate.
+
+4400 out of 5000
+Skipped 23506 out of 27906
+That's a 84.23% skip rate.
+
+4500 out of 5000
+Skipped 24101 out of 28601
+That's a 84.27% skip rate.
+
+4600 out of 5000
+Skipped 24555 out of 29155
+That's a 84.22% skip rate.
+
+4700 out of 5000
+Skipped 25015 out of 29715
+That's a 84.18% skip rate.
+
+4800 out of 5000
+Skipped 25523 out of 30323
+That's a 84.17% skip rate.
+
+4900 out of 5000
+Skipped 26050 out of 30950
+That's a 84.17% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 8S: 24.3998
+Average util (point diff) of playing the 9S: 24.3998
+Average util (point diff) of playing the 4H: 15.851
+Average util (point diff) of playing the 8H: 15.785
+Average util (point diff) of playing the JH: 15.0954
+0 out of 5000
+Sum of impact of simulation: 5000.0 out of a possible 5000 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 8S
+****************************
+RUN SIMULATION
+100 out of 5000
+Skipped 544 out of 644
+That's a 84.47% skip rate.
+
+200 out of 5000
+Skipped 1039 out of 1239
+That's a 83.86% skip rate.
+
+300 out of 5000
+Skipped 1720 out of 2020
+That's a 85.15% skip rate.
+
+400 out of 5000
+Skipped 2225 out of 2625
+That's a 84.76% skip rate.
+
+500 out of 5000
+Skipped 2707 out of 3207
+That's a 84.41% skip rate.
+
+600 out of 5000
+Skipped 3171 out of 3771
+That's a 84.09% skip rate.
+
+700 out of 5000
+Skipped 3656 out of 4356
+That's a 83.93% skip rate.
+
+800 out of 5000
+Skipped 4194 out of 4994
+That's a 83.98% skip rate.
+
+900 out of 5000
+Skipped 4780 out of 5680
+That's a 84.15% skip rate.
+
+1000 out of 5000
+Skipped 5142 out of 6142
+That's a 83.72% skip rate.
+
+1100 out of 5000
+Skipped 5718 out of 6818
+That's a 83.87% skip rate.
+
+1200 out of 5000
+Skipped 6193 out of 7393
+That's a 83.77% skip rate.
+
+1300 out of 5000
+Skipped 6699 out of 7999
+That's a 83.75% skip rate.
+
+1400 out of 5000
+Skipped 7145 out of 8545
+That's a 83.62% skip rate.
+
+1500 out of 5000
+Skipped 7659 out of 9159
+That's a 83.62% skip rate.
+
+1600 out of 5000
+Skipped 8349 out of 9949
+That's a 83.92% skip rate.
+
+1700 out of 5000
+Skipped 8857 out of 10557
+That's a 83.90% skip rate.
+
+1800 out of 5000
+Skipped 9452 out of 11252
+That's a 84.00% skip rate.
+
+1900 out of 5000
+Skipped 10034 out of 11934
+That's a 84.08% skip rate.
+
+2000 out of 5000
+Skipped 10438 out of 12438
+That's a 83.92% skip rate.
+
+2100 out of 5000
+Skipped 10933 out of 13033
+That's a 83.89% skip rate.
+
+2200 out of 5000
+Skipped 11363 out of 13563
+That's a 83.78% skip rate.
+
+2300 out of 5000
+Skipped 11946 out of 14246
+That's a 83.86% skip rate.
+
+2400 out of 5000
+Skipped 12583 out of 14983
+That's a 83.98% skip rate.
+
+2500 out of 5000
+Skipped 13178 out of 15678
+That's a 84.05% skip rate.
+
+2600 out of 5000
+Skipped 13641 out of 16241
+That's a 83.99% skip rate.
+
+2700 out of 5000
+Skipped 14140 out of 16840
+That's a 83.97% skip rate.
+
+2800 out of 5000
+Skipped 14747 out of 17547
+That's a 84.04% skip rate.
+
+2900 out of 5000
+Skipped 15163 out of 18063
+That's a 83.95% skip rate.
+
+3000 out of 5000
+Skipped 15637 out of 18637
+That's a 83.90% skip rate.
+
+3100 out of 5000
+Skipped 16193 out of 19293
+That's a 83.93% skip rate.
+
+3200 out of 5000
+Skipped 16687 out of 19887
+That's a 83.91% skip rate.
+
+3300 out of 5000
+Skipped 17212 out of 20512
+That's a 83.91% skip rate.
+
+3400 out of 5000
+Skipped 17727 out of 21127
+That's a 83.91% skip rate.
+
+3500 out of 5000
+Skipped 18217 out of 21717
+That's a 83.88% skip rate.
+
+3600 out of 5000
+Skipped 18702 out of 22302
+That's a 83.86% skip rate.
+
+3700 out of 5000
+Skipped 19225 out of 22925
+That's a 83.86% skip rate.
+
+3800 out of 5000
+Skipped 19820 out of 23620
+That's a 83.91% skip rate.
+
+3900 out of 5000
+Skipped 20348 out of 24248
+That's a 83.92% skip rate.
+
+4000 out of 5000
+Skipped 20863 out of 24863
+That's a 83.91% skip rate.
+
+4100 out of 5000
+Skipped 21343 out of 25443
+That's a 83.89% skip rate.
+
+4200 out of 5000
+Skipped 21801 out of 26001
+That's a 83.85% skip rate.
+
+4300 out of 5000
+Skipped 22214 out of 26514
+That's a 83.78% skip rate.
+
+4400 out of 5000
+Skipped 22726 out of 27126
+That's a 83.78% skip rate.
+
+4500 out of 5000
+Skipped 23209 out of 27709
+That's a 83.76% skip rate.
+
+4600 out of 5000
+Skipped 23867 out of 28467
+That's a 83.84% skip rate.
+
+4700 out of 5000
+Skipped 24439 out of 29139
+That's a 83.87% skip rate.
+
+4800 out of 5000
+Skipped 25016 out of 29816
+That's a 83.90% skip rate.
+
+4900 out of 5000
+Skipped 25570 out of 30470
+That's a 83.92% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 8S: 23.6744
+Average util (point diff) of playing the 9S: 23.6744
+Average util (point diff) of playing the 4H: 15.5896
+Average util (point diff) of playing the 8H: 15.5272
+Average util (point diff) of playing the JH: 14.8484
+Sum of impact of simulation: 5000.0 out of a possible 5000 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 8S
+AI response: 8S
+Expert response: 9S
+Acceptable alternative response: 8S
+AI matches expert alternative response! (PASS)
+#Comments:
+#My pathetic attempt to take the rest of the tricks...
+END OF TESTCASE
+
+
+Testing: testcase4121.txt
+Your name: Michael2021-2
+Cards dealt: 
+TS 9S 8S 5S 4S 3S 2S JH 8H 4H 4C KD JD 
+AI look at cards print statements --------
+****************************
+Doris bid 3.
+Michael2021-2 bid 4.
+Phil bid 2.
+Richard bid 2.
+--new round--
+Doris played the 3D.
+Michael2021-2 played the JD.
+Phil played the AD.
+Richard played the 2D.
+--new round--
+Phil played the AC.
+Richard played the 2C.
+Doris played the 3C.
+Michael2021-2 played the 4C.
+--new round--
+Phil played the TC.
+Richard played the JC.
+Doris played the KC.
+Michael2021-2 played the 2S.
+--new round--
+Michael2021-2 played the KD.
+Phil played the 4D.
+Richard played the 5D.
+Doris played the 6S.
+--new round--
+Doris played the KS.
+KING SACRIFICE!
+Michael2021-2 played the 3S.
+Phil played the 7S.
+Richard played the AS.
+--new round--
+Richard played the 8C.
+Doris played the 5C.
+Michael2021-2 played the 4S.
+Phil played the 9C.
+--new round--
+Michael2021-2 played the TS.
+Phil played the 3H.
+Richard played the JS.
+DEBUG MAX JS is barely over 1
+Doris played the QS.
+--new round--
+Doris played the 7C.
+Michael2021-2 played the 5S.
+Phil played the QC.
+Richard played the 2H.
+--new round--
+Michael2021-2 played the 9S.
+Phil played the 6H.
+Richard played the 6D.
+Doris played the 5H.
+
+Cards left:
+8S JH 8H 4H 
+AI handle action print statements --------
+RUN SIMULATION
+0 out of 1925
+100 out of 1925
+Skipped 70 out of 170
+That's a 41.18% skip rate.
+
+200 out of 1925
+Skipped 170 out of 370
+That's a 45.95% skip rate.
+
+300 out of 1925
+Skipped 245 out of 545
+That's a 44.95% skip rate.
+
+400 out of 1925
+Skipped 305 out of 705
+That's a 43.26% skip rate.
+
+500 out of 1925
+Skipped 365 out of 865
+That's a 42.20% skip rate.
+
+600 out of 1925
+Skipped 430 out of 1030
+That's a 41.75% skip rate.
+
+700 out of 1925
+Skipped 515 out of 1215
+That's a 42.39% skip rate.
+
+800 out of 1925
+Skipped 615 out of 1415
+That's a 43.46% skip rate.
+
+900 out of 1925
+Skipped 697 out of 1597
+That's a 43.64% skip rate.
+
+1000 out of 1925
+Skipped 757 out of 1757
+That's a 43.08% skip rate.
+
+1100 out of 1925
+Skipped 837 out of 1937
+That's a 43.21% skip rate.
+
+1200 out of 1925
+Skipped 913 out of 2113
+That's a 43.21% skip rate.
+
+1300 out of 1925
+Skipped 977 out of 2277
+That's a 42.91% skip rate.
+
+1400 out of 1925
+Skipped 1053 out of 2453
+That's a 42.93% skip rate.
+
+1500 out of 1925
+Skipped 1137 out of 2637
+That's a 43.12% skip rate.
+
+1600 out of 1925
+Skipped 1217 out of 2817
+That's a 43.20% skip rate.
+
+1700 out of 1925
+Skipped 1317 out of 3017
+That's a 43.65% skip rate.
+
+1800 out of 1925
+Skipped 1407 out of 3207
+That's a 43.87% skip rate.
+
+1900 out of 1925
+Skipped 1472 out of 3372
+That's a 43.65% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 8S: 19.545034642032334
+Average util (point diff) of playing the 4H: 20.20554272517321
+Average util (point diff) of playing the 8H: 20.10392609699769
+Average util (point diff) of playing the JH: 19.628175519630485
+0 out of 1925
+Sum of impact of simulation: 433.0 out of a possible 1925 (22.49%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 4H
+****************************
+RUN SIMULATION
+100 out of 1925
+Skipped 70 out of 170
+That's a 41.18% skip rate.
+
+200 out of 1925
+Skipped 170 out of 370
+That's a 45.95% skip rate.
+
+300 out of 1925
+Skipped 245 out of 545
+That's a 44.95% skip rate.
+
+400 out of 1925
+Skipped 305 out of 705
+That's a 43.26% skip rate.
+
+500 out of 1925
+Skipped 365 out of 865
+That's a 42.20% skip rate.
+
+600 out of 1925
+Skipped 430 out of 1030
+That's a 41.75% skip rate.
+
+700 out of 1925
+Skipped 515 out of 1215
+That's a 42.39% skip rate.
+
+800 out of 1925
+Skipped 615 out of 1415
+That's a 43.46% skip rate.
+
+900 out of 1925
+Skipped 697 out of 1597
+That's a 43.64% skip rate.
+
+1000 out of 1925
+Skipped 757 out of 1757
+That's a 43.08% skip rate.
+
+1100 out of 1925
+Skipped 837 out of 1937
+That's a 43.21% skip rate.
+
+1200 out of 1925
+Skipped 913 out of 2113
+That's a 43.21% skip rate.
+
+1300 out of 1925
+Skipped 977 out of 2277
+That's a 42.91% skip rate.
+
+1400 out of 1925
+Skipped 1053 out of 2453
+That's a 42.93% skip rate.
+
+1500 out of 1925
+Skipped 1137 out of 2637
+That's a 43.12% skip rate.
+
+1600 out of 1925
+Skipped 1217 out of 2817
+That's a 43.20% skip rate.
+
+1700 out of 1925
+Skipped 1317 out of 3017
+That's a 43.65% skip rate.
+
+1800 out of 1925
+Skipped 1407 out of 3207
+That's a 43.87% skip rate.
+
+1900 out of 1925
+Skipped 1472 out of 3372
+That's a 43.65% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 8S: 19.545034642032334
+Average util (point diff) of playing the 4H: 20.20554272517321
+Average util (point diff) of playing the 8H: 20.10392609699769
+Average util (point diff) of playing the JH: 19.628175519630485
+Sum of impact of simulation: 433.0 out of a possible 1925 (22.49%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 4H
+AI response: 4H
+Expert response: 8S
+Acceptable alternative response: 
+Fail: AI doesn't do what the expert does (FAIL)
+(LEAD FAIL)
+#Comments:
+#My pathetic attempt to take the rest of the tricks... (2)
+END OF TESTCASE
+
+
+Testing: testcase4122.txt
+Your name: Michael2021-2
+Cards dealt: 
+TS 9S 8S 5S 4S 3S 2S JH 8H 4H 4C KD JD 
+AI look at cards print statements --------
+****************************
+Doris bid 3.
+Michael2021-2 bid 4.
+Phil bid 2.
+Richard bid 2.
+--new round--
+Doris played the 3D.
+Michael2021-2 played the JD.
+Phil played the AD.
+Richard played the 2D.
+--new round--
+Phil played the AC.
+Richard played the 2C.
+Doris played the 3C.
+Michael2021-2 played the 4C.
+--new round--
+Phil played the TC.
+Richard played the JC.
+Doris played the KC.
+Michael2021-2 played the 2S.
+--new round--
+Michael2021-2 played the KD.
+Phil played the 4D.
+Richard played the 5D.
+Doris played the 6S.
+--new round--
+Doris played the KS.
+KING SACRIFICE!
+Michael2021-2 played the 3S.
+Phil played the 7S.
+Richard played the AS.
+--new round--
+Richard played the 8C.
+Doris played the 5C.
+Michael2021-2 played the 4S.
+Phil played the 9C.
+--new round--
+Michael2021-2 played the TS.
+Phil played the 3H.
+Richard played the JS.
+DEBUG MAX JS is barely over 1
+Doris played the QS.
+--new round--
+Doris played the 7C.
+Michael2021-2 played the 5S.
+Phil played the QC.
+Richard played the 2H.
+--new round--
+Michael2021-2 played the 9S.
+Phil played the 6H.
+Richard played the 6D.
+Doris played the 5H.
+--new round--
+Michael2021-2 played the 8S.
+Phil played the QH.
+Richard played the 7D.
+Doris played the 7H.
+
+Cards left:
+JH 8H 4H 
+AI handle action print statements --------
+RUN SIMULATION
+0 out of 160
+100 out of 160
+Skipped 56 out of 156
+That's a 35.90% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 4H: 15.589285714285714
+Average util (point diff) of playing the 8H: 15.589285714285714
+Average util (point diff) of playing the JH: 14.839285714285714
+0 out of 160
+Sum of impact of simulation: 56.0 out of a possible 160 (35.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 4H
+****************************
+RUN SIMULATION
+100 out of 160
+Skipped 56 out of 156
+That's a 35.90% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 4H: 15.589285714285714
+Average util (point diff) of playing the 8H: 15.589285714285714
+Average util (point diff) of playing the JH: 14.839285714285714
+Sum of impact of simulation: 56.0 out of a possible 160 (35.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 4H
+AI response: 4H
+Expert response: 4H
+Acceptable alternative response: 
+AI matches expert response! (PASS)
+END OF TESTCASE
+
+
+Testing: testcase4129.txt
+Your name: Michael2021-2
+Cards dealt: 
+JS TS 2S 8H 5H 4H 3H KC TC 9C 2C JD 8D 
+AI look at cards print statements --------
+****************************
+Michael2021-2 bid 1.
+Phil bid 2.
+Richard bid 4.
+Doris bid 2.
+--new round--
+Michael2021-2 played the JD.
+Phil played the AD.
+Richard played the 2D.
+Doris played the 5D.
+--new round--
+Phil played the KD.
+Richard played the QD.
+Doris played the 7D.
+Michael2021-2 played the 8D.
+--new round--
+Phil played the AH.
+Richard played the 2H.
+Doris played the 6H.
+Michael2021-2 played the 3H.
+--new round--
+Phil played the 9D.
+Richard played the 3C.
+Doris played the TD.
+DEBUG MAX TD is barely over 1
+Michael2021-2 played the 2S.
+
+Cards left:
+JS TS 8H 5H 4H KC TC 9C 2C 
+AI handle action print statements --------
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 22205 out of 22305
+That's a 99.55% skip rate.
+
+200 out of 5000
+Skipped 45459 out of 45659
+That's a 99.56% skip rate.
+
+300 out of 5000
+Skipped 69958 out of 70258
+That's a 99.57% skip rate.
+
+400 out of 5000
+Skipped 91734 out of 92134
+That's a 99.57% skip rate.
+
+500 out of 5000
+Skipped 114375 out of 114875
+That's a 99.56% skip rate.
+
+600 out of 5000
+Skipped 136308 out of 136908
+That's a 99.56% skip rate.
+
+700 out of 5000
+Skipped 157089 out of 157789
+That's a 99.56% skip rate.
+
+800 out of 5000
+Skipped 177641 out of 178441
+That's a 99.55% skip rate.
+
+900 out of 5000
+Skipped 201442 out of 202342
+That's a 99.56% skip rate.
+
+1000 out of 5000
+Skipped 223029 out of 224029
+That's a 99.55% skip rate.
+
+1100 out of 5000
+Skipped 247963 out of 249063
+That's a 99.56% skip rate.
+
+1200 out of 5000
+Skipped 268322 out of 269522
+That's a 99.55% skip rate.
+
+1300 out of 5000
+Skipped 294266 out of 295566
+That's a 99.56% skip rate.
+
+1400 out of 5000
+Skipped 315118 out of 316518
+That's a 99.56% skip rate.
+
+1500 out of 5000
+Skipped 334238 out of 335738
+That's a 99.55% skip rate.
+
+1600 out of 5000
+Skipped 357094 out of 358694
+That's a 99.55% skip rate.
+
+1700 out of 5000
+Skipped 379275 out of 380975
+That's a 99.55% skip rate.
+
+1800 out of 5000
+Skipped 400648 out of 402448
+That's a 99.55% skip rate.
+
+1900 out of 5000
+Skipped 420993 out of 422893
+That's a 99.55% skip rate.
+
+2000 out of 5000
+Skipped 441960 out of 443960
+That's a 99.55% skip rate.
+
+2100 out of 5000
+Skipped 464797 out of 466897
+That's a 99.55% skip rate.
+
+2200 out of 5000
+Skipped 483634 out of 485834
+That's a 99.55% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the TS: 8.971441124780316
+Average util (point diff) of playing the JS: 9.278558875219684
+Average util (point diff) of playing the 4H: 8.760984182776802
+Average util (point diff) of playing the 5H: 8.760984182776802
+Average util (point diff) of playing the 8H: 8.847539543057996
+Average util (point diff) of playing the 2C: 8.635325131810193
+Average util (point diff) of playing the 9C: 8.644991212653778
+Average util (point diff) of playing the TC: 8.651142355008787
+Average util (point diff) of playing the KC: 9.10896309314587
+Sum of impact of simulation: 2276.0 out of a possible 2276 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the JS
+****************************
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 23827 out of 23927
+That's a 99.58% skip rate.
+
+200 out of 5000
+Skipped 43167 out of 43367
+That's a 99.54% skip rate.
+
+300 out of 5000
+Skipped 68065 out of 68365
+That's a 99.56% skip rate.
+
+400 out of 5000
+Skipped 91043 out of 91443
+That's a 99.56% skip rate.
+
+500 out of 5000
+Skipped 111232 out of 111732
+That's a 99.55% skip rate.
+
+600 out of 5000
+Skipped 134501 out of 135101
+That's a 99.56% skip rate.
+
+700 out of 5000
+Skipped 159770 out of 160470
+That's a 99.56% skip rate.
+
+800 out of 5000
+Skipped 183323 out of 184123
+That's a 99.57% skip rate.
+
+900 out of 5000
+Skipped 205370 out of 206270
+That's a 99.56% skip rate.
+
+1000 out of 5000
+Skipped 228912 out of 229912
+That's a 99.57% skip rate.
+
+1100 out of 5000
+Skipped 254564 out of 255664
+That's a 99.57% skip rate.
+
+1200 out of 5000
+Skipped 274124 out of 275324
+That's a 99.56% skip rate.
+
+1300 out of 5000
+Skipped 296814 out of 298114
+That's a 99.56% skip rate.
+
+1400 out of 5000
+Skipped 320574 out of 321974
+That's a 99.57% skip rate.
+
+1500 out of 5000
+Skipped 338658 out of 340158
+That's a 99.56% skip rate.
+
+1600 out of 5000
+Skipped 360092 out of 361692
+That's a 99.56% skip rate.
+
+1700 out of 5000
+Skipped 387095 out of 388795
+That's a 99.56% skip rate.
+
+1800 out of 5000
+Skipped 412198 out of 413998
+That's a 99.57% skip rate.
+
+1900 out of 5000
+Skipped 433102 out of 435002
+That's a 99.56% skip rate.
+
+2000 out of 5000
+Skipped 454689 out of 456689
+That's a 99.56% skip rate.
+
+2100 out of 5000
+Skipped 474629 out of 476729
+That's a 99.56% skip rate.
+
+2200 out of 5000
+Skipped 494472 out of 496672
+That's a 99.56% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the TS: 9.659296028880867
+Average util (point diff) of playing the JS: 9.761281588447654
+Average util (point diff) of playing the 4H: 9.341606498194945
+Average util (point diff) of playing the 5H: 9.341606498194945
+Average util (point diff) of playing the 8H: 9.38673285198556
+Average util (point diff) of playing the 2C: 9.074458483754512
+Average util (point diff) of playing the 9C: 9.11913357400722
+Average util (point diff) of playing the TC: 9.120036101083032
+Average util (point diff) of playing the KC: 9.328971119133573
+Sum of impact of simulation: 2216.0 out of a possible 2216 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the JS
+AI response: JS
+Expert response: 4H
+Acceptable alternative response: 5H
+Fail: AI doesn't do what the expert does (FAIL)
+(LEAD FAIL)
+END OF TESTCASE
+
+
+Testing: testcase4167.txt
+Your name: Michael2021-2
+Cards dealt: 
+QS TS 9S 2S KH 5H KC JC 9C 3C 2C 9D 8D 
+AI look at cards print statements --------
+****************************
+Doris bid mellow.
+Michael2021-2 bid 3.
+Phil bid 5.
+Richard bid 3.
+--new round--
+Doris played the 4S.
+Michael2021-2 played the TS.
+Phil played the 3S.
+Richard played the KS.
+--new round--
+Richard played the 6C.
+Doris played the 4C.
+Michael2021-2 played the JC.
+Phil played the 5C.
+--new round--
+Michael2021-2 played the 8D.
+Phil played the 2D.
+Richard played the 6D.
+Doris played the 3D.
+
+Cards left:
+QS 9S 2S KH 5H KC 9C 3C 2C 9D 
+AI handle action print statements --------
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 147477 out of 147577
+That's a 99.93% skip rate.
+
+200 out of 5000
+Skipped 276962 out of 277162
+That's a 99.93% skip rate.
+
+300 out of 5000
+Skipped 413301 out of 413601
+That's a 99.93% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 2S: -56.77066666666666
+Average util (point diff) of playing the 9S: -73.10133333333333
+Average util (point diff) of playing the QS: -67.75733333333334
+Average util (point diff) of playing the 5H: -50.54666666666667
+Average util (point diff) of playing the KH: -49.57866666666666
+Average util (point diff) of playing the 2C: -46.608
+Average util (point diff) of playing the 3C: -41.112
+Average util (point diff) of playing the 9C: -38.128
+Average util (point diff) of playing the KC: -41.88
+Average util (point diff) of playing the 9D: -53.501333333333335
+Sum of impact of simulation: 375.0 out of a possible 375 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 9C
+****************************
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 131337 out of 131437
+That's a 99.92% skip rate.
+
+200 out of 5000
+Skipped 253608 out of 253808
+That's a 99.92% skip rate.
+
+300 out of 5000
+Skipped 388146 out of 388446
+That's a 99.92% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 2S: -52.962311557788944
+Average util (point diff) of playing the 9S: -73.13316582914572
+Average util (point diff) of playing the QS: -68.07788944723617
+Average util (point diff) of playing the 5H: -52.21859296482412
+Average util (point diff) of playing the KH: -54.48743718592965
+Average util (point diff) of playing the 2C: -52.663316582914575
+Average util (point diff) of playing the 3C: -47.99748743718593
+Average util (point diff) of playing the 9C: -46.32914572864322
+Average util (point diff) of playing the KC: -40.346733668341706
+Average util (point diff) of playing the 9D: -56.334170854271356
+Sum of impact of simulation: 398.0 out of a possible 398 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the KC
+AI response: 9C
+Expert response: 9D
+Acceptable alternative response: 
+Fail: AI doesn't do what the expert does (FAIL)
+(LEAD FAIL)
+END OF TESTCASE
+
+
+Testing: testcase4181.txt
+Your name: Michael2021-2
+Cards dealt: 
+JS TS 9S 5S AH KH 2H AC AD JD 7D 6D 2D 
+AI look at cards print statements --------
+****************************
+Michael2021-2 bid 4.
+Phil bid mellow.
+Richard bid 4.
+Doris bid 1.
+--new round--
+Michael2021-2 played the 2H.
+Phil played the 4H.
+Richard played the QH.
+Doris played the 3H.
+--new round--
+Richard played the 5H.
+Doris played the JH.
+Michael2021-2 played the AH.
+Phil played the TH.
+--new round--
+Michael2021-2 played the 6D.
+Phil played the 5D.
+Richard played the TD.
+Doris played the 8D.
+--new round--
+Richard played the 6H.
+Doris played the 8H.
+Michael2021-2 played the KH.
+Phil played the QC.
+
+Cards left:
+JS TS 9S 5S AC AD JD 7D 2D 
+AI handle action print statements --------
+RUN SIMULATION
+0 out of 5000
+100 out of 5000
+Skipped 11651 out of 11751
+That's a 99.15% skip rate.
+
+200 out of 5000
+Skipped 21141 out of 21341
+That's a 99.06% skip rate.
+
+300 out of 5000
+Skipped 30882 out of 31182
+That's a 99.04% skip rate.
+
+400 out of 5000
+Skipped 40945 out of 41345
+That's a 99.03% skip rate.
+
+500 out of 5000
+Skipped 50013 out of 50513
+That's a 99.01% skip rate.
+
+600 out of 5000
+Skipped 59786 out of 60386
+That's a 99.01% skip rate.
+
+700 out of 5000
+Skipped 72268 out of 72968
+That's a 99.04% skip rate.
+
+800 out of 5000
+Skipped 82844 out of 83644
+That's a 99.04% skip rate.
+
+900 out of 5000
+Skipped 92222 out of 93122
+That's a 99.03% skip rate.
+
+1000 out of 5000
+Skipped 101793 out of 102793
+That's a 99.03% skip rate.
+
+1100 out of 5000
+Skipped 112669 out of 113769
+That's a 99.03% skip rate.
+
+1200 out of 5000
+Skipped 123302 out of 124502
+That's a 99.04% skip rate.
+
+1300 out of 5000
+Skipped 133235 out of 134535
+That's a 99.03% skip rate.
+
+1400 out of 5000
+Skipped 144029 out of 145429
+That's a 99.04% skip rate.
+
+1500 out of 5000
+Skipped 151436 out of 152936
+That's a 99.02% skip rate.
+
+1600 out of 5000
+Skipped 161464 out of 163064
+That's a 99.02% skip rate.
+
+1700 out of 5000
+Skipped 172138 out of 173838
+That's a 99.02% skip rate.
+
+1800 out of 5000
+Skipped 183169 out of 184969
+That's a 99.03% skip rate.
+
+1900 out of 5000
+Skipped 191781 out of 193681
+That's a 99.02% skip rate.
+
+2000 out of 5000
+Skipped 201760 out of 203760
+That's a 99.02% skip rate.
+
+2100 out of 5000
+Skipped 210253 out of 212353
+That's a 99.01% skip rate.
+
+2200 out of 5000
+Skipped 219224 out of 221424
+That's a 99.01% skip rate.
+
+2300 out of 5000
+Skipped 228400 out of 230700
+That's a 99.00% skip rate.
+
+2400 out of 5000
+Skipped 239431 out of 241831
+That's a 99.01% skip rate.
+
+2500 out of 5000
+Skipped 249612 out of 252112
+That's a 99.01% skip rate.
+
+2600 out of 5000
+Skipped 258708 out of 261308
+That's a 99.01% skip rate.
+
+2700 out of 5000
+Skipped 268974 out of 271674
+That's a 99.01% skip rate.
+
+2800 out of 5000
+Skipped 278927 out of 281727
+That's a 99.01% skip rate.
+
+2900 out of 5000
+Skipped 288118 out of 291018
+That's a 99.00% skip rate.
+
+3000 out of 5000
+Skipped 297757 out of 300757
+That's a 99.00% skip rate.
+
+3100 out of 5000
+Skipped 308596 out of 311696
+That's a 99.01% skip rate.
+
+3200 out of 5000
+Skipped 317050 out of 320250
+That's a 99.00% skip rate.
+
+3300 out of 5000
+Skipped 325938 out of 329238
+That's a 99.00% skip rate.
+
+3400 out of 5000
+Skipped 335313 out of 338713
+That's a 99.00% skip rate.
+
+3500 out of 5000
+Skipped 347263 out of 350763
+That's a 99.00% skip rate.
+
+3600 out of 5000
+Skipped 358383 out of 361983
+That's a 99.01% skip rate.
+
+3700 out of 5000
+Skipped 368881 out of 372581
+That's a 99.01% skip rate.
+
+3800 out of 5000
+Skipped 379171 out of 382971
+That's a 99.01% skip rate.
+
+3900 out of 5000
+Skipped 388101 out of 392001
+That's a 99.01% skip rate.
+
+4000 out of 5000
+Skipped 398041 out of 402041
+That's a 99.01% skip rate.
+
+4100 out of 5000
+Skipped 406783 out of 410883
+That's a 99.00% skip rate.
+
+4200 out of 5000
+Skipped 417333 out of 421533
+That's a 99.00% skip rate.
+
+4300 out of 5000
+Skipped 426152 out of 430452
+That's a 99.00% skip rate.
+
+4400 out of 5000
+Skipped 438866 out of 443266
+That's a 99.01% skip rate.
+
+4500 out of 5000
+Skipped 450796 out of 455296
+That's a 99.01% skip rate.
+
+4600 out of 5000
+Skipped 460557 out of 465157
+That's a 99.01% skip rate.
+
+4700 out of 5000
+Skipped 472505 out of 477205
+That's a 99.02% skip rate.
+
+4800 out of 5000
+Skipped 480840 out of 485640
+That's a 99.01% skip rate.
+
+4900 out of 5000
+Skipped 490097 out of 494997
+That's a 99.01% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 5S: 5.0808
+Average util (point diff) of playing the 9S: 6.5266
+Average util (point diff) of playing the TS: 6.485
+Average util (point diff) of playing the JS: 6.0366
+Average util (point diff) of playing the AC: 8.8306
+Average util (point diff) of playing the 2D: 14.5308
+Average util (point diff) of playing the 7D: 7.861
+Average util (point diff) of playing the JD: 3.6312
+Average util (point diff) of playing the AD: -6.984
+0 out of 5000
+Sum of impact of simulation: 5000.0 out of a possible 5000 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 2D
+****************************
+RUN SIMULATION
+100 out of 5000
+Skipped 9643 out of 9743
+That's a 98.97% skip rate.
+
+200 out of 5000
+Skipped 20352 out of 20552
+That's a 99.03% skip rate.
+
+300 out of 5000
+Skipped 28887 out of 29187
+That's a 98.97% skip rate.
+
+400 out of 5000
+Skipped 39969 out of 40369
+That's a 99.01% skip rate.
+
+500 out of 5000
+Skipped 52176 out of 52676
+That's a 99.05% skip rate.
+
+600 out of 5000
+Skipped 64651 out of 65251
+That's a 99.08% skip rate.
+
+700 out of 5000
+Skipped 75444 out of 76144
+That's a 99.08% skip rate.
+
+800 out of 5000
+Skipped 86264 out of 87064
+That's a 99.08% skip rate.
+
+900 out of 5000
+Skipped 95578 out of 96478
+That's a 99.07% skip rate.
+
+1000 out of 5000
+Skipped 104326 out of 105326
+That's a 99.05% skip rate.
+
+1100 out of 5000
+Skipped 114191 out of 115291
+That's a 99.05% skip rate.
+
+1200 out of 5000
+Skipped 124646 out of 125846
+That's a 99.05% skip rate.
+
+1300 out of 5000
+Skipped 133559 out of 134859
+That's a 99.04% skip rate.
+
+1400 out of 5000
+Skipped 143438 out of 144838
+That's a 99.03% skip rate.
+
+1500 out of 5000
+Skipped 152202 out of 153702
+That's a 99.02% skip rate.
+
+1600 out of 5000
+Skipped 161171 out of 162771
+That's a 99.02% skip rate.
+
+1700 out of 5000
+Skipped 171809 out of 173509
+That's a 99.02% skip rate.
+
+1800 out of 5000
+Skipped 181613 out of 183413
+That's a 99.02% skip rate.
+
+1900 out of 5000
+Skipped 194100 out of 196000
+That's a 99.03% skip rate.
+
+2000 out of 5000
+Skipped 203959 out of 205959
+That's a 99.03% skip rate.
+
+2100 out of 5000
+Skipped 214369 out of 216469
+That's a 99.03% skip rate.
+
+2200 out of 5000
+Skipped 226068 out of 228268
+That's a 99.04% skip rate.
+
+2300 out of 5000
+Skipped 236679 out of 238979
+That's a 99.04% skip rate.
+
+2400 out of 5000
+Skipped 248516 out of 250916
+That's a 99.04% skip rate.
+
+2500 out of 5000
+Skipped 258071 out of 260571
+That's a 99.04% skip rate.
+
+2600 out of 5000
+Skipped 268185 out of 270785
+That's a 99.04% skip rate.
+
+2700 out of 5000
+Skipped 279522 out of 282222
+That's a 99.04% skip rate.
+
+2800 out of 5000
+Skipped 289855 out of 292655
+That's a 99.04% skip rate.
+
+2900 out of 5000
+Skipped 298568 out of 301468
+That's a 99.04% skip rate.
+
+3000 out of 5000
+Skipped 308920 out of 311920
+That's a 99.04% skip rate.
+
+3100 out of 5000
+Skipped 318400 out of 321500
+That's a 99.04% skip rate.
+
+3200 out of 5000
+Skipped 328823 out of 332023
+That's a 99.04% skip rate.
+
+3300 out of 5000
+Skipped 338605 out of 341905
+That's a 99.03% skip rate.
+
+3400 out of 5000
+Skipped 348964 out of 352364
+That's a 99.04% skip rate.
+
+3500 out of 5000
+Skipped 360098 out of 363598
+That's a 99.04% skip rate.
+
+3600 out of 5000
+Skipped 370112 out of 373712
+That's a 99.04% skip rate.
+
+3700 out of 5000
+Skipped 381816 out of 385516
+That's a 99.04% skip rate.
+
+3800 out of 5000
+Skipped 392898 out of 396698
+That's a 99.04% skip rate.
+
+3900 out of 5000
+Skipped 401898 out of 405798
+That's a 99.04% skip rate.
+
+4000 out of 5000
+Skipped 412388 out of 416388
+That's a 99.04% skip rate.
+
+4100 out of 5000
+Skipped 422777 out of 426877
+That's a 99.04% skip rate.
+
+4200 out of 5000
+Skipped 433092 out of 437292
+That's a 99.04% skip rate.
+
+4300 out of 5000
+Skipped 442783 out of 447083
+That's a 99.04% skip rate.
+
+4400 out of 5000
+Skipped 451149 out of 455549
+That's a 99.03% skip rate.
+
+4500 out of 5000
+Skipped 460361 out of 464861
+That's a 99.03% skip rate.
+
+4600 out of 5000
+Skipped 470051 out of 474651
+That's a 99.03% skip rate.
+
+4700 out of 5000
+Skipped 481035 out of 485735
+That's a 99.03% skip rate.
+
+4800 out of 5000
+Skipped 489669 out of 494469
+That's a 99.03% skip rate.
+
+4900 out of 5000
+Skipped 499163 out of 504063
+That's a 99.03% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 5S: 6.855716323619319
+Average util (point diff) of playing the 9S: 8.56001630324027
+Average util (point diff) of playing the TS: 8.42225392296719
+Average util (point diff) of playing the JS: 8.574281638475647
+Average util (point diff) of playing the AC: 11.607499490523741
+Average util (point diff) of playing the 2D: 17.218259629101283
+Average util (point diff) of playing the 7D: 10.493988180150804
+Average util (point diff) of playing the JD: 5.802730792745058
+Average util (point diff) of playing the AD: -4.943753821071938
+Sum of impact of simulation: 4907.0 out of a possible 4907 (100.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 2D
+AI response: 2D
+Expert response: AC
+Acceptable alternative response: 
+Fail: AI doesn't do what the expert does (FAIL)
+(LEAD FAIL)
+END OF TESTCASE
+
+
+Testing: testcase4186.txt
+Your name: Michael2021-2
+Cards dealt: 
+JS TS 9S 5S AH KH 2H AC AD JD 7D 6D 2D 
+AI look at cards print statements --------
+****************************
+Michael2021-2 bid 4.
+Phil bid mellow.
+Richard bid 4.
+Doris bid 1.
+--new round--
+Michael2021-2 played the 2H.
+Phil played the 4H.
+Richard played the QH.
+Doris played the 3H.
+--new round--
+Richard played the 5H.
+Doris played the JH.
+Michael2021-2 played the AH.
+Phil played the TH.
+--new round--
+Michael2021-2 played the 6D.
+Phil played the 5D.
+Richard played the TD.
+Doris played the 8D.
+--new round--
+Richard played the 6H.
+Doris played the 8H.
+Michael2021-2 played the KH.
+Phil played the QC.
+--new round--
+Michael2021-2 played the AC.
+Phil played the 9C.
+Richard played the TC.
+Doris played the 2C.
+--new round--
+Michael2021-2 played the 2D.
+Phil played the 3D.
+Richard played the 7H.
+Doris played the 2S.
+--new round--
+Doris played the 9H.
+Michael2021-2 played the JD.
+Phil played the KD.
+Richard played the AS.
+--new round--
+Richard played the 4S.
+Doris played the KS.
+Michael2021-2 played the JS.
+Phil played the 7S.
+--new round--
+Doris played the JC.
+Michael2021-2 played the AD.
+Phil played the 4C.
+Richard played the 8C.
+--new round--
+Doris played the KC.
+
+Cards left:
+TS 9S 5S 7D 
+AI handle action print statements --------
+RUN SIMULATION
+0 out of 280
+100 out of 280
+Skipped 100 out of 200
+That's a 50.00% skip rate.
+
+200 out of 280
+Skipped 196 out of 396
+That's a 49.49% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 5S: -30.0
+Average util (point diff) of playing the 9S: -30.0
+Average util (point diff) of playing the TS: -30.0
+Average util (point diff) of playing the 7D: -32.0
+Sum of impact of simulation: 8.0 out of a possible 280 (2.86%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 5S
+****************************
+RUN SIMULATION
+0 out of 280
+100 out of 280
+Skipped 100 out of 200
+That's a 50.00% skip rate.
+
+200 out of 280
+Skipped 196 out of 396
+That's a 49.49% skip rate.
+
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 5S: -30.0
+Average util (point diff) of playing the 9S: -30.0
+Average util (point diff) of playing the TS: -30.0
+Average util (point diff) of playing the 7D: -32.0
+Sum of impact of simulation: 8.0 out of a possible 280 (2.86%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 5S
+AI response: 5S
+Expert response: 7D
+Acceptable alternative response: 
+Fail: AI doesn't do what the expert does (FAIL)
+(SECOND FAIL)
+#Comments:
+#Play 7D and hope mellow burns 6S
+#It would have worked!
+#I made a huge mistake during the game.
+END OF TESTCASE
+
+
+Testing: testcase4187.txt
+Your name: Michael2021-2
+Cards dealt: 
+JS TS 9S 5S AH KH 2H AC AD JD 7D 6D 2D 
+AI look at cards print statements --------
+****************************
+Michael2021-2 bid 4.
+Phil bid mellow.
+Richard bid 4.
+Doris bid 1.
+--new round--
+Michael2021-2 played the 2H.
+Phil played the 4H.
+Richard played the QH.
+Doris played the 3H.
+--new round--
+Richard played the 5H.
+Doris played the JH.
+Michael2021-2 played the AH.
+Phil played the TH.
+--new round--
+Michael2021-2 played the 6D.
+Phil played the 5D.
+Richard played the TD.
+Doris played the 8D.
+--new round--
+Richard played the 6H.
+Doris played the 8H.
+Michael2021-2 played the KH.
+Phil played the QC.
+--new round--
+Michael2021-2 played the AC.
+Phil played the 9C.
+Richard played the TC.
+Doris played the 2C.
+--new round--
+Michael2021-2 played the 2D.
+Phil played the 3D.
+Richard played the 7H.
+Doris played the 2S.
+--new round--
+Doris played the 9H.
+Michael2021-2 played the JD.
+Phil played the KD.
+Richard played the AS.
+--new round--
+Richard played the 4S.
+Doris played the KS.
+Michael2021-2 played the JS.
+Phil played the 7S.
+--new round--
+Doris played the JC.
+Michael2021-2 played the AD.
+Phil played the 4C.
+Richard played the 8C.
+--new round--
+Doris played the KC.
+Michael2021-2 played the TS.
+Phil played the 6S.
+Richard played the 7C.
+
+Cards left:
+9S 5S 7D 
+AI handle action print statements --------
+RUN SIMULATION
+0 out of 20
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 5S: -30.0
+Average util (point diff) of playing the 9S: -30.0
+Average util (point diff) of playing the 7D: -30.0
+0 out of 20
+Sum of impact of simulation: 1.0 out of a possible 20 (5.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 5S
+****************************
+RUN SIMULATION
+Comparing utility of different cards to play:
+Average util (point diff) of playing the 5S: -30.0
+Average util (point diff) of playing the 9S: -30.0
+Average util (point diff) of playing the 7D: -30.0
+Sum of impact of simulation: 1.0 out of a possible 20 (5.00%)
+END OF SIMULATION  PLAY: TEST: Michael2021-2 plays the 5S
+AI response: 5S
+Expert response: 5S
+Acceptable alternative response: 7D 9S
+AI matches expert response! (PASS)
+#Comments:
+#At this point, there's no burning the mellow so it doesn't matter.
+END OF TESTCASE
+
+
+Final report for MellowBasicDeciderAI:
+Passes while leading: 6 out of 19
+That's a 31.58% pass rate.
+
+Passes while second: 0 out of 1
+That's a 0.00% pass rate.
+
+Passes while third: 0 out of 0
+That's a NaN% pass rate.
+
+Passes while fourth: 0 out of 0
+That's a NaN% pass rate.
+
+AI passes 6 out of 20
+That's a 30.00% pass rate.
+AI is consistent 18 out of 20
+That's a 90.00% consistent rate.
+Num failed testcases: 14.

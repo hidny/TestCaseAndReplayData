@@ -56,19 +56,25 @@ Doris played the 3C.
 Michael2021-2 played the 3S.
 Phil played the 2C.
 Richard played the 9D.
+--new round--
+Michael2021-2 played the AD.
+Phil played the 3D.
+Richard played the JD.
+Doris played the 2D.
 
 Cards in hand:
-JS 9S AD KD 6D 
+JS 9S KD 6D 
 
-# Michael2021-2: 3/5
+# Michael2021-2: 4/5
 # Phil: 4/1
 # Richard: 0/2
 # Doris: 1/0
 
 Expert response:
-AD
+KD
 Expert alternative response:
-KD 9S JS
+6D
 
-#Monte likes the KD but all options are within 0.3 points from each other except for 6D
-#Maybe drain S is ok here?
+#Partner signalled QD or void, so 6D is might be even better. Too complicated though!
+# (I played KD)
+#

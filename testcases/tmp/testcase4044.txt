@@ -78,7 +78,4 @@ Cards in hand:
 Expert response:
 6D
 Expert alternative response:
-6C 3C
 
-#Playing whatever is ok here...
-#Monte likes to play club here, while I played D.

@@ -33,8 +33,4 @@ QS 8S 5S QH 5H 3H KC 9C 8C 7C 9D 3D
 Expert response:
 5S
 Expert alternative response:
-8S QS QH 7C 8C 9C 3D 9D
-
-# I want to drain spade.
-# For monte, the worst card is only 3 points less than best.
-# It likes S (prefers 5S), D, and low C (all within 1 point)
+8S

@@ -63,9 +63,4 @@ QS 9S TH AC KC QC
 Expert response:
 QS
 Expert alternative response:
-9S
 
-#Drain spade because you have the AKQ combo
-#I prefer leading QS, while monte prefers 9S.
-#It's a 0.5 point diff.
-#I like 9S because it stops opponents from wanting to lead S, and helps partner in S.

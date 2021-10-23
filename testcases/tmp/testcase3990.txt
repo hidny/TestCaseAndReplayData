@@ -66,9 +66,6 @@ QH 5H 3H 9C 8C
 # Doris: 0/1
 
 Expert response:
-QH
+8C
 Expert alternative response:
-5H 3H
-
-#Why not play heart. RHS (Doris) will trump C.
-#With H, there's a change partner will take it and lead S to burn them.
+9C
