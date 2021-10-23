@@ -24,12 +24,6 @@ JS TS 8S 3S KH TH 8H 3H QC TC 5C 4C TD
 # Doris: 0/3
 
 Expert response:
-JS
+QC
 Expert alternative response:
-5C 4C TS 8S 3S 8H 3H
-
-#ME: play low Club instead of QC. Spade and diamond is also ok I guess
-#Monte: Prefers JS, but everything within a point except just don't play the KH...
-#It also prefers 45C to QC, so I'll pass it
-#Monte JS, 45C, TS then 3S 8S 3H 8H QC TC
-#2nd run: 45C won
+JS 3S TD TS 8S

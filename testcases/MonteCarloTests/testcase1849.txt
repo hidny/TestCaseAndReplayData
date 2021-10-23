@@ -33,15 +33,9 @@ AS JS 9S 8S QH 8H 7H 4H 5C JD 6D 4D
 Expert response:
 4D
 Expert alternative response:
-6D 4H 7H 8H JS 8S
+6D 4H 7H 8H 8S
 
 #I currently prefer leading into suit where king is safe
 #over leading suit that only has 1 card.
 #Monte like playing H, playing 8S, then playing low D
 #Don't play JD... (Cost half a point)
-#Oct 23rd:
-#Me: Don't play JD or QH?
-#Monte: All within 1 point (hard to tell diff)
-#(1st order: 4H 78H, then 8S then 64D)
-#(2nd order: 4H, then 8S, then 78H, then JS)
-#No JD, QH, or AS

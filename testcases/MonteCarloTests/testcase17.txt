@@ -31,9 +31,6 @@ Cards in hand:
 8S QH 8H 7H 4H QC TC 7C 6C 2C 4D 
 
 Expert response:
-8H
+QC
 Expert alternative response:
-7H 4H 4D 7C 6C 2C
-
-#Me: This test case makes no sense, so whatever. (How did I make the 8D??)
-#Monte: no Q and no TC and no 8S
+QH

@@ -37,3 +37,4 @@ Expert alternative response:
 
 #Save the 2H... even if it means potentially 
 # saving a burn with the 6H.
+# Oct 23rd, 2021: Monte doesn't know if 6H or 2H is better :(

@@ -24,14 +24,9 @@ AS 9S 7S 3S TH 3H QC 7C 6C 2C KD JD 9D
 # Doris: 0/3
 
 Expert response:
-TH
+QC
 Expert alternative response:
-9D 3S 7S 3H 2C 6C 7C
+TH
 
 #Don't start with master S
 #saving AS could ensure your other spade can trump.
-
-# Me: don't lead QC (could be master)
-# play low C, low D, or H.
-# Monte: Don't lead QC
-# 1st run: Prefers 3S then H or S or 9D (TH = 3H) (QC worst club) (9D best diamond)
