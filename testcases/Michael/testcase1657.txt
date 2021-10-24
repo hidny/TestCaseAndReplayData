@@ -41,6 +41,9 @@ Cards in hand:
 AS KH 7H KC 5C KD JD 9D 6D 
 
 Expert response:
-KD
-Expert alternative response:
 5C
+Expert alternative response:
+KD
+
+#Oct 24th 2021: I'm starting to think 5C is better choice.
+#Maybe I should fail this test case?

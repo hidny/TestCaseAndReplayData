@@ -44,3 +44,8 @@ Expert response:
 2H
 Expert alternative response:
 KC
+
+#Oct 24th, 2021:
+#Me: play H so partner makes a trick
+#Monte: play H so QJ can be master (doesn't even know partner has AH)
+#Maybe I should fail this test case?

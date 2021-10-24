@@ -45,6 +45,11 @@ Cards in hand:
 Expert response:
 4S
 Expert alternative response:
-7S
+7S 5C 6C TC
 #Lead spade to help partner who bid 6
 #Leading hearts didn't work out (opponents trumped)
+
+#Latest monte:
+#low club
+#order: 56C TC 4S AH 7S
+#Adding low club as an option

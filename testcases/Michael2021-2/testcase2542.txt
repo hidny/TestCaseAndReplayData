@@ -53,6 +53,7 @@ AH QH JH 8H 7H TD 8D 4D
 Expert response:
 4D
 Expert alternative response:
-AH
+AH 8D
 
 #Tough call! I'll let the computer be right.
+#Oct 24th 2021: It now plays the 8D. Huzzah!

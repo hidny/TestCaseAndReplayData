@@ -39,3 +39,6 @@ Expert response:
 6C
 Expert alternative response:
 5C KH AD
+
+#Oct 24th 2021: I'm starting to like leading C here and helping partner.
+#Maybe I should fail this test case?
