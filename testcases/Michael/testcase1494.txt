@@ -78,4 +78,6 @@ Cards in hand:
 Expert response:
 5C
 Expert alternative response:
-3C
+
+#Monte says 5C is better than 3C.
+#It makes sense because you don't want your partner to trump on you.

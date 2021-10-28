@@ -61,7 +61,6 @@ JH 8H 7H JD 3D 2D
 # Doris: 2/2
 
 Expert response:
-JD
+7H
 Expert alternative response:
-2D 3D
-#Don't play H because LHS will either play master or trump
+8H JH 2D 3D

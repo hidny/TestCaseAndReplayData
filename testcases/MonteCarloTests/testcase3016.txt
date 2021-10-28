@@ -78,7 +78,4 @@ TC TD 5D
 Expert response:
 5D
 Expert alternative response:
-TD TC
-#I don't know...
-#Monte likes TC for some reason.
-#I guess it doesn't feed as much as D and doesn't mess up partner as much
+TD

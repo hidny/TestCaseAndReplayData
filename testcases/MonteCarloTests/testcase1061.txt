@@ -58,6 +58,4 @@ Cards in hand:
 Expert response:
 9S
 Expert alternative response:
-QD 8D 3D
-
-#Don't play H because LHS will trump or play over.
+TH 8H 7H QD

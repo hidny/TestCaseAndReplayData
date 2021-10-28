@@ -53,3 +53,4 @@ Expert alternative response:
 #low club
 #order: 56C TC 4S AH 7S
 #Adding low club as an option
+#Oct 24th, 2021: (Me: AHA Michael's 1 bid is probably for trumping, so lead S)
