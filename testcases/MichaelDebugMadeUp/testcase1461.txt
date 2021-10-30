@@ -51,3 +51,4 @@ Expert alternative response:
 #Monte also likes the 8C for some reason.
 #Aha: 8C gives lead to someone else, and that someone might lead H, or D, or S.
 #Either way, you're happy.
+#(Hard to explain to AI)
