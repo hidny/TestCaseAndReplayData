@@ -81,5 +81,8 @@ QC 4C 2C
 Expert response:
 4C
 Expert alternative response:
+2C
 
 #Partner has only spade and it's pretty obvious, so this decision isn't too important... (1)
+#Nov 1st, 2021: This doesn't matter right? You could also play 2C here.
+#Monte confirms that there's no difference between playing the 2C and 4C 

@@ -75,3 +75,5 @@ Expert alternative response:
 #Hearts is theorectically more throwable than clubs
 #But whatever
 #I'm tempted to just pass this test case
+#Oct 31ST: monte says hearts are slightly better. (0.05 to 0.13 points better)
+#Keeping it. 

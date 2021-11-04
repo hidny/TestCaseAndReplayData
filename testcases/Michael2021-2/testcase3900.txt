@@ -83,3 +83,11 @@ Expert alternative response:
 KS
 
 #Trump with master Spade and hope you make QD instead of letting LHS trump
+
+#Oct 31st, 2021: Monte 100% agrees!
+#Oct 31st, 2021: To tackle this,
+#Make a function call getChangesOfTakingTheRest
+#and getChangesOfTakingTheRestAfterTrumping
+#and has80PercentChanceOfTakingTheRest
+#etc...
+#This function will affect this testcase and possibly 2 other failed 2nd throw test cases... 

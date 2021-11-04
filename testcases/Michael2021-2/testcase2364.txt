@@ -73,4 +73,7 @@ KS 6H 5H AC
 Expert response:
 AC
 Expert alternative response:
+6H 5H
 
+#Monte suggested playing Hearts because partner signalled no hearts.
+#I approve.

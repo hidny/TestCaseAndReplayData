@@ -43,3 +43,7 @@ Expert alternative response:
 AS
 
 #Prefer being void in H over throwing off 1 of 5 Diamonds
+#Oct 30th:
+#Monte's pref:
+# 6H (15) then 789C at 6 then QC then AC
+# Monte thinks AS is the worst... 

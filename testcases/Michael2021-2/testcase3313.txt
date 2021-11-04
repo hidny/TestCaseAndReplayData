@@ -71,3 +71,8 @@ Expert response:
 5H
 Expert alternative response:
 7S 8S QS
+
+#Nov 1st: why not play AS?
+#Monte: 5H is 27 and AS is bad with -55
+#QS is better with -9
+#Wow! I guess you should just let LHS take it.

@@ -36,8 +36,11 @@ Cards in hand:
 Expert response:
 AD
 Expert alternative response:
+KD
 
 #(March 2021:)Maybe the attacker left of mellow would rather lead than let attacker right of mellow lead???
 # Logic I want to see:
 # If JD is the best richard can come up with, lead to try and burn mellow...
 #Maybe take the trick to stop Partner from leading diamonds a third time.
+#Nov 2021:
+#Monte confirmed AKD is 7 points better than 2D
