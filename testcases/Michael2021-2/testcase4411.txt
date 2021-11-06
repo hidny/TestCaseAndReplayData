@@ -1,0 +1,24 @@
+Your name: Michael2021-2
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 972             820
+
+Cards dealt:
+TS 8S 6S AH JH TH 9H 6H 3H 4C AD 8D 5D 
+
+
+Bid history:
+Phil bid 1.
+Richard bid 2.
+Doris bid 2.
+
+
+Cards in hand:
+TS 8S 6S AH JH TH 9H 6H 3H 4C AD 8D 5D 
+
+
+Expert response:
+1
+Expert alternative response:
+

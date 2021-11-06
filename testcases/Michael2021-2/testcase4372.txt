@@ -1,0 +1,25 @@
+Your name: Michael2021-2
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 815             813
+
+Cards dealt:
+AS 9S 7S 6S 4S AH 6H QD JD 8D 7D 4D 3D 
+
+
+Bid history:
+Richard bid 2.
+Doris bid 2.
+
+
+Cards in hand:
+AS 9S 7S 6S 4S AH 6H QD JD 8D 7D 4D 3D 
+
+
+Expert response:
+3
+Expert alternative response:
+4 5 6
+
+#I ended up making 7 tricks, so maybe bid higher than 3 next time?

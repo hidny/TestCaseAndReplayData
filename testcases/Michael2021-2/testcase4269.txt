@@ -1,0 +1,38 @@
+Your name: Michael2021-2
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 339             297
+
+Cards dealt:
+9S 5S 2S QH JH 3H KC QC JC JD 9D 7D 3D 
+
+
+Bid history:
+Richard bid 8.
+Doris bid 2.
+Michael2021-2 bid 1.
+Phil bid mellow.
+
+
+Play history:
+--new round--
+Richard played the 3C.
+Doris played the 8C.
+
+Cards in hand:
+9S 5S 2S QH JH 3H KC QC JC JD 9D 7D 3D 
+
+# Michael2021-2: 0/1
+# Phil: 0/0
+# Richard: 0/8
+# Doris: 0/2
+
+Expert response:
+KC
+Expert alternative response:
+
+#Nov 2021:
+#Monte agrees to play KC by 2-3 points
+#(I Might want to retest because I didn't get a big sample)
+#Looks like KC communicates that mellow is safe in C.

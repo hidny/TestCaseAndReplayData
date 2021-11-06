@@ -1,0 +1,36 @@
+Your name: Michael2021-2
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 339             297
+
+Cards dealt:
+9S 5S 2S QH JH 3H KC QC JC JD 9D 7D 3D 
+
+
+Bid history:
+Richard bid 8.
+Doris bid 2.
+Michael2021-2 bid 1.
+Phil bid mellow.
+
+
+Play history:
+--new round--
+Richard played the 3C.
+Doris played the 8C.
+Michael2021-2 played the KC.
+Phil played the 7C.
+
+Cards in hand:
+9S 5S 2S QH JH 3H QC JC JD 9D 7D 3D 
+
+# Michael2021-2: 1/1
+# Phil: 0/0
+# Richard: 0/8
+# Doris: 0/2
+
+Expert response:
+3D
+Expert alternative response:
+7D 3H

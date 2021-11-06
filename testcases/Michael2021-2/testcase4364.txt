@@ -1,0 +1,53 @@
+Your name: Michael2021-2
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 695             630
+
+Cards dealt:
+6S 2S QH TH 9H 8H TC 5C KD TD 9D 8D 2D 
+
+
+Bid history:
+Phil bid mellow.
+Richard bid 2.
+Doris bid 8.
+Michael2021-2 bid mellow.
+
+
+Play history:
+--new round--
+Phil played the JS.
+Richard played the KS.
+Doris played the 3S.
+Michael2021-2 played the 6S.
+--new round--
+Richard played the 9S.
+Doris played the QS.
+Michael2021-2 played the 2S.
+Phil played the 7S.
+--new round--
+Doris played the AS.
+Michael2021-2 played the QH.
+Phil played the 9C.
+Richard played the TS.
+--new round--
+Doris played the 8S.
+Michael2021-2 played the TH.
+Phil played the 4C.
+Richard played the 5D.
+--new round--
+Doris played the 5S.
+
+Cards in hand:
+9H 8H TC 5C KD TD 9D 8D 2D 
+
+# Michael2021-2: 0/0
+# Phil: 0/0
+# Richard: 1/2
+# Doris: 3/8
+
+Expert response:
+9H
+Expert alternative response:
+

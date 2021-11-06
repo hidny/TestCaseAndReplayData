@@ -1,0 +1,22 @@
+Your name: Michael2021-2
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 374             147
+
+Cards dealt:
+KS JH 9H 7H 4H 2H JC 7C 4C 2C 9D 4D 2D 
+
+
+Bid history:
+
+
+Cards in hand:
+KS JH 9H 7H 4H 2H JC 7C 4C 2C 9D 4D 2D 
+
+
+Expert response:
+1
+Expert alternative response:
+
+#Saying mellow with KS is a bad idea...
