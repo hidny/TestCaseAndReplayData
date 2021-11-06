@@ -41,13 +41,6 @@ JS 8S 3S 2S TC 9C 7C QD TD 9D
 # Doris: 1/1
 
 Expert response:
-JS
+TC
 Expert alternative response:
-8S 3S 2S
-
-#Nov 2021:
-#Monte likes spade here (I didn't)
-#It also doesn't care too much about what club to use.
-#On second thought, spade is good
-#because Doris/RHS said 1 and is trumping
-#Only passing spade.
+9C

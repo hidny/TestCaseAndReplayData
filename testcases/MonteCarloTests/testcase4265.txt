@@ -73,9 +73,4 @@ JS QH TH KC
 Expert response:
 KC
 Expert alternative response:
-JS QH TH
-
-#Nov 2021
-#I thought that KC, and JS was better,
-#but Monte knows that the opponents only have Club
-#So it's all the same!
+JS

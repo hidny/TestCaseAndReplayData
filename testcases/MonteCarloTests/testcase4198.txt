@@ -51,31 +51,16 @@ Michael2021-2 played the TS.
 Phil played the 9S.
 Richard played the 3C.
 Doris played the 6D.
---new round--
-Michael2021-2 played the 7S.
-Phil played the 4D.
-Richard played the 2D.
-Doris played the 5H.
---new round--
-Michael2021-2 played the QH.
-Phil played the TD.
-Richard played the 3D.
-Doris played the 7H.
 
 Cards in hand:
-9C 6C JD 7D 
+7S QH 9C 6C JD 7D 
 
-# Michael2021-2: 6/5
+# Michael2021-2: 4/5
 # Phil: 0/1
 # Richard: 2/4
 # Doris: 1/1
 
 Expert response:
-6C
+7S
 Expert alternative response:
-9C
 
-#Nov 2021:
-#Monte and instincts slightly prefer 6C
-#Diff is about 0.0005 points
-#But diff is too small to waste time on.

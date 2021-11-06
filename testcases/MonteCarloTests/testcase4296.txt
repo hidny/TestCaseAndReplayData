@@ -33,15 +33,4 @@ Cards in hand:
 Expert response:
 2S
 Expert alternative response:
-5S 4S 3S 8S 7S 3D AC 6H 
 
-#Nov 2021,
-# Looking at this again,
-# I could tell it doesn't matter
-# Monte:
-# Out of the Spade, monte prefers 78S
-# but it's a bigger fan of the 3D...
-#(Almost 1 point more than S)
-#It also prefers AC by half a point.
-#It also prefers 6H over Spade.
-# ??? I'll be nice and leave the 3D, AC, and 6H as options.

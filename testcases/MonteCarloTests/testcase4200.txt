@@ -73,9 +73,4 @@ Cards in hand:
 Expert response:
 6C
 Expert alternative response:
-9C
 
-#Nov 2021:
-#Monte and instincts slightly prefer 6C
-#Diff is about 0.0005 points
-#But diff is too small to waste time on.

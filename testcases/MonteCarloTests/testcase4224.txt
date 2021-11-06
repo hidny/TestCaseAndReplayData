@@ -64,8 +64,3 @@ Expert response:
 5H
 Expert alternative response:
 
-#Nov 2021:
-#Current version of Monte doesn't get it
-#Partner signalled master H
-#Monte thinks it's all the same though
-#I still think 5H is the best 

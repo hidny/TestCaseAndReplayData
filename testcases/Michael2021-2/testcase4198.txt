@@ -61,6 +61,12 @@ Cards in hand:
 # Doris: 1/1
 
 Expert response:
-7S
+9C
 Expert alternative response:
+6C
 
+#Nov 2021:
+#Monte likes Club because opponents can't do anything about club
+#It then prefer 7S
+#It goes C: 82 points, 7S 76 points, QH 75.5 points.
+#I'm going with Monte's choice...

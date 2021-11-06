@@ -26,7 +26,4 @@ KS JH 9H 7H 4H 2H JC 7C 4C 2C 9D 4D 2D
 Expert response:
 4H
 Expert alternative response:
-4C 4D 2D 2C 2H
-
-#Nov 2021
-#Monte also doesn't like to lead KS 
+4C 4D
