@@ -1,0 +1,23 @@
+Your name: Phil
+Dealer is your partner opposite you
+Score at start:
+Your Score      Their Score
+ 910             906
+
+Cards dealt:
+6S JH TH 7H 6H 5H KC QC JC 9C 8C 5D 3D 
+
+Bid history:
+Michael2021-2 bid 2.
+
+
+Cards in hand:
+6S JH TH 7H 6H 5H KC QC JC 9C 8C 5D 3D
+
+Expert response:
+1
+Expert alternative response:
+
+
+#This mellow is too dangerous.
+#The clubs are not safe.

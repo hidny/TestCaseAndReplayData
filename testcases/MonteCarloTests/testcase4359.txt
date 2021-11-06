@@ -21,7 +21,4 @@ Cards in hand:
 Expert response:
 0
 Expert alternative response:
-
-#Double mellow FTW
-#Monte and instincts agree
-#Monte: 0: -39, 1: -133 (Almost a 100 point diff)
+1

@@ -1,0 +1,22 @@
+Your name: Richard
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 431             417
+
+Cards dealt:
+AS KS QS 7S 6H 4H AC KC 8C 7C 3C AD 6D 
+
+
+Bid history:
+Doris bid 2.
+Michael2021-2 bid 1.
+Phil bid mellow.
+
+Expert response:
+6
+Expert alternative response:
+5
+
+#Don't bid too high because you might want to
+#go after mellow.

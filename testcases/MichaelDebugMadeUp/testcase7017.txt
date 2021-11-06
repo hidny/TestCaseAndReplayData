@@ -1,11 +1,11 @@
-Your name: Michael2021-2
-Dealer is on your left
+Your name: Richard
+Dealer is on your right
 Score at start:
 Your Score      Their Score
  339             297
 
 Cards dealt:
-9S 5S 2S QH JH 3H KC QC JC JD 9D 7D 3D 
+AS KS TS 7S 6S 4S AH KH 6H 3C TD 8D 
 
 
 Bid history:
@@ -44,17 +44,38 @@ Phil played the 4H.
 --new round--
 Richard played the 4S.
 Doris played the QS.
+Michael2021-2 played the 5S.
+Phil played the 3S.
+--new round--
+Doris played the AD.
+Michael2021-2 played the JD.
+Phil played the TH.
+Richard played the 6S.
+--new round--
+Richard played the KH.
+Doris played the 4C.
+Michael2021-2 played the JH.
+Phil played the 9H.
+--new round--
+Richard played the AH.
+Doris played the 6D.
+Michael2021-2 played the QH.
+Phil played the 8H.
+--new round--
+
 
 Cards in hand:
-9S 5S 2S QH JH QC JC JD 
+AS KS JS TS 7S
 
-# Michael2021-2: 1/1
-# Phil: 0/0
-# Richard: 3/8
-# Doris: 1/2
+
 
 Expert response:
-5S
+7S
 Expert alternative response:
+AS KS JS TS
 
-# 5S felt right at the time...
+# Richard & Michael: 6/8
+# Doris: 2/2
+# I guess it doesn't hurt to make sure mellow bidder doesn't have 9S
+# (But I'm pretty sure he doesn't have 9S...)
+# But the logic is bad... I don't know.
