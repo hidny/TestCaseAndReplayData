@@ -20,5 +20,6 @@ Cards in hand:
 Expert response:
 0
 Expert alternative response:
-1
+
 #Monte wants to bid mellow here...
+#And I believe monte

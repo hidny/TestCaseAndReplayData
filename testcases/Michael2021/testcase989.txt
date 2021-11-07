@@ -19,4 +19,6 @@ Cards in hand:
 Expert response:
 0
 Expert alternative response:
-1
+
+#Nov 2021:
+#Monte prefers bidding mellow by 20 points... I'll work on this later.
