@@ -64,4 +64,4 @@ KS QC TC 8C 5C
 Expert response:
 8C
 Expert alternative response:
-
+TC QC

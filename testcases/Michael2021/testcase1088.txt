@@ -66,4 +66,4 @@ JS 8S 7S 5S 8D 3D
 Expert response:
 5S
 Expert alternative response:
-
+7S 8S

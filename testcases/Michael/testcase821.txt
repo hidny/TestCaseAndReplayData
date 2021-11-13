@@ -32,6 +32,10 @@ Cards in hand:
 8S 6S 2S QH JH AC TC 8C 7C AD 7D 
 
 Expert response:
-8C
-Expert alternative response:
 7C
+Expert alternative response:
+8C TC
+
+
+#Nov 2021:
+#Monte wants 7C, but I don't get it
