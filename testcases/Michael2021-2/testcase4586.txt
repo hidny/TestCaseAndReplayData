@@ -1,0 +1,25 @@
+Your name: Michael2021-2
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 467             649
+
+Cards dealt:
+8S 5S JH 9H 7H QC 9C 7C 5C 4C 3C 6D 4D 
+
+
+Bid history:
+Phil bid 4.
+Richard bid 3.
+Doris bid 3.
+
+
+Cards in hand:
+8S 5S JH 9H 7H QC 9C 7C 5C 4C 3C 6D 4D 
+
+
+Expert response:
+0
+Expert alternative response:
+
+#TODO: was my mellow call good? I burned on hearts... Maybe it's not safe enough.
