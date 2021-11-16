@@ -51,6 +51,10 @@ TS 6H 4H AC 9C 8C 9D 2D
 # Doris: 0/1
 
 Expert response:
-6H
+AC
 Expert alternative response:
-4H
+
+
+#Playing hearts did not work out well during the game...
+#Partner got trumped over, and it did not feel good
+#Check with monte.

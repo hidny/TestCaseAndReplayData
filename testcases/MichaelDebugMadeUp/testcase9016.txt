@@ -1,0 +1,23 @@
+Your name: Richard
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 545             568
+
+Cards dealt:
+TS 4S TH 6H 4H 2H KC 9C 4C 2C JD 9D 7D 
+
+Bid history:
+Michael2021-2 bid 2.
+Phil bid 4.
+
+
+Cards in hand:
+TS 4S TH 6H 4H 2H KC 9C 4C 2C JD 9D 7D 
+
+Expert response:
+
+Expert alternative response:
+
+
+#Ask Monte: is this a good mellow?
