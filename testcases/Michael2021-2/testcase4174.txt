@@ -82,5 +82,8 @@ KH KC 9C
 Expert response:
 9C
 Expert alternative response:
+KH
 
 #Give up on burning mellow and try to burn protector (2)
+# Monte says there's only 1 way the cards could be
+# and play KH or 9C

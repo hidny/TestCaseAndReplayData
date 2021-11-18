@@ -56,6 +56,9 @@ Cards in hand:
 # Doris: 2/3
 
 Expert response:
-KD
+3S
 Expert alternative response:
-
+4S 6S 7S TC KD
+#Nov 2021:
+#Monte thinks KD is the worst aside from 7C.
+#Adding Monte's choices as options.

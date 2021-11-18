@@ -21,3 +21,5 @@ Expert response:
 Expert alternative response:
 
 #We're behind by almost 350 points, so say mellow.
+#Monte 0: -14, 1: -7 2: 0.2
+#But there's more variance.

@@ -72,3 +72,7 @@ Expert response:
 QH
 Expert alternative response:
 
+#Nov 2021
+#Monte slightly prefers QH
+#by 0.2 points... I guess I'll only pass QH.
+#I don't know the diff though...

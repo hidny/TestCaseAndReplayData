@@ -51,6 +51,11 @@ Cards in hand:
 # Doris: 2/2
 
 Expert response:
-5S
+4H
 Expert alternative response:
-JH 5D 4D
+7H 6H JH 5D 4D 
+
+#Nov 2021:
+#Monte likes low heart then JH
+#Then D, then C
+#I'll go with Monte on hearts and Club.

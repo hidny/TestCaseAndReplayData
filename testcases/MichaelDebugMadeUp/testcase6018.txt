@@ -33,7 +33,13 @@ KS JS 7S 3S 2S 3H QC JC 5C 8D 5D
 Expert response:
 5D
 Expert alternative response:
-5C
+5C 3H QC
 
 #Don't lead into suit mellow is probably safe/void in
-#It turns out, it didn't really matter, but it's the principle!
+#It turns out that in the game, it didn't really matter, but it's the principle!
+#Nov 2021:
+#Actually, mellow can still burn in Heart
+#And monte prefers Heart.
+#Monte also likes the QC, so I'll add that as an option.
+#(I could picture myself leading QC...)
+#3H: 25.9 points, QC: 25.3, JC: 25.1 points, 85D around 23 points...

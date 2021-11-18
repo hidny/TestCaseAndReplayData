@@ -60,4 +60,9 @@ KS 6S 5S KH 9H 7H 2H
 Expert response:
 5S
 Expert alternative response:
-6S
+6S 9H 7H 2H
+
+#Nov 2021:
+#Let LHS trump, but don't play KS?
+#Monte doesn't get this hand. (It doesn't know LHS is probably void)
+#After retest where Monte knows LHS is void in diamond, Monte like 56S then low H. Don't play KS

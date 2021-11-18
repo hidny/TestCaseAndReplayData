@@ -78,6 +78,10 @@ Cards in hand:
 # Doris: 4/4
 
 Expert response:
-2D
+8C
 Expert alternative response:
-3D
+3D 2D
+
+#Nov 2021
+#Monte prefers throwing 8C for some reason
+#Whatever! Just throw any card.

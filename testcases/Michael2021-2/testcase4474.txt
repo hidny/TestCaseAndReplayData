@@ -51,4 +51,8 @@ TS 3S QH 6H 5H 2H 9C 7C 4C
 Expert response:
 9C
 Expert alternative response:
-7C
+7C 4C
+
+#Keep 4C to attack mellow
+#Nov 2021:
+#Monte doesn't know... I'll just pass it.

@@ -76,6 +76,10 @@ TS 8S 3S
 # Doris: 3/2
 
 Expert response:
-3S
+TS
 Expert alternative response:
-8S
+8S 
+
+#Nov 2021:
+#T8 S > 3S
+#Monte confirmed it!

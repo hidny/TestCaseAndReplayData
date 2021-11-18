@@ -73,4 +73,8 @@ Cards in hand:
 Expert response:
 3S
 Expert alternative response:
-4S
+4S 6S 7S
+
+#Nov 2021:
+#I guess this doesn't matter because 5S was played
+#Monte prefers 67S, while I preferred 34S... Weird (by 0.01 points)

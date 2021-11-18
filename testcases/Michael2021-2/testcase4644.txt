@@ -57,4 +57,9 @@ TS 4S 3S KC QC 9C 8C JD
 Expert response:
 KC
 Expert alternative response:
+QC 9C 8C
 
+#Nov 2021:
+#KC=QC
+#Monte agrees, but preferes 89C
+#Maybe that dares LHS to try again... and fail.

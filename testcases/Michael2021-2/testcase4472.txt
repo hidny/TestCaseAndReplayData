@@ -40,4 +40,9 @@ JS TS 3S QH 6H 5H 2H QC 9C 7C 4C
 Expert response:
 QC
 Expert alternative response:
-9C 7C 6H 5H
+9C 7C 6H 5H 3S TS JS
+
+#Nov 2021:
+#Me: don't play spade...
+#Monte likes 3S...
+#Then JTS... ??? (almost a 20 point diff)

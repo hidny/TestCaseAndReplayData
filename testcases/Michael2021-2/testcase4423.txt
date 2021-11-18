@@ -53,4 +53,9 @@ KS 6S 5S KH TH 9H 7H 2H
 Expert response:
 TH
 Expert alternative response:
-9H 7H 2H
+9H 7H 2H 6S 5S
+
+#Nov 2021:
+#Monte says hearts are barely better than S (less than 0.1 points better)
+#I don't know...I'll just pass it
+

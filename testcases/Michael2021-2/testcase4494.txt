@@ -86,4 +86,7 @@ Cards in hand:
 Expert response:
 9C
 Expert alternative response:
+4H
 
+#Monte:
+#It doesn't matter!

@@ -69,6 +69,12 @@ Cards in hand:
 # Doris: 2/3
 
 Expert response:
-8D
+JC
 Expert alternative response:
+KC 8D
 
+#Nov 2021:
+#Monte: JC or KC
+#Monte prefers the JC... I guess it confuses the AI.
+#Me: 8D
+#I'll pass both

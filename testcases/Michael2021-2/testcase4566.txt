@@ -53,8 +53,10 @@ TS 6H 4H AC 9C 8C 9D 2D
 Expert response:
 AC
 Expert alternative response:
-
+TS
 
 #Playing hearts did not work out well during the game...
 #Partner got trumped over, and it did not feel good
 #Check with monte.
+#Monte likes TS then, D, then H, then AC
+#Because partner threw off club, I'm going to go with either AC or TS.

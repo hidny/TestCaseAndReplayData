@@ -43,6 +43,10 @@ JS TS 4S QH JH 9H JC TC 7C 6C
 # Doris: 1/3
 
 Expert response:
-QH
+9H
 Expert alternative response:
+QH JH
 
+#Nov 2021:
+#You only need to win with 9H...
+#Monte confirmed this.

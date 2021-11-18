@@ -33,6 +33,10 @@ JS TS 3S QH 6H 5H 2H QC JC 9C 7C 4C
 # Doris: 1/4
 
 Expert response:
-JC
-Expert alternative response:
 9C
+Expert alternative response:
+JC QC 
+
+#Nov 2021:
+#Me: keep 4C!
+#Monte: play 9C, then QC then JC

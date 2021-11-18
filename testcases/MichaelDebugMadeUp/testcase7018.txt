@@ -80,3 +80,5 @@ Expert alternative response:
 
 #Don't trump high because mellow might trump under
 #(This is only true because you have 2 S)
+#Nov 2021:
+#Monte agrees! It's an 18 point diff!

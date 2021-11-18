@@ -56,4 +56,6 @@ Cards in hand:
 Expert response:
 7D
 Expert alternative response:
+5H
 
+#Mellow is already safe.

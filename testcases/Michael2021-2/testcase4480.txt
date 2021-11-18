@@ -76,6 +76,10 @@ Cards in hand:
 # Doris: 5/4
 
 Expert response:
-4C
-Expert alternative response:
 2H
+Expert alternative response:
+4C 7C
+
+#Nov 2021:
+#Monte prefers 2H by .8 points, but I liked Club
+#So pass all?

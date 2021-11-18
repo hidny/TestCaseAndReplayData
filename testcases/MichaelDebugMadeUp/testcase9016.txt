@@ -16,8 +16,11 @@ Cards in hand:
 TS 4S TH 6H 4H 2H KC 9C 4C 2C JD 9D 7D 
 
 Expert response:
-
+0
 Expert alternative response:
 
 
 #Ask Monte: is this a good mellow?
+#Nov 2021:
+#Monte says Yes! 0 is 25 points better than saying 1. (still -25 in round though)
+#It goes: -25, then -51, then -71

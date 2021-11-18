@@ -55,4 +55,8 @@ TS 3S QH 6H 5H 2H 7C 4C
 Expert response:
 TS
 Expert alternative response:
+4C 7C 2H 5H 6H
 
+#Nov 2021:
+#Monte prefers club or heart, (by 30 points)
+#so I'm adding it as an option.

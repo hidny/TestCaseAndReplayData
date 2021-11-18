@@ -80,4 +80,6 @@ Cards in hand:
 Expert response:
 JC
 Expert alternative response:
+4H 9C
 
+#Monte: it doesn't matter

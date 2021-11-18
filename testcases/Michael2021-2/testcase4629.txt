@@ -43,4 +43,8 @@ JS 5S 2S 9H 4H 8C 3C 9D 4D 2D
 Expert response:
 2S
 Expert alternative response:
+5S
 
+#Nov 2021
+#2S=5S
+#Monte actually prefers 5S by 0.001 points (whatever)

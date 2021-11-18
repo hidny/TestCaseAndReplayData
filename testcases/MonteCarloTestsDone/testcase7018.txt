@@ -1,0 +1,82 @@
+Your name: Phil
+Dealer is on your right
+Your Score      Their Score
+ 647             836
+
+Cards dealt:
+KS QS 7S 6S 2S AH QH JH JC TC 6C QD 7D
+
+
+Bid history:
+Phil bid 4.
+Richard bid mellow.
+Doris bid 3.
+Michael2021-2 bid 2.
+
+
+Play history:
+--new round--
+Phil played the 7D.
+Richard played the 3D.
+Doris played the AD.
+Michael2021-2 played the 4D.
+--new round--
+Doris played the 5H.
+Michael2021-2 played the 9H.
+Phil played the QH.
+Richard played the TH.
+--new round--
+Phil played the 6C.
+Richard played the 5C.
+Doris played the AC.
+Michael2021-2 played the 2C.
+--new round--
+Doris played the 2H.
+Michael2021-2 played the 7H.
+Phil played the JH.
+Richard played the 8H.
+--new round--
+Phil played the QD.
+Richard played the 9D.
+Doris played the TD.
+Michael2021-2 played the 5D.
+--new round--
+Phil played the TC.
+Richard played the 7C.
+Doris played the 4C.
+Michael2021-2 played the KC.
+--new round--
+Michael2021-2 played the QC.
+Phil played the JC.
+Richard played the KH.
+Doris played the 3C.
+--new round--
+Michael2021-2 played the 9C.
+Phil played the AH.
+Richard played the 6H.
+Doris played the AS.
+--new round--
+Doris played the 6D.
+Michael2021-2 played the JD.
+Phil played the KS.
+Richard played the 8D.
+--new round--
+Phil played the 2S.
+Richard played the 8S.
+Doris played the 5S.
+Michael2021-2 played the TS.
+--new round--
+Michael2021-2 played the 8C.
+
+
+Cards in hand:
+QS 7S 6S
+
+
+Expert response:
+7S
+Expert alternative response:
+6S
+
+#Don't trump high because mellow might trump under
+#(This is only true because you have 2 S)

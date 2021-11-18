@@ -47,4 +47,9 @@ TS KH QH 6H 4H AC 9C 8C 9D 2D
 Expert response:
 KH
 Expert alternative response:
+QH
 
+#Nov 2021:
+#KH = QH in this case.
+#Because you're just going to lead master heart after you take it
+#Monte confirmed.
