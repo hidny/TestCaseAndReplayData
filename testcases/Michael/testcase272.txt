@@ -20,3 +20,24 @@ Expert response:
 1
 Expert alternative response:
 1
+
+#Nov 2021
+#It shouldn't be a mellow bid because partner only bid 2.
+#Average util (point diff) of playing the 0: -57.80683333333333
+#Average util (point diff) of playing the 1: -38.40623333333333
+
+#If partner bid 3
+#Average util (point diff) of playing the 0: -34.91596666666667
+#Average util (point diff) of playing the 1: -19.784766666666666
+
+#If partner bid 4
+#Average util (point diff) of playing the 0: 5.966033333333334
+#Average util (point diff) of playing the 1: -2.9658
+
+#If partner bid 5
+#Average util (point diff) of playing the 0: 54.62233333333333
+#Average util (point diff) of playing the 1: 10.823833333333333
+
+#If partner bid 6:
+#Average util (point diff) of playing the 0: 97.9737
+#Average util (point diff) of playing the 1: 17.896166666666666

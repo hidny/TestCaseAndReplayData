@@ -19,6 +19,15 @@ TS 8S 4S QC 8C 3C 2C AD KD QD 7D 3D 2D
 
 
 Expert response:
-0
-Expert alternative response:
 2
+Expert alternative response:
+0 3
+
+#Nov 2021:
+#Monte likes 3 best, but, amazingly, it's really close:
+#Average util (point diff) of playing the 0: -10.894633333333333
+#Average util (point diff) of playing the 1: -12.200966666666666
+#Average util (point diff) of playing the 2: -4.224566666666667
+#Average util (point diff) of playing the 3: -2.5165
+#Average util (point diff) of playing the 4: -17.765
+#Average util (point diff) of playing the 5: -47.37243333333333

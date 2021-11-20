@@ -1,0 +1,27 @@
+Your name: Michael
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 17              29
+
+Cards dealt:
+9S 5S 4S 2S TH 6H TC 9C 4C 3C TD 8D 2D 
+
+
+Bid history:
+Richard bid 3.
+Doris bid 2.
+
+
+Cards in hand:
+9S 5S 4S 2S TH 6H TC 9C 4C 3C TD 8D 2D 
+
+Expert response:
+1
+Expert alternative response:
+0
+
+
+#If partner bid 3
+#Average util (point diff) of playing the 0: -34.91596666666667
+#Average util (point diff) of playing the 1: -19.784766666666666
