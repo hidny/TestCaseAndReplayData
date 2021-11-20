@@ -18,6 +18,6 @@ Cards in hand:
 TS 7S KH JH 8H 4H 3H QC AD QD 9D 6D 4D 
 
 Expert response:
-3
-Expert alternative response:
 2
+Expert alternative response:
+3
