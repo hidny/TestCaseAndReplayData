@@ -65,6 +65,3 @@ JD
 Expert alternative response:
 2D 3D
 #Don't play H because LHS will either play master or trump
-
-#Nov 2021:
-#Low Diamond very barely preferred over JD (0.01 to 0.03 points diff)

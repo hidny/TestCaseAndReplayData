@@ -37,5 +37,3 @@ Expert alternative response:
 
 #Me: This test case makes no sense, so whatever. (How did I make the 8D??)
 #Monte: no Q and no TC and no 8S
-#Monte 2021:
-# 4D, low H, then 762C (Same as before)

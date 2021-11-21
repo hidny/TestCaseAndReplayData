@@ -26,14 +26,9 @@ AS JS TS 7S QH 7H 6H 3H QC TC 6C 5C 7D
 Expert response:
 7H
 Expert alternative response:
-6H 3H 6C 5C TC 7D JS TS 7S
+6H 3H 6C 5C TC
 
 #Leading the 7D is really obvious, plus the partner's KD will be in trouble
 #Don't lead 7D
 #Monte likes: H under QH, 56C, TC, then the rest...
 #I liked QC, but I don't anymore
-
-#Nov 2021:
-#Monte:
-# Monte now likes the 7D..., then low S(under A), then low H, then low C...
-#All within 2 points.

@@ -34,7 +34,3 @@ Expert response:
 9H
 Expert alternative response:
 8H 2C 9S 8S 7S
-
-#Nov 2021:
-#Monte:
-# 789S, then 89H, then 4679D, then QD & 2C. 9C is the worst...

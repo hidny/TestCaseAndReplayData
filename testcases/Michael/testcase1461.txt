@@ -43,5 +43,11 @@ KH TH 7H 4H 3H 9C 8C AD JD
 Expert response:
 KH
 Expert alternative response:
+8C 9C
 
 #Prefer leading the KH first
+#Nov 2021:
+#Monte likes the KH, then 89C, then JD
+#Maybe there's tricks with JD
+#Also, leading 89C makes curent player strong in each off-suit.
+#I'll pass 89C because it's within 0.1 points.

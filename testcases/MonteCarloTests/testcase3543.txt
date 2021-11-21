@@ -46,10 +46,6 @@ QH 9H 8H 2H KC 7C 6C 5C 4C
 # Doris: 0/3
 
 Expert response:
-2H
+QH
 Expert alternative response:
-9H 8H QH 7C 6C 5C 4C
-
-#Nov 2021:
-# All witin 0.5 points
-# 2H preferred, and low preferred over high rank cards.
+9H 8H 2H 7C 6C 5C 4C

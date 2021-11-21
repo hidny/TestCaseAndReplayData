@@ -71,12 +71,7 @@ Cards in hand:
 Expert response:
 3S
 Expert alternative response:
-8S KC
 
 #Play low spades in the hopes that partner 
 # or opponent takes it and leads a suit
 # that dangerous to the mellow
-
-#Nov 2021:
-#Monte shows that mellow is safe with last 2 diamonds and other random card.
-#So, just try to make tricks.

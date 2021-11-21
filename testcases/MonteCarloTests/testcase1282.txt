@@ -62,7 +62,3 @@ Expert response:
 2C
 Expert alternative response:
 QC TC
-
-#Nov 2021:
-#Monte prefers QC here for some reason...
-#Bids don't make sense, so don't take it too seriously.

@@ -33,8 +33,3 @@ Expert alternative response:
 #It also prefers 45C to QC, so I'll pass it
 #Monte JS, 45C, TS then 3S 8S 3H 8H QC TC
 #2nd run: 45C won
-#Nov 2021:
-#Monte:
-#1st: 45C, JS, 38H, TD, TS
-#2nd: 28S, 38H, JTS TD
-#All within 2 points, and got different results... (Note: bids don't make sense)

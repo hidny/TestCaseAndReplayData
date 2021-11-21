@@ -24,11 +24,6 @@ AS TS 5S QH TH 5H 2H JC 8C KD 6D 3D 2D
 # Doris: 0/1
 
 Expert response:
-5H
+QH
 Expert alternative response:
-2H 2D 3D 6D 8C JC
-
-
-#Nov 2021:
-#Monte: 52H, 236D, 8C, JC, TH
-#I'm taking away QH as an option.
+JC

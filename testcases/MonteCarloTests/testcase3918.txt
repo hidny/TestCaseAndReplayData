@@ -33,12 +33,9 @@ KS 2S JH 8H QC 5C 4C QD TD 7D 6D 4D
 Expert response:
 4C
 Expert alternative response:
-5C KS 4D 6D 7D 2S
+5C KS JH QD 4D 6D 7D TD 8H
 
 #Don't play 2S because you might lose your KS.
 #You could play KS because partner will let you take it.
 #Monte prefers KS, then 2S then low D, then low C...
 #Even though 2S is Monte's 2nd best choice, I'm failing it because KS is obviously better.
-
-#Nov 2021:
-#Monte likes 2S, then KS, then 467D, then 45C

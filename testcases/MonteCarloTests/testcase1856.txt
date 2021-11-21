@@ -69,7 +69,3 @@ Expert response:
 JD
 Expert alternative response:
 QH 8H 7H 4H
-
-#Nov 2021:
-#Warning: bids don't make sense.
-#low hearts barely favoured over QH, which is favoured over JD.

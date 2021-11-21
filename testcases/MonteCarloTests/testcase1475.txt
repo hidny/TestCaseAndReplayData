@@ -48,8 +48,4 @@ Cards in hand:
 Expert response:
 9H
 Expert alternative response:
-8H 7H 6H JC JH 7C 9C
-
-#Nov 2021:
-#Monte: Anything but spade
-#All about the same.
+8H 7H 6H JC JH

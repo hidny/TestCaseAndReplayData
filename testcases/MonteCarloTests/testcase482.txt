@@ -24,9 +24,6 @@ Cards in hand:
 QH TH 6H TC 8C 4C 3C QD 8D 5D 4D 2D 
 
 Expert response:
-2D
+QD
 Expert alternative response:
-4D 5D 8D 6H
-
-#Nov 2021:
-#Play low D, then low H
+TH

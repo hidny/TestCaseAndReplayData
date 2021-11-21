@@ -38,13 +38,8 @@ Cards in hand:
 Expert response:
 TC
 Expert alternative response:
-8C 6C 4C 8S 2H 5H 6H 9H QC
+8C 6C 4C 8S
 #Monte says that leading your last spade here makes sense...
 #That's because there's nothing to trump and your last spade is useless.
 #The test case still fails though.
 #Also, stop leading Q offsuit when you have 4 other ones...
-
-#Nov 2021:
-# 8S, then 2569 H, QC, then  T864C, the JH
-# 2nd: 8S, then QC, then 256H, then 9H,then T864C
-#I'll just pass a bunch of things.
