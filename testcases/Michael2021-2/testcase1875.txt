@@ -37,3 +37,8 @@ Expert alternative response:
 
 #Save the AS because you want to hold onto spades for trumping. Though I'm not sure
 #because oppenents only bid 2.
+
+#Nov 2021:
+#Confirmed by Monte:
+# 4678H is 33.5, and everything else is under 33 points.
+# AS is 32.0 points and only better then lower spade.
