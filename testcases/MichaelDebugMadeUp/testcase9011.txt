@@ -50,8 +50,10 @@ Cards in hand:
 9S AH QH JH 6H 4H 2H 2D 
 
 Expert response:
-QH
+AH
 Expert alternative response:
-JH 6H
+QH JH 6H 
 
 #Don't waste master Hearts as mellow attacker.
+#Nov 2021:
+#Why not waste it? Only mellow bidder can take it from us.
