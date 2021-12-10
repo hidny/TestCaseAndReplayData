@@ -1,0 +1,67 @@
+Your name: Michael2021-2
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 70              242
+
+Cards dealt:
+AS QS 9S 7S 6S AC 6C 4C 3C KD QD 7D 6D 
+
+
+Bid history:
+Michael2021-2 bid 5.
+Phil bid mellow.
+Richard bid 4.
+Doris bid 1.
+
+
+Play history:
+--new round--
+Michael2021-2 played the 3C.
+Phil played the 5C.
+Richard played the AD.
+Doris played the 7C.
+--new round--
+Doris played the JS.
+Michael2021-2 played the QS.
+Phil played the TS.
+Richard played the KS.
+--new round--
+Richard played the 3D.
+Doris played the JD.
+Michael2021-2 played the QD.
+Phil played the TD.
+--new round--
+Michael2021-2 played the 6D.
+Phil played the 5D.
+Richard played the 8D.
+Doris played the 2D.
+--new round--
+Richard played the 6H.
+Doris played the QH.
+Michael2021-2 played the AS.
+Phil played the KH.
+
+Cards in hand:
+9S 7S 6S AC 6C 4C KD 7D 
+
+# Michael2021-2: 2/5
+# Phil: 0/0
+# Richard: 2/4
+# Doris: 1/1
+
+Expert response:
+7D
+Expert alternative response:
+
+
+#Dec 2021:
+#Michael2021-2 is void in: Heart.
+#Phil is void in: .
+#Richard is void in: Club.
+#Doris is void in: .
+#Monte also likes the 7D by 5 points
+# It goes 7D, 67S, 46C,KD
+# I'm keeping this testcase AS-IS
+#Actually, my partner is acting also suicidally...
+#This is complicated!

@@ -1,0 +1,47 @@
+Your name: Michael2021-2
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 70              242
+
+Cards dealt: 
+AS QS 9S 7S 6S AC 6C 4C 3C KD QD 7D 6D 
+
+
+Bid history:
+Michael2021-2 bid 5.
+Phil bid mellow.
+Richard bid 4.
+Doris bid 1.
+
+
+Play history:
+--new round--
+Michael2021-2 played the 3C.
+Phil played the 5C.
+Richard played the AD.
+Doris played the 7C.
+--new round--
+Doris played the JS.
+Michael2021-2 played the QS.
+Phil played the TS.
+Richard played the KS.
+--new round--
+Richard played the 3D.
+Doris played the JD.
+Michael2021-2 played the QD.
+Phil played the TD.
+--new round--
+
+Cards in hand:
+AS 9S 7S 6S AC 6C 4C KD 7D 6D 
+
+Expert response:
+7D
+Expert alternative response:
+6D
+
+#Eclipse currupted this file, so I had to recreate it. Thanks eclipse!
+#Mellow is vulnerable in D, so attack Diamond
+#Dec 2021:
+#Monte agrees by 3 points
