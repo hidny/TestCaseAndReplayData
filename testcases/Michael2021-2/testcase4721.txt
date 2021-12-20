@@ -54,8 +54,10 @@ Expert alternative response:
 6C 4C 7D 9S 6S 7S
 
 #Dec 2021:
-#Monte likes 9S, then AS, then 76S
-#It then want to save the high ones, because
+# You bid 5, don't throw AC...
+# Monte likes 9S, then AS, then 76S
+# Monte thinks any spade is 24 points because than anything else.
+# It then want to save the high ones, because
 # it knows we are close to burning.
-#I'll let the low offsuits pass even though monte thinks that's
+# I'll let the low offsuits pass even though monte thinks that's
 # worse than trumping just because
