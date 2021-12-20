@@ -61,7 +61,7 @@ Expert alternative response:
 #Richard is void in: Club.
 #Doris is void in: .
 #Monte also likes the 7D by 5 points
-# It goes 7D, 67S, 46C,KD
+# It goes 7D, 67S, 46C, KD
 # I'm keeping this testcase AS-IS
 #Actually, my partner is acting also suicidally...
 #This is complicated!
