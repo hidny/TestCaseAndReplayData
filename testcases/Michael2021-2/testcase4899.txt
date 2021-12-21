@@ -1,0 +1,35 @@
+Your name: Michael2021-2
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 176             34
+
+Cards dealt:
+AS 4S AH QH 2H KC QC 8C 4C 3C KD JD 4D 
+
+
+Bid history:
+Phil bid 3.
+Richard bid 1.
+Doris bid 2.
+Michael2021-2 bid 4.
+
+
+Play history:
+--new round--
+Phil played the AD.
+Richard played the 6D.
+Doris played the 2D.
+
+Cards in hand:
+AS 4S AH QH 2H KC QC 8C 4C 3C KD JD 4D 
+
+# Michael2021-2: 0/4
+# Phil: 0/3
+# Richard: 0/1
+# Doris: 0/2
+
+Expert response:
+4D
+Expert alternative response:
+JD
