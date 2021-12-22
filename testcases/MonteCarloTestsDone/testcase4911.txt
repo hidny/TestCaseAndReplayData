@@ -20,8 +20,4 @@ Cards in hand:
 Expert response:
 0
 Expert alternative response:
-
-
-#Monte Dec 2021:
-# Mellow worth -40.6 points
-# 1 is worth -85.1 points.
+1

@@ -56,12 +56,6 @@ QS 8S 7S 6S 7H KD QD
 # Doris: 0/0
 
 Expert response:
-8S
+KD
 Expert alternative response:
-7S 6S 7H
 
-#Dec 2021:
-#Monte: low S or 7H
-# I guess I'll pass the low S and 7H.
-#I'm not sure about 7H because mellow signalled under 7H though
-#Monte does not like KQD

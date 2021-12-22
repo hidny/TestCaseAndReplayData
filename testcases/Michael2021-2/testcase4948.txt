@@ -79,6 +79,17 @@ AS 4S 2C
 # Doris: 3/2
 
 Expert response:
-AS
-Expert alternative response:
 2C
+Expert alternative response:
+
+
+#Dec 2021:
+#According to monte and my observations,
+#Mellow is burning, so just take the trick with
+# 4S and get an extra point
+# (Mellow has 2 Diamonds)
+
+# Wait: what if Mellow has QS, 8D, AD?
+# and protector has 2 of 3 (369S)
+# and partner has QH and 1 of 3 (369S)?
+# Mellow burns! I now like the 2C...

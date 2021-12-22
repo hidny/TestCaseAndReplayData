@@ -21,7 +21,4 @@ AS QS 8S 5S 2S 9H 5H 4H 5C AD JD TD 5D
 Expert response:
 3
 Expert alternative response:
-4 5
-
-#Dec 2021:
-#Monte wants to bid 5 (4 point diff over bidding 4)
+4

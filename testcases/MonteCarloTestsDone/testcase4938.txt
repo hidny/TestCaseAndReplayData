@@ -26,12 +26,4 @@ AS 5S 4S KH JH 8H QC 8C 2C KD JD 6D 2D
 Expert response:
 6D
 Expert alternative response:
-4S 5S
 
-#Dec 2021:
-#Monte:
-#45S (9 points), 6D (7-8 points), 2D (6-7 points), 2C (5.5 to 6 points) 
-#Looks like my intuition about 6D > 2C is correct,
-#I can't explain why I believe this though...
-#Even though I don't like it,
-# I added low spade as an alt because monte said so...

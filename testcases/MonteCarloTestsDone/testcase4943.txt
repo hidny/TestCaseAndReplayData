@@ -43,38 +43,16 @@ Richard played the AC.
 Doris played the TD.
 --new round--
 Doris played the KC.
-Michael2021-2 played the 8C.
-Phil played the JC.
-Richard played the 9C.
---new round--
-Doris played the TC.
-Michael2021-2 played the QC.
-Phil played the 4C.
-Richard played the 7C.
 
 Cards in hand:
-AS 4S KH 2C KD JD 
+AS 4S KH QC 8C 2C KD JD 
 
-# Michael2021-2: 2/3
+# Michael2021-2: 1/3
 # Phil: 0/0
 # Richard: 2/4
-# Doris: 3/2
+# Doris: 2/2
 
 Expert response:
-KD
+8C
 Expert alternative response:
-JD
 
-#Dec 2021:
-#Don't lead 2C because mellow signalled 3C or void
-#Monte agrees.
-#Monte also barely prefers KD over JD.
-#Maybe monte is right because partner is void
-#and can't imagine a case where JD wins but the KD doesn't.
-#Interesting...
-#Ex1: if mellow has QD and protector AD,
-# I might as well play KD
-#Ex2: if mellow has QD and AD and protector has 2 lower ones,
-# KD just delays the inevitable burn
-#Ex3: if mellow has AD, QD, and 1 other D, mellow isn't burning
-# no matter what  I play.

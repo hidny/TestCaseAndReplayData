@@ -1,0 +1,24 @@
+Your name: Phil
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 0               0
+
+Cards dealt:
+QS TS JH 9H QC JC 7C 6C 4C QD 9D 6D 4D
+
+
+Bid history:
+Richard bid 2.
+Doris bid 4.
+Michael2021-2 bid 3.
+
+Cards in hand:
+QS TS JH 9H QC JC 7C 6C 4C QD 9D 6D 4D
+
+Expert response:
+1
+Expert alternative response:
+
+# I think the right bid is 1, but it burned
+# and Ying made me doubt it.

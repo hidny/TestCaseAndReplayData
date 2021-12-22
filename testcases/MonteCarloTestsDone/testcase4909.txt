@@ -78,8 +78,6 @@ AH QH 8C
 # Doris: 2/2
 
 Expert response:
-QH
+8C
 Expert alternative response:
 
-#Dec 2021:
-#Monte confirmed that QH is the move.

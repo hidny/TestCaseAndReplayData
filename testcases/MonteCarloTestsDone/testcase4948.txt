@@ -51,30 +51,34 @@ Doris played the TC.
 Michael2021-2 played the QC.
 Phil played the 4C.
 Richard played the 7C.
+--new round--
+Michael2021-2 played the JD.
+Phil played the 9D.
+Richard played the 7S.
+Doris played the 3C.
+--new round--
+Richard played the 7H.
+Doris played the 5C.
+Michael2021-2 played the KH.
+Phil played the 2H.
+--new round--
+Michael2021-2 played the KD.
+Phil played the QD.
+Richard played the TS.
+Doris played the 6C.
+--new round--
+Richard played the TH.
+Doris played the 2S.
 
 Cards in hand:
-AS 4S KH 2C KD JD 
+AS 4S 2C 
 
-# Michael2021-2: 2/3
+# Michael2021-2: 3/3
 # Phil: 0/0
-# Richard: 2/4
+# Richard: 4/4
 # Doris: 3/2
 
 Expert response:
-KD
+AS
 Expert alternative response:
-JD
-
-#Dec 2021:
-#Don't lead 2C because mellow signalled 3C or void
-#Monte agrees.
-#Monte also barely prefers KD over JD.
-#Maybe monte is right because partner is void
-#and can't imagine a case where JD wins but the KD doesn't.
-#Interesting...
-#Ex1: if mellow has QD and protector AD,
-# I might as well play KD
-#Ex2: if mellow has QD and AD and protector has 2 lower ones,
-# KD just delays the inevitable burn
-#Ex3: if mellow has AD, QD, and 1 other D, mellow isn't burning
-# no matter what  I play.
+2C

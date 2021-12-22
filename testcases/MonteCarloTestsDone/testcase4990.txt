@@ -24,9 +24,6 @@ JS 9S 5S 2S TH 4H KC TC 7C 4C TD 6D 3D
 # Doris: 0/2
 
 Expert response:
-2S
+TH
 Expert alternative response:
-5S 3D 6D TD 4C 4H TH  
-
-#Dec 2021:
-#Monte likes the 2S
+TD

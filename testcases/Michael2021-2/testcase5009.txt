@@ -58,6 +58,15 @@ QS 5S 2S 9H 5H JD TD
 # Doris: 3/2
 
 Expert response:
-2S
+5H
 Expert alternative response:
-5S
+9H TD JD
+
+#Dec 2021:
+#Monte:
+# 5H, 9H, TJD
+#Don't trump!
+#5H is best to throw because 9H is more forcing.
+# i.e: 9H will encourage protector to play high to make a trick
+# when protector doesn't want to...
+# (I know there's a mellow, but if 9H doesn't burn it, 5H won't burn it either)

@@ -1,11 +1,11 @@
-Your name: Michael2021-2
-Dealer is on your right
+Your name: Richard
+Dealer is on your left
 Score at start:
 Your Score      Their Score
  419             218
 
 Cards dealt:
-AS 5S 4S KH JH 8H QC 8C 2C KD JD 6D 2D 
+KS QS TS 7S QH TH 7H 6H 4H AC 9C 7C 7D 
 
 
 Bid history:
@@ -39,25 +39,12 @@ Phil played the 3H.
 --new round--
 Michael2021-2 played the 2D.
 Phil played the 3D.
-Richard played the AC.
-Doris played the TD.
---new round--
-Doris played the KC.
+
 
 Cards in hand:
-AS 4S KH QC 8C 2C KD JD 
-
-# Michael2021-2: 1/3
-# Phil: 0/0
-# Richard: 2/4
-# Doris: 2/2
+QS TS 7S QH TH 7H AC 9C 7C 
 
 Expert response:
-8C
+QS
 Expert alternative response:
-2C
-
-#Dec 2021:
-#Don't throw QC because that will be master
-#Risk saving mellow by saving future master offsuits.
-#Monte agrees!
+TS AC

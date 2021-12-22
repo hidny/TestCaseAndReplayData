@@ -2,7 +2,7 @@ Your name: Michael2021-2
 Dealer is on your right
 Score at start:
 Your Score      Their Score
- 941             666
+ 641             666
 
 Cards dealt:
 KS 9S 7S 5S 3S AH KH 8H 2H QC JC 7C 3D 
@@ -12,7 +12,7 @@ Bid history:
 Michael2021-2 bid 4.
 Phil bid 3.
 Richard bid 2.
-Doris bid 5.
+Doris bid 2.
 
 
 Play history:
@@ -47,13 +47,17 @@ KS 9S 7S 5S 3S 8H QC JC 7C
 # Michael2021-2: 2/4
 # Phil: 1/3
 # Richard: 1/2
-# Doris: 0/5
+# Doris: 0/2
 
 Expert response:
 7C
 Expert alternative response:
-QC JC 8H 9S 7S
+QC JC
 
 #Dec 2021:
-#Because it's near the end of the round, just play whatever
-#Monte likes the 8H...
+#Don't play 8H because you could use that the let partner trump.
+#This is adapted from the 2-5046 test case.
+#Lowered bid to 2, so monte will understand the hand.
+#Also lowered score to 600, so it won't be a weird near-end-of-game case
+#Monte likes th JQC for some reason, so I included it as a possible solution.
+# Clubs is prefered to Hearts by 7 points.

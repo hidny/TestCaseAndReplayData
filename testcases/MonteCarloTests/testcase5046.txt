@@ -52,8 +52,4 @@ KS 9S 7S 5S 3S 8H QC JC 7C
 Expert response:
 7C
 Expert alternative response:
-QC JC 8H 9S 7S
 
-#Dec 2021:
-#Because it's near the end of the round, just play whatever
-#Monte likes the 8H...
