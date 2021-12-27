@@ -25,3 +25,8 @@ Expert alternative response:
 #Monte Dec 2021:
 # Mellow worth -40.6 points
 # 1 is worth -85.1 points.
+# I tried making the AI more willing to say mellow if player doesn't even have 1,
+# but that didn't go far enough.
+# Maybe the odds of winning this mellow are as high as 45% justifying going for it?
+# I don't know. QJT5D looks a little scary to me. (Even though there's only 1 spade.)
+# I did the math and the function will say mellow if it's given a 47.8% chance of making it.
