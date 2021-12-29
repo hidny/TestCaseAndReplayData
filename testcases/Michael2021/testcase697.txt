@@ -64,3 +64,17 @@ Expert alternative response:
 
 #This is tough because Michael & Rich are about to burn...
 #Maybe Michael should be able to tell they will burn and try to burn the mellow?
+
+#Dec 2021:
+#Monte 5000
+#Comparing utility of different cards to play:
+#Average util (point diff) of playing the 2S: 34.124
+#Average util (point diff) of playing the 5S: 46.0384
+#Average util (point diff) of playing the 9S: 50.9016
+#Average util (point diff) of playing the KS: 50.9016
+#Average util (point diff) of playing the JC: 56.443
+#Average util (point diff) of playing the JD: 47.9084
+#Average util (point diff) of playing the AD: 45.5276
+
+# JC is the best according to Monte... I guess I'll 
+# keep failing this test case even though I don't get it.
