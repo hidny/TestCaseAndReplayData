@@ -56,7 +56,3 @@ Expert response:
 AH
 Expert alternative response:
 TD 7D 6D
-
-#JAN 2022:
-#Monte: Play AH because you'll probably make tricks
-#and there's less heart than diamond.

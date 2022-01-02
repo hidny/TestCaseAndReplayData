@@ -57,6 +57,10 @@ AC 7C 3C AD KD QD 5D 2D
 Expert response:
 7C
 Expert alternative response:
-QD
+QD 3C 5D
 
 #Don't just throw away the AC just because opponent said mellow! (1)
+
+#Jan 2022:
+#Monte wants to play low so we could make tricks.
+#But don't play 2D... save for later.

@@ -77,4 +77,4 @@ JD
 #Ex2: if mellow has QD and AD and protector has 2 lower ones,
 # KD just delays the inevitable burn
 #Ex3: if mellow has AD, QD, and 1 other D, mellow isn't burning
-# no matter what I play.
+# no matter what  I play.

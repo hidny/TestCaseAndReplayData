@@ -60,8 +60,9 @@ QH JH TH KC JC 9C
 Expert response:
 QH
 Expert alternative response:
-JH TH
+JH TH 9C
 
 # The idea is to try to save the tricks by not throwing away clubs
 # AI just tries to burn the mellow with no regard to how 
 # desperate the situation is. (Michael and Richard only have 2/4 tricks)
+# Jan 2021: Monte likes the 9C... maybe it's to stop the other AI from playing it though...

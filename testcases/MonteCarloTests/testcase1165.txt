@@ -64,6 +64,3 @@ Expert response:
 3D
 Expert alternative response:
 2D QC KD
-
-#Jan 2022:
-#Somehow, monte agrees with me that 6C is the worst option.

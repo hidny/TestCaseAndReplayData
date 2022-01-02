@@ -69,9 +69,6 @@ Cards in hand:
 # Doris: 0/0
 
 Expert response:
-4H
+9D
 Expert alternative response:
-5H 9D 8H 2H
-
-#Jan 2022: on second thought, this test case doesn't matter.
-#Mellow signalled 3H
+8H

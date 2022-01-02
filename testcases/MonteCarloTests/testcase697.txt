@@ -78,7 +78,3 @@ Expert alternative response:
 
 # JC is the best according to Monte... I guess I'll 
 # keep failing this test case even though I don't get it.
-
-#Jan 2022:
-#Playing JC clears Club and puts the 6C in danger...
-#Also: you're probably making the tricks.

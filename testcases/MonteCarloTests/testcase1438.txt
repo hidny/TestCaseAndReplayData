@@ -53,26 +53,15 @@ Phil played the 5S.
 Richard played the JS.
 --new round--
 Doris played the 9S.
-Michael played the QH.
-Phil played the 8C.
-Richard played the 2S.
---new round--
-Doris played the 7S.
-Michael played the TH.
-Phil played the 8H.
-Richard played the QC.
---new round--
-Doris played the 4S.
 
 Cards in hand:
-JH KC JC 9C 
+QH JH TH KC JC 9C 
 
 Expert response:
-KC
+QH
 Expert alternative response:
-JH JC
+JH TH
 
-#Jan 2022:
-#I feel monte likes 9C because it stops the AI from making mistakes... I like my orig guess.
-#Though I agree that the JH is highly questionable...
-
+# The idea is to try to save the tricks by not throwing away clubs
+# AI just tries to burn the mellow with no regard to how 
+# desperate the situation is. (Michael and Richard only have 2/4 tricks)

@@ -68,11 +68,6 @@ Cards in hand:
 JH KC JC 9C 
 
 Expert response:
-KC
+JH
 Expert alternative response:
-JH JC
-
-#Jan 2022:
-#I feel monte likes 9C because it stops the AI from making mistakes... I like my orig guess.
-#Though I agree that the JH is highly questionable...
-
+KC JC

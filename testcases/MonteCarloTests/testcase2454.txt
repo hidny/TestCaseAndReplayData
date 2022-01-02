@@ -70,15 +70,8 @@ KH QH TH 9H 4D
 # Doris: 0/0
 
 Expert response:
-9H
+KH
 Expert alternative response:
-TH
 
 #Don't throw off 4D just in case you could use it later.
 #Doesn't matter too much though (AD and TD are still out there)
-
-#Jan 2022:
-#It can be deduced that Mellow has at least 2 hearts and is safe in hearts.
-#so just play low heart instead of high heart.
-#Also, keep the 4D just in case partner manages to throw off AD
-#and mellow still has TD

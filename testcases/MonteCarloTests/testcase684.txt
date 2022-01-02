@@ -50,35 +50,18 @@ Michael2021 played the 7C.
 Phil played the TH.
 Richard played the 5H.
 Doris played the 8H.
-Michael2021 played the 3C.
---new round--
-Phil played the 4H.
-Richard played the 2H.
-Doris played the TC.
-Michael2021 played the QD.
---new round--
-Phil played the AH.
-Richard played the 7D.
-Doris played the 8D.
-Michael2021 played the 5D.
---new round--
-Phil played the 6H.
-Richard played the QC.
-Doris played the 9C.
 
 Cards in hand:
-AC AD KD 2D 
+AC 3C AD KD QD 5D 2D 
 
 # Michael2021: 1/4
-# Phil: 8/4
+# Phil: 5/4
 # Richard: 0/1
 # Doris: 0/0
 
 Expert response:
-AC
+3C
 Expert alternative response:
-AD KD
 
-#Jan 2022:
-#Tricks are burned, so just don't worry about tricks
-# and clear the suit
+
+#Don't just throw away the AC just because opponent said mellow! (2)

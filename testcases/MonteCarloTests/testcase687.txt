@@ -77,8 +77,4 @@ AC AD KD 2D
 Expert response:
 AC
 Expert alternative response:
-AD KD
 
-#Jan 2022:
-#Tricks are burned, so just don't worry about tricks
-# and clear the suit

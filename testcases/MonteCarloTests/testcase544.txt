@@ -85,4 +85,3 @@ Expert alternative response:
 #Average util (point diff) of playing the QD: -105.43040822013938
 
 #At this point, I'm really confused and I'm willing to just pass this test case.
-#Maybe 8D to make it clear that partner should take the trick?
