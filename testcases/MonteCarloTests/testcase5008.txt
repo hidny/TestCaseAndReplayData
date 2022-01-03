@@ -24,24 +24,35 @@ Michael2021-2 played the 5C.
 --new round--
 Richard played the 2C.
 Doris played the QC.
+Michael2021-2 played the AS.
+Phil played the 7C.
+--new round--
+Michael2021-2 played the 4H.
+Phil played the 3H.
+Richard played the AH.
+Doris played the 2H.
+--new round--
+Richard played the 4D.
+Doris played the 8D.
+Michael2021-2 played the 5D.
+Phil played the 7D.
+--new round--
+Doris played the KS.
+Michael2021-2 played the 8S.
+Phil played the JS.
+Richard played the TS.
+--new round--
+Doris played the KC.
 
 Cards in hand:
-AS QS 8S 5S 2S 9H 5H 4H AD JD TD 5D 
+QS 5S 2S 9H 5H AD JD TD 
 
-# Michael2021-2: 0/3
+# Michael2021-2: 1/3
 # Phil: 0/0
-# Richard: 1/2
-# Doris: 0/2
+# Richard: 2/2
+# Doris: 2/2
 
 Expert response:
-AS
+AD
 Expert alternative response:
-QS
-
-#Partner doesn't think mellow is void in clubs,
-#so trust him...
-#DEC 2021:
-#Monte: AS, QS, 9TD, 9H, 45H (diff between AS and TD is 4 points)
-#Monte agrees!
-#Jan 2022:
-#AQS are about the same.
+JD TD 5S 2S

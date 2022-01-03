@@ -53,9 +53,9 @@ QS 5S 2S 9H 5H AD JD TD
 # Doris: 2/2
 
 Expert response:
-5H
+QS
 Expert alternative response:
-JD TD AD QS
+JD TD AD 5H
 
 #Dec 2021:
 #Monte: QS by 4 points (I don't see why QS is bad...)
@@ -65,7 +65,3 @@ JD TD AD QS
 #Because Monte likes the 5H so much, I'll pass the 5H
 #(5H is 2-3 points more than 9H)
 # I don't think I'll be able to explain why the 5H is a better throw than the 9H...
-
-#If we assume mellow doesn't have anything over 6C:
-#5H, 9H, TJD, AD
-#I'm going to fail the 9H as a reminder that 5H is the better play. (by 3 points)
