@@ -48,4 +48,9 @@ Cards in hand:
 Expert response:
 AH
 Expert alternative response:
+3S
 
+#Jan 2022:
+#Monte like 8S, but partner signalled QS or none
+#so 3S is better. 
+#I think I'll reask monte with signal info.

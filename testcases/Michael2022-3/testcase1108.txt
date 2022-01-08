@@ -36,6 +36,11 @@ Cards in hand:
 # Doris: 0/3
 
 Expert response:
-2S
+8S
 Expert alternative response:
 
+
+#Jan 2022:
+#Monte prefers 8S. (even though unknown spades are all above 8S)
+#Maybe it's to encourage LHS to play high spade.
+#I'll go with Monte (0.35 point diff)

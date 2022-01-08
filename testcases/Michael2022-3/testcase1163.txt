@@ -51,9 +51,9 @@ AH KH 9H 6H KC QC AD 7D
 # Doris: 0/0
 
 Expert response:
-KC
+6H
 Expert alternative response:
-6H QC 7D
+QC KC 7D
 
 #Jan 2022
 #Monte prefers 6H, then QC, then KC, then 7D

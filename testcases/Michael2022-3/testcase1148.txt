@@ -43,7 +43,11 @@ KS 8S 3S AH JH 6H 5H AC QC 3C
 Expert response:
 KS
 Expert alternative response:
-AH
+AH AC 5H 6H 3C 
 
 # KS didn't end well. (Opponents had the spade)
 # I don't think it matters. TODO: montes
+# JAN 2022:
+# Monte likes 56H, then 3C then (KS, AC, AH)
+# It's counting on draining spade... but it didn't happen
+# I'll pass it anyways.

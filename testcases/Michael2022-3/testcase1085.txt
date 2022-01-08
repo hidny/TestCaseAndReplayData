@@ -54,3 +54,7 @@ Expert response:
 TC
 Expert alternative response:
 9C
+
+#Jan 2022:
+#Monte agrees with me that 9T C is best
+#but it's all within 0.1 points (expect for QC)

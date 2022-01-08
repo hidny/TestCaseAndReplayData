@@ -48,4 +48,8 @@ JS 3S QH 5H 4H 9D 7D 5D 2D
 Expert response:
 5D
 Expert alternative response:
+7D
 
+#Jan 2022:
+#On second thought, I like 7D
+#TODO: I'll have to teach monte the signals though.

@@ -51,6 +51,12 @@ Cards in hand:
 # Doris: 0/0
 
 Expert response:
-4D
+TH
 Expert alternative response:
+8D 3H 4D
 
+#Jan 2022:
+# Monte really likes to attack with middle cards
+# like TH then 8D before the protector.
+# I'll pass my orig guess of 4D and fail AI's guess at 3H
+# because I'm confused...

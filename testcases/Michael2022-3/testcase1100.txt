@@ -61,6 +61,10 @@ KS JS JC 8C 5C 4C
 # Doris: 2/2
 
 Expert response:
-JC
+JS
 Expert alternative response:
 
+#Jan 2022:
+#Monte prefers JS even though it thinks
+#LHS might have low club...
+#TODO: reask...

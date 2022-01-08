@@ -13,7 +13,7 @@ Richard bid 1.
 
 
 Cards in hand:
-QC TC 8C 4C 2C AH TH 8H 5H 6C 3C JD 4D
+AC TC 8C 6C 4C 3C 2C QH 8H 5H 2H 7D 4D
 
 Expert response:
 1
@@ -22,3 +22,5 @@ Expert alternative response:
 
 #Based on the scores, don't bid mellow here...
 #Low priority test case!
+#Jan 2022:
+#Mellow doesn't get it...

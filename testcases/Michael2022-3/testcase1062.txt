@@ -66,8 +66,15 @@ QS 5S 2S 9H KC
 # Doris: 0/0
 
 Expert response:
-9H
+KC
 Expert alternative response:
+9H
 
-
-#Don't play S because partner might trump
+#Don't play S because partner might be forced to play high spade.
+# Try to let partner trump instead. (won't help with mellow though... :( )
+#Jan 2022:
+#Monte likes both 9H and KC
+#It prefers KC, while I prefer 9H
+#The 25S is 9 points less.
+# Monte: Hey Michael! There's only 1 unknown spade left!
+# You don't need to try to get partner to trump.

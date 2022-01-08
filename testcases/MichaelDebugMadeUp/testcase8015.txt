@@ -86,3 +86,6 @@ Expert alternative response:
 #It's better to just lead spade here...
 
 #The fact that RHS(Phil) has 0 spade doesn't matter enough to justify not playing spade.
+
+#Jan 2022:
+#Monte agrees!

@@ -59,3 +59,17 @@ Expert response:
 6S
 Expert alternative response:
 5S
+
+#Jan 2022:
+#Monte doesn't NOT like 2S
+#It's not even close!
+#Offsuits are also not great because they are high
+#It also doesn't like KC...
+#and being seated left of mellow means you can hide that they are high if you follow suit.
+#Average util (point diff) of playing the 2S: -22.82285
+#Average util (point diff) of playing the 5S: 24.60845
+#Average util (point diff) of playing the 6S: 24.08455
+#Average util (point diff) of playing the QS: 20.96425
+#Average util (point diff) of playing the 9H: 4.51935
+#Average util (point diff) of playing the TH: -37.1818
+#Average util (point diff) of playing the KC: -26.73545

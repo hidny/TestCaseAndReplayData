@@ -63,4 +63,8 @@ Cards in hand:
 Expert response:
 5S
 Expert alternative response:
+8S
 
+#Jan 2022:
+#Monte:
+#5S = 8S (unknown spades = TS QS)
