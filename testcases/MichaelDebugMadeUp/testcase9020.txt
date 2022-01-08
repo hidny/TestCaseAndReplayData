@@ -1,0 +1,65 @@
+Your name: Doris
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 131             187
+
+Cards dealt:
+TS 6S 5S 4S 3S KH 6H 3H AC KC 5C 2D
+
+Bid history:
+Phil bid mellow.
+Richard bid 2.
+Doris bid 6.
+Michael2022-3 bid 3.
+
+
+Play history:
+--new round--
+Phil played the 2S.
+Richard played the AS.
+Doris played the 3S.
+Michael2022-3 played the 7S.
+--new round--
+Richard played the 5H.
+Doris played the KH.
+Michael2022-3 played the AH.
+Phil played the 8H.
+--new round--
+Michael2022-3 played the 3D.
+Phil played the 6D.
+Richard played the 5D.
+Doris played the 2D.
+--new round--
+Phil played the 4H.
+Richard played the TH.
+Doris played the 3H.
+Michael2022-3 played the QH.
+--new round--
+Michael2022-3 played the JC.
+Phil played the QC.
+Richard played the 8S.
+Doris played the 5C.
+--new round--
+Richard played the QD.
+Doris played the 6H.
+Michael2022-3 played the AD.
+Phil played the 7D.
+--new round--
+Michael2022-3 played the 9C.
+Phil played the TC.
+Richard played the 9S.
+Doris played the KC.
+--new round--
+Richard played the 9H.
+
+
+Cards in hand:
+JS TS 6S 5S 4S AC 
+
+Expert response:
+
+Expert alternative response:
+
+#Doris should just trump on 9H
+#and try to make her tricks

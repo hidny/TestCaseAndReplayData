@@ -1,0 +1,60 @@
+Your name: Michael2022-3
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 938             670
+
+Cards dealt:
+9S 5S AH KH JH 6H 5H 2H JC 5C JD 5D 3D 
+
+
+Bid history:
+Phil bid 1.
+Richard bid 4.
+Doris bid 3.
+Michael2022-3 bid 1.
+
+
+Play history:
+--new round--
+Phil played the 4D.
+Richard played the AD.
+Doris played the 6D.
+Michael2022-3 played the 3D.
+--new round--
+Richard played the AC.
+Doris played the 4C.
+Michael2022-3 played the 5C.
+Phil played the 2C.
+--new round--
+Richard played the TC.
+Doris played the KC.
+Michael2022-3 played the JC.
+Phil played the 3C.
+--new round--
+Doris played the KD.
+Michael2022-3 played the 5D.
+Phil played the 2D.
+Richard played the 8D.
+--new round--
+Doris played the QD.
+Michael2022-3 played the JD.
+Phil played the 3H.
+Richard played the 9D.
+--new round--
+Doris played the 7D.
+
+Cards in hand:
+9S 5S AH KH JH 6H 5H 2H 
+
+# Michael2022-3: 0/1
+# Phil: 0/1
+# Richard: 2/4
+# Doris: 3/3
+
+Expert response:
+9S
+Expert alternative response:
+
+#TODO: I'm not sure if I should bother trumping because Phil will just trump over me...
+# I did force out the AS...

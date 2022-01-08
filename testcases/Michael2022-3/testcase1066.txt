@@ -1,0 +1,29 @@
+Your name: Michael2022-3
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 131             187
+
+Cards dealt:
+KS QS 7S AH QH JH JC 9C 8C 2C AD 9D 3D 
+
+
+Bid history:
+Phil bid mellow.
+Richard bid 2.
+Doris bid 6.
+
+
+Cards in hand:
+KS QS 7S AH QH JH JC 9C 8C 2C AD 9D 3D 
+
+
+Expert response:
+3
+Expert alternative response:
+2 4
+
+#Monte 2022:
+#Say 4! Go for it!
+#(Diff otf 4 points)
+#TODO: reask monte?
