@@ -47,19 +47,4 @@ AS JS 9S 5S 3S AC 5C AD KD 6D
 Expert response:
 AS
 Expert alternative response:
-JS
 
-#Jan 2022:
-#Monte prefers JS over AS.
-#But monte wants to play AC, then 6D, then 5C
-#I'll just pass JS
-#Average util (point diff) of playing the 3S: -4.418616666666667
-#Average util (point diff) of playing the 5S: -4.206883333333334
-#Average util (point diff) of playing the 9S: 5.520166666666666
-#Average util (point diff) of playing the JS: 8.405316666666666
-#Average util (point diff) of playing the AS: 7.064816666666666
-#Average util (point diff) of playing the 5C: 10.001366666666666
-#Average util (point diff) of playing the AC: 13.4209
-#Average util (point diff) of playing the 6D: 12.286583333333333
-#Average util (point diff) of playing the KD: 9.51565
-#Average util (point diff) of playing the AD: 9.515516666666667

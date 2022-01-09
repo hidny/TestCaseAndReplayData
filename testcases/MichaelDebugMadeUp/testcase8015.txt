@@ -78,7 +78,7 @@ Cards in hand:
 QS TH 
 
 Expert response:
-
+QS
 Expert alternative response:
 
 
