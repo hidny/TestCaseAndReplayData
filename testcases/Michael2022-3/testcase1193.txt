@@ -73,7 +73,10 @@ Cards in hand:
 Expert response:
 9C
 Expert alternative response:
+4S
 
 #Monte doesn't get this case
 #Partner is really safe... so make QC master.
 #TODO: tell monte partner is safe in club and retry.
+#Later:
+#Mellow is not even at risk though...

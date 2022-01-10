@@ -58,3 +58,4 @@ Expert alternative response:
 #Jan 2022:
 #Monte agrees with me that 9T C is best
 #but it's all within 0.1 points (expect for QC)
+# I like 9TC because it might make QC master.
