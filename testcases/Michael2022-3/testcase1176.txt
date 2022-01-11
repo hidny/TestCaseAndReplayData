@@ -53,9 +53,10 @@ TS 6S JH TC 4C 2C 4D 2D
 Expert response:
 2C
 Expert alternative response:
-4C 4D 2D
+4C 4D 2D 6S TS
 
 #Don't play heart because RHS signalled no heart
 #Jan 2022:
 #Monte prefers diamonds,
 #but monte doesn't understand signals yet.
+#Later: Passed 6S and TS just because...
