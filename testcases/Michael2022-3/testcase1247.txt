@@ -76,6 +76,10 @@ Cards in hand:
 # Doris: 0/0
 
 Expert response:
-3C
+6S
 Expert alternative response:
+7S
 
+#Jan 2022:
+#Monte: partner has last 2 clubs,
+#so leading 3C is bad.

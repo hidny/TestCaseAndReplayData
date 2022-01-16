@@ -53,4 +53,8 @@ QS TS 8S 7S 5S JD 9D
 Expert response:
 QS
 Expert alternative response:
-TS 8S 7S 9D
+TS 8S 7S
+
+#Jan 2022:
+# Monte like T87S (32 points), then QS (26 points)
+# I'm removing the idea of playing 9D.

@@ -1,0 +1,29 @@
+Your name: Doris
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 165             232
+
+Cards dealt:
+JS 9S KH TH AC QC 7C 5C 4C QD 9D 4D 2D
+
+
+Bid history:
+Michael2022-3 bid 4.
+Phil bid 2.
+Richard bid 1.
+
+
+Cards in hand:
+JS 9S KH TH AC QC 7C 5C 4C QD 9D 4D 2D
+
+Expert response:
+2
+Expert alternative response:
+3
+
+#Why can't Doris say mellow or 1?
+#Looks like Doris just had the worst luck...
+
+#Jan 2022:
+#Say 2 or 3 (-11), then 1 with -19 points

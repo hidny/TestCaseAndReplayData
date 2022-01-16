@@ -55,4 +55,8 @@ TH 6H 5H 3H AC JC 8C TD
 Expert response:
 5H
 Expert alternative response:
-6H
+6H 8C JC 3H TD
+
+#Jan 2022:
+#Monte prefers 8JC over 56H, but all within 0.1 points.
+#I'm not too concerned about it.

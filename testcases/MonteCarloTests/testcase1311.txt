@@ -58,22 +58,21 @@ Richard played the AC.
 Doris played the TS.
 --new round--
 Doris played the QD.
+Michael2022-3 played the KC.
+Phil played the 3C.
+Richard played the 6D.
+--new round--
+Doris played the QC.
 
 Cards in hand:
-JH KC JC TC 8C 
+JH JC TC 8C 
 
 # Michael2022-3: 3/2
 # Phil: 0/0
 # Richard: 2/3
-# Doris: 3/3
+# Doris: 4/3
 
 Expert response:
 JC
 Expert alternative response:
-TC 8C
-
-#Giving up your master KC is a HUGE error.
-#It allows protector to lead QC as master.
-#Jan 2022:
-#Monte:
-#Don't waste JH. That's a potential trick.
+TC

@@ -61,12 +61,6 @@ Cards in hand:
 # Doris: 3/8
 
 Expert response:
-6C
+TC
 Expert alternative response:
-TC 7C
-
-#Jan 2022:
-#Monte prefers 46C, then 7TC
-#Liking 4C is high level because partner may have 5C.
-#Maybe monte just didn't get burned when leading 4C.
-#Monte doesn't like KH, so I'll not pass it.
+KH

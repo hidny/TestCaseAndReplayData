@@ -31,10 +31,4 @@ AS QS JS 5S QH 9H 7H KC JC 9C 7C 6D 2D
 Expert response:
 9H
 Expert alternative response:
-QH
 
-#Jan 2022:
-#Monte actually likes the QH (by 0.3 points)
-#I guess we're before the mellow,
-#and we could make our tricks if we want?
-#TODO: reask?

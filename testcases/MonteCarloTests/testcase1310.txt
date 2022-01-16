@@ -74,6 +74,3 @@ TC 8C
 
 #Giving up your master KC is a HUGE error.
 #It allows protector to lead QC as master.
-#Jan 2022:
-#Monte:
-#Don't waste JH. That's a potential trick.

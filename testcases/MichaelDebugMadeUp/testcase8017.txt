@@ -1,0 +1,26 @@
+Your name: Phil
+Dealer is your partner opposite you
+Score at start:
+Your Score      Their Score
+ 447             565
+
+Cards dealt:
+8S 7S AH KH 7H 3H 2H KC 5C 4C 2C 7D 5D 
+
+
+Bid history:
+Michael2022-3 bid 2.
+
+
+Cards in hand:
+
+
+Expert response:
+0
+Expert alternative response:
+
+
+#Maybe don't say mellow with this?
+#I think I'll take a chance! TODO: monte.
+#Jan 2022:
+#Monte prefers mellow by about 40 points

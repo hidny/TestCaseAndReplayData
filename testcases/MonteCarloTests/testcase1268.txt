@@ -51,11 +51,6 @@ AS 8S 7S 2S JD TD 6D 5D
 # Doris: 0/2
 
 Expert response:
-JD
+5D
 Expert alternative response:
-TD
 
-#Jan 2022:
-#Monte says AI and I are both wrong
-#and you should play JTD (not 56D) (by 7 points)
-#I don't get it, but I believe it.

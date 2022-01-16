@@ -48,12 +48,6 @@ QS 9S 8S 6S TH AC QC 7C 3C
 # Doris: 2/2
 
 Expert response:
-3C
+6S
 Expert alternative response:
-7C
 
-#Jan 2022:
-#Monte:
-#Play 3C 7C
-#TODO: reask while telling monte LHS is void in Diamond?
-#I'm pretty it won't make a diff though.

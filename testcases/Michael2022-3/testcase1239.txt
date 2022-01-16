@@ -38,4 +38,7 @@ AS KS 8S 7S 6S QC 8C 7C 3C JD 6D
 Expert response:
 7C
 Expert alternative response:
-8C 6D
+8C
+
+#Jan 2022:
+#Monte agrees that 78C is better than 3C by 4 points

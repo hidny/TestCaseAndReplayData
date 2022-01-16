@@ -1,0 +1,27 @@
+Your name: Phil
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 54             131
+
+Cards dealt:
+JS TS 6S 5S 4S 3S KH 6H 3H AC KC 5C 2D
+
+Bid history:
+Doris bid 8.
+Michael2022-3 bid 1.
+
+Cards in hand:
+6S 4S 2S AH 9H 8H 7H 6H QC AD QD TD 8D 
+
+Expert response:
+2
+Expert alternative response:
+1
+
+#Your partner said 8. Just say mellow.
+#Then again, QC alone + 2 aces...
+#Jan 2022:
+#Monte says 2 or 1 is much better than mellow
+#(almost 100 points better)
+#But: TODO: reask because there was only 76 samples...

@@ -56,32 +56,16 @@ Phil played the 4D.
 Richard played the AD.
 Doris played the TC.
 Michael2022-3 played the 6S.
---new round--
-Michael2022-3 played the 7S.
-Phil played the 8S.
-Richard played the JS.
-Doris played the 7C.
---new round--
-Richard played the 8C.
-Doris played the 6C.
-Michael2022-3 played the QC.
-Phil played the 4C.
 
 Cards in hand:
-TS JH KC 
+TS 7S JH KC QC 
 
-# Michael2022-3: 5/5
+# Michael2022-3: 4/5
 # Phil: 3/2
-# Richard: 2/4
+# Richard: 1/4
 # Doris: 0/0
 
 Expert response:
-KC
+7S
 Expert alternative response:
-TS JH
 
-#Jan 2022:
-#I'll just pass it... I don't care about this case.
-#Average util (point diff) of playing the TS: -30.16758832565298
-#Average util (point diff) of playing the JH: -30.093701996927848
-#Average util (point diff) of playing the KC: -30.03225806451623

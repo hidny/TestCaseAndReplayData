@@ -33,11 +33,4 @@ AS KS 8S 7S 6S KH QC 8C 7C 3C JD 6D
 Expert response:
 KH
 Expert alternative response:
-6D 7C 8C JD
-
-#Jan 2022:
-#Monte agrees with me!
-#Monte: KH(-32), 78C(-33), JD(-34)
-#I'll just add the JD as an option.
-# 3C is -36... I'll fail it.
-#Maybe it's bad because protector probably has low spade and high offsuits?
+6D 7C 8C

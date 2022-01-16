@@ -56,6 +56,13 @@ QS 9S 8S TH QC 7C 3C
 # Doris: 2/2
 
 Expert response:
-QC
+TH
 Expert alternative response:
+8S QS QC 9S 
 
+#Jan 2022:
+#Monte mentioned it prefers 8S, or QS
+#over QC. Maybe drain spades first?
+#It doesn't like 9S, but I don't get it, so I'll pass 9S.
+# 8S, QS, TH, QC, 9S
+#TH makes sense because partner will trump it.

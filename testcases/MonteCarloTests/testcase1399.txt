@@ -43,40 +43,16 @@ Doris played the KS.
 Michael2022-3 played the 7S.
 --new round--
 Doris played the 5S.
-Michael2022-3 played the 5H.
-Phil played the TS.
-Richard played the 3C.
---new round--
-Phil played the QH.
-Richard played the KH.
-Doris played the 9H.
-Michael2022-3 played the 3H.
---new round--
-Richard played the 8H.
-Doris played the JD.
-Michael2022-3 played the 6H.
-Phil played the JH.
---new round--
-Phil played the 9C.
-Richard played the TC.
-Doris played the KC.
-Michael2022-3 played the AC.
 
 Cards in hand:
-TH JC 8C TD 
+TH 6H 5H 3H AC JC 8C TD 
 
-# Michael2022-3: 1/1
-# Phil: 4/3
-# Richard: 2/1
+# Michael2022-3: 0/1
+# Phil: 2/3
+# Richard: 1/1
 # Doris: 2/5
 
 Expert response:
-JC
+5H
 Expert alternative response:
-8C
-
-#Jan 2022:
-#Monte:
-#Play JC to show that it's a Keqiv
-#That way, partner won't play QC on me.
-#It's a small diff though.
+6H

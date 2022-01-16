@@ -39,9 +39,6 @@ JH 7H 5H 4H KC JC TC 8C AD KD 4D
 # Doris: 1/3
 
 Expert response:
-4D
+AD
 Expert alternative response:
-
-
-#Jan 2022:
-#Monte wants to check if mellow has QD alone by 8 points
+KD

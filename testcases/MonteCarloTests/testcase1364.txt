@@ -78,10 +78,4 @@ TS JH KC
 Expert response:
 KC
 Expert alternative response:
-TS JH
-
-#Jan 2022:
-#I'll just pass it... I don't care about this case.
-#Average util (point diff) of playing the TS: -30.16758832565298
-#Average util (point diff) of playing the JH: -30.093701996927848
-#Average util (point diff) of playing the KC: -30.03225806451623
+TS

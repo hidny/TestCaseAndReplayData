@@ -50,4 +50,9 @@ KS 9S KH 5H JC TC 7C 6C 4C
 Expert response:
 JC
 Expert alternative response:
-TC
+
+
+#Jan 2022:
+# Monte: JC is preferred because it makes LHS
+# think you have QH (preferred by 7 points)
+# Don't let opponents take it... because you want to lead KS

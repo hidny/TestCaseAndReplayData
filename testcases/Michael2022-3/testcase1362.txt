@@ -69,3 +69,16 @@ Expert response:
 7S
 Expert alternative response:
 
+
+#Jan 2022:
+#Monte and I agree with 7S.
+#But I don't get it, and it's all within 0.3 points
+#Monte says Mellow only has clubs...
+#and is safe
+
+#Comparing utility of different cards to play:
+#Average util (point diff) of playing the 7S: -30.505889117504044
+#Average util (point diff) of playing the TS: -30.60209581766241
+#Average util (point diff) of playing the JH: -30.793092198334115
+#Average util (point diff) of playing the QC: -30.761100562466392
+#Average util (point diff) of playing the KC: -30.761100562466392

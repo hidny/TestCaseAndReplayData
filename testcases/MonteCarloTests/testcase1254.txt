@@ -38,35 +38,16 @@ Doris played the KD.
 Michael2022-3 played the 6D.
 --new round--
 Doris played the 9C.
-Michael2022-3 played the JC.
-Phil played the 6S.
-Richard played the KC.
---new round--
-Phil played the 6H.
-Richard played the 4H.
-Doris played the JH.
-Michael2022-3 played the 5H.
---new round--
-Doris played the 5S.
-Michael2022-3 played the KS.
-Phil played the 4S.
-Richard played the 8S.
 
 Cards in hand:
-9S KH TC 7C 6C 4C 
+KS 9S KH 5H JC TC 7C 6C 4C 
 
-# Michael2022-3: 1/1
-# Phil: 3/2
+# Michael2022-3: 0/1
+# Phil: 2/2
 # Richard: 0/0
-# Doris: 3/8
+# Doris: 2/8
 
 Expert response:
-6C
+JC
 Expert alternative response:
-TC 7C
-
-#Jan 2022:
-#Monte prefers 46C, then 7TC
-#Liking 4C is high level because partner may have 5C.
-#Maybe monte just didn't get burned when leading 4C.
-#Monte doesn't like KH, so I'll not pass it.
+TC

@@ -41,9 +41,6 @@ Cards in hand:
 # Doris: 0/6
 
 Expert response:
-9C
-Expert alternative response:
 TD
-#Jan 2022:
-#Monte: 
-#Lead 3rd club and keep partner's offsuit kings safe
+Expert alternative response:
+7S 6S 5S

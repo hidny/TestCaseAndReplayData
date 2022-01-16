@@ -31,6 +31,21 @@ AS 8S JH 8H JC 9C 8C 5C 3C TD 5D 2D
 # Doris: 0/4
 
 Expert response:
-JC
-Expert alternative response:
 JH
+Expert alternative response:
+9C 8C 5C 
+
+#Jan 2022:
+#Monte prefers JH, but I don't care much about this test case.
+#Average util (point diff) of playing the 8S: -59.23014855188629
+#Average util (point diff) of playing the AS: -59.76552313775783
+#Average util (point diff) of playing the 8H: -54.83873036229561
+#Average util (point diff) of playing the JH: -53.60847493854868
+#Average util (point diff) of playing the 3C: -55.032542481564604
+#Average util (point diff) of playing the 5C: -54.864272736988354
+#Average util (point diff) of playing the 8C: -54.86763920059848
+#Average util (point diff) of playing the 9C: -54.860371914075024
+#Average util (point diff) of playing the JC: -54.92412097894624
+#Average util (point diff) of playing the 2D: -56.49310676498878
+#Average util (point diff) of playing the 5D: -56.444800683979906
+#Average util (point diff) of playing the TD: -56.440151758042106

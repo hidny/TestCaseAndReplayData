@@ -69,5 +69,3 @@ Expert response:
 JD
 Expert alternative response:
 
-#Jan 2022:
-#TODO: reask with mellow signals.
