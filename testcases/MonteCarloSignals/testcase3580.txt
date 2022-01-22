@@ -38,9 +38,7 @@ KS TS 7S 6S KH 6C 5C AD QD 6D 5D
 Expert response:
 6C
 Expert alternative response:
-5C KH AD 6S 7S 5D 6D
+5C KH AD
 
 #Oct 24th 2021: I'm starting to like leading C here and helping partner.
 #Maybe I should fail this test case?
-#Jan 2022:
-#Monte is starting to like the 67S and 56D. I'll pass those ones too.

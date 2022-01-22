@@ -66,8 +66,10 @@ Cards in hand:
 # Doris: 0/0
 
 Expert response:
-JD
+3C
 Expert alternative response:
-
+QC 6S 7S
 #Jan 2022:
 #TODO: reask with mellow signals.
+#With signals: Play 3C and dare protector to trump
+#also, don't play JD

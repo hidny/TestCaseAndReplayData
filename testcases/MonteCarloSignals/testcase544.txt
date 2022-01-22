@@ -73,7 +73,7 @@ Cards in hand:
 Expert response:
 8D
 Expert alternative response:
-3C 3S QD
+3C 3S
 
 
 #DEC 2021:

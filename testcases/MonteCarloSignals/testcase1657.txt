@@ -46,6 +46,4 @@ Expert alternative response:
 KD
 
 #Oct 24th 2021: I'm starting to think 5C is better choice.
-#Maybe I should fail this test case? Nah!
-#Jan 2022:
-#Monte agrees 5C is better, but I don't feel like fixing this.
+#Maybe I should fail this test case?

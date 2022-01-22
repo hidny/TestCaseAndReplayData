@@ -37,4 +37,4 @@ QH
 #Monte actually likes the QH (by 0.3 points)
 #I guess we're before the mellow,
 #and we could make our tricks if we want?
-#TODO: reask?
+#After reasking with a sample size of 60K, the difference seems negligible.

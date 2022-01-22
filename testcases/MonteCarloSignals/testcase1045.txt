@@ -43,11 +43,9 @@ Cards in hand:
 Expert response:
 2H
 Expert alternative response:
-KC 9H
+KC
 
 #Oct 24th, 2021:
 #Me: play H so partner makes a trick
 #Monte: play H so QJH can be master (doesn't even know partner has AH)
 #Maybe I should fail this test case?
-#Jan 2022:
-# Monte with signals prefers 9H (I don't know why though)

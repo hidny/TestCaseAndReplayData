@@ -55,7 +55,7 @@ QS 5S 2S 9H 5H AD JD TD
 Expert response:
 5H
 Expert alternative response:
-JD TD AD QS
+9H JD TD AD QS
 
 #Dec 2021:
 #Monte: QS by 4 points (I don't see why QS is bad...)
@@ -69,3 +69,5 @@ JD TD AD QS
 #If we assume mellow doesn't have anything over 6C:
 #5H, 9H, TJD, AD
 #I'm going to fail the 9H as a reminder that 5H is the better play. (by 3 points)
+#Jan 2022:
+#I'll just pass 9H (It scored high after monte with signals was run)
