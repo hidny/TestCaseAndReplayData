@@ -68,6 +68,13 @@ TH 4H 6C 5C 2C
 # Doris: 4/4
 
 Expert response:
-4H
+TH
 Expert alternative response:
+4H
 
+#JAN 2022:
+#TH is better!
+#Monte prefers TH by 1.5 points
+#(You're treatning to take the trick and protect mellow 
+#  at the cost of partner burning next round in hearts,
+# but that next round may be too late.)

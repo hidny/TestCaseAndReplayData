@@ -55,5 +55,4 @@ Expert alternative response:
 #Jan 2022:
 #Monte:
 #Play 3C 7C
-#TODO: reask while telling monte LHS is void in Diamond?
-#I'm pretty it won't make a diff though.
+ 
