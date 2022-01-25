@@ -73,4 +73,9 @@ AS AD KD
 Expert response:
 AS
 Expert alternative response:
+AD KD
 
+#JAN 2022:
+#After looking at it,
+#LHS probably has 2 spades and 1 diamond
+#so LHS will only get 1 trick no matter what.
