@@ -54,26 +54,29 @@ JH TS 6S 4S 3S 2S
 
 #Jan 2022:
 #Monte after 5000:
-#Average util (point diff) of playing the 2S: 1.4008246537380216
-#Average util (point diff) of playing the 3S: 1.4008246537380216
-#Average util (point diff) of playing the 4S: 1.4008246537380216
-#Average util (point diff) of playing the 6S: 1.5664786478419608
-#Average util (point diff) of playing the TS: 2.5184908049307775
-#Average util (point diff) of playing the AS: -2.6526348594544453
-#Average util (point diff) of playing the JH: 7.233177334247804
-#Average util (point diff) of playing the 5C: 7.409839262840185
-#Average util (point diff) of playing the AC: -1.062518686789446
+# 2S: 1.4008246537380216
+# 3S: 1.4008246537380216
+# 4S: 1.4008246537380216
+# 6S: 1.5664786478419608
+# TS: 2.5184908049307775
+# AS: -2.6526348594544453
+# JH: 7.233177334247804
+# 5C: 7.409839262840185
+# AC: -1.062518686789446
 
 # 5C, JH, then: TS, 6532S. I'll stop passing AS.
 #Next run: JH > 5C
 #After 60K
 # JH, 5C, then: TS, 6532S
-#Average util (point diff) of playing the 2S: 1.1233838202575324
-#Average util (point diff) of playing the 3S: 1.1233838202575324
-#Average util (point diff) of playing the 4S: 1.1233838202575324
-#Average util (point diff) of playing the 6S: 1.2733836824667595
-#Average util (point diff) of playing the TS: 2.1307680612464335
-#Average util (point diff) of playing the AS: -2.686956200155126
-#Average util (point diff) of playing the JH: 7.668444624820681
-#Average util (point diff) of playing the 5C: 7.2694142648758895
-#Average util (point diff) of playing the AC: -1.2069705969613407
+# 2S: 1.1233838202575324
+# 3S: 1.1233838202575324
+# 4S: 1.1233838202575324
+# 6S: 1.2733836824667595
+# TS: 2.1307680612464335
+# AS: -2.686956200155126
+# JH: 7.668444624820681
+# 5C: 7.2694142648758895
+# AC: -1.2069705969613407
+
+#Later: (and with signals)
+#Play JH by 8 points. I guess?

@@ -59,3 +59,8 @@ Expert response:
 9C
 Expert alternative response:
 8C 2C
+
+#Jan 2022:
+#Monte with signals agrees about 289C
+#It's not even close! It's a 70 point diff!
+#The idea is to simply feed partner.

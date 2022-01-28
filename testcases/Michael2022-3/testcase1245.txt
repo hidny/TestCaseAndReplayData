@@ -73,3 +73,4 @@ QC 6S 7S
 #TODO: reask with mellow signals.
 #With signals: Play 3C and dare protector to trump
 #also, don't play JD
+#With signals: Play 3C !!! 28 point diff

@@ -83,3 +83,4 @@ Expert alternative response:
 #Jan 2022:
 #Monte: partner has last 2 clubs,
 #so leading 3C is bad.
+#This makes a 172 point diff!

@@ -81,5 +81,3 @@ Expert alternative response:
 
 #According to Monte, 3S is slightly more agro...
 #Clubs just feeds Opponent
-#Jan 2022:
-#This failed recently, and should be fixed.
