@@ -76,3 +76,5 @@ Expert alternative response:
 #Monte very slightly prefers 6H.
 #By 0.55 points. I don't get it, but I believe it.
 #Maybe it helps partner decide what to do with 9H?
+#Later:
+#Monte says it doesn't matter.
