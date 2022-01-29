@@ -1,0 +1,22 @@
+Your name: Michael2022-3
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 72              -78
+
+Cards dealt:
+AS JS 7S 2S 8H 7H KC QC JC AD 9D 8D 6D 
+
+
+Bid history:
+Doris bid 2.
+
+
+Cards in hand:
+AS JS 7S 2S 8H 7H KC QC JC AD 9D 8D 6D 
+
+
+Expert response:
+4
+Expert alternative response:
+5

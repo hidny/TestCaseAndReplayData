@@ -1,0 +1,53 @@
+Your name: Doris
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 357             189
+
+Cards dealt:
+KS JS TS 7S 4S 3S KH 7H 3H QC 9C 3C 2C 
+
+
+Bid history:
+Michael2022-3 bid mellow.
+Phil bid 2.
+Richard bid 5.
+Doris bid 5.
+
+
+Play history:
+--new round--
+Michael2022-3 played the 6S.
+Phil played the 2S.
+Richard played the AS.
+Doris played the 7S.
+--new round--
+Richard played the AH.
+Doris played the 3H.
+Michael2022-3 played the QH.
+Phil played the 9H.
+--new round--
+Richard played the JH.
+Doris played the KH.
+Michael2022-3 played the TH.
+Phil played the 6H.
+--new round--
+Doris played the 3C.
+Michael2022-3 played the 5C.
+Phil played the AC.
+Richard played the 4C.
+--new round--
+Phil played the 5D.
+Richard played the QD.
+
+
+Cards in hand:
+KS JS TS 4S 3S 7H QC 9C 2C 
+
+Expert response:
+7H
+Expert alternative response:
+9C
+
+#Trumping with JS seems suspicious to be honest...
+#I taught AI to do that, but it might not be good.s
