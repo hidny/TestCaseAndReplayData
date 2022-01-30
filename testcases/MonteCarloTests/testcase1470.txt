@@ -83,9 +83,4 @@ QH 8H
 Expert response:
 8H
 Expert alternative response:
-QH
-
-#JAN 2022:
-#Monte: only partner and I have H,
-# and no one has spade so it doesn't matter.
 

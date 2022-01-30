@@ -52,10 +52,8 @@ KS JS 7S JH 6H QC 3C KD
 # Richard: 0/1
 # Doris: 3/4
 
-Expert response:JS
+Expert response:
+KS
 Expert alternative response:
 
-
-#Jan 2022:
-#Monte and I think that for spades, we might be able to get an extra trick by not playing master here.
-#Monte prefers JS over KS by 1 point.
+#Oops!

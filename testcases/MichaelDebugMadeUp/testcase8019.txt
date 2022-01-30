@@ -9,20 +9,16 @@ Cards dealt:
 
 
 Bid history:
-Michael2022-3 bid mellow.
+Michael2022-3 bid 3.
 
 
 Cards in hand:
 2S 9H 6H AC 6C AD JD TD 9D 7D 4D 5D 3D 
 
 Expert response:
-0
+1
 Expert alternative response:
 
 
 #JAN 2022:
-#Monte: say mellow, and then say 1. Bold! But I like it.
-#Maybe make allowances if prev bidder said mellow.
-
-#Don't bid 2:
-#Ace and 7 others is not even 1...
+# Don't say 2 just because you have 2 spade.

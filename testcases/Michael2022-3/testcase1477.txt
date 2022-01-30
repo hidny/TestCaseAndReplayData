@@ -53,4 +53,9 @@ Cards in hand:
 Expert response:
 5S
 Expert alternative response:
-6S
+6S 8S QH
+
+#Jan 2022:
+#Close call!
+#Monte like QH, and 8S and spade
+#But spade and QH all within 0.01

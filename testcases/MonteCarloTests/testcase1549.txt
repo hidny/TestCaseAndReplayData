@@ -1,21 +1,22 @@
 Your name: Michael2022-3
-Dealer is on your right
+Dealer is your partner opposite you.
 Score at start:
 Your Score      Their Score
- 165             232
+ 693             241
 
 Cards dealt:
-AS KS 8S 7S 2S 8H 5H AD JD TD 6D 5D 3D 
+QS JS 3S QH 9H 4H 2H AC KC 8C 4C QD TD 
 
 
 Bid history:
+Doris bid 3.
 
 
 Cards in hand:
-AS KS 8S 7S 2S 8H 5H AD JD TD 6D 5D 3D 
+QS JS 3S QH 9H 4H 2H AC KC 8C 4C QD TD 
 
 
 Expert response:
-4
+3
 Expert alternative response:
-5
+

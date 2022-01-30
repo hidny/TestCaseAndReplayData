@@ -41,43 +41,16 @@ Richard played the 6D.
 Doris played the 5D.
 Michael2022-3 played the AD.
 Phil played the 3D.
---new round--
-Michael2022-3 played the 8C.
-Phil played the 3H.
-Richard played the 9S.
-Doris played the 7C.
---new round--
-Richard played the 7D.
-Doris played the 4D.
-Michael2022-3 played the 8D.
-Phil played the QD.
---new round--
-Phil played the AS.
-Richard played the 4S.
-Doris played the 7S.
-Michael2022-3 played the 6S.
---new round--
-Phil played the KH.
-Richard played the AH.
-Doris played the KD.
-Michael2022-3 played the 6H.
---new round--
-Richard played the 9D.
-Doris played the 2D.
 
 Cards in hand:
-JS JH 9H KC 
+JS 6S JH 9H 6H KC 8C 8D 
 
 # Michael2022-3: 3/3
-# Phil: 2/2
-# Richard: 4/4
+# Phil: 0/2
+# Richard: 2/4
 # Doris: 0/0
 
 Expert response:
-KC
+8C
 Expert alternative response:
-9H JH
-
-#Jan 2022:
-#Monte says to not play spade by 60 points.
-#Give Partner or protector a chance to burn the mellow.
+KC

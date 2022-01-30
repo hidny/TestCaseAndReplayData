@@ -45,15 +45,9 @@ Cards in hand:
 KS JS TS 4S 3S 7H QC 9C 2C 
 
 Expert response:
-3S
+7H
 Expert alternative response:
-4S KS 7H 9C
+9C
 
 #Trumping with JS seems suspicious to be honest...
-#I taught AI to do that, but it might not be good.
-#JAN 2022:
-#Monte wants to trump 34S by 30 points then trump high with KS.
-#I'll also pass 7H and 9C because I'm nice.
-# 34S = -46, (KS,7H, 9C) approx -77
-#I'll be nice because I didn't get it at the time.
-#And maybe monte will change it's mind after a few fixes.
+#I taught AI to do that, but it might not be good.s

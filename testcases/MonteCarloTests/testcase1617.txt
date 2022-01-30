@@ -36,10 +36,8 @@ TS 4S AH KH QH JH 6C 4C QD 3D 2D
 # Doris: 0/3
 
 Expert response:
-4S
+AH
 Expert alternative response:
 
-#Jan 2022:
-#Monte says the idea of playing AH is the worst.
-#Play 4S by 6 points
-#Only help drain attacker right of mellow's spade this way.
+#Let partner trump. I'm not sure about this...
+#TODO

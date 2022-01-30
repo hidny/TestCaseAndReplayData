@@ -56,9 +56,6 @@ AS JS 7S 2S 9D 8D 6D
 # Doris: 2/2
 
 Expert response:
-AS
+9D
 Expert alternative response:
-
-#Jan 2022:
-#Lead AS and see where everyone is in spade
-#By 0.6 points.
+8D 6D

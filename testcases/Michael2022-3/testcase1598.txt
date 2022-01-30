@@ -76,3 +76,6 @@ Expert alternative response:
 
 #I failed to play this no-brainer during the game.
 #This cost us...
+#Jan 2022:
+#Monte: there's a chance that you could drain all the spade
+#So lead KS.

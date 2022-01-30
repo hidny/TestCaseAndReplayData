@@ -77,8 +77,4 @@ Cards in hand:
 Expert response:
 QH
 Expert alternative response:
-3H 2S 7D
 
-#Jan 2022:
-#Monte: there's too much spade still out for this lead
-# to matter.

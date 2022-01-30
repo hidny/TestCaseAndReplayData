@@ -31,6 +31,13 @@ AS QS TS KH QH 8H 7H 8C 2C KD TD 4D
 # Doris: 0/2
 
 Expert response:
-8C
+KH
 Expert alternative response:
-2C
+8C 2C 4D
+
+#Jan 2022:
+#Monte: Just lead KH because leading other things are less
+#It's close enough that I'll accept 28C and 4D.
+#desirable. (Could lose offsuit K, or make KS win easily)
+
+#Interesting: monte prefers leading QS over AS...

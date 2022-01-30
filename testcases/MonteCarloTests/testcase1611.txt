@@ -71,9 +71,6 @@ Cards in hand:
 # Doris: 4/3
 
 Expert response:
-2H
+KH
 Expert alternative response:
-7H
 
-#Jan 2022:
-#Monte: give partner or protector a chance to burn mellow.

@@ -25,20 +25,32 @@ Michael2022-3 played the 9H.
 Phil played the TH.
 Richard played the 3H.
 Doris played the 5H.
+Michael2022-3 played the KH.
+--new round--
+Michael2022-3 played the 2S.
+Phil played the 4S.
+Richard played the QS.
+Doris played the AS.
+--new round--
+Doris played the QC.
+Michael2022-3 played the AC.
+Phil played the 2C.
+Richard played the 8C.
+--new round--
+Michael2022-3 played the KS.
+Phil played the JS.
+Richard played the 3S.
+Doris played the 7S.
 
 Cards in hand:
-KS 8S 6S 5S 2S KH QH JH AC AD 9D 4D 
+8S 6S 5S QH JH AD 9D 4D 
 
-# Michael2022-3: 0/5
+# Michael2022-3: 3/5
 # Phil: 1/1
 # Richard: 0/1
-# Doris: 0/1
+# Doris: 1/1
 
 Expert response:
-KH
+5S
 Expert alternative response:
-
-#Jan 2022:
-#Monte says that KH is better than QH and JH
-#because it's less revealing/signalling.
-#(By 0.5 points)
+6S

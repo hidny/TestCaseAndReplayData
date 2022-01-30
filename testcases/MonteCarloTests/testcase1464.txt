@@ -41,51 +41,16 @@ Doris played the JH.
 Michael2022-3 played the KH.
 Phil played the 4H.
 Richard played the 2H.
---new round--
-Michael2022-3 played the 7H.
-Phil played the 6S.
-Richard played the 5H.
-Doris played the 7D.
---new round--
-Phil played the 6D.
-Richard played the 3D.
-Doris played the JD.
-Michael2022-3 played the KD.
---new round--
-Michael2022-3 played the AS.
-Phil played the 7S.
-Richard played the 5S.
-Doris played the 2S.
---new round--
-Michael2022-3 played the TS.
-Phil played the KS.
-Richard played the 9S.
-Doris played the 3S.
---new round--
-Phil played the JS.
-Richard played the 5D.
-Doris played the 4S.
-Michael2022-3 played the QS.
---new round--
-Michael2022-3 played the TD.
-Phil played the 5C.
-Richard played the 6H.
-Doris played the 8D.
 
 Cards in hand:
-QH 8H 
+AS QS TS QH 8H 7H KD TD 
 
-# Michael2022-3: 6/4
-# Phil: 4/2
+# Michael2022-3: 2/4
+# Phil: 2/2
 # Richard: 0/1
 # Doris: 1/2
 
 Expert response:
-8H
+7H
 Expert alternative response:
-QH
-
-#JAN 2022:
-#Monte: only partner and I have H,
-# and no one has spade so it doesn't matter.
-
+8H AS

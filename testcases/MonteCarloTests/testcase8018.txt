@@ -2,23 +2,23 @@ Your name: Phil
 Dealer is your partner opposite you
 Score at start:
 Your Score      Their Score
- 447             565
+ 357             189
 
 Cards dealt:
-8S 7S AH KH 7H 3H 2H KC 5C 4C 2C 7D 5D 
+2S 9H 6H AC 6C AD JD TD 9D 7D 4D 5D 3D 
 
 
 Bid history:
-Michael2022-3 bid 2.
+Michael2022-3 bid mellow.
 
 
 Cards in hand:
-
+2S 9H 6H AC 6C AD JD TD 9D 7D 4D 5D 3D 
 
 Expert response:
-0
+1
 Expert alternative response:
-2
 
-#Maybe don't say mellow with this?
-#I think I'll take a chance! TODO: monte.
+
+#Why bid 2?
+#Ace and 7 others is not even 1...

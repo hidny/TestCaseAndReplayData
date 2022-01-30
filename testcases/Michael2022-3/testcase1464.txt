@@ -51,6 +51,13 @@ AS QS TS QH 8H 7H KD TD
 # Doris: 1/2
 
 Expert response:
-7H
+QH
 Expert alternative response:
-8H AS
+KD
+
+#Jan 2022:
+#Monte likes QH and the KD (next option is 1 point less.)
+#I'm a bit nervous about LHS having no diamond though.
+#Not enough to justify lead AS...
+#TODO: add signal about LHS so monte could 'get it'
+#(low priority!)

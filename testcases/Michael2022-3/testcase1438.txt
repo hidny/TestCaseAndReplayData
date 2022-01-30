@@ -54,3 +54,10 @@ Expert response:
 8C
 Expert alternative response:
 KC
+
+#Monte: Play 8C by 7 points
+#Then play KC.
+#Me: opponents should know mellow doesn't have KC.
+#so it shouldn't matter!
+#Maybe 8C is better because it makes it more obvious that
+#mellow bidder has no more club? I don't know!

@@ -71,10 +71,6 @@ Cards in hand:
 # Doris: 1/1
 
 Expert response:
-AD
+4D
 Expert alternative response:
-4D 9D
-
-#Jan 2022:
-#Just play Diamonds. The difference in points is really small
-# AD by 0.05 points
+AD
