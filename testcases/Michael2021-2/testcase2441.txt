@@ -68,8 +68,11 @@ QS AH KH QH 2H
 # Doris: 2/2
 
 Expert response:
-QS
+2H
 Expert alternative response:
+
 
 #Prefer playing quasi-TRAM over
 #hoping partner has master diamond.
+#Jan 2022:
+#Maybe assume partner has master diamond because he did a king sac and had a low diamond.

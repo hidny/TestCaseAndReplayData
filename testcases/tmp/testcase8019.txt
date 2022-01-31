@@ -5,7 +5,7 @@ Your Score      Their Score
  357             189
 
 Cards dealt:
-2S 9H 6H AC 6C AD JD TD 9D 7D 4D 5D 3D 
+QS 9H 6H AC 6C AD TD 9D 7D 4D 5D 3D 2D
 
 
 Bid history:
@@ -13,7 +13,7 @@ Michael2022-3 bid 3.
 
 
 Cards in hand:
-2S 9H 6H AC 6C AD JD TD 9D 7D 4D 5D 3D 
+QS 9H 6H AC 6C AD TD 9D 7D 4D 5D 3D 2D
 
 Expert response:
 1

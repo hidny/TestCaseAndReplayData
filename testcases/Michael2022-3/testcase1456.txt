@@ -78,11 +78,9 @@ AS 7S 8D
 Expert response:
 AS
 Expert alternative response:
-
+7S
 
 #Jan 2022:
 #Monte says AS vs 7S is the same...
-#I don't believe it.
-#For some reason, monte thinks Doris (RHS) is void in spade.
-#But she could easily have QS.
+#That's because Partner (Rich) has QS. Why else would he lead KS?
 
