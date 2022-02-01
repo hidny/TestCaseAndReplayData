@@ -57,4 +57,4 @@ AS KS TS 9S 8S 7S 6C
 Expert response:
 7S
 Expert alternative response:
-
+8s 9S TS

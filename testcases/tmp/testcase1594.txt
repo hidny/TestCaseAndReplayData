@@ -54,11 +54,8 @@ KS JS 7S JH 6H QC 3C KD
 
 Expert response:JS
 Expert alternative response:
-KS
+
 
 #Jan 2022:
 #Monte and I think that for spades, we might be able to get an extra trick by not playing master here.
 #Monte prefers JS over KS by 1 point.
-#I'm not ready for these queen tricks because I can't figure out
-#why you would play JS vs KS...
-#Monte seems to randomly pick between the two for different test cases.

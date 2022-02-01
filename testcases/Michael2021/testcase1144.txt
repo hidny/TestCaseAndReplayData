@@ -87,4 +87,6 @@ QC 8C
 Expert response:
 8C
 Expert alternative response:
+QC
 
+#9 to J was played.

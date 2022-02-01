@@ -67,4 +67,4 @@ JS TS 4S 7C 6C 3C
 Expert response:
 4S
 Expert alternative response:
-
+TS JS

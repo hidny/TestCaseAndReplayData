@@ -42,4 +42,4 @@ TS 9S 8S 5S 4S 3S 2S JH 8H 4H KD
 Expert response:
 2S
 Expert alternative response:
-
+3S 4S 5S

@@ -55,4 +55,4 @@ AS TS 6S 5S 4S JD 5D
 Expert response:
 4S
 Expert alternative response:
-
+5S 6S

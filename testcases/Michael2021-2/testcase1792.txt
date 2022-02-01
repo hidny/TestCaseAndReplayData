@@ -77,4 +77,4 @@ KS QS 8H 8D
 Expert response:
 QS
 Expert alternative response:
-
+KS

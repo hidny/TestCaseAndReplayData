@@ -52,4 +52,4 @@ AS KS 8S 7S 2S JD TD 6D 5D
 Expert response:
 KS
 Expert alternative response:
-
+AS
