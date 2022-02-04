@@ -67,7 +67,7 @@ TS 8S JH 2H AD QD
 Expert response:
 2H
 Expert alternative response:
-
+JH
 
 #I'm pretty sure Doris isn't going to burn in H,
 #but maybe it's worth trying.
@@ -76,3 +76,6 @@ Expert alternative response:
 #Nov 2021
 #Monte thinks JH is better by 18 points
 # I'm starting to think it doesn't matter.
+
+# Jan 2022:
+#Monte now thinks it doesn't matter and I agree. (Monte uses signals now)

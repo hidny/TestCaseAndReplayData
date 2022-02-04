@@ -66,4 +66,4 @@ Cards in hand:
 Expert response:
 4D
 Expert alternative response:
-6D 8S 9S
+5D 8S 9S

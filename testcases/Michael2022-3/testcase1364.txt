@@ -82,6 +82,6 @@ TS JH
 
 #Jan 2022:
 #I'll just pass it... I don't care about this case.
-#Average util (point diff) of playing the TS: -30.16758832565298
-#Average util (point diff) of playing the JH: -30.093701996927848
-#Average util (point diff) of playing the KC: -30.03225806451623
+# TS: -30.16758832565298
+# JH: -30.093701996927848
+# KC: -30.03225806451623
