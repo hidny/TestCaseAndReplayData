@@ -1,0 +1,23 @@
+Your name: Michael2022-3
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 279             215
+
+Cards dealt:
+6S TH 6H 3H KC 8C 4C 3C AD QD JD 9D 2D 
+
+
+Bid history:
+
+
+Cards in hand:
+6S TH 6H 3H KC 8C 4C 3C AD QD JD 9D 2D 
+
+
+Expert response:
+1
+Expert alternative response:
+2
+
+#TODO: What does monte think of mellow?

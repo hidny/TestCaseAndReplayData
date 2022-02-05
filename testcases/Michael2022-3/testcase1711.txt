@@ -1,0 +1,34 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 370             330
+
+Cards dealt:
+KS QS 5S QH JH 7H 4H 8C 2C KD QD JD 3D 
+
+
+Bid history:
+Richard bid mellow.
+Doris bid mellow.
+Michael2022-3 bid 3.
+Phil bid 3.
+
+
+Play history:
+--new round--
+Richard played the 9S.
+Doris played the 7S.
+
+Cards in hand:
+KS QS 5S QH JH 7H 4H 8C 2C KD QD JD 3D 
+
+# Michael2022-3: 0/3
+# Phil: 0/3
+# Richard: 0/0
+# Doris: 0/0
+
+Expert response:
+KS
+Expert alternative response:
+QS
