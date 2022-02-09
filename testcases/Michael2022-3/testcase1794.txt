@@ -51,6 +51,12 @@ AS 6S 5S 4S AC TC 6C 4C
 # Doris: 1/1
 
 Expert response:
-AC
+4S
 Expert alternative response:
+5S 6S AS AC
 
+#Feb 2022:
+#Monte wants to drain the spade.
+#It prefers low spade, then AS.
+#I'll keep AC as an option, because that's what I played
+#and it makes sense to me.

@@ -37,4 +37,6 @@ AS JS 8S 7S 9H 8H 7H 6H 5H 2H KD 3D
 Expert response:
 7S
 Expert alternative response:
+8S
 
+#7S = 8S

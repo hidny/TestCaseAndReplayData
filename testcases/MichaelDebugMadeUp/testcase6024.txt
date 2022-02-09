@@ -24,3 +24,6 @@ Expert alternative response:
 
 #I can't believe partner said mellow in the last round.
 #It's quite the win-more move...
+#Feb 2022:
+#Expected value for mellow is only 6 points more than 1 bid
+#So: say 1 to safely win the game! (You have 970 points)

@@ -16,12 +16,17 @@ Cards in hand:
 TS 7S 6S 4S AH TH 9H 8H 6H 5H 9C TD 8D 
 
 Expert response:
-1
-Expert alternative response:
 2
+Expert alternative response:
+3
 
 #Feb 2022:
 # Saying mellow here is a bit weird...
 # But I would do it anyways!
 # It didn't work out during the game though... Maybe it was bad luck?
 # (double mellow with 4 spades)
+
+#Monte: saying 2 is only 9 points better than mellow...
+# This test case isn't a big deal...
+#2: -39, 3: -42, 1: -45, 0: -48
+

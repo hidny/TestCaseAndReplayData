@@ -43,4 +43,8 @@ TS 9S 6S 4S 3S KH KC QC 5C 2D
 Expert response:
 KC
 Expert alternative response:
+5C
 
+#Don't lead spade when partner is trumping!
+#Feb 2022:
+#Monte: feed partner 5C by 2 points

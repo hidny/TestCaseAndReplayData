@@ -52,4 +52,4 @@ AS 6S 5S 4S 3S AC TC 6C 4C
 Expert response:
 3S
 Expert alternative response:
-
+6S 5S 4S

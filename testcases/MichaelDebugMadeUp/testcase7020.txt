@@ -68,9 +68,12 @@ Cards in hand:
 KS 7S JC 9D 
 
 Expert response:
-
+7S
 Expert alternative response:
 
-
+#Feb 2022:
 #Doris (RHS) shouldn't trump with card that's supposed to support KS.
 #It doesn't make much of a diff though.
+#Monte correction:
+# Monte likes trumping with the 7S!
+# So nevermind!

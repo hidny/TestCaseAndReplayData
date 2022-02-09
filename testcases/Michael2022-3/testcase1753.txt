@@ -45,4 +45,7 @@ KS 8S 5S 2S KH QH JH 4H 9D 8D
 Expert response:
 2S
 Expert alternative response:
-5S
+5S 9D 8D
+
+#Feb 2022:
+#Monte prefers to throw off diamond by 8 points, so I'll leave that as an option.

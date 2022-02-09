@@ -70,4 +70,8 @@ Cards in hand:
 Expert response:
 4D
 Expert alternative response:
-7D 8D
+7D 8D 7S
+
+#Feb 2022:
+#Monte says trump with 7S by 1 point (allow partner to not trump)
+

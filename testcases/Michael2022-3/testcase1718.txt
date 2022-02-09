@@ -67,4 +67,8 @@ Cards in hand:
 Expert response:
 7H
 Expert alternative response:
-4H
+4H 5S
+
+#Feb2022:
+#Monte likes 5S by 20 points.
+#Maybe taking this trick and leading 4H is good?

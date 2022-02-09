@@ -51,6 +51,11 @@ TS 9S 6S 4S 3S KH 5C 2D
 # Doris: 0/1
 
 Expert response:
-KH
+3S
 Expert alternative response:
+4S 6S
+
+#Feb 2022:
+#Monte: Lead spade first
+#I'll change the test case to align with monte.
 

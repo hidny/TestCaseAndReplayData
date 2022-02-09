@@ -1,0 +1,26 @@
+Your name: Richard
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 974             750
+
+Cards dealt:
+3S KH JH 8H 7H 6H KC QC JC TC 8C 2C 4D
+
+
+Bid history:
+Doris bid 5.
+Michael2022-3 bid 2.
+Phil bid 6.
+
+
+Cards in hand:
+3S KH JH 8H 7H 6H KC QC JC TC 8C 2C 4D
+
+Expert response:
+1
+Expert alternative response:
+
+
+#I can't believe partner said mellow in the last round.
+#It's quite the win-more move...

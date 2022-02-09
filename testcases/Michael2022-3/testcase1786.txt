@@ -78,4 +78,7 @@ TS 6S 4S
 Expert response:
 4S
 Expert alternative response:
-6S
+6S TS
+
+#Feb 2022:
+#Monte says that they are all the same.

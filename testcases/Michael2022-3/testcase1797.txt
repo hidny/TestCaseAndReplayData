@@ -72,4 +72,4 @@ AS 6S 5S 6C 4C
 Expert response:
 5S
 Expert alternative response:
-
+6S

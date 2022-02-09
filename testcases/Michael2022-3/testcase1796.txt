@@ -64,3 +64,8 @@ Expert response:
 TC
 Expert alternative response:
 6C 4C
+
+#Feb 2022:
+#Monte: T63C by 5 points
+#This test case is somehow different from
+#3-1798

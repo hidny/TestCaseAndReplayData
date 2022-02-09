@@ -43,3 +43,8 @@ Expert response:
 QD
 Expert alternative response:
 JD
+
+#Feb 2022:
+#Current Monte doesn't take it, but
+#I think monte is wrong here.
+#You should take it and attack with 3D. 
