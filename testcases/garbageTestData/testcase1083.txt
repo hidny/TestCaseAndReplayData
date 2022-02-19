@@ -1,0 +1,23 @@
+Your name: garbageTestData
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 208             389
+
+Cards dealt:
+KS 9S 8S 4S JH 8H JC 2C QD TD 9D 7D 2D 
+
+
+Bid history:
+Richard bid 1.
+Doris bid 2.
+
+
+Cards in hand:
+KS 9S 8S 4S JH 8H JC 2C QD TD 9D 7D 2D 
+
+
+Expert response:
+
+Expert alternative response:
+

@@ -49,3 +49,14 @@ Expert response:
 8D
 Expert alternative response:
 TD
+
+#Feb 2022:
+#Monte agrees and prefers 8TD over 3C. I don't completely get it to be honest.
+#3S: -61.222134046365824
+#4S: -61.222134046365824
+#JS: -63.027419596222366
+#3C: -52.66625261097408
+#9C: -47.151315007312235
+#TC: -47.15359011310452
+#8D: -46.510897370937634
+#TD: -48.89251682172691

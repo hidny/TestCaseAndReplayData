@@ -38,3 +38,4 @@ Expert alternative response:
 #Feb 2022:
 #Monte prefers to lead low spade by 0.5 points,
 #but QD is the 2nd choice, so I'll pass it.
+#AS is the 3rd choice.

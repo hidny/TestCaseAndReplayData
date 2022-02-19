@@ -1,0 +1,83 @@
+Your name: garbageTestData
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 60              43
+
+Cards dealt:
+AS 6S QH 8H 7H 4H AC 4C 3C 5D 4D 3D 2D 
+
+
+Bid history:
+Richard bid 1.
+Doris bid 8.
+garbageTestData bid 1.
+Phil bid 1.
+
+
+Play history:
+--new round--
+Richard played the QD.
+Doris played the AD.
+garbageTestData played the 5D.
+Phil played the 8D.
+--new round--
+Doris played the KS.
+garbageTestData played the 6S.
+Phil played the 2S.
+Richard played the 5S.
+--new round--
+Doris played the QS.
+garbageTestData played the AS.
+Phil played the JS.
+Richard played the TS.
+--new round--
+garbageTestData played the 3C.
+Phil played the QC.
+Richard played the KC.
+Doris played the TC.
+--new round--
+Richard played the TH.
+Doris played the 3H.
+garbageTestData played the 4H.
+Phil played the JH.
+--new round--
+Phil played the AH.
+Richard played the 5H.
+Doris played the 9H.
+garbageTestData played the 7H.
+--new round--
+Phil played the KH.
+Richard played the 2C.
+Doris played the JC.
+garbageTestData played the 8H.
+--new round--
+Phil played the 6H.
+Richard played the 5C.
+Doris played the 9S.
+garbageTestData played the QH.
+--new round--
+Doris played the 8S.
+garbageTestData played the 2D.
+Phil played the 2H.
+Richard played the 6D.
+--new round--
+Doris played the 7S.
+garbageTestData played the 4D.
+Phil played the 9D.
+Richard played the 7D.
+--new round--
+Doris played the 4S.
+
+Cards in hand:
+AC 4C 3D 
+
+# garbageTestData: 1/1
+# Phil: 3/1
+# Richard: 1/1
+# Doris: 5/8
+
+Expert response:
+
+Expert alternative response:
+ASD\\

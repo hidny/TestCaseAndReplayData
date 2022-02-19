@@ -47,4 +47,6 @@ JD
 #Feb 2022:
 #Current Monte doesn't take it, but
 #I think monte is wrong here.
-#You should take it and attack with 3D. 
+#You should take it and attack with 3D.
+#Later:
+#Monte now plays high diamond!

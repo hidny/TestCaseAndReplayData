@@ -1,0 +1,33 @@
+Your name: garbageTestData
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 80              135
+
+Cards dealt:
+TS 8S KH 8H 7H 4C 2C KD JD TD 8D 6D 5D 
+
+
+Bid history:
+Doris bid 2.
+garbageTestData bid 1.
+Phil bid mellow.
+Richard bid 7.
+
+
+Play history:
+--new round--
+Doris played the KS.
+
+Cards in hand:
+TS 8S KH 8H 7H 4C 2C KD JD TD 8D 6D 5D 
+
+# garbageTestData: 0/1
+# Phil: 0/0
+# Richard: 0/7
+# Doris: 0/2
+
+Expert response:
+
+Expert alternative response:
+

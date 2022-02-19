@@ -49,4 +49,4 @@ TS 2S JC TC 7C 5C 4C 3C
 Expert response:
 TC
 Expert alternative response:
-7C 5C 4C 3C
+7C 5C 4C 3C JC

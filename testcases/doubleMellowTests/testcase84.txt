@@ -70,4 +70,7 @@ QS 9S 7S TH
 Expert response:
 7S
 Expert alternative response:
+9S QS
 
+#FEB 2022:
+#Monte says play any spade

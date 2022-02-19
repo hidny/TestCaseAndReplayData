@@ -1,0 +1,35 @@
+Your name: garbageTestData
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 186             326
+
+Cards dealt:
+KS QS 7S 5S QH 7H 2H 9C 4C 2C 7D 6D 2D 
+
+
+Bid history:
+Phil bid 1.
+Richard bid 1.
+Doris bid 5.
+garbageTestData bid 1.
+
+
+Play history:
+--new round--
+Phil played the AH.
+Richard played the 3H.
+Doris played the 8H.
+
+Cards in hand:
+KS QS 7S 5S QH 7H 2H 9C 4C 2C 7D 6D 2D 
+
+# garbageTestData: 0/1
+# Phil: 0/1
+# Richard: 0/1
+# Doris: 0/5
+
+Expert response:
+AS
+Expert alternative response:
+\

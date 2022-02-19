@@ -1,0 +1,65 @@
+Your name: garbageTestData
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 63              31
+
+Cards dealt:
+9S 7S KH 7H 3H TC 9C 7C 3C AD TD 8D 6D 
+
+
+Bid history:
+garbageTestData bid 3.
+Phil bid 6.
+Richard bid 1.
+Doris bid 1.
+
+
+Play history:
+--new round--
+garbageTestData played the 9S.
+Phil played the AS.
+Richard played the 5S.
+Doris played the 2S.
+--new round--
+Phil played the KS.
+Richard played the 8S.
+Doris played the 3S.
+garbageTestData played the 7S.
+--new round--
+Phil played the QS.
+Richard played the TS.
+Doris played the JS.
+garbageTestData played the 8D.
+--new round--
+Phil played the 9D.
+Richard played the QD.
+Doris played the KD.
+garbageTestData played the AD.
+--new round--
+garbageTestData played the KH.
+Phil played the TH.
+Richard played the 4H.
+Doris played the 2H.
+--new round--
+garbageTestData played the 7H.
+Phil played the JH.
+Richard played the AH.
+Doris played the 5H.
+--new round--
+Richard played the 4D.
+Doris played the JD.
+garbageTestData played the TD.
+Phil played the 5D.
+--new round--
+Doris played the 6H.
+
+Cards in hand:
+3H TC 9C 7C 3C 6D 
+
+# Only option
+
+Expert response:
+3H
+Expert alternative response:
+

@@ -1,0 +1,35 @@
+Your name: garbageTestData
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 262             375
+
+Cards dealt:
+KS 7S 4S 3S TH 6H 5H AC 9C 8C 6C 4C 7D 
+
+
+Bid history:
+Phil bid 6.
+Richard bid 1.
+Doris bid 2.
+garbageTestData bid 1.
+
+
+Play history:
+--new round--
+Phil played the AS.
+Richard played the TS.
+Doris played the 5S.
+
+Cards in hand:
+KS 7S 4S 3S TH 6H 5H AC 9C 8C 6C 4C 7D 
+
+# garbageTestData: 0/1
+# Phil: 0/6
+# Richard: 0/1
+# Doris: 0/2
+
+Expert response:
+D
+Expert alternative response:
+D

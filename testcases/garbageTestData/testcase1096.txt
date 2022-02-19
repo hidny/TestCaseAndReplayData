@@ -1,0 +1,22 @@
+Your name: garbageTestData
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 231             442
+
+Cards dealt:
+QS JS 9S 2S KH 9H 8H 3H QC KD JD TD 6D 
+
+
+Bid history:
+Doris bid 2.
+
+
+Cards in hand:
+QS JS 9S 2S KH 9H 8H 3H QC KD JD TD 6D 
+
+
+Expert response:
+"AS
+Expert alternative response:
+\

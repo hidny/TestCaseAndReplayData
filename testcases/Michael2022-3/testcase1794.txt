@@ -59,4 +59,5 @@ Expert alternative response:
 #Monte wants to drain the spade.
 #It prefers low spade, then AS.
 #I'll keep AC as an option, because that's what I played
-#and it makes sense to me.
+#and it makes sense to me. (Monte really doesn't like that play though)
+#Is there no rush to lead AC because you started with 5 spade and it's AC with 3 others?

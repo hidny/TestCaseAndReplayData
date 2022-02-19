@@ -1,0 +1,46 @@
+Your name: garbageTestData
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 80              135
+
+Cards dealt:
+TS 8S KH 8H 7H 4C 2C KD JD TD 8D 6D 5D 
+
+
+Bid history:
+Doris bid 2.
+garbageTestData bid 1.
+Phil bid mellow.
+Richard bid 7.
+
+
+Play history:
+--new round--
+Doris played the KS.
+garbageTestData played the TS.
+Phil played the JS.
+Richard played the AS.
+--new round--
+Richard played the 4H.
+Doris played the JH.
+garbageTestData played the 7H.
+Phil played the TH.
+--new round--
+Doris played the 7S.
+garbageTestData played the 8S.
+Phil played the 2S.
+Richard played the 3S.
+
+Cards in hand:
+KH 8H 4C 2C KD JD TD 8D 6D 5D 
+
+# garbageTestData: 1/1
+# Phil: 0/0
+# Richard: 1/7
+# Doris: 1/2
+
+Expert response:
+
+Expert alternative response:
+

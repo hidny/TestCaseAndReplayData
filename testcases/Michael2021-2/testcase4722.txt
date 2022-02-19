@@ -65,3 +65,7 @@ Expert alternative response:
 # I'm keeping this testcase AS-IS
 #Actually, my partner is acting also suicidally...
 #This is complicated!
+
+# Feb 2022:
+#Monte now says 7S is best... Is monte high?
+#It also says 6S is different than 7S... I don't get it!

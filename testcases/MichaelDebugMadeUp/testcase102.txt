@@ -41,4 +41,4 @@ Expert alternative response:
 JD AC KC TC
 
 #Double mellow test case!
-#Doris should play 8C or 10C or something else instead of 1 more spade.
+#Doris should play 10C or something else instead of 1 more spade.

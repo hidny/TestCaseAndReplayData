@@ -74,6 +74,13 @@ QC QD 9D
 Expert response:
 9D
 Expert alternative response:
+QD
 
-#Richard lead low diamond and it worked out because it convinced me not to make the mistake of trumping
-#I initially made a test case about it, but now I'm just going to let it pass.
+#Feb 2022:
+#Monte deduced:
+#1) Partner has 1 spade
+#2) Mellow has 1 spade & 2 diamonds
+#3) We should lead 9D to make a trick and then QD so partner could trump and mellow could lose
+
+#This is too complicated! I'll just pass QD.
+

@@ -1,0 +1,48 @@
+Your name: garbageTestData
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 0               0
+
+Cards dealt:
+AS JS TS 9S 7S AH QH 5H 4H 8C TD 9D 7D 
+
+
+Bid history:
+Richard bid 1.
+Monty1000 bid 3.
+garbageTestData bid 4.
+Phil bid 1.
+
+
+Play history:
+--new round--
+Richard played the QC.
+Monty1000 played the KC.
+garbageTestData played the 8C.
+Phil played the 2C.
+--new round--
+Monty1000 played the AC.
+garbageTestData played the 7S.
+Phil played the 6C.
+Richard played the 3C.
+--new round--
+garbageTestData played the TD.
+Phil played the JD.
+Richard played the 3D.
+Monty1000 played the QD.
+--new round--
+Monty1000 played the 8S.
+
+Cards in hand:
+AS JS TS 9S AH QH 5H 4H 9D 7D 
+
+# garbageTestData: 1/4
+# Phil: 0/1
+# Richard: 0/1
+# Monty1000: 2/3
+
+Expert response:
+JS
+Expert alternative response:
+9S TS

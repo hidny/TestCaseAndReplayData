@@ -1,0 +1,39 @@
+Your name: garbageTestData
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 51              43
+
+Cards dealt:
+7S 6S 3S AH TH 3H AC 9C 8C 5C 4C TD 8D 
+
+
+Bid history:
+Monty1000 bid 1.
+garbageTestData bid mellow.
+Phil bid 3.
+Richard bid 2.
+
+
+Play history:
+--new round--
+Monty1000 played the 7H.
+garbageTestData played the TH.
+Phil played the 2H.
+Richard played the QH.
+--new round--
+Richard played the KS.
+Monty1000 played the 2S.
+
+Cards in hand:
+7S 6S 3S AH 3H AC 9C 8C 5C 4C TD 8D 
+
+# garbageTestData: 0/0
+# Phil: 0/3
+# Richard: 1/2
+# Monty1000: 0/1
+
+Expert response:
+7S
+Expert alternative response:
+6S

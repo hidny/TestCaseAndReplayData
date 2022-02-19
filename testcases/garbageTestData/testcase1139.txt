@@ -1,0 +1,48 @@
+Your name: garbageTestData
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 103             103
+
+Cards dealt:
+JS TS 3S QH TH 8H 2H JC 2C QD TD 8D 2D 
+
+
+Bid history:
+Phil bid 3.
+Richard bid 2.
+Doris bid 2.
+garbageTestData bid 1.
+
+
+Play history:
+--new round--
+Phil played the AS.
+Richard played the 4S.
+Doris played the 2S.
+garbageTestData played the JS.
+--new round--
+Phil played the 6S.
+Richard played the 5S.
+Doris played the KS.
+garbageTestData played the 3S.
+--new round--
+Doris played the AD.
+garbageTestData played the 2D.
+Phil played the 4D.
+Richard played the 3D.
+--new round--
+Doris played the JD.
+
+Cards in hand:
+TS QH TH 8H 2H JC 2C QD TD 8D 
+
+# garbageTestData: 0/1
+# Phil: 1/3
+# Richard: 0/2
+# Doris: 2/2
+
+Expert response:
+A
+Expert alternative response:
+A
