@@ -3,18 +3,16 @@ Dealer is on your right
 Score at start:
 
 Cards dealt:
-JS 4S QH JH 9H 6H 2H 9C 8C 4C 2C 8D 3D 
+JS 4S QH TH 6H 5H JC TC 7C 3C 2C 7D 3D 
 
 
 Bid history:
 
 
 Cards in hand:
-JS 4S QH JH 9H 6H 2H 9C 8C 4C 2C 8D 3D 
+JS 4S QH TH 6H 5H JC TC 7C 3C 2C 7D 3D 
 
 Expert response:
 0
 Expert alternative response:
 
-#Feb 2022:
-#Monte says this is a missed mellow by 67 points

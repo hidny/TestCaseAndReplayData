@@ -68,8 +68,4 @@ Cards in hand:
 Expert response:
 KD
 Expert alternative response:
-8S 7D 3S
-
-#Feb 2022:
-#Monte claims that it's all the same!
-#I don't know about 4D though. Seems dangerous to me.
+8S

@@ -36,12 +36,6 @@ Cards in hand:
 # Doris: 0/4
 
 Expert response:
-QD
+KH
 Expert alternative response:
-KH 8H
-
-#Feb 2022:
-# Mellow protector test case:
-# Monte: QD by 1 point (KD is much worse)
-# Also: 8H is only 0.01 points less than KH
-# I'll pass 8H.
+KD QD

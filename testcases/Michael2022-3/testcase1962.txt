@@ -46,6 +46,12 @@ Cards in hand:
 # Doris: 0/0
 
 Expert response:
-9D
+9S
 Expert alternative response:
-9S 8S 7S
+8S 7S
+
+#Feb 2022:
+# Monte wants to lead spade over doing anything else
+# (by 15 points)
+# I'm now failing the 9D.
+# 

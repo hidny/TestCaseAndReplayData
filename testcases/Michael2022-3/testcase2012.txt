@@ -38,4 +38,8 @@ JS 9S 6S 4S 8H 5H JC 8C 4C 3C 6D
 Expert response:
 4S
 Expert alternative response:
-6S 9S
+6S 9S 6D
+
+#Feb 2022:
+# Play 6D to feed partner. (Partner said 6,
+# so partner has spade) (by 1.5 points)

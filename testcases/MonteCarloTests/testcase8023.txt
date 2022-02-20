@@ -1,0 +1,25 @@
+Your name: Richard
+Dealer is your partner opposite you
+Score at start:
+Your Score      Their Score
+ 356             247
+
+Cards dealt:
+AS JS 2S KH 4H KC TC 9C TD 9D 8D 6D 3D 
+
+
+Bid history:
+Phil bid 3.
+
+Cards in hand:
+8S 6S 4S 3S JH 9H 3H JC 5C 3C 7D 4D 2D
+
+Expert response:
+
+Expert alternative response:
+
+
+#Feb 2022:
+# Why didn't Richard say mellow?
+# Answer: 4 spades... but still.
+# TODO: MONTE

@@ -1,0 +1,26 @@
+Your name: Richard
+Dealer is your partner opposite you
+Score at start:
+Your Score      Their Score
+ 356             247
+
+Cards dealt:
+8S 6S 4S 3S JH 9H 3H JC 5C 3C 7D 4D 2D
+
+
+Bid history:
+Phil bid 3.
+
+Cards in hand:
+8S 6S 4S 3S JH 9H 3H JC 5C 3C 7D 4D 2D
+
+Expert response:
+1
+Expert alternative response:
+
+
+#Feb 2022:
+# Why didn't Richard say mellow?
+# Answer: 4 spades... but still.
+# Monte agrees that 4 spades is bad.
+# Monte wants to say 1 by 17 points... (1 = -29 points, 0=-58 points)

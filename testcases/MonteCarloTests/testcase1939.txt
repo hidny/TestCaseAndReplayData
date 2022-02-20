@@ -61,11 +61,6 @@ Cards in hand:
 # Doris: 2/3
 
 Expert response:
-5C
+3S
 Expert alternative response:
-QD 5S 6S 3S
-
-#Feb 2022:
-# I like spade, but monte prefers 5C or QD
-# I'll just pass everything but the 9D
-# Maybe we're hoping partner trumps?
+5S 6S

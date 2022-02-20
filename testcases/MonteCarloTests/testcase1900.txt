@@ -61,20 +61,6 @@ AS JS TC 9D 8D 6D
 # Doris: 2/2
 
 Expert response:
-JS
+AS
 Expert alternative response:
-AS TC
 
-#Feb 2022:
-#Monte likes to double-down on leading low spade
-#by 0.2 points.
-# then AS (my fav), then TC...
-#I'll pass spade.
-#I guess opponents have nothing good to lead if they make a trick?
-
-#JS: -19.716233333333335
-#AS: -19.870933333333333
-#TC: -19.9383
-#6D: -20.217933333333335
-#8D: -20.236333333333334
-#9D: -20.236333333333334

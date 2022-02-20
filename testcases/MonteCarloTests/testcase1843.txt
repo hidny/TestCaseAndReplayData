@@ -36,11 +36,8 @@ KS 7S 6S 8H 2H KC JC 8C 2C QD 7D
 # Doris: 1/2
 
 Expert response:
-KC
-Expert alternative response:
 7D
+Expert alternative response:
+KC KS
 
 #Maybe lead something more forcing as a protector like the KC?
-#Feb 2022:
-#Monte: KC then 7D. No spade!
-#after 7D, it's 4 points less.

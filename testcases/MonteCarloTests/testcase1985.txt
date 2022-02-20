@@ -33,9 +33,4 @@ KS 9S QH 6H 5H 2H KC 6C 4C TD 7D 3D
 Expert response:
 QH
 Expert alternative response:
-6H 5H 2H 9S 4C 6C
-
-#Feb 2022:
-# Monte: play low diamond or 9S by 3 points?
-# Monte thinks Phil might not trump diamonds or something.
-# I don't agree about diamonds
+6H 5H 2H

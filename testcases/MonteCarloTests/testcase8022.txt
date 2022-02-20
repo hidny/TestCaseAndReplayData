@@ -1,11 +1,11 @@
-Your name: Michael2022-3
-Dealer is on your right
+Your name: Phil
+Dealer is your partner opposite you
 Score at start:
 Your Score      Their Score
  233             167
 
 Cards dealt:
-8S 3S AH KH JH 8H 2H JC 6C KD QD 7D 4D 
+AS QS TS 9S 6S 7H 6H 9C 8C 2C JD 8D 3D 
 
 
 Bid history:
@@ -43,33 +43,17 @@ Phil played the 8C.
 Richard played the TC.
 --new round--
 Michael2022-3 played the 8H.
-Phil played the JD.
-Richard played the QC.
-Doris played the 3H.
---new round--
-Michael2022-3 played the 2H.
-Phil played the 8D.
-Richard played the AD.
-Doris played the 5S.
---new round--
-Doris played the TD.
-Michael2022-3 played the QD.
-Phil played the 3D.
-Richard played the 9D.
 
 Cards in hand:
-8S 3S KD 7D 4D 
-
-# Michael2022-3: 5/2
-# Phil: 1/4
-# Richard: 0/0
-# Doris: 2/4
+QS TS 9S 6S 9C JD 8D 3D 
 
 Expert response:
-KD
+6S
 Expert alternative response:
-8S 7D 3S
+9S TS
 
 #Feb 2022:
-#Monte claims that it's all the same!
-#I don't know about 4D though. Seems dangerous to me.
+# Phil should just trump here. Mellow is probably safe in spade.
+# (mellow played 4S under AS)
+# (Same round and player as previous debug)
+# BUT: this case is more important.

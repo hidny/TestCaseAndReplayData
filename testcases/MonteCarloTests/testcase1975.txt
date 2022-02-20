@@ -51,8 +51,3 @@ Expert response:
 QC
 Expert alternative response:
 7C
-
-#Feb 2022:
-#Monte agrees!
-# QC better than JC by 0.3 points because partner knows
-# QC is master 

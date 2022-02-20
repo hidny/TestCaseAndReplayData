@@ -73,4 +73,8 @@ Cards in hand:
 Expert response:
 2D
 Expert alternative response:
+5S
 
+#Feb 2022:
+# I like 2D, and monte likes both 5S and 2D.
+# though it prefers 2D, I'll pass 5S

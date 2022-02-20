@@ -26,19 +26,4 @@ Cards in hand:
 Expert response:
 AH
 Expert alternative response:
-3H 5H 9H AD 4C 5C QD
-#Feb 2022:
-#Monte does not like to start the round the way I do:
-# 3S: -28.125833333333333
-# 5S: -28.12135
-# 6S: -28.105266666666665
-# 3H: -27.595583333333334
-# 5H: -27.583266666666667
-# 9H: -28.02145
-# JH: -28.3297
-# AH: -28.334583333333335
-# 4C: -28.14145
-# 5C: -28.14145
-# KC: -30.434233333333335
-# QD: -28.58645
-# AD: -28.428133333333335
+

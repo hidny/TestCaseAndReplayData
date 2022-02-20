@@ -36,30 +36,16 @@ Phil played the KH.
 Richard played the 7H.
 Doris played the 4H.
 Michael2022-3 played the TS.
---new round--
-Michael2022-3 played the 9D.
-Phil played the TD.
-Richard played the 8D.
-Doris played the 5D.
---new round--
-Phil played the AH.
-Richard played the 2H.
-Doris played the TC.
-Michael2022-3 played the 9S.
 
 Cards in hand:
-8S 7S AC 5C AD KD QD 
+9S 8S 7S AC 5C AD KD QD 9D 
 
-# Michael2022-3: 3/4
-# Phil: 3/2
+# Michael2022-3: 2/4
+# Phil: 2/2
 # Richard: 0/5
 # Doris: 0/0
 
 Expert response:
-7S
+9D
 Expert alternative response:
-
-#Feb 2022:
-#Monte also prefers 7S by 3 points over 8S
-# and by 9 points over anything else
-# (Idea is to drain the protector's spade)
+9S 8S 7S

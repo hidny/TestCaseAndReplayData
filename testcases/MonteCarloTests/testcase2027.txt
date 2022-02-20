@@ -48,8 +48,4 @@ KH TH 4H KC JC 9C JD 8D 2D
 Expert response:
 KH
 Expert alternative response:
-KC
-
-#Feb 2022:
-#Monte prefers KC by 0.2 points. I guess it's a trap?
 

@@ -59,7 +59,3 @@ Expert response:
 7S
 Expert alternative response:
 
-#Feb 2022:
-#Monte also prefers 7S by 3 points over 8S
-# and by 9 points over anything else
-# (Idea is to drain the protector's spade)
