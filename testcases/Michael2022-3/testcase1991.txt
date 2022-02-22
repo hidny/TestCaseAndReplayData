@@ -61,6 +61,9 @@ Cards in hand:
 # Doris: 1/1
 
 Expert response:
-3D
+6C
 Expert alternative response:
-7D
+6H 5H
+
+#Feb 2022:
+#LHS (Phil) singalled no dimaond, so don't lead diamond. (I added the signal in Feb 2022)
