@@ -54,19 +54,21 @@ Phil played the 6D.
 --new round--
 Richard played the JD.
 Doris played the 8D.
+Michael2021-2 played the TC.
+Phil played the 7D.
+--new round--
+Richard played the 3H.
+Doris played the 9H.
 
 Cards in hand:
-JS 2S TH 6H KC TC 
+JS 2S TH 6H KC 
 
 # Michael2021-2: 2/3
 # Phil: 2/2
-# Richard: 2/1
+# Richard: 3/1
 # Doris: 1/2
 
 Expert response:
-TC
+TH
 Expert alternative response:
-6H
 
-#FEB 2022:
-# Throwing off 6H is also an option (Monte says that it's better by 0.05 points)

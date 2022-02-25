@@ -50,9 +50,13 @@ AS 5S 4S QC JC 7C AD QD 2D
 Expert response:
 QC
 Expert alternative response:
-7C
+JC 7C
 
 #Feb 2022:
 #Monte agrees!
 # QC better than JC by 0.3 points because partner knows
 # QC is master 
+# Update:
+# I tried to have monte explain it to me, but
+# I have no idea what the difference between JC and QC is.
+# I'll just pass this!

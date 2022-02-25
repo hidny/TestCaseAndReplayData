@@ -62,3 +62,5 @@ Expert response:
 5D
 Expert alternative response:
 7D
+#Feb 2022:
+# 5H is also an option. Monte barely prefers 5D though (less than 0.1 points)

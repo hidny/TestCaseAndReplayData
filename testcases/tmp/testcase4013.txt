@@ -56,7 +56,4 @@ Cards in hand:
 Expert response:
 3D
 Expert alternative response:
-5D 5H
-
-#Feb 2022:
-# 5H is also an option. Monte barely prefers 5H (less than 0.1 points)
+5D

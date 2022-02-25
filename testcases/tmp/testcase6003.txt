@@ -45,10 +45,7 @@ KS 6S 4S QH 8H 2C 4C 8C 9C
 Expert response:
 2C
 Expert alternative response:
-KS 4C 8H
+KS 4C
 
 #Go big or go home!
-#LHS (Michael) is also trumping.
-#FEB 2022:
-# Throwing off 8H is best so you could clear hearts.
-#by 6 points
+#LHS (Michael) is also trumping. 
