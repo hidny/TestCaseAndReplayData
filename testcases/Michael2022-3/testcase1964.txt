@@ -58,8 +58,12 @@ Cards in hand:
 Expert response:
 7S
 Expert alternative response:
+AC 8S
 
 #Feb 2022:
 #Monte also prefers 7S by 3 points over 8S
 # and by 9 points over anything else
 # (Idea is to drain the protector's spade)
+# Feb 2022:
+# Monte now prefers AC. I don't get it, but OK. (by 25 points)
+# And: 7S = 8S

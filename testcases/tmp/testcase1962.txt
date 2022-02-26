@@ -48,11 +48,10 @@ Cards in hand:
 Expert response:
 9S
 Expert alternative response:
-8S 7S AC
+8S 7S
 
 #Feb 2022:
 # Monte wants to lead spade over doing anything else
 # (by 15 points)
 # I'm now failing the 9D.
-# Feb 2022:
-# Monte now prefers AC. I don't get it, but OK (by 8 points)
+# 
