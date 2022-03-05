@@ -1,0 +1,26 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 234             369
+
+Cards dealt:
+AS 8S 4S QH 7H 5H 4H 9C 5C TD 7D 6D 4D 
+
+
+Bid history:
+Richard bid 3.
+Doris bid 2.
+
+
+Cards in hand:
+AS 8S 4S QH 7H 5H 4H 9C 5C TD 7D 6D 4D 
+
+
+Expert response:
+1
+Expert alternative response:
+2
+
+#TODO: I failed to make 2 tricks...
+# Is that bad luck?

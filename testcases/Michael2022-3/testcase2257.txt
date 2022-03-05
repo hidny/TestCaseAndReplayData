@@ -1,0 +1,24 @@
+Your name: Michael2022-3
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 867             905
+
+Cards dealt:
+AS TS 4S 3S JH TH 8H 5H 3H 8C 5C KD 9D 
+
+
+Bid history:
+
+
+Cards in hand:
+AS TS 4S 3S JH TH 8H 5H 3H 8C 5C KD 9D 
+
+
+Expert response:
+3
+Expert alternative response:
+2 4
+
+#Say 4 to threaten mellow + 4 win??
+# You will never make 4 though.

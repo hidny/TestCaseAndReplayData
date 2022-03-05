@@ -1,0 +1,24 @@
+Your name: Michael2022-3
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 536             650
+
+Cards dealt:
+8S 7S 3S 2S KH JH 8H 7H 7C KD TD 6D 2D 
+
+
+Bid history:
+
+
+Cards in hand:
+8S 7S 3S 2S KH JH 8H 7H 7C KD TD 6D 2D 
+
+
+Expert response:
+0
+Expert alternative response:
+2
+
+#TODO:
+# Was mellow ok here?
