@@ -16,9 +16,11 @@ Cards in hand:
 
 
 Expert response:
-0
+3
 Expert alternative response:
 2
 
 #TODO:
 # Was mellow ok here?
+#Monte says that saying 2 or 3 is 40 points better than mellow
+#I'm going to fail mellow.

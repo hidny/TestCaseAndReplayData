@@ -31,6 +31,12 @@ TS 4S 3S JH TH 8H 5H 3H 8C 5C KD 9D
 # Doris: 0/4
 
 Expert response:
-3S
+3H
 Expert alternative response:
-4S
+JH TH 8H 5H 3S 4S
+
+#March 2022:
+# I liked low spade.
+# For some reason, monte likes heart, and then low spade. low hearts is 3 points better than low spade.
+# Maybe it's a trick to convince opponents not to lead heart. I don't know!
+# I'll pass anyways.

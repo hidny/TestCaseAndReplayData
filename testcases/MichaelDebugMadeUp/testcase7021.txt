@@ -1,0 +1,23 @@
+Your name: Doris
+Dealer is on your right
+Your Score      Their Score
+ 782             671
+
+Cards dealt:
+AH QH JH TH 9H 3H 2H 9C 8C 7C 3C QD TD 
+
+
+Bid history:
+
+
+Cards in hand:
+AH QH JH TH 9H 3H 2H 9C 8C 7C 3C QD TD 
+
+Expert response:
+0
+Expert alternative response:
+
+
+#Go for it! You have no spade!
+#March 2022:
+#Monte agrees by 50 points

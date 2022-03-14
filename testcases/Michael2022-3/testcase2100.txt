@@ -16,8 +16,11 @@ AS QS TS 4S 3S 5H QC TC 6C 5C 4C KD 2D
 
 
 Expert response:
-3
-Expert alternative response:
 4
+Expert alternative response:
+3 5
 
-#TODO: Could I have bid higher?
+#Could I have bid higher (like 5)?
+#March 2022:
+#Monte likes 4 then 5 (0.3 points diff)
+#I'm also passing 5.

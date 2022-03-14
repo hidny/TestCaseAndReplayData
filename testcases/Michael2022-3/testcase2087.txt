@@ -21,5 +21,9 @@ Expert response:
 Expert alternative response:
 
 
-#TODO: Was this a good bid?
+# Was this a good bid?
 # I burned this mellow...
+#March 2022:
+#Monte says that mellow is 15 points
+# while saying 1 is -20 points
+# So it's a good mellow with a bit of risk to it.

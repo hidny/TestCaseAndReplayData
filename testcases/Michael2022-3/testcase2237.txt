@@ -55,4 +55,11 @@ QH AC TC 7C AD KD QD 5D
 Expert response:
 KD
 Expert alternative response:
-QD
+QD QH
+
+#Don't play QH because that makes it easy for protector to play JH
+#But what if mellow has JH? I'm not sure...
+
+#March 2022:
+#Monte really likes to play QH by 11 points.
+#I'm passing it!

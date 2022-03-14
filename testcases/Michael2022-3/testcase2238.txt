@@ -58,6 +58,10 @@ QH AC TC 7C AD QD 5D
 # Doris: 4/3
 
 Expert response:
-AD
+QD
 Expert alternative response:
+AD
 
+# March 2022:
+# Monte prefers QD by almost 1 points because it telegraphs more info to partner
+# Monte and AI were right, and I was wrong.

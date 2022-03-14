@@ -1,0 +1,24 @@
+Your name: Doris
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 967             908
+
+Cards dealt:
+8S 7S 2S JH TH JC 9C 6C KD JD TD 8D 5D 
+
+
+Bid history:
+Phil bid 6.
+Richard bid mellow.
+
+Cards in hand:
+8S 7S 2S JH TH JC 9C 6C KD JD TD 8D 5D 
+
+Expert response:
+3
+Expert alternative response:
+1 0
+
+# Made the cards weaker, so mellow might be said.
+# Saying 1 might also be good (go all-in on burning mellow)

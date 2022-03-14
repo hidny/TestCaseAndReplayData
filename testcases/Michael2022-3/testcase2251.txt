@@ -59,6 +59,12 @@ KS JS 7S 2S JC TD 8D
 # Doris: 2/1
 
 Expert response:
-JC
+2S
 Expert alternative response:
+7S
 
+#March 2022:
+#Monte thinks partner might have JH and comes up with the wrong conclusion.
+# I'll retest with info that phil has JH and partner doesn't.
+#After retest:
+# Play low spade by 2 points over not playing spade

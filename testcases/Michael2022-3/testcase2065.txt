@@ -48,4 +48,6 @@ QS
 Expert alternative response:
 JS
 
-#TODO: should I take a risk and play 8S?
+#Should I take a risk and play 8S?
+#March 2022:
+#Monte says no! Play QJS

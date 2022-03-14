@@ -24,6 +24,12 @@ AS QS TS 4S 3S 5H QC TC 6C 5C 4C KD 2D
 # Doris: 0/4
 
 Expert response:
-AS
+3S
 Expert alternative response:
+4S AS
 
+#March 2022:
+#Monte wants to start with 34S
+#then AS but that's already 4 points less
+#I'll pass 34S and AS
+# (Lead low spade and see what partner can do)

@@ -51,6 +51,11 @@ AS KS QS 8S QC 6C 3C QD
 # Doris: 0/1
 
 Expert response:
-3C
+QD
 Expert alternative response:
-6C
+3C 6C QC
+
+#March 2022:
+#Monte prefers QD, then club then heart.
+#It's all within 1.5 points except for the 8S. Don't play 8S!
+#Maybe because partner is out of hearts and draining club?

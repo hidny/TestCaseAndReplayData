@@ -22,3 +22,7 @@ Expert alternative response:
 
 #Say 4 to threaten mellow + 4 win??
 # You will never make 4 though.
+#March 2022:
+# Monte: Saying 4 is -22 points vs -11 points for saying 3, so there's a good chance you will make it.
+# I'll pass it, but I'm not sure what the right decision is.
+# I think I have to build up the 1000x1000 win prob table to really get a handle on this.
