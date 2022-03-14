@@ -1,1 +1,5 @@
 /bin
+testcases/tmp*
+testcases/MonteCarlo*
+testcases/garbageTestData
+testcases/lastRoundWeirdness
