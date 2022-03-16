@@ -87,3 +87,9 @@ Expert alternative response:
 #Monte agrees to play 5D
 #But, monte thinks it knows what everyone has
 # and calculated everything... while I used some intuition.
+# Turns out that in general, I should show partner that mellow bidder doesn't have QD
+# This is an exception for monte because monte figured out everything.
+# I don't feel like explaining how to figure everything out just yet, so I'll skip this case for now.
+# March 2022:
+# On second thought, just tell AI to give lead to partner if you've got nothing
+# threatening the mellow.

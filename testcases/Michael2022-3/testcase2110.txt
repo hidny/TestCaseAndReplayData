@@ -80,3 +80,4 @@ Expert alternative response:
 #Just trump it. There's nothing to lose!
 #Monte agrees by 86 points.
 #I have no idea why the AI would get this one wrong.
+#Answer: I made AI too attached to holding on to the last spade.

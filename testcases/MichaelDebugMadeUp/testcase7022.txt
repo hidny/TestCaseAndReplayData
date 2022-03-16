@@ -1,7 +1,7 @@
 Your name: Doris
 Dealer is on your right
 Your Score      Their Score
- 671             782
+ 782             671
 
 Cards dealt:
 AH QH JH TH 9H 3H 2H 9C 8C 7C 3C QD TD 
@@ -19,6 +19,5 @@ Expert alternative response:
 
 
 #Go for it! You have no spade!
-#And you're behind
 #March 2022:
 #Monte agrees by 50 points
