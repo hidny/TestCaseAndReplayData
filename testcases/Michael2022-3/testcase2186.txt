@@ -61,6 +61,9 @@ KS QS 8S QC 6C QD
 # Doris: 0/1
 
 Expert response:
-6C
+QD
 Expert alternative response:
 
+#March 2022:
+#Play QD (Kequiv)
+#Monte says it's 2 points better than any other option

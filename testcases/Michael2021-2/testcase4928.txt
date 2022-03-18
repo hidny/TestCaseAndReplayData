@@ -44,3 +44,8 @@ Expert response:
 3S
 Expert alternative response:
 5S 6S
+
+#March 2022:
+# According to monte:
+# Draining spade is prefered over
+# QH or KD by 1 point

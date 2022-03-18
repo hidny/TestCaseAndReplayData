@@ -63,9 +63,12 @@ Cards in hand:
 Expert response:
 5C
 Expert alternative response:
-QD 5S 6S 3S
+
 
 #Feb 2022:
 # I like spade, but monte prefers 5C or QD
-# I'll just pass everything but the 9D
+# I'll just pass everything but the 9H
 # Maybe we're hoping partner trumps?
+
+#March 2022:
+# Just play 5C because you're helping your partner trump and RHS probably has last Club.

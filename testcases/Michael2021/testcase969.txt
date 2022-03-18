@@ -51,6 +51,22 @@ TS 9S 8S 7S 6S AH 8H JD
 # Doris: 0/1
 
 Expert response:
-AH
+TS
 Expert alternative response:
+9S 8S 7S 6S
 
+#March 2022:
+#Monte wants to give partner the lead
+# and be the only one with spade.
+# After thinking about for 1 minute, I'm starting to agree with Monte.
+# Monte also prefers JD (Kequiv) to AH.
+#6S: 99.0616
+#7S: 99.0616
+#8S: 99.0616
+#9S: 99.0616
+#TS: 99.0616
+#8H: 91.6438
+#AH: 88.3204
+#JD: 94.144
+#I'll fail all but spade.
+#This is a hard test case to explain

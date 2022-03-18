@@ -46,6 +46,10 @@ TS 4S KH 5H 3H 2H TC 7C QD
 # Doris: 1/2
 
 Expert response:
-KH
+QD
 Expert alternative response:
+KH
 
+#March 2022:
+#Monte prefers the QD by 0.5 points (It's a Kequiv)
+# It also prefers leading club over KH, but I'll still pass QD and KH.
