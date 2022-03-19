@@ -1,0 +1,27 @@
+Your name: Richard
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 964             803
+
+Cards dealt:
+KS TS 5S 2S QH JH 9H 6H KC 5C QD TD 4D 
+
+
+Bid history:
+Doris bid 1.
+Michael2022-3 bid 2.
+Phil bid 3.
+
+
+Cards in hand:
+KS TS 5S 2S QH JH 9H 6H KC 5C QD TD 4D 
+
+
+
+Expert response:
+2
+Expert alternative response:
+
+#Only need 2 to win.
+#I'm surprised the AI still makes this error.
