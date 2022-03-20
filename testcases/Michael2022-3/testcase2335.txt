@@ -19,4 +19,8 @@ AS 7S 6S AH 9H AC KC 7C 4C 3C 8D 7D 3D
 Expert response:
 3
 Expert alternative response:
+4
 
+#March 2022:
+#Monte agrees that bidding 3 is better than 4 by 0.5 points
+#It's so close, that I'll just let a 4-bid be ok.

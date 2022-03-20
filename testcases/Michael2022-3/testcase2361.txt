@@ -19,6 +19,10 @@ TS 9S 5S 3S 3H KC 9C 6C 3C KD 7D 4D 3D
 
 
 Expert response:
-2
+3
 Expert alternative response:
+2 4
 
+#March 2022:
+#I orig bid 2, but AI and Monte like saying 3,
+# and I agree.

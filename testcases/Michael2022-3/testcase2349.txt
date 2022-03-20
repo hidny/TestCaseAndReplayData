@@ -26,4 +26,9 @@ Cards in hand:
 Expert response:
 6C
 Expert alternative response:
-5D 4C 2C 5D 3D
+5D 4C 2C 5D 3D 8S
+
+#March 2022:
+#Need a bigger sample size... I'll just pass 8S for now because monte thinks
+# it's a viable candidate.
+#TODO: Monte 60K

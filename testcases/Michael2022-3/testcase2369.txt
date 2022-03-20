@@ -63,4 +63,10 @@ TS 9S 5S 6C 7D 4D
 Expert response:
 4D
 Expert alternative response:
-7D
+7D 6C
+
+#March 2022:
+# I like diamond because RHS probably has 8D,
+# but Monte likes C because it might drain spade?
+# I don't know why Monte likes C, but I'll go with it.
+# Don't lead spade by 0.2 points.

@@ -78,6 +78,8 @@ QH JD TD
 Expert response:
 JD
 Expert alternative response:
-TD
+TD QH
 
-#JTD burns them, but I missed it during the game.
+#March 2022:
+# According to monte, partner has last 3 club and opponents are making the last three tricks
+# no matter what!

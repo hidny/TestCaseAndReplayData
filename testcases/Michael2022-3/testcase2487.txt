@@ -70,4 +70,7 @@ JC 4C JD 6D 5D
 Expert response:
 5D
 Expert alternative response:
-6D
+6D 4C
+
+#March 2022:
+#Monte says that it's all the same.

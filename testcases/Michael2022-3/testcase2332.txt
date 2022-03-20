@@ -76,4 +76,6 @@ KS QS 8S 7S
 Expert response:
 7S
 Expert alternative response:
-8S
+8S QS KS
+
+#TRAM!

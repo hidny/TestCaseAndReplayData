@@ -36,6 +36,12 @@ Cards in hand:
 # Doris: 0/2
 
 Expert response:
-7S
+6S
 Expert alternative response:
+AH
 
+#March 2022:
+#Confuse opponents by leading the 6S and making them wonder where the 7S is
+# Monte says it's 2 points better than 7S
+# AH is also a good option. Instead of running monte 60K on it, I'll just pass both
+# TODO: monte 60K

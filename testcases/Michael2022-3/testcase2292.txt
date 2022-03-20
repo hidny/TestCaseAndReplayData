@@ -66,6 +66,10 @@ Cards in hand:
 # Doris: 1/1
 
 Expert response:
-JC
+6C
 Expert alternative response:
+9C
 
+#March 2022:
+# I liked JC, but AI liked to save his kequiv with 9C
+# Monte prefers 6C. I'll go with monte and pass 69C.
