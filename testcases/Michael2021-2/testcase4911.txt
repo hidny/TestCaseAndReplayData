@@ -30,3 +30,6 @@ Expert alternative response:
 # Maybe the odds of winning this mellow are as high as 45% justifying going for it?
 # I don't know. QJT5D looks a little scary to me. (Even though there's only 1 spade.)
 # I did the math and the function will say mellow if it's given a 47.8% chance of making it.
+
+#March 2022:
+# I got AI to say mellow here

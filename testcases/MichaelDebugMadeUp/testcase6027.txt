@@ -10,7 +10,7 @@ JS 9S KH 9H 5H KC JC 8C 4C KD QD 9D 7D
 Bid history:
 Michael2021-2 bid 3.
 Phil bid 2.
-Richard bid 2.
+Richard bid 3.
 
 
 Cards in hand:
@@ -18,14 +18,15 @@ JS 9S KH 9H 5H KC JC 8C 4C KD QD 9D 7D
 
 
 Expert response:
-5
-Expert alternative response:
 0
+Expert alternative response:
+
 
 #Last round weirdness.
 #Bid min needed to win or mellow.
 
 #March 2022:
-# After doing some math, I determined that saying 5 gives a 25% chance to win
-# and saying mellow only gives 16% chance to win, so saying 5 is better,
-# but whatever!
+# Modified version of D-6010, so monte can understand it.
+# Basically, I changed it so Richard says 3 because he has to say 3 or mellow.
+# That way the opponents aren't shooting themselves in the foot.
+# After doing the math, I calculated that it's better to say mellow here. (mellow vs 6)

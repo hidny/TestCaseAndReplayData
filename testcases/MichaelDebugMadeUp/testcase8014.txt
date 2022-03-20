@@ -17,7 +17,11 @@ Cards in hand:
 Expert response:
 1
 Expert alternative response:
-
+0
 
 #This mellow is too dangerous.
 #The clubs are not safe.
+
+#March 2022:
+# Based on the scores, we should be agressive and say mellow here.
+# Monte agrees by 128 points.
