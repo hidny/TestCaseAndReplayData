@@ -50,6 +50,8 @@ AS KS TS 7S 6S 2S 9H 8H 2H
 Expert response:
 2S
 Expert alternative response:
+TS 7S 6S
 
 #March 2022:
 # Just trump on master 2nd time out as 2nd thrower.
+# Monte also likes to trump with 6S, 7S, TS for some reason.
