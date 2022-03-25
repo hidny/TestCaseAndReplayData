@@ -19,4 +19,8 @@ KS TS 7S QH 8H 6H AC QC AD JD 6D 5D 2D
 Expert response:
 3
 Expert alternative response:
+2
 
+#March 2022:
+# Added 2-bid as an option because we're so ahead,
+# we can plan safe.
