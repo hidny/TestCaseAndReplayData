@@ -21,4 +21,8 @@ Cards in hand:
 Expert response:
 3
 Expert alternative response:
+2
 
+#March 2022:
+# Monte prefers saying 2 over 3 by 8 points.
+# I'll add it as an option

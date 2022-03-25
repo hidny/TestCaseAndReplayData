@@ -20,3 +20,9 @@ Expert response:
 2
 Expert alternative response:
 
+
+#March 2022:
+# Monte prefers mellow by 50 point
+# and then 2, and then 1 (3 point diff between 2 and 1)
+# This is a confusing near-end-of-game test case,
+# so I'm not sure about it yet.

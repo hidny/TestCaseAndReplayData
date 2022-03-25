@@ -22,3 +22,8 @@ Expert response:
 4
 Expert alternative response:
 
+#March 2022:
+# AI says 3 because it still can't tell
+# that it will probably make 4 tricks.
+# Either with trumping, or by being lucky
+# about how the spades are distributed.

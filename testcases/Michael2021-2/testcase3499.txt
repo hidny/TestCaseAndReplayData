@@ -20,4 +20,8 @@ JS TS 4S 3S 2S 6H AC 7C 6C 3C KD TD 5D
 Expert response:
 4
 Expert alternative response:
-5
+5 3
+
+#March 2022:
+# Monte likes saying 3 because RHS probably has lots of spade
+# and LHS might say mellow, and we want to attack it.

@@ -19,3 +19,7 @@ Expert response:
 2
 Expert alternative response:
 3
+
+#March 2022:
+# Monte likes bidding 2 then 1 (diff 3 points)
+# It then prefers saying mellow over 3. Having 3 as an alternative is sus.

@@ -45,4 +45,8 @@ AS KS TS 7S 6S 2S 9H 8H 2H 7D
 Expert response:
 7D
 Expert alternative response:
-2S
+2S TS
+
+#March 2022:
+# Monte: play TS then 7D, then 76S, then 2S, then AKS
+# Why? I have no idea! (All within 2 points)

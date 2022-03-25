@@ -60,3 +60,7 @@ TC 9C
 #Nov 2021:
 #Monte says save S and play KD or C...
 #It also does not like 9S
+#March 2022:
+# Monte still says to save S and play KD or C...
+# I don't really get it.
+# Trumping is 20 points worse apparently.

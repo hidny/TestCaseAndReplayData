@@ -18,6 +18,11 @@ Cards in hand:
 TS 9S 7S 6S 2S AH KH 6H 2H 6C 5C JD 7D 
 
 Expert response:
-4
+3
 Expert alternative response:
+2
 
+#March 2022:
+# Monte wants to bid lower, so we're free to attack mellow
+# and someone else bid 5+
+# Monte: bid 3. (Bidding 2 will cost an average of 2 points)

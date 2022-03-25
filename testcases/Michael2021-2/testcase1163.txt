@@ -51,4 +51,7 @@ Cards in hand:
 Expert response:
 4H
 Expert alternative response:
+3C
 
+#March 2022:
+# 3C and JC and both bottom 2 cards

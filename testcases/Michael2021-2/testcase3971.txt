@@ -43,3 +43,4 @@ Expert alternative response:
 9H
 
 #Don't trump as 2nd thrower if you have 5+ spade
+# By 2 points over trumping.

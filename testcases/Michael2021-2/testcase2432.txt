@@ -19,3 +19,7 @@ Expert response:
 5
 Expert alternative response:
 6
+
+#March 2022:
+#Monte prefers 6 over 5 by 6 points
+#It also prefers 4 over 5 by 1 point which is weird.
