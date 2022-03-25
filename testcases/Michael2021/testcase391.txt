@@ -19,4 +19,8 @@ Cards in hand:
 Expert response:
 2
 Expert alternative response:
-3
+3 1
+
+#March 2022:
+# Monte likes to just say 1 by 1 point over saying 2
+# I'll add 1-bid as an option.

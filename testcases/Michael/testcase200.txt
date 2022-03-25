@@ -19,4 +19,8 @@ KS 5S 4S 5H KC 7C 5C 3C AD KD QD TD 6D
 Expert response:
 3
 Expert alternative response:
-2
+2 4
+
+#March 2022:
+# Monte prefers bidding 4 over 3 by almost 2 points.
+# I'll add it as an option
