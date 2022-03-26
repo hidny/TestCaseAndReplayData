@@ -1,0 +1,21 @@
+Your name: Michael2022-3
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 320             165
+
+Cards dealt:
+7S KH TH 2H AC KC JC 8C 5C 3C 9D 7D 3D 
+
+
+Bid history:
+
+
+Cards in hand:
+7S KH TH 2H AC KC JC 8C 5C 3C 9D 7D 3D 
+
+
+Expert response:
+1
+Expert alternative response:
+
