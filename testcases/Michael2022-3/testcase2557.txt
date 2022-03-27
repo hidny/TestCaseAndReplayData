@@ -26,4 +26,8 @@ Cards in hand:
 Expert response:
 3D
 Expert alternative response:
-3C 5C 7D
+7D 9D 7S
+
+#March 2022:
+# Monte doesn't like 2H or 3C or 5C, but I don't get it
+

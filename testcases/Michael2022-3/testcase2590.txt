@@ -63,6 +63,10 @@ Cards in hand:
 # Doris: 3/4
 
 Expert response:
-9S
+3H
 Expert alternative response:
+4H 5D
 
+#March 2022:
+# No need to lead spade, because mellow is safe.
+# I 100% agree with monte.

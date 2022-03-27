@@ -80,4 +80,7 @@ JC 5C 3C
 Expert response:
 JC
 Expert alternative response:
-5C
+5C 3C
+
+#March 2022:
+#You have last 3 clubs, so it's all the same.

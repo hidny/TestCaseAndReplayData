@@ -51,6 +51,14 @@ AS JS 4S 3S 9H 5H 4H 7C
 # Doris: 1/1
 
 Expert response:
-9H
+3S
 Expert alternative response:
-5H 4H AS
+4S 4H 5H 9H
+
+#March 2022:
+# Monte doesn't like AJS or 7C.
+# by less than 1 point
+# Maybe 7C will probably be trumped on.
+# JS is a waste of a potential trick,
+# and AS makes it easy to sweep? I'm not sure...
+# (by 0.5 points)

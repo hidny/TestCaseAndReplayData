@@ -66,6 +66,11 @@ Cards in hand:
 # Doris: 1/1
 
 Expert response:
-8S
+TC
 Expert alternative response:
-9S 6S
+
+
+#March 2022:
+# Unlike prev and next test cases
+# Monte prefers TC here. (by 2 points)
+# I don't get it, but I believe it enough to go with it.

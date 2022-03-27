@@ -1,0 +1,31 @@
+Your name: Doris
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 100             100
+
+Cards dealt:
+7S KH TH 2H AC KC JC 8C 5C 3C 9D 7D 3D 
+
+Bid history:
+Michael2021-2 bid 3.
+Phil bid 3.
+Richard bid 3.
+
+
+Cards in hand:
+7S KH TH 2H AC KC JC 8C 5C 3C 9D 7D 3D 
+
+
+Expert response:
+2
+Expert alternative response:
+1
+
+#Last round weirdness.
+#Bid min needed to win or mellow.
+
+#March 2022:
+# Modified version of 3-2556
+# to check if monte still wants to say mellow if monte is the dealer.
+# (instead of 1st bidder)

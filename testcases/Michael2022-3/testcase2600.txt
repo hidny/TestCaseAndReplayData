@@ -48,4 +48,8 @@ Cards in hand:
 Expert response:
 TH
 Expert alternative response:
+5H
 
+#March 2022:
+# Why not play 5H?
+# Monte thinks it's 2 points better than TH

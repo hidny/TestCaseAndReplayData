@@ -68,4 +68,9 @@ Cards in hand:
 Expert response:
 QC
 Expert alternative response:
-JC TC
+
+#March 2022:
+# Playing JC or TC might confuse partner.
+# Monte prefers QC by 6 points over hearts for some reason...
+# (by 11 points)
+# I guess it forces out spade...

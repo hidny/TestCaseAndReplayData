@@ -61,6 +61,12 @@ Cards in hand:
 # Doris: 2/4
 
 Expert response:
-6D
+2S
 Expert alternative response:
-7D 9D
+QD JC
+
+#March 2022:
+# I was not paying attention during the game!
+# I had to completely change this test case.
+# Monte prefers 2S, but because I don't get it
+# I'll allow QD and JC.

@@ -60,9 +60,8 @@ KS 9S TH KC TC 8C 7C
 # Doris: 0/2
 
 Expert response:
-KC
+KS
 Expert alternative response:
 
-
-#MARCH 2022:
-# KS didn't work out well during the game. Maybe KC is better?
+#March 2022:
+# I might have played the wrong card during the game...

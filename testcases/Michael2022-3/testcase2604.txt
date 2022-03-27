@@ -68,4 +68,8 @@ Cards in hand:
 Expert response:
 5H
 Expert alternative response:
+QC
 
+#March 2022:
+# Monte: 5H = QC
+# (Same idea because they are both last of suit)

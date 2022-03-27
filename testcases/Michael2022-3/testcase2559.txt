@@ -36,6 +36,10 @@ Cards in hand:
 # Doris: 0/3
 
 Expert response:
-7D
-Expert alternative response:
 3C
+Expert alternative response:
+5C 7D 9D
+
+#March 2022:
+# Unlike 3-2557, Monte likes 35C. Probably because it smells blood in
+# the water?
