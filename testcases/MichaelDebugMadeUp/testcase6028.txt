@@ -18,14 +18,15 @@ Cards in hand:
 
 
 Expert response:
-2
+0
 Expert alternative response:
-1
 
-#Last round weirdness.
-#Bid min needed to win or mellow.
 
 #March 2022:
 # Modified version of 3-2556
 # to check if monte still wants to say mellow if monte is the dealer.
 # (instead of 1st bidder)
+# Monte:
+# Say mellow by 55 points.
+# Monte likes saying mellow!
+# I'll fail this test case..

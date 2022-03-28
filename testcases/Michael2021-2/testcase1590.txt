@@ -38,4 +38,4 @@ Cards in hand:
 Expert response:
 AH
 Expert alternative response:
-AD 9S
+AD 9S 8S
