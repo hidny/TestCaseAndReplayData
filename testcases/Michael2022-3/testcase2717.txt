@@ -1,0 +1,27 @@
+Your name: Michael2022-3
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ -7              122
+
+Cards dealt:
+8S 6S 4S QH TH JC 9C 3C KD 9D 6D 5D 4D 
+
+
+Bid history:
+Doris bid 4.
+
+
+Cards in hand:
+8S 6S 4S QH TH JC 9C 3C KD 9D 6D 5D 4D 
+
+
+Expert response:
+1
+Expert alternative response:
+0
+
+#April 2022:
+# Monte: Don't say mellow here. 1 is 28 points better
+# I guess QTH is dangerous? But I made this one!
+# I'm keeping the option open.

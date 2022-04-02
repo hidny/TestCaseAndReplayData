@@ -1,0 +1,28 @@
+Your name: Michael2022-3
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 180             223
+
+Cards dealt:
+6S 4S 3S 2S 9H 6H AC JC 7C 6C 3C 9D 2D 
+
+
+Bid history:
+Phil bid 1.
+Richard bid 2.
+Doris bid 4.
+
+
+Cards in hand:
+6S 4S 3S 2S 9H 6H AC JC 7C 6C 3C 9D 2D 
+
+
+Expert response:
+0
+Expert alternative response:
+2
+
+#April 2022:
+# Monte agrees with me.
+# Monte prefers mellow over 2 by 11 points.

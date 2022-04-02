@@ -1,0 +1,25 @@
+Your name: Michael2022-3
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 318             279
+
+Cards dealt:
+AS QS 8S 7S 3S 6H 4H 7C 3C QD JD 6D 5D 
+
+
+Bid history:
+
+
+Cards in hand:
+AS QS 8S 7S 3S 6H 4H 7C 3C QD JD 6D 5D 
+
+
+Expert response:
+4
+Expert alternative response:
+3
+
+#April 2022:
+# Monte agrees with me.
+# 4 then 3 by 4 points.

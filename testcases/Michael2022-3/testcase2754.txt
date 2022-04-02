@@ -1,0 +1,85 @@
+Your name: Michael2022-3
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 180             223
+
+Cards dealt:
+6S 4S 3S 2S 9H 6H AC JC 7C 6C 3C 9D 2D 
+
+
+Bid history:
+Phil bid 1.
+Richard bid 2.
+Doris bid 4.
+Michael2022-3 bid mellow.
+
+
+Play history:
+--new round--
+Phil played the 4C.
+Richard played the KC.
+Doris played the KS.
+Michael2022-3 played the JC.
+--new round--
+Doris played the 6D.
+Michael2022-3 played the 2D.
+Phil played the JD.
+Richard played the KD.
+--new round--
+Richard played the 9C.
+Doris played the QH.
+Michael2022-3 played the 7C.
+Phil played the QC.
+--new round--
+Phil played the 2H.
+Richard played the 5H.
+Doris played the 7H.
+Michael2022-3 played the 6H.
+--new round--
+Doris played the 3D.
+Michael2022-3 played the 9D.
+Phil played the 8D.
+Richard played the AD.
+--new round--
+Richard played the TC.
+Doris played the AS.
+Michael2022-3 played the AC.
+Phil played the 8C.
+--new round--
+Doris played the 4D.
+Michael2022-3 played the 9H.
+Phil played the TD.
+Richard played the 2C.
+--new round--
+Phil played the 7S.
+Richard played the TS.
+Doris played the JS.
+Michael2022-3 played the 6S.
+--new round--
+Doris played the 5D.
+Michael2022-3 played the 4S.
+Phil played the 8H.
+Richard played the 5S.
+--new round--
+Richard played the 5C.
+Doris played the TH.
+Michael2022-3 played the 3C.
+Phil played the 9S.
+--new round--
+Phil played the AH.
+Richard played the 3H.
+Doris played the 7D.
+
+Cards in hand:
+3S 2S 6C 
+
+# Michael2022-3: 0/0
+# Phil: 3/1
+# Richard: 3/2
+# Doris: 4/4
+
+Expert response:
+6C
+Expert alternative response:
+

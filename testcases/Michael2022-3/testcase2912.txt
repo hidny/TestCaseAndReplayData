@@ -1,0 +1,28 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 832             787
+
+Cards dealt:
+JS TS 9S 8S 6S 5S JH 4H AC 6C 2C 9D 4D 
+
+
+Bid history:
+Richard bid 1.
+Doris bid 2.
+
+
+Cards in hand:
+JS TS 9S 8S 6S 5S JH 4H AC 6C 2C 9D 4D 
+
+
+Expert response:
+4
+Expert alternative response:
+
+#April 2022:
+# Monte agrees with 4
+# 2nd option is 5 (by 3 points)
+# but I think we want to keep a solid advantage,
+# so saying 5 is too risky.

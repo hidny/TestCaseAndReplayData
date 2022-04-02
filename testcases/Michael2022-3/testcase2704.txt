@@ -1,0 +1,27 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 51              52
+
+Cards dealt:
+TS 9S QH TH 7H 3H QC 3C 9D 7D 6D 4D 3D 
+
+
+Bid history:
+Richard bid 4.
+Doris bid 2.
+
+
+Cards in hand:
+TS 9S QH TH 7H 3H QC 3C 9D 7D 6D 4D 3D 
+
+
+Expert response:
+0
+Expert alternative response:
+1
+
+#April 2022:
+# Mellow then 1 by 35 points.
+# I'll pass both.

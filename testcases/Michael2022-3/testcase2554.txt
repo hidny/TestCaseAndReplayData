@@ -83,3 +83,4 @@ Expert alternative response:
 #March 2022:
 # Monte prefers spade
 # by about 0.5 points
+# (All other spades were played btw)

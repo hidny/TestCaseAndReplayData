@@ -1,0 +1,31 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 543             315
+
+Cards dealt:
+QS 6S 2S AH KH TH 6H 5H 8C 6C QD TD 2D 
+
+
+Bid history:
+Richard bid 2.
+Doris bid 5.
+
+
+Cards in hand:
+QS 6S 2S AH KH TH 6H 5H 8C 6C QD TD 2D 
+
+
+Expert response:
+2
+Expert alternative response:
+1 0
+
+#In hind-sight, bidding mellow might be ok here?
+# ASK MONTE!
+# April 2022:
+# Monte:
+# say 2 then 0 by less than 1 point! Then say 1 by 3 points.
+# I'll add saying mellow as an option.
+# (Say mellow because dealer might also say mellow)

@@ -1,0 +1,24 @@
+Your name: Michael2022-3
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 127             182
+
+Cards dealt:
+6S 4S 3S 2S KH QC TC 9C 4C QD JD 8D 2D 
+
+
+Bid history:
+
+
+Cards in hand:
+6S 4S 3S 2S KH QC TC 9C 4C QD JD 8D 2D 
+
+
+Expert response:
+1
+Expert alternative response:
+2
+
+#April 2022:
+# Monte likes 2 then 3 (by 5 points) then 1 (by 6 points). I'll keep it the way it is.

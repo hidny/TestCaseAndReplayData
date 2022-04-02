@@ -1,0 +1,29 @@
+Your name: Michael2022-3
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 726             605
+
+Cards dealt:
+AS 7S 4S JH TH 4H AC JC 5C JD TD 8D 3D 
+
+
+Bid history:
+
+
+Cards in hand:
+AS 7S 4S JH TH 4H AC JC 5C JD TD 8D 3D 
+
+
+Expert response:
+2
+Expert alternative response:
+1
+
+#April 2022:
+# Monte likes 3 over 2 by 5 points,
+# but we might want to lower the bid and not risk burning.
+# Saying 1 is just too low... (You have 2 aces!)
+# There's almost a full 9 point diff between saying 1 and 2.
+# Maybe don't lower the bid if you're the second bidder on the team, and 1st bidder bid > 1?
+# I'll add 1 as an option anyways.

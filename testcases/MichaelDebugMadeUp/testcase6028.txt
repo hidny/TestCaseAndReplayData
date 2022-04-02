@@ -29,4 +29,4 @@ Expert alternative response:
 # Monte:
 # Say mellow by 55 points.
 # Monte likes saying mellow!
-# I'll fail this test case..
+# I'll trust monte on this one too.

@@ -1,0 +1,27 @@
+Your name: Michael2022-3
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 0               0
+
+Cards dealt:
+AS 6S AH 8H 7H 4H AC KC JC TC 8C 5C 6D 
+
+
+Bid history:
+Phil bid 2.
+Richard bid 2.
+Doris bid 3.
+
+
+Cards in hand:
+AS 6S AH 8H 7H 4H AC KC JC TC 8C 5C 6D 
+
+
+Expert response:
+3
+Expert alternative response:
+4
+
+#April 2022:
+# Monte: 3 then 4 by 1 point. (Monte agrees!)
