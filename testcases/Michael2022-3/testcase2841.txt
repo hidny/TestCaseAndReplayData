@@ -56,6 +56,10 @@ JS 9S 5S 9H 7H 6H 9D
 # Doris: 0/3
 
 Expert response:
-9D
+9H
 Expert alternative response:
+5S 9S 6H 7H
 
+#April 2022:
+# Don't play Diamond because RHS is void.
+# It's close. I'll just fail JS and 9D.

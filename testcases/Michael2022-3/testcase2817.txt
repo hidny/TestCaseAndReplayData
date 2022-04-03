@@ -68,6 +68,11 @@ AH KH 6H QD 2D
 # Doris: 6/5
 
 Expert response:
-6H
+AH
 Expert alternative response:
+KH
 
+#April 2022:
+# Monte doesn't want to play QD,
+# but AKH is good. 6H is 0.45 points off KQD...
+# I'll just pass AKH.

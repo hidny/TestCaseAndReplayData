@@ -60,4 +60,7 @@ AS 8S 2S QC 8C QD 8D
 Expert response:
 2S
 Expert alternative response:
-8S
+8S AS
+
+#April 2022:
+# Monte says to just play AS by 0.22 points

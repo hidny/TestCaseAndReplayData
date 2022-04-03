@@ -67,4 +67,7 @@ Cards in hand:
 Expert response:
 9D
 Expert alternative response:
-8D
+8D 5D
+
+#It's all the same.
+# 5D makes more sense though.

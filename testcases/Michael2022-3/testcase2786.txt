@@ -45,4 +45,8 @@ AS 3S 6H 4H 7C 3C QD JD 6D 5D
 Expert response:
 QD
 Expert alternative response:
+JD
 
+#April 2022:
+# Monte thinks QD and JD are the same
+# So the AI's JD is good!

@@ -51,6 +51,10 @@ Cards in hand:
 # Doris: 0/0
 
 Expert response:
-4C
+7D
 Expert alternative response:
-3C
+3D 4D
+
+#April 2022:
+# Monte: RHS signalled no club
+# So don't play club.

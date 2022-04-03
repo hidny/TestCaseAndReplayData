@@ -26,4 +26,9 @@ AS QS 8S 7S 3S 6H 4H 7C 3C QD JD 6D 5D
 Expert response:
 8S
 Expert alternative response:
-7S QS QD JD
+7S
+
+#April 2022:
+# Monte and I: Attack with the 78S group by 6 points
+# It's safe and gives more freedom.
+# I don't know if this will always be good.

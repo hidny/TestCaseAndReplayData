@@ -69,6 +69,14 @@ Cards in hand:
 # Doris: 1/2
 
 Expert response:
-AD
+3S
 Expert alternative response:
+AD JD 7D
 
+#April 2022:
+#Monte 3S,
+# then any diamond (by 3 points), then 9S (by 7 points)
+# Why? I don't know!
+# My orig guess was AD... Maybe we're trying to not let
+# RHS get the 2nd trick?
+# I'll just fail 9S

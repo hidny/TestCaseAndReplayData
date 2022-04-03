@@ -82,4 +82,7 @@ Cards in hand:
 Expert response:
 4S
 Expert alternative response:
+8S 9S
 
+#April 2022:
+# all the spades are equal.

@@ -86,4 +86,7 @@ Cards in hand:
 Expert response:
 8D
 Expert alternative response:
+5D
 
+#April 2022:
+# 5D = 8D

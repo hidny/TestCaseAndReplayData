@@ -42,4 +42,8 @@ AS 9S 8S 6S AH 7C 4C 3C 7D 4D 3D
 Expert response:
 6S
 Expert alternative response:
+8S 9S AS
 
+#April 2022:
+# Monte actually likes the AS here by 0.4 points
+# So, I'll pass it even though I don't get it

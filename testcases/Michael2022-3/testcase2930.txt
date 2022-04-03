@@ -50,6 +50,10 @@ Cards in hand:
 # Doris: 0/0
 
 Expert response:
-9H
+9C
 Expert alternative response:
+8C 8D 9D TD
 
+#April 2022:
+# Monte like 98C, then Diamond
+# Monte says to not touch the 9H.

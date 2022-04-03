@@ -51,6 +51,11 @@ Cards in hand:
 # Doris: 0/1
 
 Expert response:
-9C
+3S
 Expert alternative response:
+4S 6S 8D
 
+#April 2022:
+# Monte likes 3S 4S 6S 8D over 9TC...
+# I don't get it, but I'll accept it.
+# I'll just fail my initial choice of 9TC

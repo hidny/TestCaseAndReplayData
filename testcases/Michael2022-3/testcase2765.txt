@@ -71,4 +71,9 @@ Cards in hand:
 Expert response:
 9C
 Expert alternative response:
+7C 5C 4H
 
+#April 2022:
+# Monte likes 5C for some reason
+# At this point, I think monte's trying to confuse the opponents
+# and it's too high-level.

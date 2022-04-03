@@ -41,6 +41,12 @@ Cards in hand:
 # Doris: 2/4
 
 Expert response:
-JH
+7S
 Expert alternative response:
-3S 4S
+8S 9S TD JD
+
+#April 2022:
+# I'll just go with Monte's top choices.
+# I guess JTD tricks LHS into not playing KD.
+# I don't know why high spade is preferred
+# over low spade though.

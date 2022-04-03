@@ -67,4 +67,7 @@ JS TS 9S AC 6C 2C
 Expert response:
 9S
 Expert alternative response:
+TS JS
 
+#April 2022:
+# Monte: 9S = TS = JS

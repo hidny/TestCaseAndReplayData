@@ -74,6 +74,10 @@ Cards in hand:
 # Doris: 1/2
 
 Expert response:
-9S
+3S
 Expert alternative response:
+9S
 
+#April 2022:
+# Monte says 3S is slighly better, (0.666 points better)
+# but I still like 9S.

@@ -45,6 +45,11 @@ KS JS 9S 8S 6S AH JH 8H 7H 2H
 # Doris: 0/0
 
 Expert response:
-JH
+JS
 Expert alternative response:
-8H 7H
+9S 8S 6S AH JH
+
+#April 2022:
+# Monte:
+# JS, then low spade then KS, then AH, then JH
+# I guess we just need to trump and attack?

@@ -78,8 +78,13 @@ TS 4S 7C
 # Doris: 2/3
 
 Expert response:
-
+TS
 Expert alternative response:
 
 #Play 4S to be safe or play TS hoping partner has QKS?
 # Left blank because I don't know.
+
+# April 2022:
+# Based on signals and card dist,
+# Monte knows to play TS
+# (If partner can't cover TS, you're burned!)

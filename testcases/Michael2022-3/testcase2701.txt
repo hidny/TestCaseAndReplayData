@@ -75,4 +75,7 @@ Cards in hand:
 Expert response:
 5C
 Expert alternative response:
+8H
 
+#April 2022:
+# Monte: 5C = 8H (both useless)
