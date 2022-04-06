@@ -1,0 +1,73 @@
+Your name: Phil
+Dealer is your partner opposite you
+Score at start:
+Your Score      Their Score
+ 801             906
+
+Cards dealt:
+KS JS TS 6S 8H 4H KC JC TC 8C 3C AD KD 
+
+
+Bid history:
+Michael2022-3 bid mellow.
+Phil bid 4.
+Richard bid 1.
+Doris bid 1.
+
+
+Play history:
+--new round--
+Michael2022-3 played the 7D.
+Phil played the AD.
+Richard played the 4D.
+Doris played the JD.
+--new round--
+Phil played the 3C.
+Richard played the 9C.
+Doris played the 7C.
+Michael2022-3 played the 6C.
+--new round--
+Richard played the AS.
+Doris played the 9S.
+Michael2022-3 played the JH.
+Phil played the 6S.
+--new round--
+Richard played the QH.
+Doris played the TH.
+Michael2022-3 played the 9H.
+Phil played the 8H.
+--new round--
+Richard played the KH.
+Doris played the 3H.
+Michael2022-3 played the 7H.
+Phil played the 4H.
+--new round--
+Richard played the 6H.
+Doris played the 8S.
+Michael2022-3 played the 5H.
+Phil played the TS.
+--new round--
+Phil played the 8C.
+Richard played the 2S.
+Doris played the AC.
+Michael2022-3 played the 5C.
+--new round--
+Richard played the QS.
+Doris played the 3S.
+Michael2022-3 played the 4C.
+Phil played the KS.
+--new round--
+
+Cards in hand:
+JS KC JC TC KD 
+
+Expert response:
+JS
+Expert alternative response:
+
+
+# April 2022:
+# Drain the protector's spade
+# It's the only hope you have.
+# Then, give away lead by playing JTC and hoping...
+# Monte agrees by almost 6 points!

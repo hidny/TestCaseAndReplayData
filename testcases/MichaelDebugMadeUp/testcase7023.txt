@@ -1,0 +1,32 @@
+Your name: Doris
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 848             883
+
+Cards dealt:
+8S 6S 5S 2S 8H 6H 5H AC KC 6C 4C 2C 6D 
+
+
+Bid history:
+
+Cards in hand:
+8S 6S 5S 2S 8H 6H 5H AC KC 6C 4C 2C 6D 
+
+Expert response:
+0
+Expert alternative response:
+2 3
+
+# April 2022:
+# Doris burned this 4 spade mellow.
+# Is mellow a good choice here? Ask monte!
+# Maybe it could make sense given the score?
+# Monte is currently pretty indifferent!
+# Maybe the scores are triggering some bad behaviour that
+# causes monte to misjudge? For now, I'll pass this...
+# but I might want to revisit later.
+# 0: -13.690558333333334
+# 1: -22.5207
+# 2: -14.464675
+# 3: -14.227241666666666

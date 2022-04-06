@@ -59,6 +59,9 @@ Cards in hand:
 # Doris: 1/1
 
 Expert response:
-AC
+4C
 Expert alternative response:
+6C
 
+#April 2022:
+# Monte says to play 46C over master AC.

@@ -1,0 +1,35 @@
+Your name: Phil
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 277             102
+
+Cards dealt:
+KS QS 7S 4S 6C 2H 3C 2C 7D 5D 4D 3D 2D
+
+Bid history:
+Richard bid 6.
+Doris bid 2.
+Michael2022-3 bid mellow.
+Phil bid 3.
+
+
+Play history:
+--new round--
+Richard played the AS.
+Doris played the 5S.
+Michael2022-3 played the 9S.
+
+Cards in hand:
+KS QS 7S 4S 2H 6C 3C 2C 7D 5D 4D 3D 2D
+
+
+Expert response:
+7S
+Expert alternative response:
+4S
+
+#April 2022:
+# Don't waste the KS. You need it to work
+# because you said 3.
+# Monte $s then 7S by 3 points, and KQS is 22 points less.

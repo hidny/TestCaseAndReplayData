@@ -22,5 +22,3 @@ Expert alternative response:
 #Saying 1 is the safest option
 #(Near end of game test case)
 # 3 is also an option that forces opponent to need to say 5 in order to compete...
-#TODO: why did this debug test case say 3 while Doris said mellow in game?
-#Current best guess: Doris thought it was 0-0 because of some race condition I don't understand?

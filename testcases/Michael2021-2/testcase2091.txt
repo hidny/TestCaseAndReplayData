@@ -73,7 +73,10 @@ JS 6S AD TD
 Expert response:
 JS
 Expert alternative response:
+6S AD TD
 
 #If you're going to let mellow choose what to dump,
 # at least drain S... (1)
 # Also, we need tricks
+#April 2022:
+# Monte says this doesn't matter! I'll just pass it!
