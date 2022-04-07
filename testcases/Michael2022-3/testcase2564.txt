@@ -65,4 +65,10 @@ KH 2H JC 8C 5C 3C
 Expert response:
 8C
 Expert alternative response:
-KH
+KH 5C 3C 
+
+#April 2022:
+# AI says 35C is just as good,
+# and I believe it...
+# Monte is confused by this test case and can't find a single case
+# Maybe the signals are messed up?

@@ -64,4 +64,5 @@ Expert alternative response:
 6C
 
 #April 2022:
-# Monte says to play 46C over master AC.
+# Monte says to play 46C over master AC or master KD. by 12 points
+# 
