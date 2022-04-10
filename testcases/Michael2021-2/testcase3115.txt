@@ -55,6 +55,10 @@ KH 8H 3H AC KC 6C 5C 4C
 Expert response:
 6C
 Expert alternative response:
-5C 4C
+5C 4C 3H
 #Don't waste KH. We need to make tricks
 #Mellow probably won't burn.
+#April 2022:
+#Monte also likes 3H by 0.2 points, so
+# I'll add it as an option.
+# BTW 8H is the worst option, so... I'm confused

@@ -65,4 +65,7 @@ TS 2S JC 7C 5C
 Expert response:
 5C
 Expert alternative response:
+JC 7C
 
+#April 2022:
+#You have the last 3 clubs, so it doesn't matter

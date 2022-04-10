@@ -48,6 +48,10 @@ AS 7S KC 6C 4C AD 8D 3D 2D
 # Doris: 3/1
 
 Expert response:
-7S
+4C
 Expert alternative response:
-KC
+6C
+
+#April 2022:
+# Monte likes throwing 4C then 6C (5 point diff)
+# everything else is at least 10 points worse

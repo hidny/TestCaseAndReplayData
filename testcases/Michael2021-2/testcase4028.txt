@@ -65,4 +65,9 @@ AS 8S 6S 3S AC QC
 Expert response:
 QC
 Expert alternative response:
-AS
+AC AS
+
+#April 2022:
+# Monte likes the AQC equally and next best is 3S by
+# 55 points. Maybe Doris has all the high diamond
+# and monte is tricked here though...

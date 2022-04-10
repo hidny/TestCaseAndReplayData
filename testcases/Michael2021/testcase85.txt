@@ -62,5 +62,8 @@ Expert alternative response:
 #Jan 2022:
 #Monte likes the 2C because we still need 5 tricks
 #and this stops the ai from doing anything silly...
+#April 2022:
+# Monte says the diff is over 50 points,
+# but I think it's because AI might be tempted to play low.
 #I'm not 100% sure about that...
 #Monte: 2C, 2D, 6D, 8D

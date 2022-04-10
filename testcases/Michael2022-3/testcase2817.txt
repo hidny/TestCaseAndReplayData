@@ -76,3 +76,13 @@ KH
 # Monte doesn't want to play QD,
 # but AKH is good. 6H is 0.45 points off KQD...
 # I'll just pass AKH.
+#Update:
+# AI now plays 6H which is slightly better.
+# I will revisit this later.
+# Maybe keeping 6H gives AI more options later?
+# The scores are close though:
+#6H: -128.17592592592592
+#KH: -127.91666666666667
+#AH: -127.91666666666667
+#2D: -129.90079365079364
+#QD: -130.31084656084656

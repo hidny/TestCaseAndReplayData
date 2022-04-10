@@ -52,4 +52,9 @@ AC 8C 7C 3C AD KD QD 5D 2D
 Expert response:
 8C
 Expert alternative response:
-7C AD KD QD
+7C AD KD QD 5D
+
+#April 2022:
+#Monte likes the 5D (by 2 points over 2D and 4 points over AKQD)
+# AI changed from 8C to QD and that improved it by
+# 2 points
