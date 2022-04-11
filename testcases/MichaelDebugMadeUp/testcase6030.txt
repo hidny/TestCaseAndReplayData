@@ -32,4 +32,4 @@ Expert alternative response:
 #April 2022:
 # Don't waste the KS. You need it to work
 # because you said 3.
-# Monte $s then 7S by 3 points, and KQS is 22 points less.
+# Monte 4s then 7S by 3 points, and KQS is 22 points less.

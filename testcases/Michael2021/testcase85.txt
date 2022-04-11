@@ -67,3 +67,5 @@ Expert alternative response:
 # but I think it's because AI might be tempted to play low.
 #I'm not 100% sure about that...
 #Monte: 2C, 2D, 6D, 8D
+# I tried to make a debug case to address this, but
+# I didn't find anything interesting. (D-9024)

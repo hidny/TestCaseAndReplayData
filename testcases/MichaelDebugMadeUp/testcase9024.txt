@@ -65,7 +65,7 @@ Cards in hand:
 Expert response:
 2C
 Expert alternative response:
-
+6H
 
 #April 2022:
 # Debug based on 1-85
