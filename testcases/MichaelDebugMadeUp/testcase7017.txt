@@ -5,7 +5,7 @@ Your Score      Their Score
  339             297
 
 Cards dealt:
-AS KS TS 7S 6S 4S AH KH 6H 3C TD 8D 
+AS KS JS TS 7S 6S 4S AH KH 6H 3C TD 8D 
 
 
 Bid history:
@@ -65,17 +65,19 @@ Phil played the 8H.
 
 
 Cards in hand:
-AS KS JS TS 7S
+KS JS TS 7S
 
 
 
 Expert response:
-7S
+TS
 Expert alternative response:
-AS KS JS TS
+KS JS 
 
 # Richard & Michael: 6/8
 # Doris: 2/2
 # I guess it doesn't hurt to make sure mellow bidder doesn't have 9S
 # (But I'm pretty sure he doesn't have 9S...)
 # But the logic is bad... I don't know.
+# April 2022:
+# Monte doesn't like 7S anymore

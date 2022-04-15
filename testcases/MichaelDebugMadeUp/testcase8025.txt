@@ -62,7 +62,7 @@ Cards in hand:
 JS KC JC TC KD 
 
 Expert response:
-JS
+KC
 Expert alternative response:
 
 
@@ -71,3 +71,8 @@ Expert alternative response:
 # It's the only hope you have.
 # Then, give away lead by playing JTC and hoping...
 # Monte agrees by almost 6 points!
+
+# Update:
+# Now that AI drains spades,
+# monte prefers leading kC by 2 points...
+# This test case is a moving target!

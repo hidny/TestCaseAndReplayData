@@ -57,8 +57,14 @@ AH 9H 5H KD 9D 8D 2D
 Expert response:
 9H
 Expert alternative response:
+AH
 
 #Don't waste a KD when there's 3 other diamonds
 #Also, waste 9H because mellow signalled only hearts lower than 9H
 #AH and 9H have the same value, but AH signals that you're sacrificing a trick
 #but you're not doing that, so it confuses your partner.
+#April 2022:
+#Bids don't make sense to monte
+# Maybe ask monte to ignore all bids except for the mellow?
+# I'll add monte's suggestion of playing the AH because it's starting to make sense
+# to me.

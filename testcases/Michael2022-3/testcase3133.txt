@@ -1,0 +1,26 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 735             771
+
+Cards dealt:
+AS 9S 5S 3S 2S AH JH 8H 5H 4H 9C 4C 3C 
+
+
+Bid history:
+Richard bid 2.
+Doris bid 1.
+
+
+Cards in hand:
+AS 9S 5S 3S 2S AH JH 8H 5H 4H 9C 4C 3C 
+
+
+Expert response:
+3
+Expert alternative response:
+4
+
+# You have no diamond. Maybe you could've bid higher?
+# They did end up burning though.

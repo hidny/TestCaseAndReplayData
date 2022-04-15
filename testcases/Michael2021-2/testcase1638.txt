@@ -83,4 +83,7 @@ TS QD
 Expert response:
 QD
 Expert alternative response:
+TS
 
+#April 2022:
+# Monte says that both are equally good.

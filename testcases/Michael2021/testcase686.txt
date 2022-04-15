@@ -78,3 +78,5 @@ AC AD KD
 #Jan 2022:
 #Actually, maybe notice that there's no way to make tricks
 #and clearing clubs might be ok...
+#April 2022:
+# 5D is almost 29 points better than 2D.

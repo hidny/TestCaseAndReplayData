@@ -1,0 +1,61 @@
+Your name: Michael2022-3
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 175             134
+
+Cards dealt:
+8S 5S 2S QH 7H 6H 4H 9C QD JD TD 4D 3D 
+
+
+Bid history:
+Doris bid 6.
+Michael2022-3 bid mellow.
+Phil bid 5.
+Richard bid 1.
+
+
+Play history:
+--new round--
+Doris played the 4C.
+Michael2022-3 played the 9C.
+Phil played the 6C.
+Richard played the JC.
+--new round--
+Richard played the 9D.
+Doris played the 6D.
+Michael2022-3 played the 4D.
+Phil played the AD.
+--new round--
+Phil played the 8H.
+Richard played the TH.
+Doris played the 9H.
+Michael2022-3 played the 7H.
+--new round--
+Richard played the 8D.
+Doris played the 7D.
+Michael2022-3 played the 3D.
+Phil played the KD.
+--new round--
+Phil played the 4S.
+Richard played the 9S.
+Doris played the AS.
+Michael2022-3 played the 8S.
+--new round--
+Doris played the KS.
+
+Cards in hand:
+5S 2S QH 6H 4H QD JD TD 
+
+# Michael2022-3: 0/0
+# Phil: 2/5
+# Richard: 2/1
+# Doris: 1/6
+
+Expert response:
+5S
+Expert alternative response:
+2S
+
+# Don't mind burning mellow
+# because they bid 11 and need the rest.

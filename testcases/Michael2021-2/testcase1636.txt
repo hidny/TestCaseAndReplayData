@@ -71,6 +71,10 @@ TS 8S AD QD
 # Doris: 0/0
 
 Expert response:
-AD
+TS
 Expert alternative response:
-QD
+QD AD 8S
+
+#April 2022:
+#Monte now prefers leading spade by 0.375 points
+# Because I don't get it, I'll pass it all

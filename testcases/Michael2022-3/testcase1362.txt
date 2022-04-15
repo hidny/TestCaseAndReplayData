@@ -66,9 +66,9 @@ TS 7S JH KC QC
 # Doris: 0/0
 
 Expert response:
-7S
+KC
 Expert alternative response:
-TS
+QC 7S
 
 #Jan 2022:
 #Monte and I agree with 7S.
@@ -85,3 +85,11 @@ KC: -30.761100562466392
 
 #Jan 2022:
 #On the second go, monte says 7S = TS
+# April 2022:
+#7S: -36.944648686250154
+#TS: -61.150676941186674
+#JH: -37.96435924706437
+#QC: -34.05020870123398
+#KC: -34.05020870123398
+# I'll adjust according to the latest monte...
+# TS is vulnerable to being taken by JS.

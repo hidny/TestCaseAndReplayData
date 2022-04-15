@@ -1,0 +1,56 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 735             771
+
+Cards dealt:
+AS 9S 5S 3S 2S AH JH 8H 5H 4H 9C 4C 3C 
+
+
+Bid history:
+Richard bid 2.
+Doris bid 1.
+Michael2022-3 bid 3.
+Phil bid 3.
+
+
+Play history:
+--new round--
+Richard played the AD.
+Doris played the 2D.
+Michael2022-3 played the 3C.
+Phil played the 4D.
+--new round--
+Richard played the KD.
+Doris played the 3D.
+Michael2022-3 played the 4C.
+Phil played the 8D.
+--new round--
+Richard played the QD.
+Doris played the 5D.
+Michael2022-3 played the 9C.
+Phil played the 9D.
+--new round--
+Richard played the KH.
+Doris played the 6H.
+Michael2022-3 played the 4H.
+Phil played the 2H.
+--new round--
+Richard played the 9H.
+Doris played the TH.
+Michael2022-3 played the AH.
+Phil played the 3H.
+
+Cards in hand:
+AS 9S 5S 3S 2S JH 8H 5H 
+
+# Michael2022-3: 1/3
+# Phil: 0/3
+# Richard: 4/2
+# Doris: 0/1
+
+Expert response:
+JH
+Expert alternative response:
+8H
