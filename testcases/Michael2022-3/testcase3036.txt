@@ -61,8 +61,10 @@ QH 7H 3H TD 9D 7D 2D
 Expert response:
 TD
 Expert alternative response:
+9D 7D
 
-
-#TODO:
+# April 2022:
 # Double mellow that I burned
 # Maybe TD was the way to go?
+# Monte confirmed diamond is 8 points better
+# than hearts (you have 2 kequiv diamonds)

@@ -62,4 +62,10 @@ Cards in hand:
 Expert response:
 9H
 Expert alternative response:
-9D
+9D 7D
+
+# April 2022:
+# Monte really wants to throw diamonD
+# It goes, 7D, 9D, then 9h AND AH
+# 7D is better than 9D by 2 points and 7D is better than 9AH by 20 points
+# I'll keep 9H as an option because I understand it

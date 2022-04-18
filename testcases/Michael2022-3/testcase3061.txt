@@ -54,3 +54,7 @@ Expert response:
 3S
 Expert alternative response:
 4S
+
+# April 2022:
+# Monte prefers to drain spade over leading 8D
+# by 3 points

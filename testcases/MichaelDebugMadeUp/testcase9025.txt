@@ -1,11 +1,11 @@
-Your name: Michael2022-3
-Dealer is on your right
+Your name: Richard
+Dealer is on your left
 Score at start:
 Your Score      Their Score
  0               0
 
 Cards dealt:
-QS 6S 5S KH 7H 6H AC 8C 4C AD TD 9D 3D 
+TS 9S 3S 2S 4H QC JC TC 9C 8D 5D 4D 2D
 
 
 Bid history:
@@ -47,11 +47,10 @@ Michael2022-3 played the 4C.
 Phil played the 6C.
 Richard played the QC.
 --new round--
-Richard played the JC.
-Doris played the 2H.
+
 
 Cards in hand:
-QS 6S KH 7H TD 9D 3D 
+TS 9S 3S JC 8D 5D 4D
 
 # Michael2022-3: 2/3
 # Phil: 0/1
@@ -59,9 +58,18 @@ QS 6S KH 7H TD 9D 3D
 # Doris: 3/5
 
 Expert response:
-3D
+TS
 Expert alternative response:
 
+
 #April 2022:
-# Monte prefers to throw diamond by 0.1 points
-# I guess 7H has some small value?
+# Don't lead the last club?
+# Monte: Leading last club is the worst
+# Lead high spade instead.
+#3S: 2.83145
+#9S: 7.1649
+#TS: 9.501766666666667
+#JC: -8.73215
+#4D: -0.21556666666666666
+#5D: -0.21556666666666666
+#8D: -0.34021666666666667

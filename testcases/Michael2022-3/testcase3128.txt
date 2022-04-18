@@ -64,6 +64,10 @@ Cards in hand:
 # Doris: 2/4
 
 Expert response:
-7D
+7C
 Expert alternative response:
+6C
 
+#April 2022:
+# 7D is safe according to monte
+# (only 1 diamond under 7D)

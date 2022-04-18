@@ -68,4 +68,8 @@ Cards in hand:
 Expert response:
 3S
 Expert alternative response:
+5S 9S
 
+#April 2022:
+# Monte also doesn't mind leading
+# 9S, and that's technically correct.

@@ -59,6 +59,9 @@ Cards in hand:
 # Doris: 2/4
 
 Expert response:
-8D
+7C
 Expert alternative response:
+6C
 
+#April 2022:
+# 67C is best (7D is safe)

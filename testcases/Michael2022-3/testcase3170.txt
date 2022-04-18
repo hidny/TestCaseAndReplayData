@@ -76,6 +76,10 @@ Cards in hand:
 # Doris: 3/2
 
 Expert response:
-KD
+8H
 Expert alternative response:
+9H
 
+#April 2022:
+# Monte confirmed that 89H is 1.36 points better
+# It's more forcing!

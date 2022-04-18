@@ -58,4 +58,7 @@ Cards in hand:
 Expert response:
 KD
 Expert alternative response:
+3S 4S 5S
 
+#April 2022:
+#Prefer leading low spade by 3 points

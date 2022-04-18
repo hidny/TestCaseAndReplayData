@@ -44,9 +44,11 @@ Cards in hand:
 # Doris: 0/6
 
 Expert response:
-QD
+3D
 Expert alternative response:
-JD TD 3D
+
 
 # Don't mind burning mellow
 # because they bid 11 and need the rest.
+# April 2022:
+# Monte prefers 3D by 24 points.

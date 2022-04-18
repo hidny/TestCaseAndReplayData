@@ -55,4 +55,8 @@ Cards in hand:
 Expert response:
 6S
 Expert alternative response:
+8S 9S
 
+#April 2022:
+# Monte says to play 6S by 0.03 points
+# but whatever!

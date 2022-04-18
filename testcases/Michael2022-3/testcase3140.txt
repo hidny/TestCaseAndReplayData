@@ -62,4 +62,8 @@ AS 9S 5S 3S 2S 8H 5H
 Expert response:
 2S
 Expert alternative response:
+3S
 
+#April 2022:
+# Monte: 2S = 3S = 5S
+# I'll keep failed 5S just in case.

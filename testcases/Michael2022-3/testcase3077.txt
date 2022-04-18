@@ -68,6 +68,10 @@ QH TH 9H JC 6C
 # Doris: 6/5
 
 Expert response:
-6C
+JC
 Expert alternative response:
 
+
+#April 2022:
+# 6JC are the 2 last club, so it should be
+# JC. (I originally played 6C because I'm bad)

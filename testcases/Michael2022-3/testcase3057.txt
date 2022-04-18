@@ -33,4 +33,8 @@ Cards in hand:
 Expert response:
 2S
 Expert alternative response:
-3S 4S
+3S 4S 7S
+
+#April 2022:
+# 7S is about the same as other options
+#0.00002 points less

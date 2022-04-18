@@ -51,6 +51,9 @@ Cards in hand:
 # Doris: 0/0
 
 Expert response:
-8H
+3S
 Expert alternative response:
-9H
+4S 7S 
+
+#April 2022:
+#Monte wants to drain last spade by 9 points

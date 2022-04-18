@@ -52,7 +52,9 @@ Cards in hand:
 Expert response:
 2S
 Expert alternative response:
-8S
+8S 5S
 
 # Don't mind burning mellow
 # because they bid 11 and need the rest.
+# April 2022:
+# AI agrees to play 8S this time! (by 0.6 to 1 points)

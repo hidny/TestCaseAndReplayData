@@ -68,3 +68,5 @@ Expert alternative response:
 
 # Don't mind burning mellow
 # because they bid 11 and need the rest.
+#April 2022:
+# Monte agrees to play QD by 0.2 points

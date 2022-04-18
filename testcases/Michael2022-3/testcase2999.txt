@@ -70,7 +70,10 @@ QH 6H 4H JD TD
 Expert response:
 4H
 Expert alternative response:
-QH
+6H
 
 # Don't mind burning mellow
 # because they bid 11 and need the rest.
+# April 2022:
+# Monte wants you to play low here by over 2 points
+# I guess LHS has to play master here anyways?

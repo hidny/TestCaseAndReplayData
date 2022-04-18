@@ -31,4 +31,8 @@ AS KS 9S 6S 4S 3S 2S QH JH 5H 6C KD 5D
 Expert response:
 AS
 Expert alternative response:
+4S 3S 2S
+
+#April 2022:
+#Monte slightly prefers 234S by 0.4 points
 

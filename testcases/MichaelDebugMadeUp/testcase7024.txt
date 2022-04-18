@@ -1,11 +1,11 @@
-Your name: Michael2022-3
-Dealer is on your left
+Your name: Richard
+Dealer is on your right
 Score at start:
 Your Score      Their Score
  735             771
 
 Cards dealt:
-AS 9S 5S 3S 2S AH JH 8H 5H 4H 9C 4C 3C 
+8S 4S KH QH 9H 5C 2C AD KD QD TD 7D 6D 
 
 
 Bid history:
@@ -32,29 +32,18 @@ Doris played the 5D.
 Michael2022-3 played the 9C.
 Phil played the 9D.
 --new round--
-Richard played the KH.
-Doris played the 6H.
-Michael2022-3 played the 4H.
-Phil played the 2H.
---new round--
-Richard played the 9H.
-Doris played the TH.
-Michael2022-3 played the AH.
-Phil played the 3H.
+
 
 Cards in hand:
-AS 9S 5S 3S 2S JH 8H 5H 
-
-# Michael2022-3: 1/3
-# Phil: 0/3
-# Richard: 4/2
-# Doris: 0/1
+8S 4S KH QH 9H 5C 2C TD 7D 6D 
 
 Expert response:
-5H
+5C
 Expert alternative response:
-8H JH
+2C
 
 # April 2022:
-# Help partner trump
-# The heart doesn't matter.
+# Why not lead club?
+# Monte might not get this test case
+# Partner probably has less/no club.
+# Monte doesn't get it!

@@ -77,6 +77,9 @@ QH 6H JD TD
 Expert response:
 JD
 Expert alternative response:
+6H QH
 
 # Don't mind burning mellow
 # because they bid 11 and need the rest.
+# April 2022:
+# Monte approves of keeping JTD by less than 0.2 points. I'll leave that as an option

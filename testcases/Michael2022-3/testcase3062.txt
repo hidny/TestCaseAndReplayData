@@ -58,6 +58,10 @@ Cards in hand:
 # Doris: 4/4
 
 Expert response:
-7H
+JH
 Expert alternative response:
 
+#April 2022:
+#Play JH because it's over 9H and
+# there's no cards in between 7H and 9H
+# (I originally played 7H because I'm bad)

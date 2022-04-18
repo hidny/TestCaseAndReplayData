@@ -58,8 +58,10 @@ QS 6S AH JH 5H 7C 5C
 Expert response:
 7C
 Expert alternative response:
-5C
+5C AH
 
+#April 2022:
 #Partner probably wants you to lead club here...
 #Because partner led club earlier.
 # It worked out, so maybe ignore monte's guess?
+# Monte prefers AH by 0.5 points... so I'll give AH the benefit of the doubt.

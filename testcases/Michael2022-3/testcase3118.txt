@@ -80,4 +80,7 @@ Cards in hand:
 Expert response:
 7H
 Expert alternative response:
-8H
+8H 6D
+
+#April 2022:
+# It doesn't matter!

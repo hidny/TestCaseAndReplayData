@@ -78,4 +78,7 @@ Cards in hand:
 Expert response:
 7S
 Expert alternative response:
+JH TC
 
+#April 2022:
+# Monte says it doesn't matter.

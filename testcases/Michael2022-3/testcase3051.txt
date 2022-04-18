@@ -66,6 +66,11 @@ QS 6S JH 5H 5C
 # Doris: 2/3
 
 Expert response:
-5C
+5H
 Expert alternative response:
+JH 5C
 
+#April 2022:
+# lead heart (LHS has high heart, but that's ok)
+# I'll also accept club because i played iy.
+#It's 0.2 points less.

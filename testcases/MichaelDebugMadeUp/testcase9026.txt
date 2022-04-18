@@ -1,0 +1,27 @@
+Your name: Phil
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 0               0
+
+Cards dealt:
+TS 6S 4S 3S AH JH 8H AC QC TC 6C AD KD 
+
+Bid history:
+Doris bid 6.
+Michael2022-3 bid mellow.
+
+
+Cards in hand:
+TS 6S 4S 3S AH JH 8H AC QC TC 6C AD KD 
+
+Expert response:
+4
+Expert alternative response:
+3
+
+#April 2022:
+# Bid lower and don't put team bid to 11?
+# Monte agrees!
+# Monte says to bid 4 by 3 points over 3
+# and 9 points over bidding 5.

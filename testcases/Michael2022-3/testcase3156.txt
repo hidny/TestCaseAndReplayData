@@ -74,5 +74,10 @@ Expert response:
 9S
 Expert alternative response:
 
+#April 2022:
 # Partner probably doesn't have the KC because
 # he didn't lead it.
+# Monte thinks JS = 9S, but I disagree.
+# Monte probably thinks that because for
+# JS vs 9S to make a diff, LHS needs both
+# QS and TS... but he prob doesn't have that.

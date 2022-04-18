@@ -18,4 +18,10 @@ AS 7S 4S 3S 2S KH JH 7H 3H TC 7C 8D 4D
 Expert response:
 3
 Expert alternative response:
-2
+2 4
+
+
+
+#April 2022:
+# Monte wants to bid 4 over 3 by 0.8 points.
+# I'll add it as an option
