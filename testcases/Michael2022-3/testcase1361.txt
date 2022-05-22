@@ -65,8 +65,8 @@ TS 7S 6S JH KC QC
 # Doris: 0/0
 
 Expert response:
-6S
+JH
 Expert alternative response:
-JH KC QC
+KC QC 6S 7S
 
 #Just give partner the trick! Why did I play 6S?

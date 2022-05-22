@@ -1,0 +1,24 @@
+Your name: Richard
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 962               889
+
+Cards dealt:
+JS 9S TH 9H 9C 7C 5C 2C KD QD TD 6D 3D
+
+Bid history:
+Doris bid mellow.
+Michael2022-3 bid mellow.
+
+
+Cards in hand:
+JS 9S TH 9H 9C 7C 5C 2C KD QD TD 6D 3D
+
+Expert response:
+3
+Expert alternative response:
+1 2 4 5
+
+#April 2022:
+# No reason to say mellow here!

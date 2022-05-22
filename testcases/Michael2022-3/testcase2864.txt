@@ -47,9 +47,11 @@ KS JS 9S 8S 6S AH JH 8H 7H 2H
 Expert response:
 JS
 Expert alternative response:
-9S 8S 6S AH JH
+9S 8S 6S AH JH 8H 7H
 
 #April 2022:
 # Monte:
 # JS, then low spade then KS, then AH, then JH
 # I guess we just need to trump and attack?
+# May 2022:
+# Even though monte doesn't like it, I'll pass 8H and 7H. (I don't get it)

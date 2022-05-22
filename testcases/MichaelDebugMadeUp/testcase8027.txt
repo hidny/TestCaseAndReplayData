@@ -1,0 +1,26 @@
+Your name: Richard
+Dealer is your partner opposite you
+Score at start:
+Your Score      Their Score
+ 889             962
+
+Cards dealt:
+QS 6S 7H 6H AC QC JC TC 4C 3C 7D 4D 2D
+
+
+Bid history:
+Phil bid mellow.
+
+Cards in hand:
+QS 6S 7H 6H AC QC JC TC 4C 3C 7D 4D 2D
+
+Expert response:
+0
+Expert alternative response:
+
+
+# April 2022:
+# Double mellow?
+# May 2022:
+# Monte likes saying mellow, but that might be because it
+# thinks the 3rd bidder might say mellow...

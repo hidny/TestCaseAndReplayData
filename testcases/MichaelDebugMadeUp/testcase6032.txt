@@ -1,0 +1,39 @@
+Your name: Richard
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 889             962
+
+Cards dealt:
+AS KS TS 7S 5S 3S 8H 2H KC AD JD 9D 5D 
+
+Bid history:
+Doris bid mellow.
+Michael2022-3 bid mellow.
+Phil bid mellow.
+
+Cards in hand:
+AS KS TS 7S 5S 3S 8H 2H KC AD JD 9D 5D
+
+
+Expert response:
+3
+Expert alternative response:
+4 5 6 7 8 1 2
+
+#April 2022:
+# Do we just say 1 here?
+
+#I hope it's not bugged...
+#Alternative measurement with approx win%:
+#WARNING: The two different utility calculations disagree with each other!
+# 0: 18.08852945458946
+# 1: 47.62519412620236
+# 2: 47.80291444453727
+# 3: 51.95961728273412
+# 4: 51.03418762138214
+# 5: 51.205292046685706
+# 6: 51.36375694575944
+# 7: 51.39660885575398
+# 8: 51.46955432982156
+# On second thought, I don't care about this test case.

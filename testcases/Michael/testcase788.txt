@@ -63,6 +63,11 @@ Cards in hand:
 KS 8S 3S 9H KC 
 
 Expert response:
-KS
+9H
 Expert alternative response:
-KC 9H 3S 8S
+
+
+# May 2022:
+# Monte now prefers the 9H by a wide margin (50+ points)
+# Apparently, protector signalled low H, and mellow signalled higher heart.
+# I'll fail all but 9H.

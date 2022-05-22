@@ -5,7 +5,7 @@ Your Score      Their Score
  63              40
 
 Cards dealt:
-AS 8S 7S 2S 2C QH JH 9H KD QD 8D 5D
+AS 8S 7S 2S 2C QH JH 9H KD QD 8D 5D 3D
 
 
 Bid history:
@@ -47,14 +47,18 @@ Michael2021 played the KC.
 Phil played the 7C.
 
 Cards in hand:
-AS 8S 7S 9H KD QD 8D
+AS 8S 7S 9H KD QD 8D 3D
 
 Expert response:
-AS
+3D
 Expert alternative response:
-8S 7S
+9H 8D QD KQ
 
 # On further inspect, just play the AS... whatever!
 # Old notes:
 # Don't play AS when mellow is signalled to be safe
 # Warning: this advice could theorically be exploited...
+
+# May 2022:
+# Monte now wants to play anything but spade!
+# It likes 3D then 9H
