@@ -75,6 +75,12 @@ KH JH JC TC
 # Doris: 2/1
 
 Expert response:
-TC
+KH
 Expert alternative response:
+JH JC TC 
 
+
+#May 2022:
+# Monte prefers throwing the hearts because
+# current player is the only one who has them.
+# It doesn't matter though...

@@ -28,3 +28,8 @@ Expert alternative response:
 # Monte likes bidding 1 by 9 points over mellow,
 # but we're behind and we need to make this risky mellow I think.
 # Variance is king here!
+
+# May 2022:
+# The new utility function confirmed my suspicion!
+# Saying mellow gives 21.5 % chance of winning 
+# vs saying 1 that has a 18.5% winning the game. 

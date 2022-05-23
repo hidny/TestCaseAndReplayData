@@ -25,3 +25,7 @@ Expert alternative response:
 
 #April 2022:
 # Monte likes bidding 5 over 4 by 7 points
+# May 2022:
+# It also likes bidding 6 over 4 by 3 points
+# I'll pass 6 even though it put the bid to 11.
+# But that's weird...

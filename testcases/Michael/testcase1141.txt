@@ -75,4 +75,7 @@ Cards in hand:
 Expert response:
 6C
 Expert alternative response:
+9H
 
+#May 2022:
+# 9H is also useless
