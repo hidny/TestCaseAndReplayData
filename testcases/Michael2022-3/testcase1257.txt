@@ -63,7 +63,7 @@ Cards in hand:
 Expert response:
 TC
 Expert alternative response:
-7C
+7C 6C
 
 #Jan 2022:
 #Monte prefers 46C, then 7TC
@@ -73,3 +73,10 @@ Expert alternative response:
 
 #With signals:
 #Just play T7C! Monte has common sense now!
+
+# May 2022:
+# Why isn't 6C better than 7C?
+# As a protector, convincing opponents to not trump
+# isn't a bad move...
+# Monte thinks 4C = 6C after 60K, but I don't get why it isn't 
+# leaving the mellow open to being burned, so I'm not passing 4C.

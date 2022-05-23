@@ -46,8 +46,12 @@ AS 6S 5H 3H JC TC 5C 2C
 Expert response:
 JC
 Expert alternative response:
-TC 5C 2C 5H 3H
+TC 5C 2C 5H 3H AS 6S
 
 #Hope that partner could make a trick and maybe lead
 #diamond
 #I'm not 100% sure about this
+
+# May 2022:
+# Monte now prefers leading AS then 6S then TC
+# But it's all within 1 point, so I'll just pass it.

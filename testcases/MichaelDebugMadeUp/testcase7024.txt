@@ -38,12 +38,18 @@ Cards in hand:
 8S 4S KH QH 9H 5C 2C TD 7D 6D 
 
 Expert response:
-5C
+8S
 Expert alternative response:
-2C
+4S KH 5C 2C
 
 # April 2022:
 # Why not lead club?
 # Monte might not get this test case
 # Partner probably has less/no club.
 # Monte doesn't get it!
+
+#May 2022:
+# Even when we assume partner has no club,
+# Monte still wants to play spade or KH
+# It even prefers to lead the 9H.
+# I'm confused, so I'll just pass more leads.
