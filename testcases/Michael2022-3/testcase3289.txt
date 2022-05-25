@@ -1,0 +1,29 @@
+Your name: Michael2022-3
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 696             459
+
+Cards dealt:
+TS 9S 6S 5S QH 8H 7H 5H 3H 2H JC 7C 2D 
+
+
+Bid history:
+Phil bid 1.
+Richard bid 4.
+Doris bid 4.
+
+
+Cards in hand:
+TS 9S 6S 5S QH 8H 7H 5H 3H 2H JC 7C 2D 
+
+
+Expert response:
+1
+Expert alternative response:
+
+
+#May 2022:
+# Monte agrees to bid 1 then 2 by about 1 point
+# But also, by over 0.2% WP (We're winning and we don't want to give that up)
+# I'll only pass 1.

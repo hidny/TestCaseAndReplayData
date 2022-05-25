@@ -1,0 +1,24 @@
+Your name: Michael2022-3
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 335             229
+
+Cards dealt:
+AS TS 9S 8S 3S JH 2H AC 5C 3C 2C 4D 2D 
+
+
+Bid history:
+
+
+Cards in hand:
+AS TS 9S 8S 3S JH 2H AC 5C 3C 2C 4D 2D 
+
+
+Expert response:
+4
+Expert alternative response:
+3
+
+#May 2022:
+#Monte agrees to bid 4 then 3 (bidding 4 is 4 points more than bidding 3)

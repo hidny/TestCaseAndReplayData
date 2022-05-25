@@ -1,0 +1,26 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 480             120
+
+Cards dealt:
+AS 8S 5S AH QH 6H 4H 8C 2C QD 8D 7D 4D 
+
+
+Bid history:
+Richard bid 1.
+Doris bid mellow.
+
+
+Cards in hand:
+AS 8S 5S AH QH 6H 4H 8C 2C QD 8D 7D 4D 
+
+
+Expert response:
+3
+Expert alternative response:
+2
+
+#May 2022:
+# Monte agrees to bid 3 then 2 (by 3 points) 

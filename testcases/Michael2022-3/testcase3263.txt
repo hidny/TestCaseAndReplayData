@@ -1,0 +1,29 @@
+Your name: Michael2022-3
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 522             263
+
+Cards dealt:
+AS KS JS 7S QH JH 7H 6H TC 9C 8C JD 2D 
+
+
+Bid history:
+Doris bid 4.
+
+
+Cards in hand:
+AS KS JS 7S QH JH 7H 6H TC 9C 8C JD 2D 
+
+
+Expert response:
+3
+Expert alternative response:
+4
+
+#May 2022:
+# Monte points util also likes bidding 4
+# but win % util prefers saying 3.
+# I guess the varience isn't worth it.
+# The win % diff is about 0.07 % though...
+# I'll pass both.

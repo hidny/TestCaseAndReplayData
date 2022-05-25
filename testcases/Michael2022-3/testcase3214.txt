@@ -1,0 +1,45 @@
+Your name: Michael2022-3
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 284             186
+
+Cards dealt:
+KS 9S 2S AH 9H KC QC JC TC 9C 6C 5D 4D 
+
+
+Bid history:
+Doris bid 2.
+Michael2022-3 bid 3.
+Phil bid 2.
+Richard bid 2.
+
+
+Play history:
+--new round--
+Doris played the AS.
+Michael2022-3 played the 2S.
+Phil played the 5S.
+Richard played the 3S.
+--new round--
+Doris played the 4S.
+Michael2022-3 played the KS.
+Phil played the 6S.
+Richard played the QS.
+
+Cards in hand:
+9S AH 9H KC QC JC TC 9C 6C 5D 4D 
+
+# Michael2022-3: 1/3
+# Phil: 0/2
+# Richard: 0/2
+# Doris: 1/2
+
+Expert response:
+QC
+Expert alternative response:
+JC TC 9C KC
+
+#May 2022:
+# Monte likes 9-QC more than KC by 2 points
+# It also hates leading 9S

@@ -1,0 +1,38 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 980             473
+
+Cards dealt:
+KS 4S AH KH QH JH 9H 8H 4H AD KD 6D 2D 
+
+
+Bid history:
+Richard bid 1.
+Doris bid 3.
+Michael2022-3 bid 1.
+Phil bid 9.
+
+
+Play history:
+--new round--
+Richard played the KC.
+Doris played the AC.
+Michael2022-3 played the 4S.
+Phil played the 2C.
+
+Cards in hand:
+KS AH KH QH JH 9H 8H 4H AD KD 6D 2D 
+
+# Michael2022-3: 1/1
+# Phil: 0/9
+# Richard: 0/1
+# Doris: 0/3
+
+Expert response:
+AH
+Expert alternative response:
+AD
+
+#It's a forced win after this round.

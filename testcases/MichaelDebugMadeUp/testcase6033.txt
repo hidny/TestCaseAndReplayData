@@ -1,0 +1,47 @@
+Your name: Phil
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 773             980
+
+Cards dealt:
+QS TS 9S TH 6H 4H 3H 3C 2C QD JD 9D 3D
+
+
+Bid history:
+Richard bid 1.
+Doris bid 3.
+Michael2022-3 bid 1.
+Phil bid 4.
+
+
+Play history:
+--new round--
+Richard played the KC.
+Doris played the AC.
+Michael2022-3 played the 4S.
+Phil played the 2C.
+--new round--
+Michael2022-3 played the AD.
+Phil played the 9D.
+Richard played the 7D.
+Doris played the 4D.
+--new round--
+Michael2022-3 played the 2H.
+
+
+Cards in hand:
+QS TS 9S TH 6H 4H 3H 3C QD JD 3D
+
+# Michael2022-3: 2/1
+# Phil: 0/4
+# Richard: 0/1
+# Doris: 0/3
+
+Expert response:
+3H
+Expert alternative response:
+4H TH 6H
+
+#It's a forced loss
+# I made this to test WP monte. WP monte agrees that it's a forced loss.

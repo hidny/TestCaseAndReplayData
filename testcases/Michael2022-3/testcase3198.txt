@@ -1,0 +1,25 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 121             64
+
+Cards dealt:
+6S JH 8H 7H 5H 2H JC 8C 6C 3C AD 7D 6D 
+
+
+Bid history:
+Richard bid 6.
+Doris bid 2.
+
+
+Cards in hand:
+6S JH 8H 7H 5H 2H JC 8C 6C 3C AD 7D 6D 
+
+
+Expert response:
+0
+Expert alternative response:
+
+#May 2022:
+# Monte agrees to say mellow by 64 points

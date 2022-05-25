@@ -1,0 +1,28 @@
+Your name: Michael2022-3
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 416             160
+
+Cards dealt:
+QS JS 7S 6S 4S 2S KH AD QD 6D 4D 3D 2D 
+
+
+Bid history:
+Phil bid 1.
+Richard bid 1.
+Doris bid 3.
+
+
+Cards in hand:
+QS JS 7S 6S 4S 2S KH AD QD 6D 4D 3D 2D 
+
+
+Expert response:
+6
+Expert alternative response:
+5
+
+#May 2022:
+# Monte likes 6 then 5 (by 3 points) then 4 and 7 are about the same
+# Because of this, bidding 4 now fails.

@@ -1,0 +1,25 @@
+Your name: Phil
+Dealer is your partner opposite you
+Score at start:
+Your Score      Their Score
+ 229             335
+
+Cards dealt:
+2S QH TH 9H 6H JC TC 4C KD QD 9D 8D 3D 
+
+
+Bid history:
+Michael2022-3 bid 4.
+
+Cards in hand:
+2S QH TH 9H 6H JC TC 4C KD QD 9D 8D 3D 
+
+Expert response:
+0
+Expert alternative response:
+
+
+# May 2022:
+# Is the mellow warranted
+# It burned in the game.
+# TODO: ask monte

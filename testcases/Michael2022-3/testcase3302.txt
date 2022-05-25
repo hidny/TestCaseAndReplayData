@@ -1,0 +1,26 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 748             510
+
+Cards dealt:
+5S 4S 2S JH AC 9C 7C 4C 3C AD KD QD TD 
+
+
+Bid history:
+Richard bid 1.
+Doris bid 1.
+
+
+Cards in hand:
+5S 4S 2S JH AC 9C 7C 4C 3C AD KD QD TD 
+
+
+Expert response:
+4
+Expert alternative response:
+3
+
+#May 2022:
+# Monte agrees to bid 4 then 3. (by 0.09 %) and 2 points

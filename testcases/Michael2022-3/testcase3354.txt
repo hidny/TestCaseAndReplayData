@@ -1,0 +1,30 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 980             473
+
+Cards dealt:
+KS 4S AH KH QH JH 9H 8H 4H AD KD 6D 2D 
+
+
+Bid history:
+Richard bid 1.
+Doris bid 3.
+
+
+Cards in hand:
+KS 4S AH KH QH JH 9H 8H 4H AD KD 6D 2D 
+
+
+Expert response:
+1
+Expert alternative response:
+
+# May 2022:
+# WP monte gets it!
+# We only need to bid 1.
+# 1: 99.99999295312497 %
+# 2: 99.99950816406235 %
+# 3: 99.99558279687604 %
+# 4: 99.97806119592413 %
