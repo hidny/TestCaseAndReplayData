@@ -66,3 +66,8 @@ JC 7C 5C
 #Monte says to not trump here
 #by 21 points. I guess I was right.
 #I don't get it though.
+
+#May 2022:
+# Looks like once you take it, you have nothing good to lead...
+# Mellow is out of club and probably safe in spade...
+# TODO: ask monte

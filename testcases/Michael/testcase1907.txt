@@ -61,6 +61,12 @@ QH JH 4H TC KD 2D
 # Doris: 4/5
 
 Expert response:
-QH
+TC
 Expert alternative response:
-2D 4H JH
+
+
+#May 2022:
+# Monte is saying to force lst spade out with master TC
+# 2nd choice is 4H by about 5 points.
+# I improved the AI's choice (It now plays the 4H,
+# but TC is better, so I'm failing this test case.)
