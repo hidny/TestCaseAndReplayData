@@ -38,4 +38,11 @@ TS 3S TH 7H 5H AC KC 7C 9D 7D 6D
 Expert response:
 AC
 Expert alternative response:
+KC
 
+# May 2022:
+# Monte prefers KC over AC
+# because partner is probably not void in 
+# both club and diamond, so he won't trump.
+# I prefers AKC by 0.5 points over 7H
+# by over 1 point compared to feeding partner Diamond

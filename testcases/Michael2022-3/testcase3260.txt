@@ -71,6 +71,12 @@ AH QD 8D 7D
 # Doris: 0/0
 
 Expert response:
-AH
+QD
 Expert alternative response:
+8D 7D
 
+# May 2022:
+# Monte says that I was wrong and
+# that I should give partner the chance to lead
+# club and attack mellow.
+# It's a 1.4 point diff.

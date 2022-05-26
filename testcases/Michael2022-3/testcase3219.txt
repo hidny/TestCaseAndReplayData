@@ -67,3 +67,4 @@ QC JC TC
 
 # May 2022:
 # lead lower because partner won't trump on you (He has no trump)
+# Monte agrees by 0.13 points

@@ -15,11 +15,23 @@ Cards in hand:
 2S QH TH 9H 6H JC TC 4C KD QD 9D 8D 3D 
 
 Expert response:
-0
+1
 Expert alternative response:
-
+0
 
 # May 2022:
 # Is the mellow warranted
 # It burned in the game.
-# TODO: ask monte
+# Monte:
+# 0: -38.4655
+# 1: -34.0264
+# 2: -46.69245
+# 3: -62.6513
+# Ahhh! So close
+# But:
+# Average util of playing the 0: 28.657204598022094 %
+# Average util of playing the 1: 27.12996080053686 %
+# Average util of playing the 2: 25.919357827636176 %
+# Average util of playing the 3: 24.256203098813504 %
+# I'll just pass both.
+# I'm not sure about the WP one... maybe if I recalculate, it will be different.

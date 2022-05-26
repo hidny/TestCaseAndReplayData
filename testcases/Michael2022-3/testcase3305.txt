@@ -42,4 +42,6 @@ Cards in hand:
 Expert response:
 4S
 Expert alternative response:
+5S
 
+#4S = 5S

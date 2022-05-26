@@ -37,4 +37,6 @@ TS 9S 6S 5S QH 8H 7H 5H 3H 2H JC 7C
 Expert response:
 5S
 Expert alternative response:
+6S
 
+#5S = 6S

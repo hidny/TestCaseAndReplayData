@@ -45,3 +45,7 @@ Expert alternative response:
 # May 2022:
 # Monte likes AKS by 30+ points over club,
 # but I think monte might be wrong here...
+# It also prefers AKS over Js by 5 points and over 7S by 8 points
+# I guess it wants to try to burn Phil and let
+# partner play under
+# AI currently plays 7S, and that doesn't help partner enough.

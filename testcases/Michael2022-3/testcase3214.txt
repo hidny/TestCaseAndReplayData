@@ -38,8 +38,11 @@ Cards in hand:
 Expert response:
 QC
 Expert alternative response:
-JC TC 9C KC
+JC TC 9C
 
 #May 2022:
 # Monte likes 9-QC more than KC by 2 points
 # It also hates leading 9S
+# AH is 5 points less than 9C.
+# Save AH for later (it's safe and there's only a few spades left)
+

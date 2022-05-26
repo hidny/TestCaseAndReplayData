@@ -36,6 +36,12 @@ JS 9S 8S 7S QH 6H 5H 9D 8D 6D 4D
 # Doris: 1/2
 
 Expert response:
-6H
+9S
 Expert alternative response:
-5H 9D 8D 6D 4D
+JS
+
+# May 2022:
+# Monte and AI agree to drain spade
+# by 1 point. This isn't what I thought, but I agree with it now.
+# WP monte prefers 9S. I guess it's a more
+# stable choice.

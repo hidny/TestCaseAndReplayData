@@ -46,6 +46,13 @@ AS 7S KH TH KC TC 5C 4C 7D
 # Doris: 2/5
 
 Expert response:
-7D
+AS
 Expert alternative response:
+7D
+
+#May 2022:
+# Monte likes AS and 7D at 47 points then 7S (at 44 points)
+# I guess draining spade is an option
+# I guess getting void in diamonds
+# and not losing the KC is valuable?
 

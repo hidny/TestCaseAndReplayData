@@ -53,4 +53,14 @@ JS 9S 8S 5H 9D 8D 6D 4D
 Expert response:
 9D
 Expert alternative response:
-8D 6D 4D
+8D 6D 4D JS 9S 5H
+
+# May 2022:
+# Monte says to drain spade
+# I guess it assumes partner has the spade
+# because he made 0/3.
+# 5H is very slightly less valuable than D
+# by 0.15 points.
+# You know what? I like leading hearts here
+# because partner might have JH.
+# OMG: WP Monte also prefers H over Diamond.

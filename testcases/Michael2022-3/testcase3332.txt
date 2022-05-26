@@ -45,4 +45,13 @@ JS 9S 8S 7S QH 5H 9D 8D 6D 4D
 Expert response:
 7S
 Expert alternative response:
+8S 9S
 
+#May 2022:
+# Monte likes to just trump this. (by 1 point over not trumping) 
+# It's a simple test case...
+# I guess AI was worried about being trumped over
+# but that's low-risk.
+# The only thing is that maybe RHS is setting us up,
+# and Monte didn't properly account for that...
+# It's unlikely though. Only 7 clubs were played so far.

@@ -56,6 +56,11 @@ AS 7S KH TH TC 5C 4C
 # Doris: 3/5
 
 Expert response:
-5C
+TH
 Expert alternative response:
-4C
+7S
+
+#May 2022:
+# Monte:TH over 45C by 9 points.
+# Note that WP Monte prefers 7S, so
+# that's also an option.

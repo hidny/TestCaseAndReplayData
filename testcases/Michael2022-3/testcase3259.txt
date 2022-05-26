@@ -72,4 +72,6 @@ AH QH QD 8D 7D
 Expert response:
 QH
 Expert alternative response:
+AH
 
+# QH = AH
