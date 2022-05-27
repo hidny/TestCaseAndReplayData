@@ -72,4 +72,8 @@ Cards in hand:
 Expert response:
 8C
 Expert alternative response:
+TD 9D 7D 6D
 
+#May 2022:
+# Monte prefers diamonds.
+# Monte also prefers lower diamonds.

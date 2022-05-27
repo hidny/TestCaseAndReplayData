@@ -45,4 +45,9 @@ AS KS JS 7S QH JH 7H 6H TC 9C
 Expert response:
 9C
 Expert alternative response:
-TC 7H 6H JH
+TC 7H 6H JH AS KS
+
+# May 2022:
+# Added AS KS because I don't believe Phil (LHS mellow) has AD.
+# When I reran monte while telling monte that LHS doesn't have AD,
+# it agreed to play AS, KS by 20 points over playing an offsuit.

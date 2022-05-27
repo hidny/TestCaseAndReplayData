@@ -55,3 +55,4 @@ Expert alternative response:
 #May 2022:
 # Monte also likes the 67H.
 # I guess it's good to be safe.
+# Don't trump because that might help LHS.
