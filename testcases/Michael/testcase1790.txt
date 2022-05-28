@@ -56,9 +56,14 @@ Cards in hand:
 KH QH QC JC AD JD 
 
 Expert response:
-AD
+QC
 Expert alternative response:
-KH
+
 
 #Don't lead C because partner can't trump
 #and one of the opponents will.
+# May 2022:
+# Monte actually likes to lead QC and force out a spade.
+# This is a weird case where we want to dare opponents to trump...
+# Clubs is better than D because more clubs were played and LHS/RHS is more likely to trump
+# Better by 40 points over AD and 18 points over KH

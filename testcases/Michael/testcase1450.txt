@@ -51,6 +51,10 @@ Cards in hand:
 TS TH KC QC 8C 6D 3D 
 
 Expert response:
-KC
-Expert alternative response:
 QC
+Expert alternative response:
+KC TS
+
+#May 2022:
+# Monte actually prefers to trick LHS with QC.
+# It also prefers TS by 2 points.

@@ -71,4 +71,6 @@ KC QC TC
 Expert response:
 KC
 Expert alternative response:
+QC
 
+# Trick LHS with QC is just as good.

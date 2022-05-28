@@ -61,6 +61,10 @@ Cards in hand:
 KH QH QC JC JD 
 
 Expert response:
-KH
+JC
 Expert alternative response:
 QC
+
+#May 2022:
+# Monte like JC here by 10 points over QC.
+
