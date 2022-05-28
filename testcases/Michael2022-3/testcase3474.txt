@@ -1,0 +1,26 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 484             223
+
+Cards dealt:
+7S 4S AH 5H 4H AC KC TC 7C 4C 8D 4D 2D 
+
+
+Bid history:
+Richard bid 3.
+Doris bid 2.
+
+
+Cards in hand:
+7S 4S AH 5H 4H AC KC TC 7C 4C 8D 4D 2D 
+
+
+Expert response:
+2
+Expert alternative response:
+
+
+# May 2022:
+# We burned, so bidding 3 is probably too high.
