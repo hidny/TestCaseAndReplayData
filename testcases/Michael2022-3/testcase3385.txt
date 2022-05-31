@@ -31,6 +31,11 @@ JS 9S 6S 2S TH 8H QC TC 7C 4C 3C JD
 # Doris: 0/2
 
 Expert response:
-JD
+8H
 Expert alternative response:
-TH 8H
+TH
+
+#May 2022:
+# Monte agrees about 8TH by 0.2 points
+# I'm going to remove JD because it's only monte's
+# 3rd choice and it's only slightly better than club.

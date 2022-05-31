@@ -51,6 +51,11 @@ Cards in hand:
 # Doris: 0/1
 
 Expert response:
-KH
+TD
 Expert alternative response:
+8S
 
+#May 2022:
+# I orig played master KH
+# But monte prefers AI's TD and/or 8S. (by 2 points)
+# KH may be able to wait???

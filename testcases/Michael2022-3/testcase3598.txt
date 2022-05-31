@@ -58,4 +58,9 @@ TH 7H 4H 3H KC JC 4D
 Expert response:
 7H
 Expert alternative response:
+TH KC
 
+#May 2022:
+# WP Monte prefers KC and TH
+# I guess they are the safe options
+# even though 7H gives more points by 19+

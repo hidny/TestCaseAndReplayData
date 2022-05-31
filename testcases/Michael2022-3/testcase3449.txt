@@ -24,6 +24,12 @@ QS TS 7S 5S KH TH 3H QC TC 3C 2C TD 8D
 # Doris: 0/3
 
 Expert response:
-TD
+2C
 Expert alternative response:
-TC 8D
+3C 5S TD 8D TC
+
+#May 2022:
+#Monte like 23C by 1 point for some reason
+# 3rd choice is AI's 5S
+# My TD 8D and TC ideas are 1 point less...
+# I'll add them as options... 

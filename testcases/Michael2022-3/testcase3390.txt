@@ -59,3 +59,9 @@ Expert response:
 TC
 Expert alternative response:
 7C 4C
+
+# May 2022:
+#Monte agrees to lead TC then 7C then 4C
+# (all within 0.02 points)
+# I guess we want to keep our spade for trumping
+# Don't lead QC because it might become master...

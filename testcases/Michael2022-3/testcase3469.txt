@@ -63,4 +63,14 @@ AS JS KH JH 8H 6H
 Expert response:
 AS
 Expert alternative response:
+JH 8H KH
 
+# May 2022:
+# Monte likes JH by 1 point.
+# Maybe the plan is to sweep heart?
+# KH and 8H are 3rd and 4th choice, but it's close enough
+# AS: 120.4957264957265
+# 6H: 120.23931623931624
+# 8H: 120.44444444444444
+# JH: 121.1025641025641
+# KH: 120.41880341880342
