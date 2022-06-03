@@ -58,6 +58,9 @@ JS 8S 6S AH TH AC JC
 # Doris: 3/1
 
 Expert response:
-TH
+6S
 Expert alternative response:
-JC
+8S
+
+#Monte says to play spade
+#Partner made their 1...

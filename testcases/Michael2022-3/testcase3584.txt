@@ -51,6 +51,10 @@ QS JS 9S 5S 7C 6C TD 7D
 # Doris: 0/2
 
 Expert response:
-5S
+7D
 Expert alternative response:
-7C 6C
+TD 5S 7C 6C  
+
+#May 2022:
+# Monte likes 7TD by 1 point.
+# But I didn't see it during the game.

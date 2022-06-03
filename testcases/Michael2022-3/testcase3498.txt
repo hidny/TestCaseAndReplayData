@@ -76,9 +76,12 @@ Cards in hand:
 # Doris: 2/4
 
 Expert response:
-9C
+7D
 Expert alternative response:
-7D 8S
+8S 9C
 
 #May 2022:
 # I don't think it matters...
+# Monte: 7D by 8 points
+# But in the game, it didn't matter,
+# so I'll pass it...

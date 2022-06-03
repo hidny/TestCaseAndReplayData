@@ -70,6 +70,9 @@ QS TS 7S QC TC
 Expert response:
 7S
 Expert alternative response:
+TS
 
 # May 2022:
 #LHS (phil) signalled no spade, so play low
+# Monte agrees, but only by 0.1 points
+# this testcase might be revised later.

@@ -76,4 +76,7 @@ QS TS 7S 3S
 Expert response:
 3S
 Expert alternative response:
+7S
 
+#June 2022:
+# Monte likes both 37S equally

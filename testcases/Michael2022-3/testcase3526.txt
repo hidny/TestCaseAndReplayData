@@ -20,4 +20,7 @@ AS KS QS TS 7S 3S 9H 5H KC TC 6C 6D 5D
 Expert response:
 5
 Expert alternative response:
-4
+4 6
+
+#June 2022:
+# Monte also likes bidding 6 over 5 by only 0.3 points
