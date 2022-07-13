@@ -1,0 +1,66 @@
+Your name: Michael2021-2
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 319             51
+
+Cards dealt:
+AS 9S QH 6H 3H 2H AC QC 8C TD 8D 5D 2D 
+
+
+Bid history:
+Doris bid 2.
+Michael2021-2 bid 3.
+Phil bid 2.
+Richard bid 2.
+
+
+Play history:
+--new round--
+Doris played the AH.
+Michael2021-2 played the 2H.
+Phil played the 5H.
+Richard played the 4H.
+--new round--
+Doris played the KH.
+Michael2021-2 played the 6H.
+Phil played the 7H.
+Richard played the 9H.
+--new round--
+Doris played the QD.
+Michael2021-2 played the 2D.
+Phil played the 4D.
+Richard played the KD.
+--new round--
+Richard played the AD.
+Doris played the 6D.
+Michael2021-2 played the 5D.
+Phil played the 9D.
+--new round--
+Richard played the JH.
+Doris played the 2S.
+Michael2021-2 played the 3H.
+Phil played the 8H.
+--new round--
+Doris played the JD.
+Michael2021-2 played the 8D.
+Phil played the 2C.
+Richard played the 3D.
+--new round--
+Doris played the 6S.
+
+Cards in hand:
+AS 9S QH AC QC 8C TD 
+
+# Michael2021-2: 0/3
+# Phil: 0/2
+# Richard: 2/2
+# Doris: 4/2
+
+Expert response:
+9S
+Expert alternative response:
+
+#July 2022:
+# Monty likes to play low by 12 points
+# 9S > 6S, so I guess it's good.
