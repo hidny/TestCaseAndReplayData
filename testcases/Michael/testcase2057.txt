@@ -33,6 +33,8 @@ AS 7S TH 2H 5C 3C AD JD 9D 8D 7D 4D
 # Doris: 1/1
 
 Expert response:
-AS
+7S
 Expert alternative response:
 
+#July 2022:
+# Monty likes 7S by a whole 5 points.

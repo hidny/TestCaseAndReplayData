@@ -64,3 +64,5 @@ Expert alternative response:
 
 #April 2022:
 # Monte says to just play AS by 0.22 points
+# July 2022:
+# Now Monte says to play 2S, but it's close.

@@ -36,3 +36,7 @@ Expert response:
 KS
 Expert alternative response:
 
+
+#July 2022:
+# This time, Monty wants to play master by 4 poitns.
+# I forgot the logic of it.

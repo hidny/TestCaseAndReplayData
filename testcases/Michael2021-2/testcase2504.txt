@@ -58,6 +58,9 @@ AS 9S QH AC QC 8C TD
 # Doris: 4/2
 
 Expert response:
-AS
+9S
 Expert alternative response:
 
+#July 2022:
+# Monty likes to play low by 12 points
+# 9S > 6S, so I guess it's good.

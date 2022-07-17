@@ -76,3 +76,4 @@ TS
 #LHS (phil) signalled no spade, so play low
 # Monte agrees, but only by 0.1 points
 # this testcase might be revised later.
+# July 2022: same.

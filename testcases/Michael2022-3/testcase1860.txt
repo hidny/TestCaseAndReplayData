@@ -58,6 +58,9 @@ AS QS 7S JD TD 7D 3D
 # Doris: 1/3
 
 Expert response:
-AS
+QS
 Expert alternative response:
+7S AS
 
+#July 2022:
+# Monte prefers QS then 7S by almost 1 point

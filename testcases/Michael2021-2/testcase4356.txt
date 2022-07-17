@@ -73,6 +73,10 @@ AS QS 4S 3S
 # Doris: 1/2
 
 Expert response:
-AS
+QS
 Expert alternative response:
+AS
 
+#July 2022:
+#Monte prefers QS by 2 points
+# I don't get it though.

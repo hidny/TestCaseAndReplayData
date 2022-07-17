@@ -46,6 +46,10 @@ Cards in hand:
 AS QS 9S 7S 3S AH TH 8D 
 
 Expert response:
-AS
+3S
 Expert alternative response:
-QS 9S 7S 3S
+9S 7S 
+
+#July 2022:
+# Monte likes low spade just in case
+# by 0.5 points over AS

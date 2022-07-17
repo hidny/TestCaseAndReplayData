@@ -55,4 +55,8 @@ AS 7S 3S TH 5H 4H QD 7D
 Expert response:
 3S
 Expert alternative response:
-AS
+7S
+
+# July 2022:
+# Monte says to play low by 2 points
+# see if partner could take an easy one.

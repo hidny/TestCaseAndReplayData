@@ -48,6 +48,9 @@ AS 6S 4S KH JH 7H 2H TD 9D
 # Doris: 3/4
 
 Expert response:
-AS
+4S
 Expert alternative response:
+6S
 
+#July 2022:
+# Monty says to play low by 1 point.

@@ -45,4 +45,9 @@ AS 9S 5S TH 8H 7H 4H KD 6D 5D
 Expert response:
 5S
 Expert alternative response:
-AS
+9S
+
+#July 2022:
+# Monte:
+3 Don't play high AS by 10 points!
+# Monte probably doesn't think we'll make the tricks though.

@@ -58,6 +58,9 @@ AS 9S 6S 5H JC TC QD
 # Doris: 2/6
 
 Expert response:
-6S
+9S
 Expert alternative response:
-AS
+
+#July 2022:
+#Monte:
+# 9S by over 50 points over AS

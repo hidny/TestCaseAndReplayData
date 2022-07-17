@@ -33,6 +33,10 @@ AS TS 7S 5S QH 5H TC 5C 4C KD JD 9D
 # Doris: 1/2
 
 Expert response:
-AS
+5S
 Expert alternative response:
+7S
 
+#July 2022:
+# Monte: play low by 2 points
+# hope phil loses his high spade.

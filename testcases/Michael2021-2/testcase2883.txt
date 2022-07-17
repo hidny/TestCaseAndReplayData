@@ -63,6 +63,11 @@ AS QS JS 6S 3S JD
 # Doris: 4/2
 
 Expert response:
-AS
+QS
 Expert alternative response:
+JS
 
+#July 2022:
+# Anything but AS (by 10 points)
+# Hope 3rd thrower saves their KS?
+# QJS is better than 36S by 1.5 points

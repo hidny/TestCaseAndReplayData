@@ -46,3 +46,7 @@ Expert response:
 4S
 Expert alternative response:
 AS TS
+
+#July 2022:
+# Monte doesn't like TS or AS for some reason
+# By only 0.5 points though, so I'll pass all of them.

@@ -62,3 +62,5 @@ KS
 #I'm not ready for these queen tricks because I can't figure out
 #why you would play JS vs KS...
 #Monte seems to randomly pick between the two for different test cases.
+# July 2022:
+# Monty likes JS by 1 point. I don't get it, so I'll pass both JS and KS.

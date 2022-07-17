@@ -51,6 +51,10 @@ Cards in hand:
 AS QS TS KH JH 9C JD 
 
 Expert response:
-AS
+TS
 Expert alternative response:
+AS
 
+#July 2022:
+# Monte slightly prefers TS by 0.2 points
+# I'll pass both.

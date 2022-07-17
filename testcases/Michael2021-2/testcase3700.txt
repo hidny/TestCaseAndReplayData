@@ -55,4 +55,10 @@ AS 9S 6S 3S 5H JC TC QD
 Expert response:
 3S
 Expert alternative response:
-AS
+6S AS
+
+# July 2022:
+# Monty wants to play low
+# because we want to stop Doris from sweeping
+# (By 3-4 points)
+# Monty doesn't think we'll make it though.
