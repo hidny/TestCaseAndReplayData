@@ -86,4 +86,4 @@ Cards in hand:
 Expert response:
 6S
 Expert alternative response:
-
+3S
