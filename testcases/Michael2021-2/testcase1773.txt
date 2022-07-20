@@ -43,6 +43,11 @@ TS 5S 3S JH 9H QC 4C 3C TD 6D
 # Doris: 1/3
 
 Expert response:
-QC
+3C
 Expert alternative response:
-4C 3C
+4C 
+
+#July 2022:
+# Save your QC for next round.
+# LHS doesn't know you have it and will prob still trump.
+# Monte agrees by 3 points.

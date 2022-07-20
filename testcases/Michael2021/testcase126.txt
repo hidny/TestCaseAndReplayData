@@ -65,4 +65,7 @@ TH 5H JC 6C TD 6D
 Expert response:
 TD
 Expert alternative response:
-6D
+
+#July 2022:
+# No one has spade, so take it. (LHS is void in Diamond)
+# Monte says it's a 1.3 point diff.

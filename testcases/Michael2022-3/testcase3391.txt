@@ -69,4 +69,4 @@ Expert alternative response:
 
 #June 2022:
 # Monte also likes 47C by 1 point
-# QC will just get trumped on.
+# QC will just get trumped on and LHS doesn't know if partner has QC or not.

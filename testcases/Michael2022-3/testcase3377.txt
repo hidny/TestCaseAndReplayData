@@ -62,5 +62,9 @@ Expert response:
 Expert alternative response:
 8S
 
+#June
 #Monte says to play spade
 #Partner made their 1...
+# July
+# Monte thinks low spade over JS by 0.5 points, which makes sense...
+# JS could just be lost by QS.
