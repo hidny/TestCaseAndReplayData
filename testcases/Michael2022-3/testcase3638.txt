@@ -20,4 +20,8 @@ KS QS TS 8S 3S 2S KH 9H 5H JC 2C QD 4D
 Expert response:
 5
 Expert alternative response:
-4
+4 6
+
+#July 2022:
+# Monte likes 6, while I go lower.
+# WP monte likes 5 over 6 for some reason (by 0.05%)

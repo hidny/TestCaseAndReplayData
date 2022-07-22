@@ -20,3 +20,7 @@ Expert response:
 6
 Expert alternative response:
 5
+
+#July 2022:
+# Monte agrees by 6 points over bidding 4.
+#WP monte prefers 6 over 5 by 0.4%, while monte likes 5 over 6

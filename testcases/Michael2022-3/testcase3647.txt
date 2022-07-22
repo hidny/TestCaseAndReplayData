@@ -68,6 +68,8 @@ QS 3S 2S KH QD
 Expert response:
 2S
 Expert alternative response:
-3S
+3S QS
 
+#July 2022:
 #clear LHS spade...
+# Monte prefers QS by 1 point over other spade and 3 points over offsuit.

@@ -55,6 +55,10 @@ Cards in hand:
 # Doris: 2/2
 
 Expert response:
-TC
+3S
 Expert alternative response:
+TC
 
+#July 2022:
+# Monte plays spade by 20 points!
+# I was wrong!

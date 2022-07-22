@@ -73,4 +73,7 @@ KS 5C 2C 9D
 Expert response:
 2C
 Expert alternative response:
+5C
 
+#July 2022:
+# 5C = 2C

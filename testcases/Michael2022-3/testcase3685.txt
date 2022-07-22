@@ -63,6 +63,9 @@ JS TS 7S 6S 4S JC
 # Doris: 2/2
 
 Expert response:
-4S
+JS
 Expert alternative response:
+TS
 
+#July 2022:
+# Monte likes JTS by 20 points

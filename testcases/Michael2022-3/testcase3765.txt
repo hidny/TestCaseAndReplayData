@@ -75,4 +75,8 @@ Cards in hand:
 Expert response:
 6H
 Expert alternative response:
+AD
 
+#July 2022:
+# Monte barely prefers 6H over AD. (Only 0.6 points)
+# WPMonte says is worth 0.006%, so I'll let it pass.

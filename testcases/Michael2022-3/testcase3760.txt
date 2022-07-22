@@ -50,4 +50,8 @@ TH 9H 6H 3H 2C AD 9D 6D 2D
 Expert response:
 2C
 Expert alternative response:
+TH 9H
 
+# July 2022:
+# WP monte: TH, 9H, then 2C, then AD
+# I'll pass TH, 9H and 2C

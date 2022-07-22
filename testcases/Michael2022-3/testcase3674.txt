@@ -75,4 +75,7 @@ TC 9C 3C 2C
 Expert response:
 3C
 Expert alternative response:
-2C
+2C 9C TC
+
+# July 2022:
+# Monte prefers 9C and TC by 1.2 points, but what if mellow player is human and messed up...

@@ -21,4 +21,7 @@ AS KS JH 9H 2H AC KC 5C 2C KD 9D 6D 4D
 Expert response:
 5
 Expert alternative response:
-4
+4 3
+
+#July 2022:
+#Monte likes 4 then 5 then 3, but 5 and 3 are with 1 point of each other. (and 5 points less than 4)

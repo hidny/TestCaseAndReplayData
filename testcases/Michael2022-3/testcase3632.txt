@@ -56,6 +56,10 @@ AS KS JH 9H 5C 2C 9D
 # Doris: 3/3
 
 Expert response:
-JH
+5C
 Expert alternative response:
-9H
+2C JH 9H
+
+#July 2022:
+# Monte likes club over hearts by 5 points and 0.8%...
+# I don't know why.

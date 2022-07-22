@@ -56,4 +56,8 @@ AS KS 2S QH 8H 6H KD 8D
 Expert response:
 8D
 Expert alternative response:
+QH 8H 6H
 
+#July 2022:
+# Monte prefers hearts...
+# I added it as an option.

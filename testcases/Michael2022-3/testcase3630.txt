@@ -46,6 +46,19 @@ AS KS JH 9H KC 5C 2C KD 9D
 # Doris: 2/3
 
 Expert response:
-KD
+2C
 Expert alternative response:
+5C KC 9H JH KD
 
+#July 2022:
+# I admit that I don't get it: (I thought KD)
+#KS: -10.721733333333333
+#AS: -12.736883333333333
+#9H: -7.86595
+#JH: -9.178483333333334
+#2C: -7.788866666666666
+#5C: -7.977483333333334
+#KC: -8.826516666666667
+#9D: -24.66205
+#KD: -10.148866666666667
+#AS is worst apparently.
