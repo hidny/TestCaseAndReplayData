@@ -1,4 +1,4 @@
-Your name: Michael
+Your name: Michael-Debug
 Dealer is on your left
 Score at start:
 Your Score      Their Score
