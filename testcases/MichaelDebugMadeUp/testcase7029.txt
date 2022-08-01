@@ -59,8 +59,10 @@ Cards in hand:
 Expert response:
 2H
 Expert alternative response:
-
+KD
 
 #Aug 2022:
 # AI made right choice, but this is too important.
 # AI must burn opponent mellow.
+# Apparently, you could win by leading KD then 2H...
+# Monte is a monster.
