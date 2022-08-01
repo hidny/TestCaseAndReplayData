@@ -11,7 +11,7 @@ TS 4S AH KH TH 7H 4H 3H 9C 8C 7C AD JD
 Bid history:
 Richard bid 2.
 Doris bid 3.
-Michael bid 3.
+Michael-Debug bid 3.
 Phil bid 2.
 
 
@@ -19,21 +19,21 @@ Play history:
 --new round--
 Richard played the AS.
 Doris played the JS.
-Michael played the 4S.
+Michael-Debug played the 4S.
 Phil played the 5S.
 --new round--
 Richard played the 2S.
 Doris played the QS.
-Michael played the TS.
+Michael-Debug played the TS.
 Phil played the 6S.
 --new round--
 Doris played the AC.
-Michael played the 7C.
+Michael-Debug played the 7C.
 Phil played the 2C.
 Richard played the 3C.
 --new round--
 Doris played the 2H.
-Michael played the AH.
+Michael-Debug played the AH.
 Phil played the 5H.
 Richard played the 8H.
 

@@ -3,3 +3,5 @@ testcases/tmp*
 testcases/MonteCarlo*
 testcases/garbageTestData
 testcases/lastRoundWeirdness
+testcases/new*
+testcases/TestPython

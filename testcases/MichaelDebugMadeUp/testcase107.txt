@@ -12,7 +12,7 @@ Bid history:
 Phil bid 2.
 Richard bid 3.
 Doris bid 2.
-Michael2021 bid 3.
+Michael2021-Debug bid 3.
 
 
 Play history:
