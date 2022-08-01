@@ -1,0 +1,66 @@
+Your name: Doris
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 811             504
+
+Cards dealt:
+KS QS TS 9S 3S KH JH 2H JC 5C KD 8D 7D 
+
+
+Bid history:
+Doris bid 5.
+Michael2022-3 bid mellow.
+Phil bid mellow.
+Richard bid 3.
+
+
+Play history:
+--new round--
+Doris played the KS.
+Michael2022-3 played the 8S.
+Phil played the JS.
+Richard played the 5S.
+--new round--
+Doris played the QS.
+Michael2022-3 played the 4S.
+Phil played the 7S.
+Richard played the AS.
+--new round--
+Richard played the 5H.
+Doris played the KH.
+Michael2022-3 played the QH.
+Phil played the 8H.
+--new round--
+Doris played the TS.
+Michael2022-3 played the QC.
+Phil played the 2S.
+Richard played the 6S.
+--new round--
+Doris played the 9S.
+Michael2022-3 played the 2C.
+Phil played the AH.
+Richard played the 5D.
+--new round--
+Doris played the 3S.
+Michael2022-3 played the TH.
+Phil played the 7H.
+Richard played the 4H.
+--new round--
+Doris played the JH.
+Michael2022-3 played the 9H.
+Phil played the TC.
+Richard played the QD.
+--new round--
+
+Cards in hand:
+2H JC 5C KD 8D 7D 
+
+Expert response:
+2H
+Expert alternative response:
+
+
+#Aug 2022:
+# AI made right choice, but this is too important.
+# AI must burn opponent mellow.
