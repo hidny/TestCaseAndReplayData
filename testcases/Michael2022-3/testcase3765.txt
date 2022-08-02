@@ -80,3 +80,6 @@ AD
 #July 2022:
 # Monte barely prefers 6H over AD. (Only 0.6 points)
 # WPMonte says is worth 0.006%, so I'll let it pass.
+# Don't play 9D or 6D.
+# We want to give lead to someone else so LHS may burn
+# (Monte prefers AD or 6H over low diamond by 10 points)
