@@ -20,4 +20,9 @@ AS AH 6H 5H 3H 2H AC JC 9C 8C AD KD 2D
 Expert response:
 5
 Expert alternative response:
-4
+4 3
+
+#Aug 2022:
+# Monte agrees.
+# WPMonte prefers 5 over 3 by 0.7% because...
+# I don't get it! I'll just pass it!

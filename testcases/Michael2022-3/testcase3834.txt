@@ -17,6 +17,12 @@ Cards in hand:
 
 
 Expert response:
-1
-Expert alternative response:
 2
+Expert alternative response:
+1
+
+#Aug 2022:
+# Monte agrees, except it slightly prefers 2 over 1.
+# 0.17% diff...
+# Monte thinks mellow is a terrible idea.
+# It's a 60+ point diff.

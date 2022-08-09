@@ -31,6 +31,8 @@ Expert response:
 JH
 Expert alternative response:
 
-
+# August 2022:
 # (TODO: please test)
 # Maybe it's best to keep JH and guard? I guess not?
+# Answer: no!
+# Monte agrees to throw JH by 2 points.

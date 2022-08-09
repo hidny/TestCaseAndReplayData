@@ -63,9 +63,9 @@ QS TS 7S 3S JC 4C
 # Doris: 4/3
 
 Expert response:
-3S
+JC
 Expert alternative response:
-4C
+4C TS
 
-# (TODO: please test)
-# Maybe I should NOT trump
+# August 2022:
+# Monte likes JC, then 4C, then TS (No low spades)

@@ -18,6 +18,11 @@ AS QS 7S 4S AH QH TH 9H 4H 3H 6C 3C KD
 
 
 Expert response:
-3
-Expert alternative response:
 4
+Expert alternative response:
+3 5
+
+#Aug 2022:
+# Monte agrees,
+# but WP prefers 5 over 3...
+# I'll just pass 5 because why not...

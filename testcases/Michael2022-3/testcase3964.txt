@@ -21,4 +21,10 @@ KS 7S 6S 9H 8H 3H KC TC 8C 7C 5C TD 8D
 Expert response:
 2
 Expert alternative response:
+1
 
+# Aug 2022:
+# Monte prefers 2 by 3 points,
+# but WP wants to play it safe and 
+# only prefers 2 by 0.01%
+# I'm passing both.
