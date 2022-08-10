@@ -38,6 +38,10 @@ KS JS TS 4S KH 6H 4H 2H QC 6C 5C
 # Doris: 1/3
 
 Expert response:
-TS
+4S
 Expert alternative response:
-JS
+JS TS
+
+# Aug 2022:
+# Monte barely prefers 4S, but it's just 0.03 points
+# so whatever.

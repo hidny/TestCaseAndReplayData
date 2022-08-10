@@ -68,6 +68,11 @@ KS 7S KC 8C 7C
 # Doris: 2/2
 
 Expert response:
-KC
+7C
 Expert alternative response:
+8C
 
+# Aug 2022:
+# Monte says to not play high
+# This is a no-brainer because LHS is void.
+# by 0.3 points.

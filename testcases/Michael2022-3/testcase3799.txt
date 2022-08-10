@@ -45,6 +45,10 @@ JH 9H 5H JC 2C KD JD 9D 5D 3D
 # Doris: 0/0
 
 Expert response:
-JH
+JC
 Expert alternative response:
+JH
 
+# August 2022:
+# Monte says to play JC by more than 1 point over JH.
+# I'll accept JH because I don't get it.

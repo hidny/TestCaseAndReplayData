@@ -58,8 +58,11 @@ AS QS 7S TH 9H 4H 3H
 # Doris: 3/3
 
 Expert response:
-7S
+3H
 Expert alternative response:
+4H
 
-
-# (TODO: please test)
+# Aug 2022:
+# Monte prefers playing low heart over spade by 6 points
+# My intuition was wrong.
+# Also, partner is void, so this is a no-brainer!

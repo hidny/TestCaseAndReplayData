@@ -51,4 +51,9 @@ Cards in hand:
 Expert response:
 9H
 Expert alternative response:
-9H
+8H
+
+# Aug 2022:
+# 8H = 9H
+# Also, attempt to clear a suit and defend QD.
+# by 1.5 points
