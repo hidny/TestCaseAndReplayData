@@ -61,6 +61,10 @@ Cards in hand:
 # Doris: 1/3
 
 Expert response:
-JC
+9C
 Expert alternative response:
+JC 3C
 
+#Aug 2022:
+# Monte prefers 9C by 0.04 points
+# It's super close though. Only 0.25 points diff between best and worst

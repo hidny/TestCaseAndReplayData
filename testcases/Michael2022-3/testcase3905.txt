@@ -51,6 +51,11 @@ KS JS 4S 6H 4H QC 6C 5C
 # Doris: 2/3
 
 Expert response:
-6H
+KS
 Expert alternative response:
-4H
+
+
+#Aug 2022:
+# Monte prefers KS by 7 points
+# Just drain the spades
+# 2nd place is QC

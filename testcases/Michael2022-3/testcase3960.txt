@@ -66,6 +66,11 @@ QS TS 7S JC 4C
 # Doris: 4/3
 
 Expert response:
-4C
-Expert alternative response:
 JC
+Expert alternative response:
+
+
+# Aug 2022:
+# Monte likes JC by 1 point over QS
+# I'll just pass JC
+# Maybe JC is Qequiv and agro?

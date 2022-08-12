@@ -24,6 +24,10 @@ QS 9S 7S KH 4H 6C 2C QD TD 8D 6D 5D 4D
 # Doris: 0/4
 
 Expert response:
-QD
+4D
 Expert alternative response:
-6C 2C
+5D 6D 8D 2C 6C
+
+# Aug 2022:
+# Monte likes starting with low diamond by 0.6 points
+# then low club.

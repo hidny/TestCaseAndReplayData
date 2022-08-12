@@ -36,6 +36,10 @@ Cards in hand:
 # Doris: 1/3
 
 Expert response:
-QC
+3S
 Expert alternative response:
-JH
+4S 6S 9D QC JC 7C 6C
+
+# Aug 2022:
+# Monte wants low spade by 0.5 points
+# I don't get it

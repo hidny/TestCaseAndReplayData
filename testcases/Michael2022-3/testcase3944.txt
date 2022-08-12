@@ -51,6 +51,10 @@ TH JC TC 8C 7C 3C 3D 2D
 # Doris: 0/1
 
 Expert response:
-3D
+JC
 Expert alternative response:
-2D
+TC 8C 7C
+
+# Aug 2022:
+# Monte prefers JC over diamond by 0.7 points
+# AI and I were both wrong...

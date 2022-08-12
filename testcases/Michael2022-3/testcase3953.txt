@@ -31,6 +31,11 @@ QS TS 7S 3S 2S 9H 4H JC 4C QD 7D 4D
 # Doris: 0/3
 
 Expert response:
-9H
+JC
 Expert alternative response:
-4H
+4C 2S 3S 7S
+
+# Aug 2022:
+# Monte likes to lead club and drain suit
+# Low spade is 2nd choice by almost 1 point
+# I'll be generous here because I thought 4H was good...

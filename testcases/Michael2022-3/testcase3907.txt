@@ -61,6 +61,13 @@ KS 4S 4H QC 6C 5C
 # Doris: 3/3
 
 Expert response:
-4H
+5C
 Expert alternative response:
+6C QC 4H
 
+# Aug 2022:
+# Monte likes club over 4H and KS is the worst.
+# I don't know...
+# I guess spade makes RHS too powerful
+# 4H is not much worse, (only 0.2, so I'll accept it)
+# Rest is over 1 point worse.

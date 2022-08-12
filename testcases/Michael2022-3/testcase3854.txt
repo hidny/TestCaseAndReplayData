@@ -56,6 +56,11 @@ QS 9S 7S TD 8D 6D 5D
 # Doris: 4/4
 
 Expert response:
-TD
+QS
 Expert alternative response:
-8D 6D 5D
+TD
+
+# Aug 2022:
+# Monte wants to be agro.. by 1 point over 56D
+# TD is master
+# Maybe drain RHS's AS or KS?

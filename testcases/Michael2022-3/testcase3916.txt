@@ -41,8 +41,12 @@ JS TS 4S AC QC 4C 8D 7D 6D 5D
 # Doris: 1/1
 
 Expert response:
-5D
+4S
 Expert alternative response:
-8D 7D 6D
+TS JS AC 8D
 
-# (TODO: please test)
+# Aug 2022:
+# Monte likes 4S, then TS, then JS , then AC then 8D
+# next best is 0.3 less than 9D and 8D is 1.2 points away from 4S
+# I'll be generous here.
+# OMG: 8D is master!

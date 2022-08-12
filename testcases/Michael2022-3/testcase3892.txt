@@ -54,3 +54,7 @@ Expert response:
 9D
 Expert alternative response:
 6D
+
+# Aug 2022:
+# Monte agrees to play low diamond by 10 points over low club.
+# Because: Protector has low dimond.

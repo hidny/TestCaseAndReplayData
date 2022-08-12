@@ -68,4 +68,7 @@ KH QH JH 9D 8D
 Expert response:
 KH
 Expert alternative response:
+QH JH 9D 8D
 
+# Aug 2022:
+# Monte knows LHS (phil) has mostly spade and it doesn't matter

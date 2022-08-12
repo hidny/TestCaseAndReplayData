@@ -24,6 +24,10 @@ QS TS 7S 3S 2S 9H 4H AC JC 4C QD 7D 4D
 # Doris: 0/3
 
 Expert response:
-AC
+2S
 Expert alternative response:
+3S 7S 4C 4D
 
+# Aug 2022:
+# Once again monte shows that he hates leading offsuit masters
+# Monte likes low spade by 1 point over offsuit 4C and 3 points over AC.

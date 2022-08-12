@@ -61,6 +61,10 @@ JS 7S 4S 9H 8C 7C
 # Doris: 2/3
 
 Expert response:
-9H
+4S
 Expert alternative response:
 8C 7C
+
+# Aug 2022:
+# Monte likes 4S then 7C 8C
+# 4S is 0.3 point better
