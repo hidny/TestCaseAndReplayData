@@ -50,4 +50,7 @@ Cards in hand:
 Expert response:
 JD
 Expert alternative response:
-TD
+TD 6D
+
+#Sept 2022:
+# Monte says whatever

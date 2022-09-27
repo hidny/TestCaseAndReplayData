@@ -1,0 +1,50 @@
+Your name: MichaelPlay
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 900             900
+
+Cards dealt:
+KS TS 9S 8S KH 6H 4H 3H AC QC 7C 4C 8D 
+
+
+Bid history:
+bob bid 2.
+MichaelPlay bid 4.
+Phil bid 3.
+Doris bid 1.
+
+
+Play history:
+--new round--
+bob played the JS.
+MichaelPlay played the 8S.
+Phil played the 7S.
+Doris played the 2S.
+--new round--
+bob played the 6S.
+MichaelPlay played the 9S.
+Phil played the AS.
+Doris played the 2D.
+--new round--
+Phil played the AD.
+Doris played the 7D.
+bob played the QD.
+MichaelPlay played the 8D.
+--new round--
+Phil played the KD.
+Doris played the TD.
+bob played the 2C.
+
+Cards in hand:
+KS TS KH 6H 4H 3H AC QC 7C 4C 
+
+# MichaelPlay: 0/4
+# Phil: 2/3
+# Doris: 0/1
+# bob: 1/2
+
+Expert response:
+TS
+Expert alternative response:
+

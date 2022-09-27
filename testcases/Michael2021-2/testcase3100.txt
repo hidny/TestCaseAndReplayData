@@ -45,4 +45,8 @@ JS TS 8S 3S TH 7H 9D 7D 4D 2D
 Expert response:
 TH
 Expert alternative response:
+7H
 
+#Sept 2022:
+# Monte slightly prefers 7H (0.03 points) because lhs signalled no heart
+# I say whatever

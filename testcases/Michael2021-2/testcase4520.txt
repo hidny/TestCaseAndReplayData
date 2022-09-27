@@ -85,4 +85,7 @@ QH 6H
 Expert response:
 QH
 Expert alternative response:
+6H
 
+#Sept 2022:
+# Monte says whatever

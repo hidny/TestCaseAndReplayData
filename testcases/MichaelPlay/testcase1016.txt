@@ -1,0 +1,39 @@
+Your name: MichaelPlay
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 950             953
+
+Cards dealt:
+KS QS 6S 5S 3S 9H 4H AC 7C 2C JD 7D 5D 
+
+
+Bid history:
+MichaelPlay bid 5.
+Phil bid mellow.
+Doris bid 7.
+bob bid 3.
+
+
+Play history:
+--new round--
+MichaelPlay played the 5D.
+Phil played the 2D.
+Doris played the AD.
+bob played the 6D.
+--new round--
+Doris played the 6H.
+bob played the AH.
+
+Cards in hand:
+KS QS 6S 5S 3S 9H 4H AC 7C 2C JD 7D 
+
+# MichaelPlay: 0/5
+# Phil: 0/0
+# Doris: 1/7
+# bob: 0/3
+
+Expert response:
+9H
+Expert alternative response:
+
