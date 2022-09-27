@@ -48,6 +48,9 @@ AS 2S KH KC TC 5C 2C QD 7D
 # Doris: 2/1
 
 Expert response:
-QD
+7D
 Expert alternative response:
 
+
+#Sept 2022:
+# Monte prefers 7D over QD by 0.9 points.
