@@ -64,3 +64,5 @@ Expert alternative response:
 # Aug 2022:
 # Monte agrees about the JS by 7 points, and doesn't like 4S
 # What? AHA! LHS signalled no spade!
+#voidSignalsNoActiveMellow line 327
+# and in 2nd throw: check 3rd signal void
