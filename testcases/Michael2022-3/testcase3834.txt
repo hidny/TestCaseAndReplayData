@@ -26,3 +26,6 @@ Expert alternative response:
 # 0.17% diff...
 # Monte thinks mellow is a terrible idea.
 # It's a 60+ point diff.
+# Also 2% less than not mellow
+# AI overestimates the odds of winning AKQJT
+# It's less than 30%.

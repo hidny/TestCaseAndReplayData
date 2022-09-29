@@ -23,3 +23,4 @@ Expert alternative response:
 # August 2022:
 # Monte agrees with 3 bid by 2 points.
 # Monte prefers 3 over 1 by 8 points.
+# I guess you bid high after melllow bid?
