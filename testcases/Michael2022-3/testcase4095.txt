@@ -1,0 +1,38 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 371             422
+
+Cards dealt:
+KS QS TS 6S 5S KH TH 7H KC JC 5C 4C 3C 
+
+
+Bid history:
+Richard bid 3.
+Doris bid 1.
+Michael2022-3 bid 5.
+Phil bid mellow.
+
+
+Play history:
+--new round--
+Richard played the 3H.
+Doris played the AH.
+
+Cards in hand:
+KS QS TS 6S 5S KH TH 7H KC JC 5C 4C 3C 
+
+# Michael2022-3: 0/5
+# Phil: 0/0
+# Richard: 0/3
+# Doris: 0/1
+
+Expert response:
+TH
+Expert alternative response:
+7H
+
+# Sept 2022:
+# Monte: don't waste KH.
+# play 7H then TH. 7TH is 41 points while KH is 49 points

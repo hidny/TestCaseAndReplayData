@@ -1,0 +1,27 @@
+Your name: Phil
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 889             877
+
+Cards dealt:
+JS TS 6S 4S 3S QH JH 8H 3H KC QC 7C AD 
+
+Bid history:
+Doris bid 2.
+Michael2022-3 bid mellow.
+
+
+Cards in hand:
+JS TS 6S 4S 3S QH JH 8H 3H KC QC 7C AD 
+
+
+Expert response:
+0
+Expert alternative response:
+1
+
+# Sept 2022:
+# Don't mess this up
+# The mellow might be a bluff.
+# OMG: The AI bids 9 for some reason.

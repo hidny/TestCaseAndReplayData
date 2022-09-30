@@ -1,0 +1,30 @@
+Your name: Michael2022-3
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 331             368
+
+Cards dealt:
+QS 9S 6S 9H 8H 7H 5H 4H QC TC 7C 5C 5D 
+
+
+Bid history:
+Phil bid 2.
+Richard bid 2.
+Doris bid 3.
+
+
+Cards in hand:
+QS 9S 6S 9H 8H 7H 5H 4H QC TC 7C 5C 5D 
+
+
+Expert response:
+2
+Expert alternative response:
+1
+
+#Sept 2022:
+# Monte doesn't want to play mellow here
+# by 33 points.
+# I'll take that option away
+# Order: -15, -20, -25 (for 3)

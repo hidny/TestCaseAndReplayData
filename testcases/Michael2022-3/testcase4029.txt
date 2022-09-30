@@ -1,0 +1,28 @@
+Your name: Michael2022-3
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 13              174
+
+Cards dealt:
+AS 9S 8S 3S 2S TH 5H 2H 8C 3C JD 8D 2D 
+
+
+Bid history:
+Phil bid 1.
+Richard bid 3.
+Doris bid 3.
+
+
+Cards in hand:
+AS 9S 8S 3S 2S TH 5H 2H 8C 3C JD 8D 2D 
+
+
+Expert response:
+3
+Expert alternative response:
+2
+
+#Sept 2022:
+# Monte agrees to bid 3 then 2
+# order: 12, 10, 2

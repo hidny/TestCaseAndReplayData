@@ -1,0 +1,27 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 371             422
+
+Cards dealt:
+KS QS TS 6S 5S KH TH 7H KC JC 5C 4C 3C 
+
+
+Bid history:
+Richard bid 3.
+Doris bid 1.
+
+
+Cards in hand:
+KS QS TS 6S 5S KH TH 7H KC JC 5C 4C 3C 
+
+
+Expert response:
+5
+Expert alternative response:
+4
+
+#Sept 2022:
+# Monte agrees with my accessment.
+# 59, 55, 50 (for bid of 3)

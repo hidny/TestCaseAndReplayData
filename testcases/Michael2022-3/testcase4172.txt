@@ -1,0 +1,25 @@
+Your name: Michael2022-3
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 682             793
+
+Cards dealt:
+AS 6S AH KH 8H 6H 2H QC 3C AD KD QD 2D 
+
+
+Bid history:
+
+
+Cards in hand:
+AS 6S AH KH 8H 6H 2H QC 3C AD KD QD 2D 
+
+
+Expert response:
+5
+Expert alternative response:
+4
+
+# Sept 2022:
+# Monte prefers 4 over 5 by 3 points
+# They are both good options.

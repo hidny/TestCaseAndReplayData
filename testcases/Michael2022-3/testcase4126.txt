@@ -1,0 +1,60 @@
+Your name: Michael2022-3
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 564             617
+
+Cards dealt:
+TS 9S 6S 3S 2S TH 9H 8H 2H TC 8C 2C 6D 
+
+
+Bid history:
+Michael2022-3 bid 2.
+Phil bid 1.
+Richard bid 4.
+Doris bid 2.
+
+
+Play history:
+--new round--
+Michael2022-3 played the 2S.
+Phil played the 4S.
+Richard played the QS.
+Doris played the AS.
+--new round--
+Doris played the QH.
+Michael2022-3 played the 2H.
+Phil played the KH.
+Richard played the AH.
+--new round--
+Richard played the AD.
+Doris played the 2D.
+Michael2022-3 played the 6D.
+Phil played the 3D.
+--new round--
+Richard played the AC.
+Doris played the 6C.
+Michael2022-3 played the 2C.
+Phil played the 3C.
+--new round--
+Richard played the 9D.
+Doris played the TD.
+Michael2022-3 played the 3S.
+Phil played the 4D.
+
+Cards in hand:
+TS 9S 6S TH 9H 8H TC 8C 
+
+# Michael2022-3: 1/2
+# Phil: 0/1
+# Richard: 3/4
+# Doris: 1/2
+
+Expert response:
+TC
+Expert alternative response:
+8C 6S 9S TS TH
+
+#Sept 2022:
+# Monte prefers to lead spade then the TH
+

@@ -1,0 +1,24 @@
+Your name: Michael2022-3
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 564             617
+
+Cards dealt:
+TS 9S 6S 3S 2S TH 9H 8H 2H TC 8C 2C 6D 
+
+
+Bid history:
+
+
+Cards in hand:
+TS 9S 6S 3S 2S TH 9H 8H 2H TC 8C 2C 6D 
+
+
+Expert response:
+2
+Expert alternative response:
+
+#Sept 2022:
+# Monte agrees with the 2 bid by 7 points over 3
+# and 6 points over 1.

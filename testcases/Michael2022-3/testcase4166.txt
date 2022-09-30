@@ -1,0 +1,68 @@
+Your name: Michael2022-3
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 641             722
+
+Cards dealt:
+TS 9S 2S AH 9H 6H 4H QC JC 6C 7D 5D 2D 
+
+
+Bid history:
+Doris bid 4.
+Michael2022-3 bid 2.
+Phil bid 3.
+Richard bid 2.
+
+
+Play history:
+--new round--
+Doris played the AC.
+Michael2022-3 played the 6C.
+Phil played the 2C.
+Richard played the 7C.
+--new round--
+Doris played the AD.
+Michael2022-3 played the 2D.
+Phil played the TD.
+Richard played the 4D.
+--new round--
+Doris played the 5C.
+Michael2022-3 played the QC.
+Phil played the 4C.
+Richard played the 9C.
+--new round--
+Michael2022-3 played the JC.
+Phil played the 8C.
+Richard played the TC.
+Doris played the 3C.
+--new round--
+Michael2022-3 played the AH.
+Phil played the 7H.
+Richard played the 2H.
+Doris played the 5H.
+--new round--
+Michael2022-3 played the 7D.
+Phil played the JD.
+Richard played the KD.
+Doris played the 3D.
+--new round--
+Richard played the KC.
+Doris played the 6D.
+
+Cards in hand:
+TS 9S 2S 9H 6H 4H 5D 
+
+# Michael2022-3: 3/2
+# Phil: 0/3
+# Richard: 1/2
+# Doris: 2/4
+
+Expert response:
+5D
+Expert alternative response:
+
+#Sept 2022:
+#Monte 5D by 1 point over 89S
+#Maybe partner wanted you to trump?
+# answer: nope! It's not that sophisticated yet :(

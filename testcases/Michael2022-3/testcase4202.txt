@@ -1,0 +1,51 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 813             868
+
+Cards dealt:
+KS 9S 8S 5S 4S KH 6H 9C 8C AD QD JD 2D 
+
+
+Bid history:
+Richard bid 2.
+Doris bid 1.
+Michael2022-3 bid 4.
+Phil bid 1.
+
+
+Play history:
+--new round--
+Richard played the AH.
+Doris played the 3H.
+Michael2022-3 played the 6H.
+Phil played the 2H.
+--new round--
+Richard played the AS.
+Doris played the JS.
+Michael2022-3 played the 4S.
+Phil played the 2S.
+--new round--
+Richard played the JH.
+Doris played the 5H.
+Michael2022-3 played the KH.
+Phil played the 4H.
+
+Cards in hand:
+KS 9S 8S 5S 9C 8C AD QD JD 2D 
+
+# Michael2022-3: 1/4
+# Phil: 0/1
+# Richard: 2/2
+# Doris: 0/1
+
+Expert response:
+AD
+Expert alternative response:
+9C 8C JD QD KS
+
+#Sept 2022:
+# Monte prefers JD over AD by 0.06 points, so I'll add as option
+# Monte also likes KS
+# I don't get why JD > QD (by 0.6 points), so I'll add QD as an option

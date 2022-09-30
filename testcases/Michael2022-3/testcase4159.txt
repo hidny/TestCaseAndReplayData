@@ -1,0 +1,26 @@
+Your name: Michael2022-3
+Dealer is your partner opposite you.
+Score at start:
+Your Score      Their Score
+ 641             722
+
+Cards dealt:
+TS 9S 2S AH 9H 6H 4H QC JC 6C 7D 5D 2D 
+
+
+Bid history:
+Doris bid 4.
+
+
+Cards in hand:
+TS 9S 2S AH 9H 6H 4H QC JC 6C 7D 5D 2D 
+
+
+Expert response:
+2
+Expert alternative response:
+1
+
+# Sept 2022:
+# Monte prefers bidding 1 by 1 point,
+# so I'll add it as an option.
