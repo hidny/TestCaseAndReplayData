@@ -66,4 +66,8 @@ TS 7S 4S 5H TC
 Expert response:
 5H
 Expert alternative response:
-TC
+TC TS
+
+#Oct 2022:
+# Maybe just trust partner?
+# I don't know...

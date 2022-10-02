@@ -76,6 +76,8 @@ Cards in hand:
 Expert response:
 7D
 Expert alternative response:
-5D 3D
+5D 3D 3S
 
 #Don't take lead because you have no real hope of burning mellow
+# OCT 2022:
+# Monte wants to take it, but I still don't, so I'll just pass everything
