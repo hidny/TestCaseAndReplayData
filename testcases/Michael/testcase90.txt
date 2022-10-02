@@ -71,4 +71,7 @@ KS 6S 5H KD
 Expert response:
 5H
 Expert alternative response:
-6S
+6S KS KD
+
+#Oct 2022:
+# This test case is ridiculous

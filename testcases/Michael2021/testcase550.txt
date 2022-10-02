@@ -38,8 +38,10 @@ QS JS 7S 4S 9H 2C KD QD JD 9D 8D
 # Doris: 1/1
 
 Expert response:
-QS
+4S
 Expert alternative response:
-JS
+ 
 
 #I'm not 100% sure the computer made a mistake here...
+#Oct 2022:
+# Monte prefers 4S by 10 points

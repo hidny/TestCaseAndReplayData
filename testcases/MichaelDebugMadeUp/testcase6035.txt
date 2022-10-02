@@ -1,11 +1,11 @@
-Your name: Michael2022-3
-Dealer is your partner opposite you.
+Your name: Richard
+You are the Dealer
 Score at start:
 Your Score      Their Score
- 641             722
+ 577             692
 
 Cards dealt:
-TS 9S 2S AH 9H 6H 4H QC JC 6C 7D 5D 2D 
+AS JH TH 8H 3H 2H KC TC 9C 7C KD 8D 4D
 
 
 Bid history:
@@ -47,26 +47,16 @@ Phil played the JD.
 Richard played the KD.
 Doris played the 3D.
 --new round--
-Richard played the KC.
-Doris played the 6D.
+
 
 Cards in hand:
-TS 9S 2S 9H 6H 4H 5D 
-
-# Michael2022-3: 3/2
-# Phil: 0/3
-# Richard: 1/2
-# Doris: 2/4
+AS JH TH 8H 3H KC 8D
 
 Expert response:
-5D
+3H
 Expert alternative response:
-9S TS
+8H JH TH
 
-#Sept 2022:
-#Monte 5D by 1 point over 89S
-#Maybe partner wanted you to trump?
-# answer: nope! It's not that sophisticated yet :(
-# It turns out that the partner played badly
-# Maybe 9TS is good is you trust your partner?
-# I'll just pass it.
+#OCT 2022:
+# Should Richard really lead 13th club?
+# Monte: no. Play heart by 15 points

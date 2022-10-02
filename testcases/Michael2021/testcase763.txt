@@ -63,6 +63,9 @@ Cards in hand:
 # Doris: 2/4
 
 Expert response:
-9S
+6S
 Expert alternative response:
+9S
 
+#Oct 2022:
+# Monte prefers playing low by 4 points
