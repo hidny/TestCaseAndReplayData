@@ -58,8 +58,13 @@ JH 3H 2H TC 7D 5D 4D
 Expert response:
 3H
 Expert alternative response:
-2H 4D 5D 7D
+2H 4D 5D 7D TC
 
 #Sept 2022:
 # Monte prefers to lead diamond over hearts
 # for some reason (by 2 points)
+# Oct 2022:
+# I don't get what's wrong with TC.
+# It's feeding your partner a free trick...
+# I'm ignoring Monte's advice and passing TC.
+# (Monte thinks it's the worst by 3 points)

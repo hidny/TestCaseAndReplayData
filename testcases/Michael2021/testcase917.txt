@@ -54,6 +54,11 @@ Cards in hand:
 # Doris: 0/0
 
 Expert response:
-JC
-Expert alternative response:
 6D
+Expert alternative response:
+JC 5H
+
+# Oct 2022:
+# Monte prefers 6D over JC by 13 points, but I don't get it.
+# (Double mellow case)
+# Monte prefers 6D over 5H by only 9 points

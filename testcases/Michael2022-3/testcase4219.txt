@@ -63,10 +63,12 @@ Cards in hand:
 Expert response:
 2S
 Expert alternative response:
-8D TD
+8D TD 9C 8C 6C
 
 #Sept 2022:
 # Monte really doesn't like 68C. Anything but that!
 # It prefers leading spade by 1 point
 # Maybe because partner could take lead after spades is led.
 # It also doesn't mind 8TD as much as club. (Still 0.3 points less than 2S)
+# Oct 2022:
+# Doris probably has QD because of the KD sac, so don't lead D even though monte says to do it.

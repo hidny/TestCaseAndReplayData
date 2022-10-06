@@ -39,3 +39,4 @@ QC 3C QD
 # Monte prefers leading QC then 3C, then QD then finally my choice of KD
 # other choices are 0.4 points less than KD
 # QD to confuse partner and everyone else?
+# AHA: Plan: trump with 6S, then lead AS, then lead AH.

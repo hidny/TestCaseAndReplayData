@@ -48,6 +48,10 @@ Cards in hand:
 # Doris: 3/8
 
 Expert response:
-9H
+TC
 Expert alternative response:
+9H 8H
 
+#Oct 2022:
+# Monte prefer TC over 9H by 4 points
+# (Double mellow case)

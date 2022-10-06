@@ -53,10 +53,15 @@ AH JH 3H 2H TC 7D 5D 4D
 Expert response:
 AH
 Expert alternative response:
-7D 5D 4D 2H 3H
+7D 5D 4D 2H 3H TC
 
 #Sept 2022:
 # Monte prefers to lead diamond by 1 point over low hearts
 # clubs is worse by 4 points for some reason.
 # and 5 points over AH
 # I don't get it though
+# Oct 2022:
+# I don't get what's wrong with TC.
+# It's feeding your partner a free trick...
+# I'm ignoring Monte's advice and passing TC.
+# (Monte thinks it's the worst by 3 points) (Same as 3-4140)

@@ -65,3 +65,4 @@ Expert alternative response:
 # 5S = -17.6, 6S = -19.4, TS = -21.5
 # Give partner a chance to burn the mellow?
 # Mellow is safe in clubs.
+# If you lead club, mellow might throw a heard or diamond, and we don't want that.

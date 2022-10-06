@@ -38,9 +38,8 @@ AS 6S AH KH 8H 6H 2H QC 3C QD 2D
 Expert response:
 QD
 Expert alternative response:
-AS QC 3C KH AH
+AS QC 3C
 
 # Sept 2022:
 # Monte prefers AS then QC then 3C, then kH, then AH, then QD
-# I'll just pass all of them because I'm
-# confused. 
+# AHA: Plan: trump with 6S, then lead AS, then lead AH.

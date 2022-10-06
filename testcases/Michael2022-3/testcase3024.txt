@@ -69,4 +69,5 @@ Expert alternative response:
 
 #April 2022:
 # Monte likes not taking from partner by 8 points
-
+# Oct 2022:
+# It's now a 10 point diff.

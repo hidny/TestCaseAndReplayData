@@ -68,3 +68,5 @@ Expert alternative response:
 # Maybe TD was the way to go?
 # Monte confirmed diamond is 8 points better
 # than hearts (you have 2 kequiv diamonds)
+# Oct 2022:
+# It's now 9 points

@@ -43,6 +43,13 @@ TH 9H 6H 3H QC 2C AD 9D 6D 2D
 # Doris: 2/5
 
 Expert response:
-QC
+AD
 Expert alternative response:
+QC TH 9H
 
+
+# Oct 2022:
+# Monte prefers AD over 9H by 17 points
+# Monte prefers AD over QC by 10 points
+# but I'll pass all three, because why not.
+# (Double mellow case)

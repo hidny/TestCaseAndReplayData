@@ -58,9 +58,12 @@ QS 2S 9C 8C 6C TD 8D
 Expert response:
 QS
 Expert alternative response:
-8D TD
+8D TD 9C 8C 6C
 
 #Sept 2022:
 # Monte prefers T8D over QS by 0.5 because RHS can't trump
 # I'll just add 8TD as options
 # Monte wrongly thinks RHS is void in diamonds though.
+# Oct 2022:
+# What Monte doesn't know is that Doris has a high chance of having the QD, so I'm not sure.
+# Monte prefers 8D TD then QS, but I'm still going to pass club because it makes sense to me.

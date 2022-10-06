@@ -45,3 +45,7 @@ Expert response:
 TD
 Expert alternative response:
 7D 6D
+
+#Oct 2022:
+# Monte prefers TD over 76D, but I can't wrap my head around it
+# So I'll just pass it.
