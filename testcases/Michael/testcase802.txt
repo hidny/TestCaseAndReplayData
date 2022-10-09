@@ -66,7 +66,9 @@ Cards in hand:
 Expert response:
 QD
 Expert alternative response:
-6S
+6S 7H 8H
 
 #Lead S to get rid of 2 of their spades
 #(Opponents currently have 5S between them)
+#OCT 2022:
+# Monte says it's all the same.

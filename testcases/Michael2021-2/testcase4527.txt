@@ -51,6 +51,10 @@ KS KH 9H 5H 9C 8C JD 5D
 # Doris: 0/2
 
 Expert response:
-9C
+KS
 Expert alternative response:
-8C
+9C
+
+# Oct 2022:
+# Monte says KS then 9C by 2.5 points
+# And 8C is worse.

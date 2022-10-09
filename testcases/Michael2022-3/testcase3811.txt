@@ -38,8 +38,10 @@ Cards in hand:
 Expert response:
 3S
 Expert alternative response:
-4S 6S 9D QC JC 7C 6C
+4S 6S QC 8D 7C 6C
 
 # Aug 2022:
 # Monte wants low spade by 0.5 points
 # I don't get it
+# Oct 2022:
+# I still don't get it, but QC is only 0.28 points worse now.

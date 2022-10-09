@@ -46,3 +46,5 @@ Expert alternative response:
 
 #March 2022:
 #Monte agrees to feed partner diamond, but only by 0.4 points over 8C.
+#Oct 2022:
+#now it's a 1 point diff

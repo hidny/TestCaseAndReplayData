@@ -63,7 +63,12 @@ AS KH 8H 6H 2H 2D
 Expert response:
 AS
 Expert alternative response:
+KH
 
 #Sept 2022:
 # Monte agrees to lead AS over KH by 2 points
 # Maybe to make opponents void in spade?
+# Oct 2022:
+# Monte says the gap is now only 0.08 points
+# I'll be nice and add KH as an option
+# (Though AI now leads AS)

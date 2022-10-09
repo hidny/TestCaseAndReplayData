@@ -36,6 +36,11 @@ QS 6S JH 7H 3H JC TC 9C 6C 2C QD
 # Doris: 0/1
 
 Expert response:
-JC
+QD
 Expert alternative response:
-TC 9C QD
+QS JC TC 9C 
+
+#Oct 2022:
+# Monte now likes QD and QS about equally.
+# Monte then slightly prefers high club,
+# but QD and QS are over 1 point more than anything else.

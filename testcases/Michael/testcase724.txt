@@ -64,6 +64,11 @@ Cards in hand:
 6S QC 4D 2D 
 
 Expert response:
-4D
+6S
 Expert alternative response:
-2D
+
+
+#OCT 2022:
+# I guess we could assume partner has KC or no club?
+# but opponent threw off club... TODO
+# Monte prefers the 6S by 2.5 points over other options (other options are about the same)

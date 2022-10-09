@@ -58,6 +58,7 @@ TS 7H 5H 3H 2H JC 7C
 Expert response:
 JC
 Expert alternative response:
+7C
 
 #May 2022:
 # Monte agrees to lead JC by 3 points
@@ -68,3 +69,6 @@ Expert alternative response:
 # likely to get trumped over. (RHS bid 4)
 # and there's only 1 more heart.
 # And/or LHS might get a really easy trick.
+# Oct 2022:
+# Monte: JC by 3 points
+# It got fixed somehow...

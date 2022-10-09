@@ -51,6 +51,12 @@ AS QS 8S 7S 5H JC 9C 8D
 # Doris: 2/2
 
 Expert response:
-8D
-Expert alternative response:
 AS
+Expert alternative response:
+5H
+
+#OCT 2022:
+# Monte prefers AS over 5H by 2 points
+# (Partner either has QH or is void)
+# I feel that because the 3rd choice is 5 points less than 5H,
+# 5H seems good, I'll leave it as an option.

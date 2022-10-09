@@ -51,6 +51,8 @@ AS TC 6C 4C 3C QD 6D 4D
 # Doris: 0/1
 
 Expert response:
-6D
+AS
 Expert alternative response:
-4D
+
+#Oct 2022:
+# Monte agrees to play AS by 1 point

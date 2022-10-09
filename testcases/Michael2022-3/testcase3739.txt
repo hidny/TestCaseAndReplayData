@@ -71,6 +71,10 @@ JS TH 8H 4C
 # Doris: 2/4
 
 Expert response:
-TH
+4C
 Expert alternative response:
-8H
+8H TH
+
+#Oct 2022:
+# Monte says to play 4C because it thinks partner has 
+# master club.

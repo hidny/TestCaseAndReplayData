@@ -63,9 +63,14 @@ QH TH 9H 5H 8D 6D
 Expert response:
 5H
 Expert alternative response:
+6D 8D
 
 #Nov 2021:
 #Current version of Monte doesn't get it
 #Partner signalled master H
 #Monte thinks it's all the same though
 #I still think 5H is the best 
+#Oct 2022:
+# Monte says 68D come in close 2nd by 0.02 points
+# so I'll add them as options
+# Maybe LHS won't trump on 5H even though he should?

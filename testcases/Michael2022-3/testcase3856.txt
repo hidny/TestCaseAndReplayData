@@ -72,3 +72,7 @@ Expert alternative response:
 
 #Prob best to give away trick here...
 #This is based on what happened in the game.
+#OCT 2022:
+# Monte agrees by 3 points over 9S.
+# (7S is worse than 9S by 5 points over 9S)
+# I made this a new test case...
