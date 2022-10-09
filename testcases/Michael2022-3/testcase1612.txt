@@ -79,3 +79,6 @@ Expert response:
 2H
 Expert alternative response:
 7H
+
+#Oct 2022:
+#Don't lead S because you'll win it...

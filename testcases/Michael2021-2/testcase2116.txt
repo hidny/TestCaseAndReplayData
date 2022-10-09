@@ -70,3 +70,5 @@ JS
 Expert alternative response:
 
 #Play master because it's 12 bid and protector doesn't have their tricks (0)
+#OCT 2022:
+#over 10 point diff.

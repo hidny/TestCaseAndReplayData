@@ -76,8 +76,12 @@ Cards in hand:
 # Doris: 5/6
 
 Expert response:
-TD
+6H
 Expert alternative response:
+TD
 
 #Play master because it's 12 bid and protector doesn't have their tricks (2)
 #Also mellow doesn't have hearts
+
+#Oct 2022:
+# Monte now likes 6H over TD by 6 points

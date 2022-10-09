@@ -66,3 +66,11 @@ Expert alternative response:
 AC KC JC KD TD 
 
 #I don't know.
+# Oct 2022:
+# For what it's worth, Monte prefers 8D but only after 0 skips.
+# JC: -14.103006434931801
+# KC: -14.18605495002853
+# AC: -14.197035718691419
+# 8D: 1.4524153107928104
+# TD: -0.7468556967281854
+# KD: -11.306194423715827

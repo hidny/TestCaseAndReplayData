@@ -73,6 +73,9 @@ Cards in hand:
 Expert response:
 JD
 Expert alternative response:
+TD
 
 #Play master because it's 12 bid and protector doesn't have their tricks
 #Also mellow doesn't have hearts
+# Oct 2022:
+# Monte agrees by 7, but is confused about what's going on...

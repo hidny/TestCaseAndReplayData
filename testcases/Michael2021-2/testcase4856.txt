@@ -79,3 +79,6 @@ Expert alternative response:
 #Dec 2021:
 #Monte just wants you to play any heart.
 #Don't help opponent mellow by leading JS.
+# Oct 2022:
+# Monte agrees by over 80 points.
+#But that's with no skipping, (Monte had to ignore signals for this to be checked)
