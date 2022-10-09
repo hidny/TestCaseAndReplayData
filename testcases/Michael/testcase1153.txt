@@ -64,11 +64,14 @@ Cards in hand:
 9S TC 9C KD 
 
 Expert response:
-9S
-Expert alternative response:
 TC
+Expert alternative response:
+
 
 #June 22nd, 2021: computer played 9S, and I liked it.
 #Anything else just feeds the opponent on RHS (Doris)
 #Maybe TC is ok because partner knows I'm feeding RHS?
 #Monte carlo agrees with me... barely
+#Oct 2022:
+# Monte doesn't get this test case. It had to no-skip
+# Monte now avoids leading spade and leads TC by 0.2 points
