@@ -19,6 +19,9 @@ AS KS QS TS 8S 4S KH 7H TC 5C KD 6D 3D
 
 
 Expert response:
-6
+7
 Expert alternative response:
-5 7
+6
+
+#Oct 2022:
+# Monte actually prefers 7 over 6 by 6 points and 6 over 5 by 9 points.

@@ -18,6 +18,8 @@ Cards in hand:
 Expert response:
 0
 Expert alternative response:
-1 2
+
 
 #I felt like saying mellow, but it might not be the best choice because of the 3 kings.
+# OCT 2022:
+# Monte also likes mellow over saying 2 by 26 points. 2 is only better than 1 by 1.5 poitns

@@ -18,4 +18,8 @@ AS TS 9S 6S 3S TH 8H 7H AC JC 8C TD 2D
 Expert response:
 4
 Expert alternative response:
-3 5
+3
+
+#OCT 2022:
+# Monte likes 4 bid over 3 by 7 points and 3 over 2 by 1 point
+# I'll pass 3 because WP monte likes 3 too (but not as much as 4)
