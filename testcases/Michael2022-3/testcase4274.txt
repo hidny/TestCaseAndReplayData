@@ -38,6 +38,9 @@ AS 2S 7H 6H 5C 3C AD KD JD 8D 7D
 # Doris: 1/1
 
 Expert response:
-AS
+2S
 Expert alternative response:
+AS
 
+#Oct 2022:
+# Monte slighly prefers playing low by 0.02 points to 0.2 points

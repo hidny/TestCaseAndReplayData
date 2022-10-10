@@ -29,10 +29,11 @@ KS TS AH 6H 4H 7C 6C 4C AD KD 9D 5D 2D
 # Doris: 0/2
 
 Expert response:
-KS
-Expert alternative response:
 TS
+Expert alternative response:
+KS
 
 #Oct 2022:
 # TODO: trust your partner?
 # Monte won't get this test case...
+# Monte currently likes KS by 1.8 points, but I'd like it redone with an improved monte.

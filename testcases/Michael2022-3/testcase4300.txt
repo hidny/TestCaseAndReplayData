@@ -41,3 +41,6 @@ Expert response:
 5H
 Expert alternative response:
 
+#OCT 2022:
+# Monte actually prefers 5H over 4H by 0.1 to 0.2 points.
+# I guess it confuses? I guess I'll fix it...

@@ -32,4 +32,9 @@ KS QS 6S 5S 9H 8H TC 3C QD JD TD 4D 3D
 Expert response:
 6S
 Expert alternative response:
-5S KS QS
+5S
+
+#Oct 2022:
+# Monte prefers 56S over KQS by 0.5 poitns
+# It also prefers 6S...
+# I'll just pass the 56S

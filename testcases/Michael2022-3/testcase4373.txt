@@ -80,4 +80,7 @@ JS 9S AC
 Expert response:
 9S
 Expert alternative response:
+JS
 
+# Oct 2022:
+# Monte says JS is the same as 9S

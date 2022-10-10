@@ -60,6 +60,13 @@ QS 5S TC 3C QD JD TD
 # Doris: 0/0
 
 Expert response:
-QS
+5S
 Expert alternative response:
+TC 3C QD JD TD QS
 
+# On second thought, I bet not wasting the QS is better here...
+# Oct 2022:
+# Monte says that QS is about 200 points worse than anything else...
+# no-skip Monte agrees to not play the QS. (QS is -91 while Everything else is about equal at -39 and -38)
+# I'll trust monte this time...
+# But I don't get it...

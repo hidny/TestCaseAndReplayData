@@ -80,4 +80,6 @@ Cards in hand:
 Expert response:
 7H
 Expert alternative response:
+JD 8D
 
+#They are all low cards with no hope of making a trick

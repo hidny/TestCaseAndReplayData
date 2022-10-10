@@ -62,4 +62,8 @@ KS QS 6S 3S JH TH 6H
 Expert response:
 3S
 Expert alternative response:
+6S
 
+#Oct 2022:
+# Monte agrees that 3S=6S, and also says that 3S=6S=QS=KS
+# I'm still failing KS and QS.

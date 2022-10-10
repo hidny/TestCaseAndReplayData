@@ -45,6 +45,10 @@ KS QS 5S TC 3C QD JD TD 4D 3D
 # Doris: 0/0
 
 Expert response:
-KS
+5S
 Expert alternative response:
-QS
+KS QS 
+
+#Oct 2022:
+# Monte likes to throw 5S because there's not much hope to burn mellow in
+# spade by 0.3 points. I'll pass KQS because I still like that choice.

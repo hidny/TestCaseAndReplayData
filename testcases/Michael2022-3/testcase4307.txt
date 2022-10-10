@@ -75,6 +75,9 @@ Cards in hand:
 # Doris: 3/3
 
 Expert response:
-KD
+8C
 Expert alternative response:
+4H 5C KD
 
+#Oct 2022:
+#Monte says it's all the same
