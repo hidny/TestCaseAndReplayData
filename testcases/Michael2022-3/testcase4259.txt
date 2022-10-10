@@ -1,0 +1,35 @@
+Your name: Michael2022-3
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 104             -7
+
+Cards dealt:
+AS KS QS TS 8S 4S KH 7H TC 5C KD 6D 3D 
+
+
+Bid history:
+Phil bid 1.
+Richard bid 1.
+Doris bid 2.
+Michael2022-3 bid 6.
+
+
+Play history:
+--new round--
+Phil played the AC.
+Richard played the 2C.
+Doris played the 3C.
+
+Cards in hand:
+AS KS QS TS 8S 4S KH 7H TC 5C KD 6D 3D 
+
+# Michael2022-3: 0/6
+# Phil: 0/1
+# Richard: 0/1
+# Doris: 0/2
+
+Expert response:
+5C
+Expert alternative response:
+TC
