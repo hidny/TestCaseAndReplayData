@@ -76,6 +76,10 @@ JS QD TD
 # Doris: 3/3
 
 Expert response:
-TD
+JS
 Expert alternative response:
+QD
 
+#Oct 2022:
+# Monte wants JS then QD (by 0.1 points) then TD (by 0.5 points)
+# I thought TD was good :( 

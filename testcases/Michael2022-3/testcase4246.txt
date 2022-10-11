@@ -24,6 +24,10 @@ TS 9S 5S JH 7H AC JC 9C 6C 4C AD 8D 4D
 # Doris: 0/3
 
 Expert response:
-AC
+JH
 Expert alternative response:
+7H 6C 9C 4D 8D AC
 
+# Oct 2022:
+# Monte likes H and low D
+# and then AC over AD by 0.2 points

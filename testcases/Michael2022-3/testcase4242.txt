@@ -71,6 +71,10 @@ QS JS 7S KH
 # Doris: 4/3
 
 Expert response:
-KH
+QS
 Expert alternative response:
+JS KH
 
+#OCT 2022:
+# I played KH, but monte slightly prefers JQS by 0.4 points
+# Monte doesn't like 7S (6 point diff)

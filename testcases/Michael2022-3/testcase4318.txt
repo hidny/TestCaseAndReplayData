@@ -63,6 +63,10 @@ KS 8S 6H 5H 8C 6C
 Expert response:
 6H
 Expert alternative response:
-5H 8C 6C KS
+5H
 
-# TODO: no idea what to lead
+# OCT 2022:
+# Monte is saying 56H then 6C by 0.3 (and KS is 0.6 points worse than 56H)
+# My 6H guess was right!
+# I don't get it though... Maybe because there's lots of H?
+# Or we're giving RHS the lead? (RHS needs 3 more tricks)

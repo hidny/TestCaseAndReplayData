@@ -43,4 +43,9 @@ Cards in hand:
 Expert response:
 3S
 Expert alternative response:
-4S
+4S 7S
+
+# Oct 2022:
+# Monte agrees to lead 34S. Monte also says 7S is good too.
+# 9S is only slightly worse by 0.15 points
+# Drain LHS's spade and partner led spade in first place...

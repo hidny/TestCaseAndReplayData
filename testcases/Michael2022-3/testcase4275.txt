@@ -41,6 +41,11 @@ Cards in hand:
 # Doris: 1/1
 
 Expert response:
-5C
+KD
 Expert alternative response:
-3C
+AD 5C 3C  
+
+#Oct 2022:
+# Monte prefers KD then AD (by 0.6 points)
+# Maybe LHS won't trump KD? Weird...
+# And then it likes my choice of 35C.

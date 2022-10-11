@@ -33,4 +33,11 @@ TS AH 6H 4H 7C 6C 4C AD KD 9D 5D 2D
 Expert response:
 TS
 Expert alternative response:
+4H 6H
 
+#Oct 2022:
+# Monte agrees to lead TS over 46H by 0.3 points. 
+# 46H is better than Aces by at least 0.4 points
+# Also, monte doesn't really know that partner probably wants us to play spade.
+# Update: WP Monte prefers 46H for some reason... so I'll add it as an option.
+#TODO WP MONTE

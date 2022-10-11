@@ -68,5 +68,11 @@ Cards in hand:
 Expert response:
 9S
 Expert alternative response:
+7S 4S
 
-#TODO
+#OCT 2022:
+# Monte agrees with 9S by 0.08 points over 4S and 7S.
+# 9S is also 0.8 points more than 6H
+# I guess it applies more pressure? 
+# I'll be nice and pass 47S because I don't get it.
+# Hope to drain opponents spade.

@@ -33,4 +33,12 @@ KS QS 6S 3S 2S JH TH 6H 4H JC TD 3D
 Expert response:
 JC
 Expert alternative response:
+KS 2S 3S 6S QS 4H 6H
+
+#Oct 2022:
+# I originally liked JC,
+# but monte prefers KS by almost 1 point.
+# In fact, Monte prefers everything I put in the alt-reponse list over JC.
+# This shows how little I know...
+# Maybe JTH could eventually become master? I don't know...
 

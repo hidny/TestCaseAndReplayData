@@ -36,6 +36,11 @@ KS QS 6S 3S 2S JH TH 6H 4H TD 3D
 # Doris: 0/1
 
 Expert response:
-2S
+KS
 Expert alternative response:
-3S 6S
+QS
+
+#Oct 2022:
+# Monte prefers to be agro and lead the KQS by 0.8 points over 23S
+# Monte agrees to play spade by 0.05 over 46H
+# (worse spade (6S) is 0.05 points more than leading low heart)

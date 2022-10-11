@@ -36,6 +36,12 @@ AS KS 8S 7S QH 6H 5H 2H TC 8C 6C
 # Doris: 0/3
 
 Expert response:
-QH
+6H
 Expert alternative response:
-6H 5H 2H TC 8C 6C
+5H 2H TC 8C 6C
+
+#OCT 2022:
+# Monte doesn't like QH, It likes low heart and then low C by 1 points
+# (AS is less than low heart by 2 points)
+# Not spade. I guess we're hoping to trump on D?
+# It's possible that AS is ok if we lead low heart after leading AS...

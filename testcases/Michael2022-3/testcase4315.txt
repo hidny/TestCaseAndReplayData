@@ -48,4 +48,10 @@ AS KS 8S 6H 5H 2H TC 8C 6C
 Expert response:
 TC
 Expert alternative response:
-8C 6C
+8C 6C KS
+
+#OCT 2022:
+# Monte first said TC by 0.2 points over KS, but then said KS by 0.1 points
+# I'll pass both. Maybe monte isn't as precise as I thought...
+# AS is much worse than KS for some reason... (1.8 points)
+# 6C isn't much worse than TC (0.3 point), but I don't get it, so I'll pass 6C.

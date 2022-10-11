@@ -63,4 +63,11 @@ Cards in hand:
 Expert response:
 TD
 Expert alternative response:
-JD QD
+JD QD 3C TC
+
+#Oct 2022:
+# Monte is saying to play anything but spade (by almost 50 points)
+# I guess we really don't want to burn 40.
+# Though it very slightly prefers D, it's too close to call.
+# WP Monte likes C for some reason.
+# I guess the opponents making the mellow doesn't matter here.

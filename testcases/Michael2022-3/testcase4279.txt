@@ -63,4 +63,8 @@ Cards in hand:
 Expert response:
 AD
 Expert alternative response:
+KD
 
+#Oct 2022:
+# Monte like KD over 7H by 1.2 points. (AD is not much worse than KD: it's only 0.3 points)
+# I guess there's a higher chance of making KD and not having partner waste a spade.
