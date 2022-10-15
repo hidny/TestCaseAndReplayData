@@ -63,8 +63,14 @@ AH
 #Also, waste 9H because mellow signalled only hearts lower than 9H
 #AH and 9H have the same value, but AH signals that you're sacrificing a trick
 #but you're not doing that, so it confuses your partner.
+
 #April 2022:
 #Bids don't make sense to monte
 # Maybe ask monte to ignore all bids except for the mellow?
 # I'll add monte's suggestion of playing the AH because it's starting to make sense
 # to me.
+
+#Oct 2022:
+# Monte's retry without bid filter says to play AH (-108) then 9H (-112)
+# then KD (-114)
+# It's the same as my orig accessment except AH is preferred over 9H

@@ -65,3 +65,6 @@ Expert alternative response:
 #April 2022:
 # Monte prefers to throw diamond by 0.1 points
 # I guess 7H has some small value?
+
+#Oct 2022:
+# The gap is now 0.05 points or lower

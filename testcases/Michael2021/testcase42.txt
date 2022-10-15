@@ -42,3 +42,6 @@ KS
 #This test case is really hard to explain to the AI... I'll leave it for later.
 #You basically have to risk mellow burning in spade to get the initiative and hope hearts don't get lead.
 #... I don't want to explain that to the computer yet.
+
+# Oct 2022:
+# Monte confirmed it by 6 points over 6S and by 8 points over 9S

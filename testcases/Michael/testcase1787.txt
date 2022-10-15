@@ -47,8 +47,13 @@ KH QH KC QC JC 7C AD JD TD
 Expert response:
 TD
 Expert alternative response:
-
+JD 7C
 
 #Don't waste the 7C,
 #What if clubs become master and you could make every club?
 #Then 7C is just a loss of a trick.
+
+#OCT 2022:
+# Monte (without bid filter) likes 7C and KC (by 6 points over TJD),
+# but thinks opponents will probably burn...
+# I'll just pass it. Whatever!

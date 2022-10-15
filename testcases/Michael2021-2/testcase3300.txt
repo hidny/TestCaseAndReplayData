@@ -73,3 +73,7 @@ TH
 Expert alternative response:
 
 #Don't throw D because partner is trumping Diamond.
+
+#Oct 2022:
+# Monte agrees by 0.5 points over trumping S.
+# (LHS is void in club, so we're giving them a free one)

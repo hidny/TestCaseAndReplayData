@@ -51,6 +51,10 @@ KS QS TS 9S 8S 5S AH KD JD
 Expert response:
 KS
 Expert alternative response:
-QS
+QS 5S
 
 #Play higher spade when you have a lot of spade. (Be more forcing)
+
+#OCT 2022:
+# Monte would rather play low
+# maybe LHS has no JS or (no AJS)

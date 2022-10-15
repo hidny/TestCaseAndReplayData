@@ -46,7 +46,11 @@ Cards in hand:
 Expert response:
 4H
 Expert alternative response:
+8H 7D 3D 
 
 #At the time, I thought about making QD master,
 #But now, draining D doesn't seem bad either (2)
 #Monte carlo recommends the trick play: QD...
+
+# Oct 2022:
+# Monte thinks it's all too close to call.

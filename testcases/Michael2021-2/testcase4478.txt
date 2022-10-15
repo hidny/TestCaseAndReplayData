@@ -71,8 +71,14 @@ Cards in hand:
 Expert response:
 QH
 Expert alternative response:
+2H
 
 #Nov 2021
 #Monte slightly prefers QH
 #by 0.2 points... I guess I'll only pass QH.
 #I don't know the diff though...
+
+#Oct 2022:
+# Monte can't tell the difference anymore.
+# I feel that QH might cover a burnt mellow's 2nd trick...
+# So it probably doesn't matter.

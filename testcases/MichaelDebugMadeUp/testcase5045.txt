@@ -61,3 +61,7 @@ QC JC
 #Also lowered score to 600, so it won't be a weird near-end-of-game case
 #Monte likes th JQC for some reason, so I included it as a possible solution.
 # Clubs is prefered to Hearts by 7 points.
+
+#Oct 2022:
+# This holds up!
+# Monte prefers Club by 19 points over 8H

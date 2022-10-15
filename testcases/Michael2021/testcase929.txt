@@ -52,8 +52,12 @@ Cards in hand:
 Expert response:
 JD
 Expert alternative response:
-TD
+TD 9D 3D
 
 # Hold onto the 8H just in case you could make a trick with it if everyone else played low
 # and mellow is safe
 # This is only true because you play after the mellow.
+
+# Oct 2022:
+# Monte still agrees, but now likes 3D most
+# (and 9D is about equal to TJD)

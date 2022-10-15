@@ -66,9 +66,11 @@ TH 9H 6C 5C JD TD
 Expert response:
 5C
 Expert alternative response:
+6C
 
 #5C is technically the best to throw off,
 #AI thinks it's all the same though.
+
 # Oct 2022:
-# Monte says 5C by almost 2 points
+# Monte says 56C by 1.4 points
 # I don't really get it to be honest... :(

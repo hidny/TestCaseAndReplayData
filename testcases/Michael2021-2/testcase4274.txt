@@ -57,6 +57,12 @@ Expert response:
 5S
 Expert alternative response:
 2S
+
 # 5S felt right at the time...
+
 #Nov 2021:
 #Monte thinks the 2S and 5S are the same, but 9S is around 0.5 points less.
+
+#Oct 2022:
+# Monte now thinks 5S by 3 points
+# (My original instinct was correct)

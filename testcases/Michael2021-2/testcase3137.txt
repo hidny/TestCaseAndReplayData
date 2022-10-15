@@ -36,6 +36,11 @@ AS KS QS 7S 2S QC 9C 2C JD TD 5D 2D
 Expert response:
 2D
 Expert alternative response:
+9C 2C
 
 #My idea is to try to make the QC master,
 #so throw off Diamonds.(1)
+
+#Oct 2022:
+# Monte prefers to throw clubs to clear the suit though.
+# C is over 1 point more than D. 

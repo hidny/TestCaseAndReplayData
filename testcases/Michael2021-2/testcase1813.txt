@@ -51,7 +51,10 @@ AH KH TH 6H AD QD 7D 6D 2D
 Expert response:
 QD
 Expert alternative response:
-KH
+KH TH 6H
 
 #Partner and AI need the rest, but maybe we should trust partner and play high?
 #At the very least, don't waste the 2D...
+
+#Oct 2022:
+# Monte doesn't trust partner and dump 6TH  by 2 points over diamond

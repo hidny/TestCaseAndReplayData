@@ -30,8 +30,11 @@ Cards in hand:
 Expert response:
 JH
 Expert alternative response:
-QH KH
+QH KH 7H
 
 #Even though mellow is safe in hearts,
 # it might be a good idea to save the lowest heart so 
 # we could decide for someone else to take the trick (like partner or protector)
+
+#Oct 2022:
+# Monte diasagrees by 0.8 points. I'll just pass it.

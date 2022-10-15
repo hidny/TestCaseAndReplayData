@@ -60,7 +60,7 @@ TS 2S JC 7C 5C 4C
 Expert response:
 4C
 Expert alternative response:
-JC 7C 5C
+JC 7C 5C TS 4S
 
 #Feb 2022:
 #Monte says to not trump here
@@ -70,4 +70,8 @@ JC 7C 5C
 #May 2022:
 # Looks like once you take it, you have nothing good to lead...
 # Mellow is out of club and probably safe in spade...
-# TODO: ask monte
+
+# Oct 2022:
+# Monte doesn't think mellow will burn and wants to just take it.
+( only 4 out of 17K sampled though)
+# I'll just pass it.

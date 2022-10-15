@@ -71,6 +71,12 @@ TH JC QD JD 9D
 Expert response:
 JC
 Expert alternative response:
+QD JD 9D
 
 #JC is technically the best to throw off,
 #AI thinks it's all the same though.
+
+#Oct 2022:
+# Ignore bids monte likes TH by 5 points,
+# but I don't get it...
+# Adding D because no one else has diamond.
