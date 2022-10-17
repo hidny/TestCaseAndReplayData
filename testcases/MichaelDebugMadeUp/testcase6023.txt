@@ -57,4 +57,14 @@ Expert alternative response:
 #I'll just pass 34S... Maybe this will change though.
 
 #Oct 2022:
-# Monte confirms that 34S is 44 points better than TJS
+# Monte confirms that 34S (-15) is 44 points better than TJS(-59)
+# KS is -63
+# 3S: -15.65663976522377
+# 4S: -15.65663976522377
+# TS: -59.794203961848865
+# JS: -59.794203961848865
+# KS: -63.4024211298606
+# 7H: -62.279530447542186
+# 2C: -45.59391049156273
+# 9C: -51.87582538517975
+# QC: -58.805575935436536
