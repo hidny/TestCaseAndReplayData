@@ -65,9 +65,13 @@ Cards in hand:
 Expert response:
 2H
 Expert alternative response:
-7H
+7H 4D 
 
 #Nov 2021:
 #Burned mellow case
 #Throw 2H because it's the most useless. Monte agrees and says 7H is just as bad.
 #(Not a big diff though)
+
+#Oct 2022:
+# Monte now says that it's all the same as long as you don't throw JC.
+# I'll add the 4D

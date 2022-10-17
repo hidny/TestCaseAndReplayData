@@ -68,3 +68,6 @@ Expert alternative response:
 # July
 # Monte thinks low spade over JS by 0.5 points, which makes sense...
 # JS could just be lost by QS.
+
+#Oct 2022:
+# Monte agrees by just 0.5 points over JS

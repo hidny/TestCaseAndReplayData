@@ -45,6 +45,10 @@ TH 9H 8H TC 5C KD TD 9D 8D 2D
 Expert response:
 TH
 Expert alternative response:
+8H 9H
 
 #Nov 2021:
 #Monte agrees to get rid of H.
+
+#Oct 2022:
+# Monte now likes 89H more, but whatever. (8H by 8 points)

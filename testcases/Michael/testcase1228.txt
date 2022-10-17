@@ -58,3 +58,6 @@ TS 8S 7S
 #Jan 2022:
 # Monte like T87S (32 points), then QS (26 points)
 # I'm removing the idea of playing 9D.
+
+#Oct 2022:
+# Monte now likes QS (32 points), then 78TS (27.6 points)

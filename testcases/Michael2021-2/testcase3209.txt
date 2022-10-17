@@ -70,8 +70,15 @@ KC 6C 3C JD 9D
 Expert response:
 3C
 Expert alternative response:
+6C
 
 #Complicated test
 #Prefer removing lowest of K and 2 others
 #over lowest of A Q equiv...
 #I'm not 100% sure about this.
+
+#Oct 2022:
+# Monte doesn't get the bid...
+# It also prefer 3C, 6C by almost 1 point over 9D,
+# but thinks we'll lose...
+# I'll keep as-is

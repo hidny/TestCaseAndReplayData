@@ -50,6 +50,7 @@ QS 9S 8S 4S 3S JD 7D 6D 2D
 Expert response:
 QS
 Expert alternative response:
+3S 4S
 
 # Waste high Spade to make sure RHS doesn't make an easy trick
 # Playing high Spade is slightly dubious, but I'm sticking to it!
@@ -57,3 +58,6 @@ Expert alternative response:
 # Monte suggested low S, then high QS... so I don't know!
 # Nov 13th 2021:
 # Monte wants the QS. (20000 cases) 0.15 points better than 9S (or 0.25 points)
+
+#Oct 2022:
+# Monte now wants to play 34S by 0.1 points

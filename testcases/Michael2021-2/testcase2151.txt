@@ -48,9 +48,9 @@ AS TS 6S 4S 3S 2S JH AC 5C
 # Doris: 2/2
 
 Expert response:
-5C
+JH
 Expert alternative response:
-JH TS 6S 4S 3S 2S
+5C
 
 #Jan 2022:
 #Monte after 5000:
@@ -80,3 +80,8 @@ JH TS 6S 4S 3S 2S
 
 #Later: (and with signals)
 #Play JH by 8 points. I guess?
+
+#Oct 2022:
+# Monte says: JH(5 points), 5C(-4 points), TS (-16 points), then low spade(-23 points).
+# Monte also doesn't understand the bid.
+# I'll stop passing low spade.

@@ -76,3 +76,7 @@ Expert alternative response:
 #Monte: 5H is 27 and AS is bad with -55
 #QS is better with -9
 #Wow! I guess you should just let LHS take it.
+
+#Oct 2022:
+# Monte likes QS (28.5 pts) and 5H (28 pts), then 78S (-13 points)
+# It's currently failing by trumping with AS, so I'll leave as-is.

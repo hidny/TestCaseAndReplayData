@@ -35,7 +35,7 @@ AS QS TS 9S 6S 9C 8C 2C JD 8D 3D
 Expert response:
 9S
 Expert alternative response:
-TS
+TS AS
 
 #Feb 2022:
 # Trump AS on 3rd time out is a bit dubious... 
@@ -44,3 +44,9 @@ TS
 # Monte likes spade actually!
 # Monte prefers the 9TS by almost 0.5 points.
 # I don't get it though. So I'll skip this for now.
+
+# Oct 2022:
+# 9TS is about the same as AS but only 0.05 points better
+# 9TS is still 0.5 points more than QS.
+#WP monte likes 9TS over AS (BARELY)
+# I'll add AS because it's so close...

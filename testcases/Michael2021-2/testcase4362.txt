@@ -40,8 +40,23 @@ QH TH 9H 8H TC 5C KD TD 9D 8D 2D
 Expert response:
 QH
 Expert alternative response:
-KD
+KD 8H
 
 #Nov 2021:
 #Monte agrees to commit to getting H void by 5 points
 #Monte prefers lower H, but that's too high-level for me...
+
+# Oct 2022:
+# Monte is no longer a fan of diamond...
+# But I'll keep it as-is because I don't get it.
+# 8H: -68.08775029446407
+# 9H: -77.64016489988221
+# TH: -82.45465253239105
+# QH: -84.16548881036513
+# 5C: -80.74558303886926
+# TC: -79.71967020023557
+# 2D: -117.56654888103651
+# 8D: -94.40047114252062
+# 9D: -94.30212014134275
+# TD: -94.16843345111896
+# KD: -94.24793875147232

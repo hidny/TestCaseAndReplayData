@@ -69,3 +69,7 @@ Expert alternative response:
 
 #This was a bold risk that paid off...
 #TODO: check with monte.
+
+#Oct 2022:
+# Monte can't relate anymore and (without bid filters) likes JS by 14 points
+# I'm going to keep this case because I feel it rings true.
