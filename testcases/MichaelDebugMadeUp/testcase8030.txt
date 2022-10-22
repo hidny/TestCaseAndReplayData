@@ -1,0 +1,26 @@
+Your name: Phil
+Dealer is your partner opposite you
+Score at start:
+Your Score      Their Score
+ 536             650
+
+Cards dealt:
+8S 7S 3S 2S KH JH 8H 7H 7C KD TD 6D 2D 
+
+
+Bid history:
+Michael2022-3 bid 1.
+
+
+Cards in hand:
+8S 7S 3S 2S KH JH 8H 7H 7C KD TD 6D 2D 
+
+Expert response:
+3
+Expert alternative response:
+2
+
+#Oct 2022:
+# Test if saying mellow is justified if you're the 2nd bidder and 1st bidder said
+# what he said. (Variation of 3-2205)
+# Mnote says it's not by 5%. Say 3 instead.
