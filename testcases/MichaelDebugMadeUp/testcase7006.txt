@@ -11,7 +11,7 @@ Bid history:
 Phil bid 5.
 
 Cards in hand:
-KS KC KD TD 9D 8D 5D TH 9H 8H 4H
+QS QH 8H 7H 5H 4H 7C 6C QD JD TD 7D 2D
 
 Expert response:
 1
@@ -19,4 +19,9 @@ Expert alternative response:
 
 
 #This is "frankly" rediculous...
-#Just bid 1. You're at 983 points
+#Just bid 1. You're at a huge advantage in points
+
+#OCT 2022:
+# WPMonte says it's 0.04% better to say 1 over mellow
+# Monte says mellow is better by 18 points
+# Just make AI not say mellow when in a huge lead... 
