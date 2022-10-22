@@ -22,7 +22,7 @@ Expert response:
 Expert alternative response:
 
 
-#March 2022:
+#March-Oct 2022:
 # Modified version of 3-2556
 # to check if monte still wants to say mellow if monte is the dealer.
 # (instead of 1st bidder)

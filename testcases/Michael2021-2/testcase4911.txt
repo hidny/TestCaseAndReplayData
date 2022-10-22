@@ -33,3 +33,9 @@ Expert alternative response:
 
 #March 2022:
 # I got AI to say mellow here
+
+#Oct 2022:
+# Monte says mellow by 40 points
+# and WPMonte by 5.9%
+# Mellow is -42 points when 1 is -83 points
+# They are both dangerous choices.

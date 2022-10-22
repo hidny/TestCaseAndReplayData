@@ -23,3 +23,7 @@ Expert alternative response:
 #Monte agrees
 #Average util (point diff) of playing the 0: 28.180333333333333
 #Average util (point diff) of playing the 1: -31.472
+
+#Oct 2022:
+# Monte prefers 0 by 30 points
+# WPMonte says it's a 7% diff.

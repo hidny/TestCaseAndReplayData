@@ -21,3 +21,8 @@ Expert alternative response:
 #June 2022:
 # I don't think Phil should say mellow here.
 # Monte agrees by 17 points
+#Oct 2022:
+# A huge factor is the factor that you're 130 points ahead.
+# WPMonte: Saying 1 is 0.5% worse than 2
+# So only pass 2.
+# WPMonte: Saying mellow is 1% worse than 2.

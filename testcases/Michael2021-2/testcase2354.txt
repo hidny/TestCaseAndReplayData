@@ -25,3 +25,8 @@ Expert alternative response:
 #March 2022:
 #Monte really doesn't like saying mellow here, but it's desperate. (over 80 points worse than saying 2)
 # Monte prefers 2 over saying 1 by 8 points.
+
+#Oct 2022:
+# WPMonte likes saying 2, thne 3 (more than 1% better than mellow)
+# Monte likes saying 2 then 1 (by 8 points) (2 over mellow by huge margin)
+# I'll leave mellow as an option, because that's how I like to lose.

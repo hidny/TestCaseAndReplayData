@@ -33,3 +33,7 @@ Expert alternative response:
 # The new utility function confirmed my suspicion!
 # Saying mellow gives 21.5 % chance of winning 
 # vs saying 1 that has a 18.5% winning the game. 
+
+#OCT 2022:
+# WPMonte update: Saying 1 is now 19% winning chances (mellow now 22.15 %)
+# Monte likes 1 because it doesn't know it needs the points.

@@ -24,4 +24,7 @@ Expert alternative response:
 
 #Double mellow FTW
 #Monte and instincts agree
-#Monte: 0: -39, 1: -133 (Almost a 100 point diff)
+#Monte: 0: -39, 1: -133 (Almost a 100 point diff)
+#OCT 2022:
+# WPMonte: mellow is 14% better
+# Monte: only 50 points better.

@@ -20,3 +20,7 @@ Expert response:
 Expert alternative response:
 
 #Near end of game logic...
+#Oct 2022:
+# Just say mellow to force opponents to respond
+#Saying 1 is not ambitious enough
+#WP Monte says it's a 50% diff!

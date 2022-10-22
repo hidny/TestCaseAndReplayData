@@ -41,3 +41,7 @@ Expert alternative response:
 #If partner bid 6:
 #Average util (point diff) of playing the 0: 97.9737
 #Average util (point diff) of playing the 1: 17.896166666666666
+
+#Oct 2022:
+# Monte likes saying 1 by 20 points over mellow
+# (Partner bid 2)

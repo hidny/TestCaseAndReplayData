@@ -19,11 +19,19 @@ KS 2S KH QH 5H 4H JC 9C 7C 6C 9D 3D 2D
 Expert response:
 2
 Expert alternative response:
-0
+3 1
 
 #March 2022:
 #Monte prefers saying 2 over 1 by 0.5 points
 # But it really really likes saying mellow
 # 157 points for mellow and 3.5 points for saying 1
 # I don't get it! I'm pretty sure monte noticed that the opponent will make a mistake?
-# i.e. This is wrong...
+# i.e. This is wrong... (This was confirmed!)
+
+#Oct 2022:
+# WP Monte likes 2 over 1 by 0.75%
+# but regular monte like 1 over 2 by 0.7 points
+# I'll go with WP Monte.
+# Monte now is reasonable about not saying mellow.
+# WP Monte likes 3 almost as much as 2.
+# I'll be nice and pass bids 2, 3, and 1
