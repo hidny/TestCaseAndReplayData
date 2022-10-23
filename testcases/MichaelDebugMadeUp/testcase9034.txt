@@ -1,0 +1,38 @@
+Your name: Phil
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 357             410
+
+Cards dealt:
+AS QS 9S 6S KH 4H QC 5C 4C 3C KD 4D 3D 
+
+
+Bid history:
+Doris bid mellow.
+Michael2022-3 bid 5.
+Phil bid 3.
+Richard bid mellow.
+
+
+Play history:
+--new round--
+Doris played the 5S.
+Michael2022-3 played the JS.
+Phil played the 9S.
+Richard played the 7S.
+--new round--
+Michael2022-3 played the 8S.
+
+
+Cards in hand:
+AS QS 6S KH 4H QC 5C 4C 3C KD 4D 3D 
+
+Expert response:
+6S
+Expert alternative response:
+
+
+#Oct 2022:
+# Play low to burn mellow.
+# I swapped the 6C for 6S to make this case...

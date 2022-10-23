@@ -1,0 +1,65 @@
+Your name: Doris
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 637             494
+
+Cards dealt:
+TS 3S 2S AH QH JH 2H KC 5C AD KD JD 6D 
+
+
+Bid history:
+Phil bid mellow.
+Richard bid mellow.
+Doris bid 4.
+Michael2022-3 bid 3.
+
+
+Bid history:
+Doris bid 3.
+Michael2022-3 bid 3.
+Phil bid 2.
+Richard bid mellow.
+
+
+Play history:
+--new round--
+Doris played the 5C.
+Michael2022-3 played the QC.
+Phil played the 9C.
+Richard played the 6C.
+--new round--
+Michael2022-3 played the AS.
+Phil played the JS.
+Richard played the 8S.
+Doris played the TS.
+--new round--
+Michael2022-3 played the KS.
+Phil played the QS.
+Richard played the 7S.
+Doris played the 3S.
+--new round--
+Michael2022-3 played the 9S.
+Phil played the 4S.
+Richard played the TH.
+Doris played the 2S.
+--new round--
+Michael2022-3 played the 9H.
+Phil played the KH.
+Richard played the 6H.
+Doris played the AH.
+--new round--
+
+
+Cards in hand:
+QH JH 2H KC AD KD JD 6D 
+
+Expert response:
+
+Expert alternative response:
+
+
+#Oct 2022:
+# Maybe don't lead 2H because protect was happy
+# to play high on it? I'm not sure.
+# I'm not even sure if Monte will get it...

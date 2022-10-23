@@ -1,0 +1,41 @@
+Your name: Phil
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 637             494
+
+Cards dealt:
+QS JS 4S KH 3H AC 9C 8C 7C 2C TD 9D 4D 
+
+
+Bid history:
+Doris bid 3.
+Michael2022-3 bid 3.
+Phil bid 2.
+Richard bid mellow.
+
+
+Play history:
+--new round--
+Doris played the 5C.
+Michael2022-3 played the QC.
+Phil played the 9C.
+Richard played the 6C.
+--new round--
+Michael2022-3 played the AS.
+Phil played the JS.
+Richard played the 8S.
+Doris played the TS.
+--new round--
+Michael2022-3 played the KS.
+
+Cards in hand:
+QS 4S KH 3H AC 8C 7C 2C TD 9D 4D 
+
+Expert response:
+4S
+Expert alternative response:
+
+
+#Oct 2022:
+# Save master QS?? Forget the mellow for a moment.

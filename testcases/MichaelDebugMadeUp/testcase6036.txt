@@ -1,0 +1,26 @@
+Your name: Richard
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 419             357
+
+Cards dealt:
+KS 7S 6S 2S 9H 8H 7H 6H 9C 7C JD 6D 2D 
+
+
+Bid history:
+Doris bid mellow.
+Michael2022-3 bid 5.
+Phil bid 3.
+
+
+Cards in hand:
+KS 7S 6S 2S 9H 8H 7H 6H 9C 7C JD 6D 2D 
+
+Expert response:
+
+Expert alternative response:
+
+
+#OCT 2022:
+# Is this really a mellow?

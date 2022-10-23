@@ -1,0 +1,24 @@
+Your name: Richard
+Dealer is your partner opposite you
+Score at start:
+Your Score      Their Score
+ 422             454
+
+Cards dealt:
+JS TS 5S 2S KH QH 3H KC 7C 6C 5C 4C 9D 
+
+
+Bid history:
+Phil bid mellow.
+
+
+Cards in hand:
+JS TS 5S 2S KH QH 3H KC 7C 6C 5C 4C 9D 
+
+Expert response:
+
+Expert alternative response:
+
+
+#Oct 2022:
+# Is this a mellow?
