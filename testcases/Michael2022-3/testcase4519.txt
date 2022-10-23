@@ -1,0 +1,29 @@
+Your name: Michael2022-3
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 290             401
+
+Cards dealt:
+8S 5S KH QH 7H 4H 3H QC 7C 5C AD TD 2D 
+
+
+Bid history:
+Michael2022-3 bid mellow.
+Phil bid 2.
+Richard bid 3.
+Doris bid 3.
+
+
+Cards in hand:
+8S 5S KH QH 7H 4H 3H QC 7C 5C AD TD 2D 
+
+# Michael2022-3: 0/0
+# Phil: 0/2
+# Richard: 0/3
+# Doris: 0/3
+
+Expert response:
+8S
+Expert alternative response:
+
