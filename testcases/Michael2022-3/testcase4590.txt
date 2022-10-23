@@ -58,4 +58,11 @@ AS JS 8S 7S JC TC 8C
 Expert response:
 JC
 Expert alternative response:
+TC 8C AS
 
+#OCT 2022:
+# Monte: There was signal problem that cause all to be skipped
+# After rming bid filter, monte likes club and AS
+# I'll just pass that because it makes sense.
+# It's hard to tell if AS or club is better.
+# WP Monte consistently prefers clubs by almost 1 %, so club is probably better.

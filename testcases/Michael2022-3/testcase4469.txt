@@ -38,4 +38,19 @@ QS 8S 2S QH 2H KC JC 8C 4C JD 3D
 Expert response:
 3D
 Expert alternative response:
-4C 8C
+JD 4C 8C JC 8S 2S
+
+#Oct 2022:
+# I just made 13 points the borderline
+# Monte happens to like 8C best on the first run, but it's not consistent.
+# the 2S 15.022187455553976
+# the 8S: 18.280329967287727
+# the QS: 0.8338785379035699
+# the 2H: 11.619684255440193
+# the QH: 6.346750106670459
+# the 4C: 17.78566349025743
+# the 8C: 20.070402503200114
+# the JC: 14.228559237661784
+# the KC: 11.523254160147916
+# the 3D: 19.83402076518276
+# the JD: 16.982363817380172

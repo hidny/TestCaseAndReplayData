@@ -69,6 +69,10 @@ JS 8S 6H 5C 4C
 # Doris: 1/1
 
 Expert response:
-4C
+8S
 Expert alternative response:
-5C
+JS 4C 5C
+
+#Oct 2022:
+# Monte prefers to just trump it by 0.8 points
+# I'll pass 45C anyways. I don't know why I thought that was good though.

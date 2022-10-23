@@ -24,6 +24,11 @@ KS 8S 6S 5S 3S 9H 5H 4H 3H 9C 5C AD JD
 # Doris: 0/2
 
 Expert response:
-AD
+4H
 Expert alternative response:
+5H 3H 5S 3S 6S 8S 9H 5C JD AD
 
+#OCT 2022:
+# Monte: all between 31 and 34 points
+# I decided to pass everything monte thought was better than AD.
+# i.e. Fail: 9C and KS

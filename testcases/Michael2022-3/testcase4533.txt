@@ -35,4 +35,9 @@ AH JH 9H 8H 5H AC 9C AD QD 7D 6D 2D
 Expert response:
 9H
 Expert alternative response:
-8H 7D 6D
+8H 5H 7D 6D 2D
+
+#Oct 2022:
+# Monte and I agree.
+# I pass all scores that had -37
+# next higest was JH with -39

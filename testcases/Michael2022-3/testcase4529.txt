@@ -81,4 +81,7 @@ QH 3H 7C
 Expert response:
 QH
 Expert alternative response:
+7C
 
+# Oct 2022:
+# Monte says QH = 7C, but don't play 3H

@@ -39,6 +39,11 @@ TH 5H AC KC 9C 8C 7C 6C 8D 5D 3D
 # Doris: 0/0
 
 Expert response:
-TH
+7C
 Expert alternative response:
+8C 9C AC KC
 
+#Oct 2022:
+# I thought TH was a no-brainer,
+# but Monte likes any club except 6C over that by over 4 points.
+# I almost agree with Monte.

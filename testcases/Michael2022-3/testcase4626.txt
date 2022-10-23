@@ -41,6 +41,22 @@ QS TS 8S 7S 7H 4H AD 8D 7D 2D
 # Doris: 1/1
 
 Expert response:
-7H
+QS
 Expert alternative response:
+7H 8D 7D TS 8S 7S
 
+#Oct 2022:
+# WPMonte just wants QS for some reason (only for 1st run though)
+# Monte likes 78D
+# I passed everything more than 0.69 points
+# (better or equal to my guess of 7H)
+#7S: 2.3250333333333333
+#8S: 2.3128
+#TS: 2.2256666666666667
+#QS: 3.948183333333333
+#4H: -0.2224
+#7H: 0.6963166666666667
+#2D: 0.22428333333333333
+#7D: 4.088683333333333
+#8D: 4.2183
+#AD: -12.226216666666666

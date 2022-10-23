@@ -34,6 +34,25 @@ KS QS TS 8S 7S 7H 4H AD 9D 8D 7D 2D
 # Doris: 0/1
 
 Expert response:
-9D
+4H
 Expert alternative response:
-8D 7D
+7H KS QS
+
+#Oct 2022:
+# Monte likes 47H and high spade over 789D
+# But my initial guess was 789D, but the diff is big enough that I'm abandoning it.
+# 47H and KQS are the clear winners
+# 47H is over 28 points and KQS is over 27 points
+# Scores:
+# 7S: 19.43551666666667
+# 8S: 19.6042
+# TS: 23.221183333333332
+# QS: 27.072316666666666
+# KS: 27.0022
+# 4H: 28.674616666666665
+# 7H: 28.371316666666665
+# 2D: 20.0464
+# 7D: 22.59095
+# 8D: 22.570966666666667
+# 9D: 22.57443333333333
+# AD: 20.5174

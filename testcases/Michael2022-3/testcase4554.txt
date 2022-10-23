@@ -71,6 +71,14 @@ JS QD 8D 5D
 # Doris: 2/3
 
 Expert response:
-8D
+JS
 Expert alternative response:
-5D
+QD
+
+#OCT 2022:
+#TRAM
+# I can't believe I missed this during the game.
+# JS: 83.27797833935018
+# 5D: 38.9870036101083
+# 8D: 38.9870036101083
+# QD: 83.27797833935018

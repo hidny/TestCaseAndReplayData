@@ -34,3 +34,7 @@ Expert response:
 QS
 Expert alternative response:
 JS
+
+#OCT 2022:
+# Monte agrees about JQS, but prefers JS by 16 points
+# Next best card is 8S, but that's clearly worse (15 points worse than QS)

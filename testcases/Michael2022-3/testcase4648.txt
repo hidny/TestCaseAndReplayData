@@ -21,3 +21,17 @@ Expert response:
 5
 Expert alternative response:
 
+
+#Oct 2022:
+# Monte and WP Monte want to say 1,
+# but the game is over! What the heck is going on in the simulations???
+# Maybe it discourages and easy mellow win?
+# I don't know...
+# 0: 1.8684029876708974 %
+# 1: 50.21721980392382 %
+# 2: 33.04120147732908 %
+# 3: 13.715578024006076 %
+# 4: 3.848013891418521 %
+# 5: 0.53473604109701 %
+# 6: 0.0665888454589838 %
+# 7: 0.034030626953125316 %

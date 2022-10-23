@@ -51,6 +51,11 @@ TH AC KC 8C 2C AD TD 9D
 # Doris: 0/0
 
 Expert response:
-TH
+AC
 Expert alternative response:
+KC TH 8C AD
 
+#Oct 2022:
+# Monte really like AKC by 1 point over TH (my choice), AD and 8C
+# I'll just pass 5 points.
+# Other options are 3 points away from optimal

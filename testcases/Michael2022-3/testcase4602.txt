@@ -51,6 +51,11 @@ Cards in hand:
 # Doris: 1/1
 
 Expert response:
-TD
+AH
 Expert alternative response:
+JH TD
 
+#OCT 2022:
+# Monte prefers JH by 0.5 over AH and JH by 1 point over TD
+# I'll just pass AJH and TD (My initial guess was TD)
+# (next best is 5QH and it's 0.6 points under TD)

@@ -55,4 +55,10 @@ QS 8S 2S QH KC JC 8C 4C
 Expert response:
 QH
 Expert alternative response:
+4C
 
+#Oct 2022:
+# Monte agrees with QH with club being 1.5 points less.
+# We want mellow to be vulnerable in hearts 
+# and we'll probably get the tricks
+# Monte also doesn't really mind 4C, so I'll also pass that (it's 1 point less)

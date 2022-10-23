@@ -70,4 +70,6 @@ Cards in hand:
 Expert response:
 QH
 Expert alternative response:
+JH
 
+# QH = JH

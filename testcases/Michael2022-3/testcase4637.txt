@@ -37,4 +37,9 @@ QH TH 5H AC KC 9C 8C 7C 6C 8D 5D 3D
 Expert response:
 QH
 Expert alternative response:
+9C 8C 7C AC KC
 
+#Oct 2022:
+# I thought QH was a no-brainer,
+# but Monte likes any club except 6C over that by 1-2 points.
+# I almost agree with Monte.

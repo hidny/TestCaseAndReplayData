@@ -21,4 +21,15 @@ KS AH JH 9H 8H 5H AC 9C AD QD 7D 6D 2D
 Expert response:
 3
 Expert alternative response:
-4 5
+4 5 6
+
+#OCT 2022:
+# Something wrong is going on during the simulations:
+# bid 0: -105.08044255631285
+# bid 1: -135.0976802469513
+# bid 2: -126.13078028057092
+# bid 3: -117.36055502918794
+# bid 4: -110.39050704483634
+# bid 5: -18.025184143769675
+# bid 6: -28.963171246064977
+# I'll just pass 6 too.

@@ -20,4 +20,8 @@ QS 5S QH 9H 8H 7H 2H JC AD KD 7D 5D 3D
 Expert response:
 2
 Expert alternative response:
-0
+
+
+#Oct 2022:
+# Monte agrees to bid 2 by 3 points over bid 3 and by 6 points over bid 1.
+# bidding mellow is 30 points worse

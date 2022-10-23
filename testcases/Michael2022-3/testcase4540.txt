@@ -66,6 +66,10 @@ Cards in hand:
 # Doris: 3/4
 
 Expert response:
-2D
+9C
 Expert alternative response:
+2D 6D 7D
 
+#OCT 2022:
+# Monte slightly prefers 9C over 267D by 0.1 points. (267 were the same)
+# I don't know... I'll just pass them.

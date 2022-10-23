@@ -48,6 +48,10 @@ Cards in hand:
 Expert response:
 6S
 Expert alternative response:
-5S
+5S 9H 8H 7H JC TC 4C 3D 
 
-#TODO
+#Oct 2022:
+# Monte likes anything but but better than spade
+# I think the opposite
+# In fact, Monte prefers leading 3D by 1 point over other options
+# I don't know man...

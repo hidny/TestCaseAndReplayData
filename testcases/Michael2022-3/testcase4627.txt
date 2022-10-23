@@ -49,6 +49,17 @@ QS TS 8S 7S 4H AD 8D 7D 2D
 # Doris: 1/1
 
 Expert response:
-8D
+7S
 Expert alternative response:
-7D
+8S TS QS 4H
+
+#OCT 2022:
+# Monte doesn't believe LHS is in any danger of burning,
+# so play spade.
+# Monte is also fond of throwing last 4H... (next worse is -18 pts)
+# I guess?
+# 7S: -9.927666666666667
+# 8S: -10.022
+# TS: -12.556266666666666
+# QS: -12.556266666666666
+# 4H: -15.671733333333334

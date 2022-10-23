@@ -31,6 +31,10 @@ AS JS 8S 7S AH AC JC TC 8C 6C QD 6D
 # Doris: 0/3
 
 Expert response:
-AH
+AC
 Expert alternative response:
+JC TC AS
 
+#Oct 2022:
+# I decided to pass all > 95 points
+# Monte likes AC best because we could trust opponents to lead H.

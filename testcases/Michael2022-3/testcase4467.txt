@@ -24,6 +24,10 @@ QS 8S 2S AH QH 2H KC JC 8C 4C JD 4D 3D
 # Doris: 0/3
 
 Expert response:
-4D
+2H
 Expert alternative response:
-3D 8C 4C
+8C 4D 3D
+
+#Oct 2022:
+# Monte prefers the simple 2H, then 8C, then 34D
+# 4C 8S and JD are 2 points less for some reason

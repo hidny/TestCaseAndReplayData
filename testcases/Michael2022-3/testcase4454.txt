@@ -28,8 +28,9 @@ Cards in hand:
 # Doris: 0/1
 
 Expert response:
-TH
-Expert alternative response:
 4H
+Expert alternative response:
 
-# (TODO: please test)
+
+# Oct 2022:
+# Just go under by 12 points

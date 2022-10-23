@@ -61,6 +61,18 @@ Cards in hand:
 # Doris: 1/1
 
 Expert response:
-5H
+4S
 Expert alternative response:
+5S 8S
 
+#Oct 2022:
+# I initially wanted to lead 5H
+# but monte prefers to try to drain spade
+# Monte also prefers low spade, but whatever.
+# I'll go with Monte
+#4S: -8.107466666666667
+#5S: -8.3918
+#8S: -8.891083333333333
+#5H: -9.096
+#JH: -8.95975
+#QH: -9.026033333333332

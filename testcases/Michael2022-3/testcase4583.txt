@@ -19,6 +19,11 @@ AS JS 8S 7S AH 8H AC JC TC 8C 6C QD 6D
 
 
 Expert response:
-5
-Expert alternative response:
 4
+Expert alternative response:
+3 5
+
+#Oct 2022:
+# Monte says 4 then 3 then 5.
+# 3 is less by 5 poitns and 5 is less by 7 points.
+# (My initial guess was 5, so I'm keeping it)

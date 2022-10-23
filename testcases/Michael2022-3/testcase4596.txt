@@ -18,6 +18,13 @@ AS 8S 5S 4S AH QH JH 5H 8C 7C KD TD 4D
 
 
 Expert response:
-3
+4
 Expert alternative response:
-2
+5 3
+
+#Oct 2022:
+# I thought 3 or 2, but monte says 4 then 5, then 3
+# 5 is 5 pts less than 4.
+# 3 is 8 pts less than 4.
+# 2 is 16 pts less than 4.
+# I'll pass 4, 5, 3.

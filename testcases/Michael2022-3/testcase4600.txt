@@ -41,6 +41,10 @@ AS 8S 5S 4S AH QH JH 5H 8C TD
 # Doris: 1/1
 
 Expert response:
-8C
+JH
 Expert alternative response:
-TD
+4S 5S 8S AH 8C TD
+
+#Oct 2022:
+# I just passed everything more than -9 points
+# Monte likes JH best (QH = -9), but I don't get it.

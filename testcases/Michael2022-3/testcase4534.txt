@@ -40,4 +40,9 @@ AH JH 8H 5H AC 9C AD QD 7D 6D 2D
 Expert response:
 8H
 Expert alternative response:
-JH 5H 7D 6D
+JH 5H 7D 6D 2D
+
+#Oct 2022:
+# I just passed all cards that had -27 points
+# I included JH even though it had -28 points because I'll respect
+# my gut instinct. For the record, 5H/7D was the initial favorite, but it's too close to call

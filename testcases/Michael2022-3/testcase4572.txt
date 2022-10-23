@@ -31,6 +31,13 @@ KS 8S 6S 5S 3S 9H 5H 4H 3H 9C 5C JD
 # Doris: 0/2
 
 Expert response:
-9C
+KS
 Expert alternative response:
-JD
+JD 3S 5S 6S 9C
+
+#Oct 2022:
+# Monte likes leading spade
+# Especially KS by 3 points over other spade.
+# Monte then likes JD as much as low spade
+# 9C is 2 points less then JD, but I initially liked it, so I'm keeping it.
+# I don't get why leading the KS is good though...
