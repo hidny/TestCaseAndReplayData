@@ -85,4 +85,5 @@ JS
 #Oct 2022:
 #You could force all the cards to come to you if you think about it.
 # Monte agrees by almost 2 points (rounding error...)
-# TODO: Signals don't acknowledge that Richard has 3D
+# Because of this test case, I fixed a bug with signals that don't
+# acknowledge that Richard could have the 3D
