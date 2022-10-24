@@ -77,4 +77,4 @@ Expert alternative response:
 #OCT 2022:
 # Now is a good time to trump and not let
 # protector lead. (You have master spade)
-# Monte prefers trumping by .08 points
+# Monte prefers trumping by 0.8 points
