@@ -24,4 +24,4 @@ Expert alternative response:
 # Is this a mellow?
 # Answer: No!
 # Monte prefers 3 over 2 by 5 points, and prefers 3 over mellow by over 50 points.
-# TODO: Monte didn't test 4 bid of 5 bid, so please test it.
+# Finally, bidding 4 is almost 4 points worse than 3.
