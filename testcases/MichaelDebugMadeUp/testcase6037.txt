@@ -70,10 +70,11 @@ Cards in hand:
 2S JD 6D 2D 
 
 Expert response:
-
+2S
 Expert alternative response:
 
 
 #OCT 2022:
 # Now is a good time to trump and not let
 # protector lead. (You have master spade)
+# Monte prefers trumping by .08 points

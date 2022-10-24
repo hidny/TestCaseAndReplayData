@@ -30,10 +30,11 @@ Cards in hand:
 TS 3S 2S AH QH JH 2H KC AD KD JD 6D 
 
 Expert response:
-3S
+TS
 Expert alternative response:
-2S
+
 
 #Oct 2022:
-# Save TS??
-# Forget the mellow for a moment.
+# Save TS and forget the mellow for a moment?
+# No.
+# Monte prefers to waste the TS by almost 1 point.

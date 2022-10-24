@@ -29,10 +29,14 @@ Cards in hand:
 AS QS 6S KH 4H QC 5C 4C 3C KD 4D 3D 
 
 Expert response:
-6S
+QS
 Expert alternative response:
 
 
 #Oct 2022:
-# Play low to burn mellow.
+# Play low to burn mellow?
 # I swapped the 6C for 6S to make this case...
+# Monte likes QS then 6S then AS
+# I guess it senses the KS.
+# Depending on the run, QS is 74-79 poitns and 6S is 53-57 points (AS is -20 to -19 points)
+# WPMonte says it's a 3% diff.

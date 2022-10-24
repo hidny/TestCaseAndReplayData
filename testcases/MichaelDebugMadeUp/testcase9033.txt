@@ -33,9 +33,12 @@ Cards in hand:
 QS 4S KH 3H AC 8C 7C 2C TD 9D 4D 
 
 Expert response:
-4S
+QS
 Expert alternative response:
-
+4S
 
 #Oct 2022:
 # Save master QS?? Forget the mellow for a moment.
+# Monte likes wasting QS by almost 2 points
+# But: WPMonte diagrees and wants to save QS
+# I trust WPMonte... (It understands that we're winning, and there's no need to take risks)

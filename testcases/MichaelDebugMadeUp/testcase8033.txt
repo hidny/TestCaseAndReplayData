@@ -16,9 +16,12 @@ Cards in hand:
 JS TS 5S 2S KH QH 3H KC 7C 6C 5C 4C 9D 
 
 Expert response:
-
+3
 Expert alternative response:
 
 
 #Oct 2022:
 # Is this a mellow?
+# Answer: No!
+# Monte prefers 3 over 2 by 5 points, and prefers 3 over mellow by over 50 points.
+# TODO: Monte didn't test 4 bid of 5 bid, so please test it.

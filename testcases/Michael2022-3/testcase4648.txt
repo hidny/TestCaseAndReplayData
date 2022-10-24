@@ -23,15 +23,15 @@ Expert alternative response:
 
 
 #Oct 2022:
-# Monte and WP Monte want to say 1,
-# but the game is over! What the heck is going on in the simulations???
-# Maybe it discourages and easy mellow win?
-# I don't know...
-# 0: 1.8684029876708974 %
-# 1: 50.21721980392382 %
-# 2: 33.04120147732908 %
-# 3: 13.715578024006076 %
-# 4: 3.848013891418521 %
-# 5: 0.53473604109701 %
-# 6: 0.0665888454589838 %
-# 7: 0.034030626953125316 %
+# Say 5 to force the bid to 14+
+# Fixed a bug with WP Monte and got this result:
+# 0: 1.979475935058594 %
+# 1: 0.4272488647460937 %
+# 2: 0.3695892822265625 %
+# 3: 0.3952104370117187 %
+# 4: 0.4029903881835938 %
+# 5: 0.4820513598632813 %
+# 6: 0.12135959716796879 %
+# 7: 0.06480643554687501 %
+
+#WPMonte agrees with the logical 5 bid!
