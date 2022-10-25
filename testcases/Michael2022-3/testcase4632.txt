@@ -75,11 +75,13 @@ QS TS AD 7D
 Expert response:
 7D
 Expert alternative response:
-
+QS TS
 
 #Oct 2022:
 # Monte agrees that 7D is a no-brainer.
 # We could trust that partner will take it.
 # Now that I think about it, monte is wrong and none of the options should
-# burn AI unless AI makes a mistake in the future.
+# burn AI unless AI makes a mistake in the future. (Except for the AD)
 # I made a testcase to address the mistake the AI makes in the future. (D-7033)
+# Update:
+# Monte doesn't mind TQS anymore.

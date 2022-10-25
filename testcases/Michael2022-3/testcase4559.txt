@@ -38,7 +38,8 @@ TS
 #OCT 2022:
 # Monte agrees to lead 8TS by 5 points over anything else.
 # Hope partner has his spade covered...
-# TODO: In the future, this might not be the right idea though
-# What if Phil just plays low?
-# TODO: 3-4559: make debug case for Phil's decision... (what if it's best to follow low?)
+# Already done: 3-4559: make debug case for Phil's decision... (what if it's best to follow low?)
 #  But: give Phil 3 spades: with 1 low one.
+# Update:
+# After fixing the debug cases, D-9034 and D-9035,
+# the gap narrowed to 4.4 points over anything else. (or less)
