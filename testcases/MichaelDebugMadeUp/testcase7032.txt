@@ -58,3 +58,5 @@ Expert alternative response:
 # Monte likes the JD by 1 point more than other options
 # 6D, JQH are all 1 point less than JD and 2H is 1 point less than JQH
 # I'll fail 2H even though I don't get it.
+# Maybe if Mellow signalled under 3+ cards and signalled over 2 cards in worst case,
+# you don't need to prioritise pursuit?

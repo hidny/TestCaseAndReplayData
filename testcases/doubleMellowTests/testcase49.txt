@@ -24,3 +24,8 @@ Expert response:
 5S
 Expert alternative response:
 
+#OCT 2022:
+# This now fails, but it's hard to decide how to fix it...
+#2S: -11.467650397275824
+#5S: -2.1748013620885356
+#TS: -5.658342792281498
