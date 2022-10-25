@@ -65,6 +65,10 @@ KS 9S QH 6H 5H AC
 # Doris: 0/2
 
 Expert response:
-QH
+5H
 Expert alternative response:
+6H
 
+#Oct 2022:
+#You're secretly burned, so don't waste QH
+# Monte agrees by 0.03 points, but only after ignoring some skips.
