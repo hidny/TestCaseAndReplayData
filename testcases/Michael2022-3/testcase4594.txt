@@ -83,7 +83,8 @@ Expert alternative response:
 JS
 
 #Oct 2022:
-#You could force all the cards to come to you if you think about it.
-# Monte agrees by almost 2 points (rounding error...)
+# Mellow is safe, so just try to take all 3 tricks
+# (techically can't force it to happen, but you could try)
+# Monte agrees by 2 points
 # Because of this test case, I fixed a bug with signals that don't
 # acknowledge that Richard could have the 3D
