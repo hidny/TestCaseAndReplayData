@@ -23,18 +23,15 @@ Expert alternative response:
 
 
 #Oct 2022:
-# Say 5 to force the bid to 14+?
-
-# Update:
-# Fixed 2 bugs with WP Monte and got this result:
-# 0: 0.27133061151122995 %
-# 1: 0.512194112894693 %
-# 2: 0.5178235329996681 %
-# 3: 0.49926642205302113 %
-# 4: 0.49498294695027434 %
-# 5: 0.5330658222452944 %
-# 6: 0.09613412709553981 %
-# 7: 0.05890529964192598 %
-# It looks nicer...
+# Say 5 to force the bid to 14+
+# Fixed a bug with WP Monte and got this result:
+# 0: 1.979475935058594 %
+# 1: 0.4272488647460937 %
+# 2: 0.3695892822265625 %
+# 3: 0.3952104370117187 %
+# 4: 0.4029903881835938 %
+# 5: 0.4820513598632813 %
+# 6: 0.12135959716796879 %
+# 7: 0.06480643554687501 %
 
 #WPMonte agrees with the logical 5 bid!
