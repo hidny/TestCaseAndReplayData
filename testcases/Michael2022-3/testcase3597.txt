@@ -58,3 +58,6 @@ Expert alternative response:
 # WP monte likes AH
 # reg monte likes TH and 7H
 # I'll stick with the safe option
+#Oct 2022:
+# WP Monte likes AH best with 96.14% (almost 2% more than tH)
+# Points-wise, it's over 20 points better than TH
