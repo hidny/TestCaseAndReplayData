@@ -65,6 +65,5 @@ Expert response:
 Expert alternative response:
 
 #Oct 2022:
-# TODO:
 # Play the obvious 8C because opponent mellow may be vulnerable but partner mellow is not
 # Monte agrees by 20 points! (and 4%)

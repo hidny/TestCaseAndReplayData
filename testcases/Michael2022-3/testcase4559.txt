@@ -43,3 +43,6 @@ TS
 # Update:
 # After fixing the debug cases, D-9034 and D-9035,
 # the gap narrowed to 4.4 points over anything else. (or less)
+# Update 2:
+# I'm actually starting to think we should not lead spade because
+# partner is vulnerable... Maybe we're just hoping RHS needs to play high spade?
