@@ -58,4 +58,8 @@ Cards in hand:
 Expert response:
 KD
 Expert alternative response:
-QC
+3S 5C 7C
+
+#Oct 2022:
+# Monte 5K likes 3S, then KD by 1 point, then 57C by 4points...
+# I'll fail QC and pass 57C

@@ -51,6 +51,9 @@ JS 8S 5S 6H 3H 5C 4C 2C
 # Doris: 0/1
 
 Expert response:
-5S
+8S
 Expert alternative response:
-8S JS
+JS
+
+#OCT 2022:
+# Monte 5K confirms the 8JS is better than 5S.

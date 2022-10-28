@@ -46,6 +46,11 @@ JS TS 8S 5S 8H KC 3C AD KD
 # Doris: 1/1
 
 Expert response:
-KD
+AD
 Expert alternative response:
-JS
+KD JS TS
+
+#Oct 2022:
+# Monte 5K prefers AD over JTS by 8 points, but whatever...
+# It also prefers AD over KD by 2.5 points.
+# It also doesn't mind 8H, but even I have my limits.

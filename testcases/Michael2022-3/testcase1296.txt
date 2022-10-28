@@ -61,6 +61,10 @@ Cards in hand:
 # Doris: 1/1
 
 Expert response:
-QC
-Expert alternative response:
 3S
+Expert alternative response:
+QC TC 8C 7C 5C 
+
+#Oct 2022:
+# Monte likes 3S by 0.25 points over any club
+# I'll just pass anything.

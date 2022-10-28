@@ -31,9 +31,9 @@ QS JS 9S 8S 5S 2S 6H 3H 5C 4C 2C AD
 # Doris: 0/1
 
 Expert response:
-QS
-Expert alternative response:
 JS
+Expert alternative response:
+QS
 
 #OCT 2022:
 # Monte agrees about JQS, but prefers JS by 16 points
