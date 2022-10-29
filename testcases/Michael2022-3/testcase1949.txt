@@ -46,6 +46,10 @@ QS JS TS 8S 5S JH TH 6H 8D
 # Doris: 0/3
 
 Expert response:
-5S
+8D
 Expert alternative response:
-8D 8S
+6H QS JH
+
+#OCT 2022:
+# Monte has a different idea (i.e. Don't play 85S)
+# Monte likes 8D by 1 point over 6H, 1.5 points over JH and 1.7 points over QJTS

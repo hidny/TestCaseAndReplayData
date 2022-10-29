@@ -37,3 +37,6 @@ Expert alternative response:
 #July 2022:
 # AD over others by 4 points
 # AD over 3S by 10 points and 0.3%
+#OCT 2022:
+# AD is still best by 3.7 points over 2D
+# but: QS is preferred over 3S by 0.5 points
