@@ -1,0 +1,25 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 954             725
+
+Cards dealt:
+KS QS TS 4S 3S 2S AH JH TH 9H 4C 3C QD 
+
+
+Bid history:
+Richard bid 2.
+Doris bid 1.
+
+
+Cards in hand:
+KS QS TS 4S 3S 2S AH JH TH 9H 4C 3C QD 
+
+
+Expert response:
+3
+Expert alternative response:
+
+#OCT 2022:
+# Get enough points to just end the game.
