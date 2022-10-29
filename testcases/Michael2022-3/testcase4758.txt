@@ -32,4 +32,6 @@ Expert response:
 Expert alternative response:
 
 
-# (TODO: please test)
+# Oct 2022:
+# In hind-sight, 7C is a no-brainer, but we might as well ask monte about it.
+# Monte prefers 7C by over 35 points!

@@ -59,6 +59,12 @@ QS JS 9S TD 6D 5D 2D
 # Doris: 2/2
 
 Expert response:
-6D
+TD
 Expert alternative response:
-5D
+6D 5D
+
+#Oct 2022:
+# I want to have more diamond groups after the round.
+# I don't know if it matters.
+# Monte wants to just play the high TD by 5 points over 256D points.
+# I don't get it though...

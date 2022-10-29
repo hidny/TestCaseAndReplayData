@@ -44,6 +44,11 @@ QS JS TS 8S 6S 2S 9H JC 9C 8C
 # Doris: 0/2
 
 Expert response:
-8S
+2S
 Expert alternative response:
-TS JS QS
+6S 8S TS JS QS
+
+#Oct 2022:
+# I was afraid I might get trumped over with 7S if I played 6S or 2S and that seemed bad.
+# Monte prefers 2S (17.95) or 6S (17.19) vs 8S (15.90).
+# Monte's not afraid

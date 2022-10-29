@@ -69,6 +69,12 @@ Cards in hand:
 # Doris: 3/4
 
 Expert response:
-6D
+5H
 Expert alternative response:
+2H 6D 4D 2D
 
+#Oct 2022:
+# It technically doesn't matter. The mellow is bullet-proof.
+# I'll verify with monte.
+# For the record, monte prefers 2H by 0.01 points over 5H and 0.17 points over D
+# I don't get it though, so I'll just pass everything.

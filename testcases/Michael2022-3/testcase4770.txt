@@ -18,4 +18,9 @@ AS QS JS 9S 2S AH 4H 3H 3C TD 6D 5D 2D
 Expert response:
 4
 Expert alternative response:
-5
+5 3
+
+#Oct 2022:
+# WPMonte is saying 4, then 3, then 5
+# Monte says 5, then 4 by 2 points, then 3 by 7 points under 5.
+# I'll be nice and pass 3 and 5.

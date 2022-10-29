@@ -19,6 +19,10 @@ Cards in hand:
 
 
 Expert response:
-2
-Expert alternative response:
 3
+Expert alternative response:
+2
+
+#Oct 2022:
+#WPMonte and monte say 3 then 2 by 6 points
+# Monte thinks 2 =4, but WPMonte does not. (1% diff)

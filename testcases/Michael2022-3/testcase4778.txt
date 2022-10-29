@@ -63,6 +63,22 @@ QS JS 9S TD 5D 2D
 # Doris: 3/2
 
 Expert response:
-TD
-Expert alternative response:
 5D
+Expert alternative response:
+JS QS TD
+
+#Oct 2022:
+# I don't want to trump because mellow will just trump under
+# and I want to save the 2D.
+# I'll verify with monte.
+# Monte likes 5D then JQS by 1 point then 2Td by 1 point.
+# Weird
+# 9S: -39.52130096197893
+# JS: -37.66972056802565
+# QS: -37.66972056802565
+# 2D: -38.10032065964269
+# 5D: -36.916628492899676
+# TD: -38.11681172698122
+# I guess monte gave up on burning mellow?
+# I don't get why monte dislikes the 9S...
+# Maybe we don't want partner to lead??? (Partner might have TS)

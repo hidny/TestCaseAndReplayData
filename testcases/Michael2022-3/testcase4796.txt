@@ -23,3 +23,4 @@ Expert alternative response:
 
 #OCT 2022:
 # Get enough points to just end the game.
+# WP Monte says bidding 3 is 100.0% after sampling 60K games.

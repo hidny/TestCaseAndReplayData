@@ -56,6 +56,17 @@ JS 9S 3S AH QH JD 2D
 # Doris: 1/2
 
 Expert response:
-JS
+JD
 Expert alternative response:
-AH JD
+AH QH 
+
+#OCT 2022:
+# QH is probably better than AH now that I think about it...
+# Monte prefers AH over QH by 0.06 points, but I'll pass both:
+# 3S: -6.558033333333333
+# 9S: 35.81483333333333
+# JS: 33.998333333333335
+# QH: 41.555083333333336
+# AH: 41.612316666666665
+# 2D: 23.325366666666667
+# JD: 41.6432

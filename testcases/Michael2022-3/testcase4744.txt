@@ -20,4 +20,9 @@ AS JS 5S 5H 3H JC 9C 5C 4C 3C JD 7D 3D
 Expert response:
 2
 Expert alternative response:
-1
+3 1
+
+#OCT 2022:
+# WPMonte likes 2 then 3, but monte likes 3 then 2
+# saying 1 is 10 points worse, but I'll be nice and
+# pass it anyways.

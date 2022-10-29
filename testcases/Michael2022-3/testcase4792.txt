@@ -66,10 +66,12 @@ Cards in hand:
 # Doris: 2/4
 
 Expert response:
-8S
+6C
 Expert alternative response:
-9S
+7C JC
 
 
 
-# (TODO: please test)
+#Oct 2022:
+# Drain spade? Does this even matter?
+# Monte: Don't drain spade by 15 points!

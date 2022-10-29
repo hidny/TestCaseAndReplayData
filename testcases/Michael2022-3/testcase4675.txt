@@ -68,4 +68,8 @@ Cards in hand:
 Expert response:
 4S
 Expert alternative response:
-3S
+3S TD
+
+#Oct 2022:
+# Partner already has his tricks, so drain spade?
+# Monte is sayind TD =3S =4S and the other others are around 0.1-0.2 points less.

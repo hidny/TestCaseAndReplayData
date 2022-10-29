@@ -46,8 +46,12 @@ QS 4S 3S 7H 5H 3H 3C QD TD
 # Doris: 0/2
 
 Expert response:
-3C
+7H
 Expert alternative response:
+5H 3H TD 3C
 
-
-# (TODO: please test)
+#Oct 2022:
+# Clear suit for trumping? Phil might have QC alone.
+# Monte slightly prefers leading hearts for some reason. (by 0.4 points)
+# It also doesn't mind the TD (which is better or worse than H depending on the run)
+# I guess those options are safer
