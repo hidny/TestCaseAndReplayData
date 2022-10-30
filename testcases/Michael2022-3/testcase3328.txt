@@ -20,6 +20,6 @@ Expert response:
 Expert alternative response:
 
 
-#May 2022:
+#May-Oct 2022:
 # Bid 2 even though points monte likes 3 (WP prefers 2 by 0.1%)
 # Don't take risks when way ahead...

@@ -26,3 +26,5 @@ Expert alternative response:
 # I didn't tell the AI that spade will probably
 # make three tricks...
 # Because the rule seems complicated right now.
+# Oct 2022:
+# Monte slightly prefers 5 over 4 by 3 points thanks to QJD

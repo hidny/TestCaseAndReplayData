@@ -17,11 +17,16 @@ JS TS 6S 4S 3S QH JH 8H 3H KC QC 7C AD
 
 
 Expert response:
-0
+1
 Expert alternative response:
-1 2
+2 3 4 5
 
 # Sept 2022:
 # Don't mess this up
 # The mellow might be a bluff.
 # OMG: The AI bids 9 for some reason.
+# Oct 2022:
+# WPMonte actually prefers saying 5...
+# but for me, it's all about burning the mellow... oh well!
+# I'll pass 5 and 4
+# WPMonte also hates the idea of mellow, and I don't blame them!

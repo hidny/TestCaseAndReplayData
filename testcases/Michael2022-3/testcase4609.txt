@@ -24,3 +24,4 @@ Expert alternative response:
 #Oct 2022:
 # Monte says 4 or 5 (about same),  then 3 by 6 points
 # I got it wrong during the game.
+# (WPMonte slightly prefers 5 while monte slightly prefers 4)

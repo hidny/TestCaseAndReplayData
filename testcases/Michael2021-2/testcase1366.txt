@@ -24,3 +24,5 @@ Expert alternative response:
 #March 2022:
 # Monte says 3 then 2 by 8 points
 # (Monte agrees with me)
+# Oct 2022:
+# Monte says 3 then 4 by 3 points and bid 2 is 10 points less than bid 3.
