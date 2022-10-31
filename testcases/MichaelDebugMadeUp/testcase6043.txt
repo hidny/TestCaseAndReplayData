@@ -1,0 +1,28 @@
+Your name: Doris
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 270             245
+
+Cards dealt:
+QS 8S 4S 3S 8H 3H JC 6C 3C AD JD 5D 3D
+
+
+Bid history:
+Michael2022-3 bid mellow.
+Phil bid 3.
+Richard bid 4.
+
+
+Cards in hand:
+QS 8S 4S 3S 8H 3H JC 6C 3C AD JD 5D 3D 
+
+
+Expert response:
+0
+Expert alternative response:
+
+
+#OCT 2022:
+# Was this a good mellow for Doris?
+# Monte says yes by 16 points over saying 2 and by 4.5%

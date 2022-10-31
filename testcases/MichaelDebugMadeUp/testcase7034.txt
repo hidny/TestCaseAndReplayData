@@ -1,0 +1,24 @@
+Your name: Phil
+Dealer is on your right
+Score at start:
+Your Score      Their Score
+ 201             390
+
+Cards dealt:
+7S 4S AH 9H 7H 5H QC 7C 4C 7D 6D 5D 4D
+
+
+Bid history:
+
+Cards in hand:
+7S 4S AH 9H 7H 5H QC 7C 4C 7D 6D 5D 4D
+
+Expert response:
+0
+Expert alternative response:
+
+
+#Oct 2022:
+# Was this a good mellow for Phil?
+# Monte says that it was a good mellow. It gives mellow 18 points
+# and bid of 1 is only -30 points. (Also, it's a 6% diff)

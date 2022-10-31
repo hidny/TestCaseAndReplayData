@@ -1,0 +1,56 @@
+Your name: Phil
+You are the Dealer
+Score at start:
+Your Score      Their Score
+ 435             735
+
+Cards dealt:
+AS TS 9S 2S JH TH 9H 8H 4H TC 5C AD 3D 
+
+
+Bid history:
+Richard bid 2.
+Doris bid mellow.
+Michael2022-3 bid 3.
+Phil bid 3.
+
+
+Play history:
+--new round--
+Richard played the 2D.
+Doris played the 4D.
+Michael2022-3 played the JD.
+Phil played the 3D.
+--new round--
+Michael2022-3 played the 5D.
+Phil played the AD.
+Richard played the TD.
+Doris played the KD.
+--new round--
+Phil played the AS.
+Richard played the 7S.
+Doris played the JS.
+Michael2022-3 played the 8S.
+--new round--
+Phil played the 9S.
+Richard played the 5S.
+Doris played the 4S.
+Michael2022-3 played the KS.
+--new round--
+Michael2022-3 played the 6H.
+
+
+Cards in hand:
+TS 2S JH TH 9H 8H 4H TC 5C
+
+
+Expert response:
+JH
+Expert alternative response:
+
+
+#OCT 2022:
+# Maybe play the highest heart
+# to hide the fact that the mellow is in serious danger?
+# Monte agrees to play JH by 1.5 points over any other choice
+# I feel validated!

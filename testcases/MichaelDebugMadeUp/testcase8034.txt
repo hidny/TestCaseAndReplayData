@@ -1,0 +1,27 @@
+Your name: Doris
+Dealer is your partner opposite you
+Score at start:
+Your Score      Their Score
+ 435             735
+
+Cards dealt:
+JS 4S 3S QH 2H 6C 4C 3C 2C KD 9D 7D 4D
+
+
+Bid history:
+Richard bid 2.
+
+
+Cards in hand:
+JS 4S 3S QH 2H 6C 4C 3C 2C KD 9D 7D 4D
+
+Expert response:
+0
+Expert alternative response:
+
+
+#Oct 2022:
+# Is this a mellow?
+# I guess WPMonte might say yes because we're behind...
+# Both Monte and WPMonte say it's a good mellow
+# Monte by 12 points over 0 and WPMonte by almost 2.5%
