@@ -1,0 +1,23 @@
+Your name: Michael2022-3
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 114             177
+
+Cards dealt:
+AS JS TS 7S 4S 2S 6H 4H 2H JC 8C QD 3D 
+
+
+Bid history:
+Richard bid 5.
+Doris bid 1.
+
+
+Cards in hand:
+AS JS TS 7S 4S 2S 6H 4H 2H JC 8C QD 3D 
+
+
+Expert response:
+4
+Expert alternative response:
+

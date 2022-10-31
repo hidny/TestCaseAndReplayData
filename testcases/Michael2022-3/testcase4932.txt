@@ -1,0 +1,24 @@
+Your name: Michael2022-3
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 703             382
+
+Cards dealt:
+TS 8S QH TH 8H 4H 3H AC QC JC 4C TD 3D 
+
+
+Bid history:
+Phil bid 1.
+Richard bid 2.
+Doris bid 4.
+
+
+Cards in hand:
+TS 8S QH TH 8H 4H 3H AC QC JC 4C TD 3D 
+
+
+Expert response:
+1
+Expert alternative response:
+

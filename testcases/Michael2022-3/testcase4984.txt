@@ -1,0 +1,24 @@
+Your name: Michael2022-3
+You are the dealer
+Score at start:
+Your Score      Their Score
+ 902             441
+
+Cards dealt:
+AS 7S 3S KH 7H 5H 3H AC KC 8C 7C AD 7D 
+
+
+Bid history:
+Phil bid 3.
+Richard bid mellow.
+Doris bid 2.
+
+
+Cards in hand:
+AS 7S 3S KH 7H 5H 3H AC KC 8C 7C AD 7D 
+
+
+Expert response:
+1
+Expert alternative response:
+2 3 4
