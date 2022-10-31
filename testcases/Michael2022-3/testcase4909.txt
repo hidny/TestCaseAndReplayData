@@ -40,4 +40,11 @@ JS 8S 7H 6H 4H KC 8C 3C 2C AD TD
 Expert response:
 7H
 Expert alternative response:
+4H 6H
 
+#Oct 2022:
+# When the mellow is potentially losing, protector should play highest of group on 2nd throw.
+# Monte slightly prefers 6H then 4H... Weird. I'll just pass it!
+#4H: -43.92015956180043
+#6H: -43.901643248392475
+#7H: -44.02316027625625

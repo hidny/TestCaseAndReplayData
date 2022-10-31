@@ -20,4 +20,10 @@ KS TS 2S 8H 4H 3H AC 8C 5C KD 8D 6D 5D
 Expert response:
 2
 Expert alternative response:
-3 0
+1 0
+
+# Oct 2022:
+# That's strange, WPMonte wants to say mellow by over 1 %.
+# then wants to say 2, then 1...
+# Monte says 1 (69.7), then 2 (69.5), then mellow (62)
+# I'll pass all three bids.

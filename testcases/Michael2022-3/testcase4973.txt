@@ -31,6 +31,13 @@ AS TS 9S 8S 5S JH TH 9H 6H 4H 7C 4D
 # Doris: 0/2
 
 Expert response:
-JH
+9S
 Expert alternative response:
-7C 4D
+8S 5S TS JH TH 9H 6H 4H
+
+#Oct 2022:
+# I feel like low H is bad, but draining spade might be good...
+# I can't tell if it matters.
+# Monte likes low spade by 3 points over high heart. (TS is 1 point less than 8S for some reason)
+# It also agrees to play high heart over low heart by only 0.1 points,
+# but prefers low heart over JH, which is confusing.

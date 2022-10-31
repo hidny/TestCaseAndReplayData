@@ -78,4 +78,9 @@ QH TH QC
 Expert response:
 QH
 Expert alternative response:
+QC TH
 
+#Oct 2022:
+# Maybe QC feeds partner? I don't know
+# QH is master though.
+# Monte says it's all the same, so I'll just pass it.

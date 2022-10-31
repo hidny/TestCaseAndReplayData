@@ -71,6 +71,13 @@ Cards in hand:
 # Doris: 2/2
 
 Expert response:
-TH
-Expert alternative response:
 9H
+Expert alternative response:
+6H TH
+
+# Oct 2022:
+# 6H is probably the same.
+# I don't want to play 8S because it's not master
+# Monte says 6H = 9H but TH is 0.4 points less
+# Maybe we want to encourage LHS to not trump?
+# Whatever... (8S is over 1 point less than hearts)

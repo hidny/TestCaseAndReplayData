@@ -62,4 +62,7 @@ Expert response:
 Expert alternative response:
 6D
 
-# LHS will probably trump, so don't play  high.
+#Oct 2022:
+# LHS will probably trump, so don't play high.
+# Monte doesn't get it :( (I have to implement some action filter function)
+# Monte prefers QD, but I'm sure that's wrong.

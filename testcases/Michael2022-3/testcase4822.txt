@@ -62,5 +62,7 @@ Expert response:
 KC
 Expert alternative response:
 
-
-# (TODO: please test)
+#OCT 2022:
+# Hope LHS doesn't have AC
+# if you don't play KC, LHS could win with 9TJQC
+# Monte agrees to play KC by almost 8 points.

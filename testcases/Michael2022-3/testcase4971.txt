@@ -19,3 +19,15 @@ Expert response:
 3
 Expert alternative response:
 4
+
+#Oct 2022:
+# WPMonte agrees with me by 0.02% (Say 3)
+# 0: 96.00346043361698 %
+# 1: 99.54654869740484 %
+# 2: 99.65211605743708 %
+# 3: 99.7197064970709 %
+# 4: 99.7078025481518 %
+# 5: 99.53656979232073 %
+# 6: 99.12680425605551 %
+# Saying 2 is 8 points less than saying 4.
+# Saying 5 is only 1 point less than saying 4, but almost 0.2% less because of the lead.

@@ -53,4 +53,10 @@ AS 7S 3S 7H 5H 3H KC 7D
 Expert response:
 5H
 Expert alternative response:
+7H KC
 
+#Oct 2022:
+# Maybe AS is better? I feel good about 5H though.
+# There's a good chance mellow has no hearts at this point.
+# Monte prefers high enough hearts by almost 1 point over KC and 3 points over AS.
+# WPMonte says KC is 100.0%, so I'll pass that too.

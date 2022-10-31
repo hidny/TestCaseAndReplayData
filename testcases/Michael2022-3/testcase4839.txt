@@ -76,8 +76,17 @@ Cards in hand:
 # Doris: 2/2
 
 Expert response:
-6D
+9S
 Expert alternative response:
+7C 6D
 
 #TODO:
 # Maybe 7C is better?
+#OCT 2022:
+# Monte only acknowledged 8 posibilities...
+# Monte trusts that partner will make the last trick
+# because partner signalled QC
+# The best plan seems to be to drain spade first by 0.25 points
+# (or only 1 simulation :( )
+# I'll just pass it because that's not enough evidence... and in the actual game,
+# it didn't make a diff.

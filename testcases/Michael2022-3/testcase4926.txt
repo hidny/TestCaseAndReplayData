@@ -58,6 +58,12 @@ KH JH TH 7H KD JD 6D
 # Doris: 4/2
 
 Expert response:
-KH
+TH
 Expert alternative response:
+JH 7H
 
+#Oct 2022:
+# Oops! I can't believe I played KH here!
+# Monte is skipping all test cases for some reason :(
+# Monte likes TJH then 7H (by 1 point less), then KH
+# I don't get why 7H is worse, so I'll pass the 7H.

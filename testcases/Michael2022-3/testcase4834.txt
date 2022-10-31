@@ -51,8 +51,13 @@ QS 9S 8S 7H 7C QD 6D 3D
 # Doris: 0/2
 
 Expert response:
-7H
+QD
 Expert alternative response:
-7C QD
+7H 7C
 
-# (TODO: please test)
+#OCT 2022:
+# I'm not sure of what to lead. Either hope RHS has QH and play 7H
+# Or: 7C because it seems partner has QC or no C.
+# (TODO: does monte understand this? Monte does not! Doh!)
+# Or master QD.
+# Monte likes the master QD by 2.5 points over 7H and 3 points over 7C

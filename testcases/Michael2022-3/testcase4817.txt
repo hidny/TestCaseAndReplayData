@@ -31,6 +31,24 @@ Cards in hand:
 # Doris: 0/4
 
 Expert response:
-8H
+4D
 Expert alternative response:
-9D 8D
+9D 8D 8H
+
+# OCT 2022:
+# 4D feels less strong than 89D, but what do I know?
+# Monte and WPMonte slightly prefers 4D, so I'll pass it.
+# Monte agrees to play diamond by 0.2 points over low hearts
+# I'll pass 8H anyways because it's close enough. (0.12 points off)
+# 7S: -35.932116666666666
+# 9S: -35.55555
+# 3H: -33.460883333333335
+# 6H: -33.463683333333336
+# 8H: -33.4076
+# JH: -33.9952
+# 8C: -37.9822
+# KC: -40.519416666666665
+# 4D: -33.165616666666665
+# 8D: -33.21483333333333
+# 9D: -33.2154
+# QD: -34.600316666666664

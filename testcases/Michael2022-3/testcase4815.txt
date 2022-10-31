@@ -18,4 +18,15 @@ Cards in hand:
 Expert response:
 2
 Expert alternative response:
-1
+
+
+#Oct 2022:
+# Monte prefers 2 by 4 points over 1 and 5 points over mellow
+# WPMonte likes mellow more than 1,
+# I'll just pass 2 even though it's really close.
+# 0: 42.73253650697474 %
+# 1: 42.34810657935066 %
+# 2: 42.93502254451732 %
+# 3: 40.81262029607444 %
+# 4: 36.16972992323817 %
+# 5: 32.73696180225658 %
