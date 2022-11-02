@@ -45,3 +45,5 @@ TS 9S
 #Because only Phil has S, we should guarantee two spade
 #tricks by playing high S.
 #leading 5S just losses a trick.(1)
+#NOV 2022:
+# Confirmed that high spade is the way to go. Please fix. (by 6 points)

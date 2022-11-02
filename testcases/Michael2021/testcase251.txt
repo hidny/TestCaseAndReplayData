@@ -38,4 +38,13 @@ TS 8S 9H 4H JC 8C 3C KD 6D 5D 3D
 Expert response:
 8S
 Expert alternative response:
-TS JC
+TS 8C 3C 5D 6D 3D
+
+
+#Nov 2022:
+# Monte likes low diamond for some reason
+# then spade... by 0.5 points
+# Low club is also not bad.
+# AI currently chooses 9H which is equal to tS
+# 8S is 0.7 points better than TS
+# but 4D is 0.6 points better than 8S

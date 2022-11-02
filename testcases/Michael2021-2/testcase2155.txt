@@ -68,4 +68,7 @@ Cards in hand:
 Expert response:
 2S
 Expert alternative response:
-6S 4S 3S
+6S 4S 3S AC
+
+# Nov 2022:
+# Monte correctly says that it's all the same.

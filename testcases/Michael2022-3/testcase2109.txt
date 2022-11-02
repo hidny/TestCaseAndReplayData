@@ -69,3 +69,6 @@ Expert response:
 TS
 Expert alternative response:
 4S
+
+#Nov 2022:
+# Confirmed that monte wants to play spade by 25 points

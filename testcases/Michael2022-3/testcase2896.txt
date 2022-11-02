@@ -73,9 +73,11 @@ Cards in hand:
 Expert response:
 JD
 Expert alternative response:
-TD TH
+TD TH 7S
 
 # Create a master diamond (You have KQ equiv)
 # April 2022:
 # Monte: don't play spade.
 # TH is also good, so I'll leave that as an option
+#Nov 2022:
+# Monte now doesn't mind spade. It says S = D.

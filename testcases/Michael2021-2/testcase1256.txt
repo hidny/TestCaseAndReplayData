@@ -56,10 +56,13 @@ Cards in hand:
 # Doris: 0/3
 
 Expert response:
-6C
+9S
 Expert alternative response:
-QD TD 5C
+8S
 
 #Leading Spade is bad here because you have the 2 lowest spade
 #and there's 3 spades distributed among 2 people...
-#You are going to lose!  
+#You are going to lose!
+#Nov 2022:
+# Monte actually likes leading spade by 2 points
+# I guess it drains other people's spade?

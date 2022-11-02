@@ -38,9 +38,11 @@ Cards in hand:
 Expert response:
 8S
 Expert alternative response:
-
+5S 2S
 
 #Jan 2022:
 #Monte prefers 8S. (even though unknown spades are all above 8S)
 #Maybe it's to encourage LHS to play high spade.
 #I'll go with Monte (0.35 point diff)
+#Nov 2022:
+#Confirmed that spade is the way to go. Monte no longer cares about which one.

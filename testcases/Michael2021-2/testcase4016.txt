@@ -68,7 +68,10 @@ Cards in hand:
 Expert response:
 2S
 Expert alternative response:
-9D 7D
+9D 7D 5H KD
 
 #Monte like the 2S (to drain opponents S), then low D, then KD
 #I'm going with Monte. Playing 5H just feeds opponents
+#Nov 2022:
+# Monte now says it's all the same. Monte's saying that we're not making
+# a trick no matter what.
