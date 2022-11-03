@@ -48,7 +48,11 @@ KS TS 9S 7S 4S JC 5C 4C
 Expert response:
 7S
 Expert alternative response:
-TS 9S 4S
+TS 9S 4S 4C 5C
 
 #Monte like spade below KS, so I'll keep it as-is
 #It also prefers the 7S just like me!
+# Nov 2022:
+# Monte now prefers 45C by 2 points over spade
+# Monte seems to love playing low offsuit when it has lots of spade
+# and it has the Keq + 2 others. I don't get it, but I guess it's great.

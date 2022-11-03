@@ -33,3 +33,6 @@ Expert alternative response:
 #then AS but that's already 4 points less
 #I'll pass 34S and AS
 # (Lead low spade and see what partner can do)
+# Nov 2022:
+# Monte now likes 34S, but then TQS is 4 points less... interesting.
+# (AS is 6 points less)

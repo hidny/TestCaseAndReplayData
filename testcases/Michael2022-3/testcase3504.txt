@@ -43,4 +43,11 @@ QS TS 9S 8S 3C JD TD 9D 6D 5D
 Expert response:
 3C
 Expert alternative response:
+TS
 
+#Nov 2022:
+# Monte prefers TS by 1 point over other options
+# It then likes 8S9S, then 9TJD, then low D, then club.
+# I don't get diamonds. Aren't we just feeding RHS?
+# Maybe there will be a sweep? I don't know.
+# BTW: Looks like monte's trying to not burn and gives a non-zero chance of burning.

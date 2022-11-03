@@ -78,3 +78,5 @@ Expert alternative response:
 #March 2022:
 # Monte prefers spade
 # by over 1 point
+# Nov 2022:
+# It's now 0.7 points over 3H

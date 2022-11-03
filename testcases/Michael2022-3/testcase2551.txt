@@ -65,6 +65,6 @@ TS
 Expert alternative response:
 9S 8S 6S
 
-#March 2022:
+#March-Nov 2022:
 # Monte prefers spade
 # by over 1 point

@@ -63,4 +63,9 @@ TS 6S 2S 6H QC JC
 Expert response:
 6H
 Expert alternative response:
-2S
+2S TS 6S
+
+# OCT 2022:
+# Monte prefers TS by 0.06 points, and thinks 6S = 2S. 
+# I guess we know RHS has no spade, and we're pressuring LHS.
+# Anything that's not spade is 0.5 points less and QJC is worst (0.5 points less than 6H)
