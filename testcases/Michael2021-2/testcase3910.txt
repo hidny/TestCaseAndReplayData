@@ -63,4 +63,8 @@ TS 9S 8S 5S AH KD
 Expert response:
 TS
 Expert alternative response:
-9S 8S
+9S 8S AH KD
+
+# Nov 2022:
+# Monte claims it's all the same,
+# and I believe monte

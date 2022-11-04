@@ -36,3 +36,5 @@ Expert alternative response:
 # Nov 2022:
 # Monte now likes 34S, but then TQS is 4 points less... interesting.
 # (AS is 6 points less)
+# 456C is 1 point less than AS and 5 points less than low spade
+# I don't get it. 

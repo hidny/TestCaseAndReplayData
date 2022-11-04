@@ -33,4 +33,7 @@ AS JS 4S 3S KH QH 9H 5H 4H TC 7C 8D
 Expert response:
 KH
 Expert alternative response:
-TC 7C 8D
+TC 7C 8D 3S 4S
+
+# Nov 2022:
+# Monte prefers 34S, so I'll add it as an option

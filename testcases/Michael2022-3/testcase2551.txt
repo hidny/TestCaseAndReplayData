@@ -67,4 +67,7 @@ Expert alternative response:
 
 #March-Nov 2022:
 # Monte prefers spade
-# by over 1 point
+# by over 1 point over 3H
+# and by 2 points over TC
+# Why does AI think 3H???
+# BTW: no hidden spade.
