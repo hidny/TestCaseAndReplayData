@@ -60,7 +60,7 @@ Expert response:
 Expert alternative response:
 4S 4H 5H 9H
 
-#March 2022:
-# Monte doesn't like JS or 7C.
+#March-Nov 2022:
+# Monte doesn't like JS or 7C by 0.5 points
 # I guess 7C will probably get trumped on
 # and JS is a waste of a potential trick?
