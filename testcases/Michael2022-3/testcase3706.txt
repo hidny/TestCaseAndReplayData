@@ -46,3 +46,5 @@ Expert alternative response:
 # 2D is 0.2 points better than 6D
 # 6D is better than TD QD by at least 1 point
 # QS is 3 points less than 2D and 6D, but I don't get it
+# AHA: Monte sees that partner is more likely to be out of diamonds
+# compare to RHS and LHS. That's interesting... I'll leave this one alone for now.

@@ -60,3 +60,4 @@ Expert alternative response:
 # There's a good chance mellow has no hearts at this point.
 # Monte prefers high enough hearts by almost 1 point over KC and 3 points over AS.
 # WPMonte says KC is 100.0%, so I'll pass that too.
+# This is a weird near-end-of-game case.
