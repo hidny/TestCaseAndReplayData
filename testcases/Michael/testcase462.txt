@@ -58,4 +58,13 @@ Cards in hand:
 Expert response:
 8S
 Expert alternative response:
-7S AD QD JD
+7S AD QD JD 3C
+
+# Nov 2022:
+# Monte prefers the 1 card I didn't like by 0.7 points (3C)
+# I'll just pass everything
+# It's a confusing test case because the AIs aren't playing well.
+# Ex: partner didn't need to waste the AC, or lead 8C...
+# Maybe 8C was best choice, but that's hard to believe.
+# Update:
+# What if protector knows mellow has AH, but 2nd will trump??? oh well...

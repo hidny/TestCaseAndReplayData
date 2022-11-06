@@ -48,9 +48,11 @@ TS 9S KH 8H 5H KC QC 7C
 Expert response:
 5H
 Expert alternative response:
-8H
+8H KC
 
 #Nov 2022:
 # Monte likes 58H for some reason by 17 points over other options
 # Monte didn't skip anything though (other option is KQC)
 # AI currently plays KC
+# Update:
+# Insane test case because protector just let mellow burn spade.
