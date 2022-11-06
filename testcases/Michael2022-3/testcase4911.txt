@@ -48,4 +48,9 @@ JS 8S 6H 4H KC 8C 3C 2C AD
 Expert response:
 AD
 Expert alternative response:
+KC JS 8S
 
+#Nov 2022:
+# Monte now likes the KC by 2 points over 8S
+# It's only 148 samples though... and 8S is 3 points more than JS
+# for some reason... I'll just be nice and add J8S
