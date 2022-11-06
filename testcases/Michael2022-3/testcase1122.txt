@@ -45,4 +45,10 @@ JS 3S QH JH 5H 4H 9D 7D 5D 2D
 Expert response:
 JH
 Expert alternative response:
+QH
 
+#Nov 2022:
+# Monte prefers JH by almost 2 points for both runs...
+# I don't get it.
+# It wasn't a huge sample though. (Only 726)
+# I'm going against monte here... because I can't make sense of it.
