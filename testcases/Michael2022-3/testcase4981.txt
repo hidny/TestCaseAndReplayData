@@ -81,5 +81,3 @@ Expert alternative response:
 # Monte says 6H = 9H but TH is 0.4 points less
 # Maybe we want to encourage LHS to not trump?
 # Whatever... (8S is over 1 point less than hearts)
-#Nov 2022:
-# Monte agrees to lead heart... Wait this is the recent one. Whatever!
