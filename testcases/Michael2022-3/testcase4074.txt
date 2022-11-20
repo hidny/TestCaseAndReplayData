@@ -55,4 +55,9 @@ KS 9S AH QH 2H KC QC TC
 Expert response:
 KC
 Expert alternative response:
+QC TC
 
+#Nov 2022:
+# I don't think the club played matters here.
+# Maybe master is slightly better because it hides that we also have kequiv?
+# Monte says KC is 0.0016 points better. I'll just pass it.

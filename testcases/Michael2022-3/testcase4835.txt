@@ -64,5 +64,13 @@ Expert alternative response:
 
 #Oct 2022:
 # LHS will probably trump, so don't play high.
-# Monte doesn't get it :( (I have to implement some action filter function)
+# Monte doesn't get it :(
+# I could just fix it, but this is a good chance to
+# implement some action judger functions...
+# AHA: Partner also led K before Ace (for clubs)
+# And monte correctly states that partner has QC
 # Monte prefers QD, but I'm sure that's wrong.
+# Update Nov 2022:
+# I made the fix and it worked like a charm.
+# It worked on all cases where player signalled
+# void because of king lead (there's only about 10 of them)

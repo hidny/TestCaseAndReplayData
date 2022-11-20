@@ -88,3 +88,7 @@ Expert response:
 3S
 Expert alternative response:
 7S
+
+#Nov 2022:
+# The signal handler correctly notices that Richard is void in diamond
+# after Phil plays KD. Interesting!
