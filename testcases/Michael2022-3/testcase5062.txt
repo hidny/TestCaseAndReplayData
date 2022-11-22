@@ -22,3 +22,7 @@ Expert response:
 0
 Expert alternative response:
 
+#Nov 2022:
+# Monte might like mellow, but Doris seriously misplayed it
+# (TODO: Retest after Doris won't misplay this. )
+# For the record, Monte likes mellow by 42 points over bidding 2. (for now) 

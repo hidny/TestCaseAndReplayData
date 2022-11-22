@@ -72,3 +72,6 @@ Expert response:
 QH
 Expert alternative response:
 
+#Nov 2022:
+# Apparently Monte likes QH by 20 points over anything else
+# Make H vulnerable for mellow I guess. (This was my instinct too!)

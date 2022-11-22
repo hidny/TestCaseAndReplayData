@@ -1,0 +1,28 @@
+Your name: Doris
+Dealer is your partner opposite you
+Score at start:
+Your Score      Their Score
+ 817             687
+
+Cards dealt:
+KS 7S JH 3H QC TC 9C 7C 6C TD 7D 5D 2D
+
+
+Bid history:
+Richard bid mellow.
+
+
+Cards in hand:
+KS 7S JH 3H QC TC 9C 7C 6C TD 7D 5D 2D
+
+Expert response:
+2
+Expert alternative response:
+1
+
+#Nov 2022:
+# Is this KS a mellow?
+# Monte says to not say mellow here by
+# over 40 points
+# Bidding 1 and 2 is about the same, though WPMonte slightly prefers bidding 2.
+# Also, don't spoil your advantage.

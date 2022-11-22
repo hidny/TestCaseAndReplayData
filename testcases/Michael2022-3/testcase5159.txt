@@ -51,6 +51,11 @@ Cards in hand:
 # Doris: 2/3
 
 Expert response:
-KC
+JC
 Expert alternative response:
+KC
 
+#Nov 2022:
+# Monte slightly prefers JC by 0.004 points
+# 9S is 16 points worse
+# and everything else is even worse than that.

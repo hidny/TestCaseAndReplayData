@@ -33,4 +33,9 @@ Cards in hand:
 Expert response:
 2S
 Expert alternative response:
+JC
 
+# Nov 2022:
+# Monte prefers JC, but monte doesn't get this test case. (100% bid-skip rate)
+# Everything but QD is preferred over leading spade btw.
+# Maybe I should just give partner some spade??? Too complicated!

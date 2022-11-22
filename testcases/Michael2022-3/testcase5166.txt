@@ -22,3 +22,12 @@ Expert response:
 5
 Expert alternative response:
 1
+
+# Nov 2022:
+# WPMonte prefers 6 by 8 % over saying 5,
+# but it doesn't make sense!
+# If you say 5 and make it, the opponent burns...
+# WP monte also prefers 5 over 1
+# Monte also prefers 6 over 5, and I'm confused.
+# Monte and WPMonte say that mellow is the worst option
+# AI should not do that.

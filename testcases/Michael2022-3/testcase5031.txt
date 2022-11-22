@@ -67,4 +67,8 @@ Cards in hand:
 Expert response:
 4S
 Expert alternative response:
+9S 7S 5S
 
+#Nov 2022:
+# Monte says any spade is good here...
+# Whatever!

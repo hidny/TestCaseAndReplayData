@@ -24,8 +24,11 @@ JS 5S 2S JH TH 7H 4H JC 2C QD 6D 5D 2D
 # Doris: 0/3
 
 Expert response:
-JS
+2S
 Expert alternative response:
+5S JS
 
-
-# (TODO: please test)
+# Nov 2022:
+# Monte prefers 2S by 4 points over JS and 5S by  2 points over JS
+# For the record, JS immediately lost the mellow for me.
+# I'll still pass it, but I have doubts.

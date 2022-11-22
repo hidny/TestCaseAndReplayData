@@ -21,3 +21,9 @@ Expert response:
 4
 Expert alternative response:
 3
+
+# Nov 2022:
+# WP Monte agrees to bid 4 then 3 by 0.5 %
+# and 6 points
+# Though bidding 5 is 1 point less than 4, WPMonte prefers 3 over 5. (3 is 6 points less than 4)
+# (Be safe)

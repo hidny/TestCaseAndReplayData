@@ -49,3 +49,18 @@ Expert response:
 9C
 Expert alternative response:
 KC
+
+#Nov 2022:
+# Weird end-of-game case
+# WPMonte agrees to lead KC, 9C then TS
+# The idea is to just make tricks and dare mellow to take it with AC.
+# Comparing utility of different cards to play:
+# 3S: 87.39534163740984 %
+# 6S: 87.39534163740984 %
+# TS: 90.7318261236563 %
+# 6H: 86.9515537209865 %
+# 7H: 87.03445886256775 %
+# JH: 86.1235901863389 %
+# 3C: 86.51621972033591 %
+# 9C: 92.55866332047466 %
+# KC: 95.47397150919547 %

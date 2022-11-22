@@ -83,6 +83,9 @@ Cards in hand:
 Expert response:
 9S
 Expert alternative response:
+8D
 
 #Nov 2022:
-#jUST try to sweep
+#jUST try to sweep.
+# Monte claims it technically doesn't matter,
+# so I'll pass it. (Phil and Doris have 2 high diamonds between them) 

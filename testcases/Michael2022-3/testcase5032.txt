@@ -66,6 +66,10 @@ Cards in hand:
 # Doris: 3/2
 
 Expert response:
-5S
+8D
 Expert alternative response:
-7S 9S
+7D 5S 7S 9S  
+
+# Nov 2022:
+# Monte prefers not trumping by 0.7 points
+# I liked trumping, so I'll pass it.

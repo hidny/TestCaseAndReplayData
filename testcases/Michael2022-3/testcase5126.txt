@@ -83,4 +83,7 @@ KD 8D
 Expert response:
 8D
 Expert alternative response:
+KD
 
+# Nov 2022:
+# It doesn't matter! (You're TRAMing)

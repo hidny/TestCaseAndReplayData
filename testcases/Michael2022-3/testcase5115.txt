@@ -30,6 +30,10 @@ QS 4S 3S 2S TH 2H QC 9C AD KD 9D 8D 2D
 # Doris: 0/0
 
 Expert response:
-4S
+2S
 Expert alternative response:
-3S 2S
+3S 4S
+
+#Nov 2022:
+# Don't waste QS for the sake of burning a mellow!
+# Monte agrees by 2 points.

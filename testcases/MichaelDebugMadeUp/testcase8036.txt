@@ -1,0 +1,32 @@
+Your name: Doris
+Dealer is your partner opposite you
+Score at start:
+Your Score      Their Score
+ 817             687
+
+Cards dealt:
+KS 7S JH 3H QC TC 9C 7C 6C TD 7D 5D 2D
+
+
+Bid history:
+Richard bid mellow.
+Doris bid mellow.
+Michael2022-3 bid 4.
+Phil bid 3.
+
+
+Play history:
+--new round--
+Richard played the 8S.
+
+Cards in hand:
+KS 7S JH 3H QC TC 9C 7C 6C TD 7D 5D 2D
+
+Expert response:
+KS
+Expert alternative response:
+
+
+#Nov 2022:
+# Is playing the KS your best shot?
+# Monte says that playing KS your best shot by 16 points

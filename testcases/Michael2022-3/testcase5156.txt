@@ -36,6 +36,15 @@ JS 9S 7S JH TH 4H KC JC 6C 4C 3C
 # Doris: 1/3
 
 Expert response:
-JS
+KC
 Expert alternative response:
+9S JS
 
+# Nov 2022:
+# Monte very slightly prefers KC
+# by 0.37 points over JS
+# I'll pass all options because it's close.
+# Second run prefers KC by 1.3 points...
+# I'll still pass all three because I'm confused.
+# 7S is 1 point less than 9S,JS for some reason...
+# I don't get it.

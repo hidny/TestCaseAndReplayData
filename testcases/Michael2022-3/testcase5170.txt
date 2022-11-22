@@ -47,3 +47,8 @@ Expert response:
 QC
 Expert alternative response:
 
+#Nov 2022:
+# Monte agrees to play QC over KC by 0.7 points
+# and WPMonte says it's a -0.2% diff. (QC is more confusing)
+# (39C is over 50 points worse and 15% worse)
+# I'm tempted to pass KC anyways. I'll see what the 2nd run says.

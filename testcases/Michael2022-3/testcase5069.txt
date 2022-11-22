@@ -60,4 +60,8 @@ Cards in hand:
 Expert response:
 JC
 Expert alternative response:
-TC
+TC 4D 5D 6H
+
+#Nov 2022:
+# Monte prefers 45D by 19 points over 6H
+# I liked JTC, but I guess that's wrong.

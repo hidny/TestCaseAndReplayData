@@ -1,0 +1,39 @@
+Your name: Doris
+Dealer is on your left
+Score at start:
+Your Score      Their Score
+ 238             241
+
+Cards dealt:
+AS KS TS 9S 5S 2S KH TH 8H 7H 5C KD 7D
+
+
+Bid history:
+Phil bid mellow.
+Richard bid 2.
+Doris bid 5.
+Michael2022-3 bid mellow.
+
+
+Play history:
+--new round--
+Phil played the 6S.
+Richard played the JS.
+Doris played the 2S.
+Michael2022-3 played the 3S.
+--new round--
+Richard played the 8S.
+
+Cards in hand:
+AS KS TS 9S 5S KH TH 8H 7H 5C KD 7D
+
+Expert response:
+5S
+Expert alternative response:
+TS 9S
+
+#Nov 2022:
+# What if LHS mellow has QS???
+# Don't play AKS!!!
+# WPMonte says it's a 22% diff
+# Monte says it's a 158 point diff

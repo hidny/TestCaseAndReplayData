@@ -85,4 +85,7 @@ QD 6D
 Expert response:
 6D
 Expert alternative response:
+QD
 
+# Nov 2022:
+# Monte says that it doesn't matter.

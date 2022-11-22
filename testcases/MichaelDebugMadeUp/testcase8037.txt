@@ -1,0 +1,32 @@
+Your name: Richard
+Dealer is your partner opposite you
+Score at start:
+Your Score      Their Score
+ 998             879
+
+Cards dealt:
+QS JS 8S QH 8H 5H 7C 6C 5C AD TD 9D 2D
+
+
+Bid history:
+Phil bid mellow.
+
+
+Cards in hand:
+QS JS 8S QH 8H 5H 7C 6C 5C AD TD 9D 2D
+
+Expert response:
+5
+Expert alternative response:
+4 3
+
+#Nov 2022:
+# Is saying 1 really the best bid?
+# Weird end-of-game test case.
+# WPMonte prefers syaing 5 then 4 (91%)
+# then 3 (87%)
+# I refuse to bid six.
+# I had the logic bid low because it's near the end of the game,
+# but that might not be best here.
+# Actually, maybe it is... I don't know...
+# For now, I'll fail the 1 bid.

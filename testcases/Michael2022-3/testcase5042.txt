@@ -56,7 +56,7 @@ JH 9H 8H 5H 9C QD 7D 2D
 Expert response:
 QD
 Expert alternative response:
-JS
 
-# TODO:
-# Maybe leave 9C vulnerable?
+
+# Nov 2022:
+# Monte likes QD by 6 points over 9C and 32 points over JH

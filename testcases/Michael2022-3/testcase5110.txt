@@ -71,4 +71,9 @@ Cards in hand:
 Expert response:
 4C
 Expert alternative response:
-5C
+5C 3C 4H 2H
+
+# Nov 2022:
+# Monte is weird and likes to throw 2H by 11 points
+# over all other options that are about the same.
+# I'll be nice and pass all.

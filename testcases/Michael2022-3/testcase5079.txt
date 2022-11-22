@@ -43,4 +43,8 @@ KS 8S AH KH TH 6H 5H 3H JC TC
 Expert response:
 KS
 Expert alternative response:
+AH KH
 
+# Nov 2022:
+# Monte prefers AKH over KS by 0.7 points 0.4 point respectively
+# I'll add those as options. 

@@ -43,4 +43,8 @@ Cards in hand:
 Expert response:
 JC
 Expert alternative response:
-9C
+9C 2D 6D
+
+#Nov 2022:
+# Monte prefers leading low dimaond by 0.3 points over low club
+# Monte is also no fan of my idea of leading JC. 

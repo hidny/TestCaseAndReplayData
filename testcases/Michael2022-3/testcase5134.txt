@@ -62,4 +62,8 @@ TH 7H 6H KC 8C 5C 9D
 Expert response:
 7H
 Expert alternative response:
+6H
 
+# Nov 2022:
+# 6H = 7H
+# But TH is over 2 points less.

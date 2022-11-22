@@ -22,3 +22,9 @@ Expert response:
 3
 Expert alternative response:
 4
+
+#Nov 2022:
+# WP Monte wants to bid 3 with -48.8 points and didn't eval 4...
+# 2 is 7 less than 3 and mellow is 18 points less than 3.
+# WP Says 3 is better than mellow by 1.17%
+# TODO: test 4, 5, 6 bid.

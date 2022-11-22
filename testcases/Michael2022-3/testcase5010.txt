@@ -22,3 +22,7 @@ Expert response:
 5
 Expert alternative response:
 6
+
+# Nov 2022:
+# Monte agrees to bid 5 then 6 by 4 points
+# (4 is 5 points worse than 5)

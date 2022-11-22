@@ -53,4 +53,10 @@ Cards in hand:
 Expert response:
 TC
 Expert alternative response:
-2C
+2C KH
+
+# Nov 2022:
+# Monte wants to lead KH by 2 points,
+# but it was a trap and maybe the QH lead was a 
+# good enough hint...
+# I'll pass KH because I'm not sure about it.
