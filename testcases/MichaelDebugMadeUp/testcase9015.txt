@@ -56,5 +56,8 @@ Expert alternative response:
 #Why not just take the trick?
 #Mellow protector test case.
 #I actually agree with AI now that I made the test case...
-#TODO: when an improved version of Monte comes online, use it here.
-#The improved version should factor in signals.
+# When an improved version of Monte comes online, use it here.
+# The improved version should factor in signals.
+# Nov 2022:
+# Monte prefers playing low spade and saving AS.
+# Interesting!
