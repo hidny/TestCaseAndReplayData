@@ -32,4 +32,7 @@ TS 6S 3S 2S JH 7H 6H KC QC 9C 3C KD 8D
 Expert response:
 2S
 Expert alternative response:
-3S
+3S 6S
+
+#Nov 2022:
+# Monte now says low spade by 12 points

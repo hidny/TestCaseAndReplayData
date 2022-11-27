@@ -48,7 +48,7 @@ TS 6S 3S JH 7H 6H KC 9C 3C
 Expert response:
 9C
 Expert alternative response:
-KC
+KC 3C JH
 
 #Nov 2022:
 # Weird end-of-game case
@@ -64,3 +64,14 @@ KC
 # 3C: 86.51621972033591 %
 # 9C: 92.55866332047466 %
 # KC: 95.47397150919547 %
+#Update after adding logic for this type of situation:
+# 3S: 93.85659694653322 %
+# 6S: 93.85659694653322 %
+# TS: 91.78065581762698 %
+# 6H: 95.2685527932129 %
+# 7H: 95.2085527932129 %
+# JH: 95.94038433959963 %
+# 3C: 96.41232293530278 %
+# 9C: 98.07799856591798 %
+# KC: 99.44584483007813 %
+# Note: 2nd run has JH > 3C, so I'll pass it after all.

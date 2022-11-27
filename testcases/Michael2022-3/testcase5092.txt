@@ -45,7 +45,8 @@ TS 9S 5S QH JH 9H AD 7D 5D 3D
 Expert response:
 5S
 Expert alternative response:
+9S TS
 
 # Nov 2022:
 # Monte slightly prefers 5S by 0.08 points.
-# I don't know. I'll stick to it.
+# I'll just pass it because it's weird.

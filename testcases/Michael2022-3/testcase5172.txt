@@ -51,6 +51,10 @@ TS 6S 3S JH 7H 6H KC 3C
 # Doris: 0/8
 
 Expert response:
-3S
+KC
 Expert alternative response:
 3C
+
+#Nov 2022:
+#Dare mellow to take the trick
+#Monte now prefers club over other suits.
