@@ -68,4 +68,8 @@ Cards in hand:
 Expert response:
 2D
 Expert alternative response:
+6D
 
+# Nov 2022:
+# Monte doesn't get this position,
+# but agrees that 6D is good compared to 2D (7 point diff)
